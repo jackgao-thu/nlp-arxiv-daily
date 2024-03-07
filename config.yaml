@@ -23,20 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM": 
-        filters: ["LLM", "Large Langauge models"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+        filters: ["LLM", "Large Langauge models", "Models for Natural Language"]
+    "Attention":
+        filters: ["Word Tokenization", "Attention Model", "Attention Mechanisms", "Attention Weight", "LoRA", "Low-rank", "Memory", "Multi-head", "Transformer", "Multimodel", "Reflection", "Distill", "Augment", "Knowledge"]
+    "Deep Learning":
+        filters: ["Deep Learning","Entity Recognition", "Transfer Learning", "Pre-trained", "Pretraining", "Weakly-supervised Learning", "Neural Reading Comprehension"]
+    "Extraction":
+        filters: ["Tagging", "Information Extraction", "Knowledge Graphs", "Entity Recognition", "Local Feature Matching", "Text Classification"]
+    "In-context Learning":
+        filters: ["In-context Learning", "CoT", "Zero-shot", "Few-shot"]
 
 # keywords:
 #     "SLAM": 
