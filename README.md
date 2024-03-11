@@ -37,6 +37,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314](http://arxiv.org/abs/2403.05314)|null|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160](http://arxiv.org/abs/2403.05160)|null|
+|**2024-03-08**|**Multimodal Infusion Tuning for Large Models**|Hao Sun et.al.|[2403.05060](http://arxiv.org/abs/2403.05060)|null|
+|**2024-03-08**|**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering**|Yibin Wang et.al.|[2403.05053](http://arxiv.org/abs/2403.05053)|**[link](https://github.com/codegoat24/primecomposer)**|
+|**2024-03-08**|**Are Human Conversations Special? A Large Language Model Perspective**|Toshish Jawale et.al.|[2403.05045](http://arxiv.org/abs/2403.05045)|null|
+|**2024-03-07**|**Efficient High-Resolution Time Series Classification via Attention Kronecker Decomposition**|Aosong Feng et.al.|[2403.04882](http://arxiv.org/abs/2403.04882)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|**[link](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism)**|
 |**2024-03-07**|**Dynamic Cross Attention for Audio-Visual Person Verification**|R. Gnana Praveen et.al.|[2403.04661](http://arxiv.org/abs/2403.04661)|null|
@@ -64,6 +70,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT**|Aisha Khatun et.al.|[2403.05519](http://arxiv.org/abs/2403.05519)|null|
+|**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[2403.05489](http://arxiv.org/abs/2403.05489)|null|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
+|**2024-03-08**|**HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction**|Zhengrui Guo et.al.|[2403.05396](http://arxiv.org/abs/2403.05396)|**[link](https://github.com/dddavid4real/HistGen)**|
+|**2024-03-08**|**A Deep Learning Method for Classification of Biophilic Artworks**|Purna Kar et.al.|[2403.05394](http://arxiv.org/abs/2403.05394)|null|
+|**2024-03-08**|**A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images using a GAN**|Cristiana Tiago et.al.|[2403.05384](http://arxiv.org/abs/2403.05384)|null|
+|**2024-03-08**|**Self-Supervised Multiple Instance Learning for Acute Myeloid Leukemia Classification**|Salome Kazeminia et.al.|[2403.05379](http://arxiv.org/abs/2403.05379)|null|
+|**2024-03-08**|**Hybridized Convolutional Neural Networks and Long Short-Term Memory for Improved Alzheimer's Disease Diagnosis from MRI Scans**|Maleka Khatun et.al.|[2403.05353](http://arxiv.org/abs/2403.05353)|null|
+|**2024-03-08**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314](http://arxiv.org/abs/2403.05314)|null|
+|**2024-03-08**|**ContrastDiagnosis: Enhancing Interpretability in Lung Nodule Diagnosis Using Contrastive Learning**|Chenglong Wang et.al.|[2403.05280](http://arxiv.org/abs/2403.05280)|null|
 |**2024-03-07**|**JAX-SPH: A Differentiable Smoothed Particle Hydrodynamics Framework**|Artur P. Toshev et.al.|[2403.04750](http://arxiv.org/abs/2403.04750)|**[link](https://github.com/tumaer/jax-sph)**|
 |**2024-03-07**|**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**|Kaishen Yuan et.al.|[2403.04697](http://arxiv.org/abs/2403.04697)|**[link](https://github.com/yuankaishen2001/auformer)**|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
@@ -91,6 +107,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**The Impact of Quantization on the Robustness of Transformer-based Text Classifiers**|Seyed Parsa Neshaei et.al.|[2403.05365](http://arxiv.org/abs/2403.05365)|null|
+|**2024-03-08**|**ChatUIE: Exploring Chat-based Unified Information Extraction using Large Language Models**|Jun Xu et.al.|[2403.05132](http://arxiv.org/abs/2403.05132)|null|
+|**2024-03-08**|**From Chain to Tree: Refining Chain-like Rules into Tree-like Rules on Knowledge Graphs**|Wangtao Sun et.al.|[2403.05130](http://arxiv.org/abs/2403.05130)|null|
+|**2024-03-08**|**Correlation analysis technique of key parameters for transformer material inspection based on FP-tree and knowledge graph**|Jing Xu et.al.|[2403.05076](http://arxiv.org/abs/2403.05076)|null|
+|**2024-03-08**|**Defending Against Unforeseen Failure Modes with Latent Adversarial Training**|Stephen Casper et.al.|[2403.05030](http://arxiv.org/abs/2403.05030)|**[link](https://github.com/thestephencasper/latent_adversarial_training)**|
+|**2024-03-08**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
+|**2024-03-07**|**Secure Information Embedding and Extraction in Forensic 3D Fingerprinting**|Canran Wang et.al.|[2403.04918](http://arxiv.org/abs/2403.04918)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
