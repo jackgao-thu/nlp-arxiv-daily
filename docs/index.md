@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -31,9 +31,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978](http://arxiv.org/abs/2403.06978)|**[link](https://github.com/wgcban/apt)**|
 |**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961](http://arxiv.org/abs/2403.06961)|**[link](https://github.com/nubagcilab/r2r_proto)**|
-|**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
+|**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
 |**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904](http://arxiv.org/abs/2403.06904)|null|
-|**2024-03-11**|**MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation**|Wenhao Wu et.al.|[2403.06747](http://arxiv.org/abs/2403.06747)|null|
+|**2024-03-12**|**MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation**|Wenhao Wu et.al.|[2403.06747](http://arxiv.org/abs/2403.06747)|null|
 |**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687](http://arxiv.org/abs/2403.06687)|null|
 |**2024-03-10**|**FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification**|Omnia Alwazzan et.al.|[2403.06339](http://arxiv.org/abs/2403.06339)|**[link](https://github.com/omniaalwazzan/foaa)**|
