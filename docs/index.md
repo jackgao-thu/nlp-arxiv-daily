@@ -29,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
+|**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
+|**2024-03-13**|**OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework**|Wanyun Li et.al.|[2403.08682](http://arxiv.org/abs/2403.08682)|null|
+|**2024-03-13**|**Self-Supervised Learning for Covariance Estimation**|Tzvi Diskin et.al.|[2403.08662](http://arxiv.org/abs/2403.08662)|null|
+|**2024-03-13**|**ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos**|Lei Shi et.al.|[2403.08591](http://arxiv.org/abs/2403.08591)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511](http://arxiv.org/abs/2403.08511)|null|
+|**2024-03-13**|**Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks**|Zongqing Qi et.al.|[2403.08499](http://arxiv.org/abs/2403.08499)|null|
+|**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330](http://arxiv.org/abs/2403.08330)|null|
+|**2024-03-13**|**Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition**|Wenjing Zhu et.al.|[2403.08258](http://arxiv.org/abs/2403.08258)|null|
+|**2024-03-12**|**Mechanics of Next Token Prediction with Self-Attention**|Yingcong Li et.al.|[2403.08081](http://arxiv.org/abs/2403.08081)|null|
 |**2024-03-12**|**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**|Jiawen Li et.al.|[2403.07719](http://arxiv.org/abs/2403.07719)|**[link](https://github.com/wonderlandxd/wikg)**|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390](http://arxiv.org/abs/2403.07390)|null|
 |**2024-03-12**|**Gabor-guided transformer for single image deraining**|Sijin He et.al.|[2403.07380](http://arxiv.org/abs/2403.07380)|null|
@@ -74,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
+|**2024-03-13**|**Dynamic computerized tomography using inexact models and motion estimation**|Gesa Sarnighausen et.al.|[2403.08714](http://arxiv.org/abs/2403.08714)|null|
+|**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695](http://arxiv.org/abs/2403.08695)|null|
+|**2024-03-13**|**Self-Supervised Learning for Covariance Estimation**|Tzvi Diskin et.al.|[2403.08662](http://arxiv.org/abs/2403.08662)|null|
+|**2024-03-13**|**Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting**|Guy P Nason et.al.|[2403.08630](http://arxiv.org/abs/2403.08630)|null|
+|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
+|**2024-03-13**|**Patching-based Deep Learning model for the Inpainting of Bragg Coherent Diffraction patterns affected by detectors' gaps**|Matteo Masto et.al.|[2403.08596](http://arxiv.org/abs/2403.08596)|null|
+|**2024-03-13**|**A Physics-driven GraphSAGE Method for Physical Process Simulations Described by Partial Differential Equations**|Hang Hu et.al.|[2403.08569](http://arxiv.org/abs/2403.08569)|null|
+|**2024-03-13**|**Deep Learning based Positioning with Multi-task Learning and Uncertainty-based Fusion**|Anastasios Foliadis et.al.|[2403.08565](http://arxiv.org/abs/2403.08565)|null|
+|**2024-03-13**|**Distributed Deep Learning for Modulation Classification in 6G Cell-Free Wireless Networks**|Dieter Verbruggen et.al.|[2403.08563](http://arxiv.org/abs/2403.08563)|null|
 |**2024-03-12**|**When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis**|Sahar Moradizeyveh et.al.|[2403.07834](http://arxiv.org/abs/2403.07834)|null|
 |**2024-03-12**|**Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling**|Iman Islam et.al.|[2403.07818](http://arxiv.org/abs/2403.07818)|null|
 |**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815](http://arxiv.org/abs/2403.07815)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
@@ -129,6 +149,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments**|Sitao Cheng et.al.|[2403.08593](http://arxiv.org/abs/2403.08593)|null|
+|**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
+|**2024-03-13**|**NLQxform-UI: A Natural Language Interface for Querying DBLP Interactively**|Ruijie Wang et.al.|[2403.08475](http://arxiv.org/abs/2403.08475)|**[link](https://github.com/ruijie-wang-uzh/nlqxform-ui)**|
+|**2024-03-13**|**From human experts to machines: An LLM supported approach to ontology and knowledge graph construction**|Vamsi Krishna Kommineni et.al.|[2403.08345](http://arxiv.org/abs/2403.08345)|null|
+|**2024-03-13**|**Embedded Translations for Low-resource Automated Glossing**|Changbing Yang et.al.|[2403.08189](http://arxiv.org/abs/2403.08189)|null|
+|**2024-03-12**|**Harnessing Artificial Intelligence to Combat Online Hate: Exploring the Challenges and Opportunities of Large Language Models in Hate Speech Detection**|Tharindu Kumarage et.al.|[2403.08035](http://arxiv.org/abs/2403.08035)|null|
+|**2024-03-12**|**KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction**|Zixuan Li et.al.|[2403.07969](http://arxiv.org/abs/2403.07969)|null|
 |**2024-03-12**|**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**|Jiawen Li et.al.|[2403.07719](http://arxiv.org/abs/2403.07719)|**[link](https://github.com/wonderlandxd/wikg)**|
 |**2024-03-12**|**The future of document indexing: GPT and Donut revolutionize table of content processing**|Degaga Wolde Feyisa et.al.|[2403.07553](http://arxiv.org/abs/2403.07553)|null|
 |**2024-03-12**|**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**|Tianqing Fang et.al.|[2403.07398](http://arxiv.org/abs/2403.07398)|null|
