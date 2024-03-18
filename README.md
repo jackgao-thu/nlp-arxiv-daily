@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|null|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 ## Attention
 
@@ -43,7 +43,7 @@
 |**2024-03-14**|**MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer**|Wenyong Han et.al.|[2403.09223](http://arxiv.org/abs/2403.09223)|null|
 |**2024-03-14**|**SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration**|Yanfei Songa et.al.|[2403.09195](http://arxiv.org/abs/2403.09195)|null|
 |**2024-03-14**|**SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph**|Zhuohang Jiang et.al.|[2403.09172](http://arxiv.org/abs/2403.09172)|null|
-|**2024-03-14**|**CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification**|Hyunkyung Han et.al.|[2403.09108](http://arxiv.org/abs/2403.09108)|**[link](https://github.com/jihyeonseong/cardiocaps)**|
+|**2024-03-15**|**CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification**|Hyunkyung Han et.al.|[2403.09108](http://arxiv.org/abs/2403.09108)|**[link](https://github.com/jihyeonseong/cardiocaps)**|
 |**2024-03-14**|**Desigen: A Pipeline for Controllable Design Template Generation**|Haohan Weng et.al.|[2403.09093](http://arxiv.org/abs/2403.09093)|null|
 |**2024-03-14**|**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference**|Muhammad Adnan et.al.|[2403.09054](http://arxiv.org/abs/2403.09054)|null|
 |**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039](http://arxiv.org/abs/2403.09039)|null|
@@ -98,7 +98,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -175,7 +175,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 ## Extraction
 
@@ -236,7 +236,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

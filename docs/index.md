@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -35,7 +35,7 @@ layout: default
 |**2024-03-14**|**MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer**|Wenyong Han et.al.|[2403.09223](http://arxiv.org/abs/2403.09223)|null|
 |**2024-03-14**|**SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration**|Yanfei Songa et.al.|[2403.09195](http://arxiv.org/abs/2403.09195)|null|
 |**2024-03-14**|**SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph**|Zhuohang Jiang et.al.|[2403.09172](http://arxiv.org/abs/2403.09172)|null|
-|**2024-03-14**|**CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification**|Hyunkyung Han et.al.|[2403.09108](http://arxiv.org/abs/2403.09108)|**[link](https://github.com/jihyeonseong/cardiocaps)**|
+|**2024-03-15**|**CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification**|Hyunkyung Han et.al.|[2403.09108](http://arxiv.org/abs/2403.09108)|**[link](https://github.com/jihyeonseong/cardiocaps)**|
 |**2024-03-14**|**Desigen: A Pipeline for Controllable Design Template Generation**|Haohan Weng et.al.|[2403.09093](http://arxiv.org/abs/2403.09093)|null|
 |**2024-03-14**|**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference**|Muhammad Adnan et.al.|[2403.09054](http://arxiv.org/abs/2403.09054)|null|
 |**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039](http://arxiv.org/abs/2403.09039)|null|
