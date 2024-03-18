@@ -55,7 +55,7 @@ layout: default
 |**2024-03-12**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al.|[2403.07246](http://arxiv.org/abs/2403.07246)|null|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978](http://arxiv.org/abs/2403.06978)|**[link](https://github.com/wgcban/apt)**|
 |**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961](http://arxiv.org/abs/2403.06961)|**[link](https://github.com/nubagcilab/r2r_proto)**|
-|**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
+|**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|**[link](https://github.com/bigheiniu/mend)**|
 |**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904](http://arxiv.org/abs/2403.06904)|null|
 |**2024-03-13**|**MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation**|Wenhao Wu et.al.|[2403.06747](http://arxiv.org/abs/2403.06747)|null|
 |**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
@@ -147,7 +147,7 @@ layout: default
 |**2024-03-07**|**JAX-SPH: A Differentiable Smoothed Particle Hydrodynamics Framework**|Artur P. Toshev et.al.|[2403.04750](http://arxiv.org/abs/2403.04750)|**[link](https://github.com/tumaer/jax-sph)**|
 |**2024-03-07**|**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**|Kaishen Yuan et.al.|[2403.04697](http://arxiv.org/abs/2403.04697)|**[link](https://github.com/yuankaishen2001/auformer)**|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
-|**2024-03-07**|**Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition**|Aneta Koleva et.al.|[2403.04577](http://arxiv.org/abs/2403.04577)|null|
+|**2024-03-07**|**Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition**|Aneta Koleva et.al.|[2403.04577](http://arxiv.org/abs/2403.04577)|**[link](https://github.com/table-interpretation/wiki_table_ner)**|
 |**2024-03-07**|**Machine learning and information theory concepts towards an AI Mathematician**|Yoshua Bengio et.al.|[2403.04571](http://arxiv.org/abs/2403.04571)|null|
 |**2024-03-07**|**Reducing self-supervised learning complexity improves weakly-supervised classification performance in computational pathology**|Tim Lenz et.al.|[2403.04558](http://arxiv.org/abs/2403.04558)|null|
 |**2024-03-07**|**Improvements & Evaluations on the MLCommons CloudMask Benchmark**|Varshitha Chennamsetti et.al.|[2403.04553](http://arxiv.org/abs/2403.04553)|null|
@@ -193,7 +193,7 @@ layout: default
 |**2024-03-11**|**Evolving Knowledge Distillation with Large Language Models and Active Learning**|Chengyuan Liu et.al.|[2403.06414](http://arxiv.org/abs/2403.06414)|null|
 |**2024-03-11**|**'One size doesn't fit all': Learning how many Examples to use for In-Context Learning for Improved Text Classification**|Manish Chandra et.al.|[2403.06402](http://arxiv.org/abs/2403.06402)|null|
 |**2024-03-10**|**LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition**|Xiaomeng Zhu et.al.|[2403.06301](http://arxiv.org/abs/2403.06301)|null|
-|**2024-03-10**|**Can LLM Substitute Human Labeling? A Case Study of Fine-grained Chinese Address Entity Recognition Dataset for UAV Delivery**|Yuxuan Yao et.al.|[2403.06097](http://arxiv.org/abs/2403.06097)|null|
+|**2024-03-10**|**Can LLM Substitute Human Labeling? A Case Study of Fine-grained Chinese Address Entity Recognition Dataset for UAV Delivery**|Yuxuan Yao et.al.|[2403.06097](http://arxiv.org/abs/2403.06097)|**[link](https://github.com/zhhvvv/cner-uav)**|
 |**2024-03-09**|**Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages**|Christopher Toukmaji et.al.|[2403.06018](http://arxiv.org/abs/2403.06018)|null|
 |**2024-03-09**|**KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques**|Rui Yang et.al.|[2403.05881](http://arxiv.org/abs/2403.05881)|null|
 |**2024-03-08**|**The Impact of Quantization on the Robustness of Transformer-based Text Classifiers**|Seyed Parsa Neshaei et.al.|[2403.05365](http://arxiv.org/abs/2403.05365)|null|
@@ -206,7 +206,7 @@ layout: default
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
-|**2024-03-07**|**Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition**|Aneta Koleva et.al.|[2403.04577](http://arxiv.org/abs/2403.04577)|null|
+|**2024-03-07**|**Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition**|Aneta Koleva et.al.|[2403.04577](http://arxiv.org/abs/2403.04577)|**[link](https://github.com/table-interpretation/wiki_table_ner)**|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
 |**2024-03-07**|**Sentiment-driven prediction of financial returns: a Bayesian-enhanced FinBERT approach**|Raffaele Giuseppe Cestari et.al.|[2403.04427](http://arxiv.org/abs/2403.04427)|null|
 |**2024-03-07**|**From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction**|Ang Li et.al.|[2403.04369](http://arxiv.org/abs/2403.04369)|**[link](https://github.com/liang-star177/fwgb)**|
