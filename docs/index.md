@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**SuperLoRA: Parameter-Efficient Unified Adaptation of Multi-Layer Attention Modules**|Xiangyu Chen et.al.|[2403.11887](http://arxiv.org/abs/2403.11887)|null|
 |**2024-03-17**|**Evaluation Ethics of LLMs in Legal Domain**|Ruizhe Zhang et.al.|[2403.11152](http://arxiv.org/abs/2403.11152)|null|
 |**2024-02-22**|**Using Large Language Models for Natural Language Processing Tasks in Requirements Engineering: A Systematic Guideline**|Andreas Vogelsang et.al.|[2402.13823](http://arxiv.org/abs/2402.13823)|null|
 |**2024-02-19**|**UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction**|Yuan Yuan et.al.|[2402.11838](http://arxiv.org/abs/2402.11838)|null|
@@ -31,6 +32,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**|Vidhi Jain et.al.|[2403.12943](http://arxiv.org/abs/2403.12943)|null|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
+|**2024-03-19**|**TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer**|Eunjee Choi et.al.|[2403.12481](http://arxiv.org/abs/2403.12481)|null|
+|**2024-03-19**|**Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation**|Zhangjie Peng et.al.|[2403.12453](http://arxiv.org/abs/2403.12453)|null|
+|**2024-03-18**|**Fusion Transformer with Object Mask Guidance for Image Forgery Analysis**|Dimitrios Karageorgiou et.al.|[2403.12229](http://arxiv.org/abs/2403.12229)|null|
+|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
+|**2024-03-18**|**TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**|Hui Lu et.al.|[2403.11818](http://arxiv.org/abs/2403.11818)|null|
 |**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
 |**2024-03-18**|**Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection**|Liren He et.al.|[2403.11561](http://arxiv.org/abs/2403.11561)|null|
 |**2024-03-18**|**Covid-19 detection from CT scans using EfficientNet and Attention mechanism**|Ramy Farag et.al.|[2403.11505](http://arxiv.org/abs/2403.11505)|null|
@@ -111,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Wildfire danger prediction optimization with transfer learning**|Spiros Maggioros et.al.|[2403.12871](http://arxiv.org/abs/2403.12871)|null|
+|**2024-03-19**|**A Comparison of Deep Learning Architectures for Spacecraft Anomaly Detection**|Daniel Lakey et.al.|[2403.12864](http://arxiv.org/abs/2403.12864)|null|
+|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820](http://arxiv.org/abs/2403.12820)|**[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)**|
+|**2024-03-19**|**Re-identification from histopathology images**|Jonathan Ganz et.al.|[2403.12816](http://arxiv.org/abs/2403.12816)|null|
+|**2024-03-19**|**Knowledge and Data Dual-Driven Channel Estimation and Feedback for Ultra-Massive MIMO Systems under Hybrid Field Beam Squint Effect**|Kuiyu Wang et.al.|[2403.12813](http://arxiv.org/abs/2403.12813)|null|
+|**2024-03-19**|**Brain volume is a better biomarker of outcomes in ischemic stroke compared to brain atrophy**|Kenda Alhadid et.al.|[2403.12788](http://arxiv.org/abs/2403.12788)|null|
+|**2024-03-19**|**Is open source software culture enough to make AI a common ?**|Robin Quillivic et.al.|[2403.12774](http://arxiv.org/abs/2403.12774)|null|
+|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749](http://arxiv.org/abs/2403.12749)|null|
+|**2024-03-19**|**Building Brain Tumor Segmentation Networks with User-Assisted Filter Estimation and Selection**|Matheus A. Cerqueira et.al.|[2403.12748](http://arxiv.org/abs/2403.12748)|null|
+|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
 |**2024-03-18**|**MedMerge: Merging Models for Effective Transfer Learning to Medical Imaging Tasks**|Ibrahim Almakky et.al.|[2403.11646](http://arxiv.org/abs/2403.11646)|null|
 |**2024-03-18**|**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**|Chih-Chung Hsu et.al.|[2403.11576](http://arxiv.org/abs/2403.11576)|null|
 |**2024-03-18**|**Augment Before Copy-Paste: Data and Memory Efficiency-Oriented Instance Segmentation Framework for Sport-scenes**|Chih-Chung Hsu et.al.|[2403.11572](http://arxiv.org/abs/2403.11572)|null|
@@ -206,6 +225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
+|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799](http://arxiv.org/abs/2403.12799)|**[link](https://github.com/mirzaalimm/truncationvssummarization)**|
+|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749](http://arxiv.org/abs/2403.12749)|null|
+|**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
+|**2024-03-19**|**Prompt-fused framework for Inductive Logical Query Answering**|Zezhong Xu et.al.|[2403.12646](http://arxiv.org/abs/2403.12646)|null|
+|**2024-03-19**|**Simple Hack for Transformers against Heavy Long-Text Classification on a Time- and Memory-Limited GPU Service**|Mirza Alim Mutasodirin et.al.|[2403.12563](http://arxiv.org/abs/2403.12563)|null|
+|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
+|**2024-03-19**|**CrossTune: Black-Box Few-Shot Classification with Label Enhancement**|Danqing Luo et.al.|[2403.12468](http://arxiv.org/abs/2403.12468)|null|
+|**2024-03-19**|**Pipelined Biomedical Event Extraction Rivaling Joint Learning**|Pengchao Wu et.al.|[2403.12386](http://arxiv.org/abs/2403.12386)|null|
+|**2024-03-19**|**Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning**|Cheng Peng et.al.|[2403.12374](http://arxiv.org/abs/2403.12374)|null|
 |**2024-03-18**|**Combining Local and Global Perception for Autonomous Navigation on Nano-UAVs**|Lorenzo Lamberti et.al.|[2403.11661](http://arxiv.org/abs/2403.11661)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
 |**2024-03-17**|**Maximizing information obtainable by quantum sensors through the Quantum Zeno Effect**|Bruno Ronchi et.al.|[2403.11339](http://arxiv.org/abs/2403.11339)|null|
