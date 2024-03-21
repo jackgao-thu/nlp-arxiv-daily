@@ -40,6 +40,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition**|R. Gnana Praveen et.al.|[2403.13659](http://arxiv.org/abs/2403.13659)|null|
+|**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
+|**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524](http://arxiv.org/abs/2403.13524)|null|
+|**2024-03-20**|**Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data**|Fucai Ke et.al.|[2403.13246](http://arxiv.org/abs/2403.13246)|null|
+|**2024-03-19**|**Improved EATFormer: A Vision Transformer for Medical Image Classification**|Yulong Shisu et.al.|[2403.13167](http://arxiv.org/abs/2403.13167)|null|
+|**2024-03-19**|**Emotic Masked Autoencoder with Attention Fusion for Facial Expression Recognition**|Bach Nguyen-Xuan et.al.|[2403.13039](http://arxiv.org/abs/2403.13039)|null|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**|Vidhi Jain et.al.|[2403.12943](http://arxiv.org/abs/2403.12943)|null|
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
@@ -130,6 +136,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Describe-and-Dissect: Interpreting Neurons in Vision Networks with Language Models**|Nicholas Bai et.al.|[2403.13771](http://arxiv.org/abs/2403.13771)|null|
+|**2024-03-20**|**Practical End-to-End Optical Music Recognition for Pianoform Music**|Jiří Mayer et.al.|[2403.13763](http://arxiv.org/abs/2403.13763)|**[link](https://github.com/ufal/olimpic-icdar24)**|
+|**2024-03-20**|**Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning**|Raffaele Paolino et.al.|[2403.13749](http://arxiv.org/abs/2403.13749)|null|
+|**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|null|
+|**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
+|**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|null|
+|**2024-03-20**|**Deep Learning and IACT: Bridging the gap between Monte-Carlo simulations and LST-1 data using domain adaptation**|Michael Dellaiera et.al.|[2403.13633](http://arxiv.org/abs/2403.13633)|null|
+|**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
+|**2024-03-20**|**Bayesian Physics-informed Neural Networks for System Identification of Inverter-dominated Power Systems**|Simon Stock et.al.|[2403.13602](http://arxiv.org/abs/2403.13602)|null|
 |**2024-03-19**|**Wildfire danger prediction optimization with transfer learning**|Spiros Maggioros et.al.|[2403.12871](http://arxiv.org/abs/2403.12871)|**[link](https://github.com/spirosmaggioros/ForestFires)**|
 |**2024-03-19**|**A Comparison of Deep Learning Architectures for Spacecraft Anomaly Detection**|Daniel Lakey et.al.|[2403.12864](http://arxiv.org/abs/2403.12864)|null|
 |**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820](http://arxiv.org/abs/2403.12820)|**[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)**|
@@ -237,9 +253,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395](http://arxiv.org/abs/2403.13395)|null|
+|**2024-03-20**|**Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting**|Phillip Richter-Pechanski et.al.|[2403.13369](http://arxiv.org/abs/2403.13369)|null|
+|**2024-03-20**|**Document Author Classification Using Parsed Language Structure**|Todd K Moon et.al.|[2403.13253](http://arxiv.org/abs/2403.13253)|null|
 |**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
 |**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799](http://arxiv.org/abs/2403.12799)|**[link](https://github.com/mirzaalimm/truncationvssummarization)**|
-|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749](http://arxiv.org/abs/2403.12749)|null|
+|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749](http://arxiv.org/abs/2403.12749)|**[link](https://github.com/mainlp/barner)**|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649](http://arxiv.org/abs/2403.12649)|null|
 |**2024-03-19**|**Prompt-fused framework for Inductive Logical Query Answering**|Zezhong Xu et.al.|[2403.12646](http://arxiv.org/abs/2403.12646)|null|
 |**2024-03-19**|**Simple Hack for Transformers against Heavy Long-Text Classification on a Time- and Memory-Limited GPU Service**|Mirza Alim Mutasodirin et.al.|[2403.12563](http://arxiv.org/abs/2403.12563)|null|
