@@ -32,6 +32,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer**|Junyi Wu et.al.|[2403.14552](http://arxiv.org/abs/2403.14552)|null|
+|**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
+|**2024-03-21**|**HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges**|Mehul Arora et.al.|[2403.14484](http://arxiv.org/abs/2403.14484)|**[link](https://github.com/mehular0ra/hypergale)**|
+|**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|null|
+|**2024-03-21**|**CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers**|Alex Ranne et.al.|[2403.14465](http://arxiv.org/abs/2403.14465)|null|
+|**2024-03-21**|**gTBLS: Generating Tables from Text by Conditional Question Answering**|Anirudh Sundar et.al.|[2403.14457](http://arxiv.org/abs/2403.14457)|null|
+|**2024-03-21**|**RoDLA: Benchmarking the Robustness of Document Layout Analysis Models**|Yufan Chen et.al.|[2403.14442](http://arxiv.org/abs/2403.14442)|null|
+|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302](http://arxiv.org/abs/2403.14302)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
+|**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270](http://arxiv.org/abs/2403.14270)|null|
 |**2024-03-20**|**Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition**|R. Gnana Praveen et.al.|[2403.13659](http://arxiv.org/abs/2403.13659)|null|
 |**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
 |**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524](http://arxiv.org/abs/2403.13524)|null|
@@ -126,6 +136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**A Transfer Learning Causal Approach to Evaluate Racial/Ethnic and Geographic Variation in Outcomes Following Congenital Heart Surgery**|Larry Han et.al.|[2403.14573](http://arxiv.org/abs/2403.14573)|null|
+|**2024-03-21**|**Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images**|Tom Burgert et.al.|[2403.14547](http://arxiv.org/abs/2403.14547)|null|
+|**2024-03-21**|**Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets**|Ahmet Alp Kindiroglu et.al.|[2403.14534](http://arxiv.org/abs/2403.14534)|**[link](https://github.com/alpk/tid-supervised-transfer-learning-dataset)**|
+|**2024-03-21**|**Universal Differential Equations as a Common Modeling Language for Neuroscience**|Ahmed ElGazzar et.al.|[2403.14510](http://arxiv.org/abs/2403.14510)|null|
+|**2024-03-21**|**Adversary-Robust Graph-Based Learning of WSIs**|Saba Heidari Gheshlaghi et.al.|[2403.14489](http://arxiv.org/abs/2403.14489)|null|
+|**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|null|
+|**2024-03-21**|**CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers**|Alex Ranne et.al.|[2403.14465](http://arxiv.org/abs/2403.14465)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
+|**2024-03-21**|**Application of deep learning and inline holography to estimate the droplet size distribution**|Someshwar Sanjay Ade et.al.|[2403.14391](http://arxiv.org/abs/2403.14391)|null|
+|**2024-03-21**|**DomainLab: A modular Python package for domain generalization in deep learning**|Xudong Sun et.al.|[2403.14356](http://arxiv.org/abs/2403.14356)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-20**|**Describe-and-Dissect: Interpreting Neurons in Vision Networks with Language Models**|Nicholas Bai et.al.|[2403.13771](http://arxiv.org/abs/2403.13771)|null|
 |**2024-03-20**|**Practical End-to-End Optical Music Recognition for Pianoform Music**|Jiří Mayer et.al.|[2403.13763](http://arxiv.org/abs/2403.13763)|**[link](https://github.com/ufal/olimpic-icdar24)**|
 |**2024-03-20**|**Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning**|Raffaele Paolino et.al.|[2403.13749](http://arxiv.org/abs/2403.13749)|null|
@@ -241,6 +261,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459](http://arxiv.org/abs/2403.14459)|null|
+|**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
+|**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287](http://arxiv.org/abs/2403.14287)|**[link](https://github.com/linty5/ccbir)**|
+|**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253](http://arxiv.org/abs/2403.14253)|null|
+|**2024-03-21**|**LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding**|Masato Fujitake et.al.|[2403.14252](http://arxiv.org/abs/2403.14252)|null|
+|**2024-03-21**|**Large-Scale Label Interpretation Learning for Few-Shot Named Entity Recognition**|Jonas Golde et.al.|[2403.14222](http://arxiv.org/abs/2403.14222)|null|
+|**2024-03-20**|**Leveraging Linguistically Enhanced Embeddings for Open Information Extraction**|Fauzan Farooqui et.al.|[2403.13903](http://arxiv.org/abs/2403.13903)|null|
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395](http://arxiv.org/abs/2403.13395)|null|
 |**2024-03-20**|**Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting**|Phillip Richter-Pechanski et.al.|[2403.13369](http://arxiv.org/abs/2403.13369)|null|
 |**2024-03-20**|**Document Author Classification Using Parsed Language Structure**|Todd K Moon et.al.|[2403.13253](http://arxiv.org/abs/2403.13253)|null|
