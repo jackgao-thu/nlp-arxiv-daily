@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -33,7 +33,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-25**|**QKFormer: Hierarchical Spiking Transformer using Q-K Attention**|Chenlin Zhou et.al.|[2403.16552](http://arxiv.org/abs/2403.16552)|**[link](https://github.com/zhouchenlin2096/qkformer)**|
-|**2024-03-25**|**VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting**|Yujin Tang et.al.|[2403.16536](http://arxiv.org/abs/2403.16536)|**[link](https://github.com/yyyujintang/vmrnn-pytorch)**|
+|**2024-03-26**|**VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting**|Yujin Tang et.al.|[2403.16536](http://arxiv.org/abs/2403.16536)|**[link](https://github.com/yyyujintang/vmrnn-pytorch)**|
 |**2024-03-25**|**RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**|Zhiwei Lin et.al.|[2403.16440](http://arxiv.org/abs/2403.16440)|**[link](https://github.com/vdigpku/rcbevdet)**|
 |**2024-03-25**|**3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation**|Dongwei Gan et.al.|[2403.16350](http://arxiv.org/abs/2403.16350)|**[link](https://github.com/hidneuron/3d-effivitcaps)**|
 |**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263](http://arxiv.org/abs/2403.16263)|null|
