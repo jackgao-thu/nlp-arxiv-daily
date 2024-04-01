@@ -32,6 +32,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Sparse multimodal fusion with modal channel attention**|Josiah Bjorgaard et.al.|[2403.20280](http://arxiv.org/abs/2403.20280)|null|
+|**2024-03-29**|**MCNet: A crowd denstity estimation network based on integrating multiscale attention module**|Qiang Guo et.al.|[2403.20173](http://arxiv.org/abs/2403.20173)|null|
+|**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
+|**2024-03-29**|**FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues**|Shuang Li et.al.|[2403.20026](http://arxiv.org/abs/2403.20026)|null|
+|**2024-03-29**|**SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs**|Hao Wu et.al.|[2403.19936](http://arxiv.org/abs/2403.19936)|null|
+|**2024-03-29**|**DiJiang: Efficient Large Language Models through Compact Kernelization**|Hanting Chen et.al.|[2403.19928](http://arxiv.org/abs/2403.19928)|null|
+|**2024-03-29**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
+|**2024-03-28**|**Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights**|Moein Heidari et.al.|[2403.19882](http://arxiv.org/abs/2403.19882)|null|
+|**2024-03-28**|**AlloyBERT: Alloy Property Prediction with Large Language Models**|Akshat Chaudhari et.al.|[2403.19783](http://arxiv.org/abs/2403.19783)|null|
+|**2024-03-28**|**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models**|Tuna Han Salih Meral et.al.|[2403.19776](http://arxiv.org/abs/2403.19776)|null|
 |**2024-03-28**|**Self-Improved Learning for Scalable Neural Combinatorial Optimization**|Fu Luo et.al.|[2403.19561](http://arxiv.org/abs/2403.19561)|null|
 |**2024-03-28**|**Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition**|R. Gnana Praveen et.al.|[2403.19554](http://arxiv.org/abs/2403.19554)|null|
 |**2024-03-28**|**Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance**|Yulin Pan et.al.|[2403.19534](http://arxiv.org/abs/2403.19534)|null|
@@ -176,6 +186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
+|**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320](http://arxiv.org/abs/2403.20320)|**[link](https://github.com/scale-lab/mtlora)**|
+|**2024-03-29**|**CATSNet: a context-aware network for Height Estimation in a Forested Area based on Pol-TomoSAR data**|Wenyu Yang et.al.|[2403.20273](http://arxiv.org/abs/2403.20273)|null|
+|**2024-03-29**|**FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation**|Kaiyuan Gao et.al.|[2403.20261](http://arxiv.org/abs/2403.20261)|**[link](https://github.com/qizhipei/fabind)**|
+|**2024-03-29**|**Prototype-based Interpretable Breast Cancer Prediction Models: Analysis and Challenges**|Shreyasi Pathak et.al.|[2403.20260](http://arxiv.org/abs/2403.20260)|null|
+|**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253](http://arxiv.org/abs/2403.20253)|null|
+|**2024-03-29**|**Shallow Cross-Encoders for Low-Latency Retrieval**|Aleksandr V. Petrov et.al.|[2403.20222](http://arxiv.org/abs/2403.20222)|**[link](https://github.com/asash/shallow-cross-encoders)**|
+|**2024-03-29**|**Minimizing End-to-End Latency for Joint Source-Channel Coding Systems**|Kaiyi Chi et.al.|[2403.20198](http://arxiv.org/abs/2403.20198)|null|
+|**2024-03-29**|**HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**|Shuangjian Li et.al.|[2403.20183](http://arxiv.org/abs/2403.20183)|null|
+|**2024-03-29**|**TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**|Xiangfei Qiu et.al.|[2403.20150](http://arxiv.org/abs/2403.20150)|**[link](https://github.com/decisionintelligence/tfb)**|
 |**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570](http://arxiv.org/abs/2403.19570)|null|
 |**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|**[link](https://github.com/faildeny/debiasing-cardiac-mri)**|
 |**2024-03-28**|**Deep decomposition method for the limited aperture inverse obstacle scattering problem**|Yunwen Yin et.al.|[2403.19470](http://arxiv.org/abs/2403.19470)|null|
@@ -356,6 +376,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**RealKIE: Five Novel Datasets for Enterprise Key Information Extraction**|Benjamin Townsend et.al.|[2403.20101](http://arxiv.org/abs/2403.20101)|null|
+|**2024-03-29**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095](http://arxiv.org/abs/2403.20095)|**[link](https://github.com/sisinflab/kguf)**|
+|**2024-03-29**|**Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets**|Shadi Manafi et.al.|[2403.20056](http://arxiv.org/abs/2403.20056)|**[link](https://github.com/csu-signal/xlingual-robustness)**|
+|**2024-03-29**|**Adverb Is the Key: Simple Text Data Augmentation with Adverb Deletion**|Juhwan Choi et.al.|[2403.20015](http://arxiv.org/abs/2403.20015)|null|
+|**2024-03-28**|**IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion**|Jiapu Wang et.al.|[2403.19881](http://arxiv.org/abs/2403.19881)|null|
+|**2024-03-28**|**Towards a Brazilian History Knowledge Graph**|Valeria de Paiva et.al.|[2403.19856](http://arxiv.org/abs/2403.19856)|null|
+|**2024-03-28**|**A Benchmark Evaluation of Clinical Named Entity Recognition in French**|Nesrine Bannour et.al.|[2403.19726](http://arxiv.org/abs/2403.19726)|null|
 |**2024-03-28**|**RootInteractive tool for multidimensional statistical analysis, machine learning and analytical model validation**|Marian Invanov et.al.|[2403.19330](http://arxiv.org/abs/2403.19330)|null|
 |**2024-03-28**|**OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition**|Jianqiang Wan et.al.|[2403.19128](http://arxiv.org/abs/2403.19128)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
 |**2024-03-27**|**Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data**|Yuting Guo et.al.|[2403.19031](http://arxiv.org/abs/2403.19031)|null|
