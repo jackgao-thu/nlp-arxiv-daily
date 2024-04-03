@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458](http://arxiv.org/abs/2404.00458)|null|
 |**2024-03-18**|**SuperLoRA: Parameter-Efficient Unified Adaptation of Multi-Layer Attention Modules**|Xiangyu Chen et.al.|[2403.11887](http://arxiv.org/abs/2403.11887)|null|
 |**2024-03-17**|**Evaluation Ethics of LLMs in Legal Domain**|Ruizhe Zhang et.al.|[2403.11152](http://arxiv.org/abs/2403.11152)|null|
 |**2024-02-22**|**Using Large Language Models for Natural Language Processing Tasks in Requirements Engineering: A Systematic Guideline**|Andreas Vogelsang et.al.|[2402.13823](http://arxiv.org/abs/2402.13823)|null|
@@ -40,6 +41,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|null|
+|**2024-04-02**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al.|[2404.01929](http://arxiv.org/abs/2404.01929)|null|
+|**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
+|**2024-04-01**|**Positioning is All You Need**|Xin Li et.al.|[2404.01183](http://arxiv.org/abs/2404.01183)|null|
+|**2024-04-01**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al.|[2404.01156](http://arxiv.org/abs/2404.01156)|null|
+|**2024-04-01**|**Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation**|Yulin Chen et.al.|[2404.01127](http://arxiv.org/abs/2404.01127)|null|
+|**2024-04-01**|**CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening**|Wen-Jie Shu et.al.|[2404.01121](http://arxiv.org/abs/2404.01121)|null|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089](http://arxiv.org/abs/2404.01089)|null|
+|**2024-04-01**|**Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC**|Spandan Mondal et.al.|[2404.01071](http://arxiv.org/abs/2404.01071)|null|
+|**2024-04-01**|**Cross-channel Recommendation for Multi-channel Retail**|Yijin Choi et.al.|[2404.00972](http://arxiv.org/abs/2404.00972)|null|
 |**2024-03-29**|**Sparse multimodal fusion with modal channel attention**|Josiah Bjorgaard et.al.|[2403.20280](http://arxiv.org/abs/2403.20280)|null|
 |**2024-03-29**|**MCNet: A crowd denstity estimation network based on integrating multiscale attention module**|Qiang Guo et.al.|[2403.20173](http://arxiv.org/abs/2403.20173)|null|
 |**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
@@ -196,6 +207,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**|Ryan Donghan Kwon et.al.|[2404.02135](http://arxiv.org/abs/2404.02135)|null|
+|**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|null|
+|**2024-04-02**|**Deep Learning for AGILE Anticoincidence System's Background Prediction from Orbital and Attitude Parameters**|N. Parmiggiani et.al.|[2404.02107](http://arxiv.org/abs/2404.02107)|null|
+|**2024-04-02**|**BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights**|Enmin Zhu et.al.|[2404.02053](http://arxiv.org/abs/2404.02053)|null|
+|**2024-04-02**|**Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks**|Leona Hennig et.al.|[2404.01965](http://arxiv.org/abs/2404.01965)|null|
+|**2024-04-02**|**Automatic Wood Pith Detector: Local Orientation Estimation and Robust Accumulation**|Henry Marichal et.al.|[2404.01952](http://arxiv.org/abs/2404.01952)|null|
+|**2024-04-02**|**Synthetic Data for Robust Stroke Segmentation**|Liam Chalcroft et.al.|[2404.01946](http://arxiv.org/abs/2404.01946)|**[link](https://github.com/liamchalcroft/synthstroke)**|
+|**2024-04-02**|**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**|Hyunjong Ok et.al.|[2404.01914](http://arxiv.org/abs/2404.01914)|null|
+|**2024-04-02**|**Real, fake and synthetic faces - does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
+|**2024-04-02**|**Active Exploration in Bayesian Model-based Reinforcement Learning for Robot Manipulation**|Carlos Plou et.al.|[2404.01867](http://arxiv.org/abs/2404.01867)|null|
 |**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
 |**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320](http://arxiv.org/abs/2403.20320)|**[link](https://github.com/scale-lab/mtlora)**|
 |**2024-03-29**|**CATSNet: a context-aware network for Height Estimation in a Forested Area based on Pol-TomoSAR data**|Wenyu Yang et.al.|[2403.20273](http://arxiv.org/abs/2403.20273)|null|
@@ -388,6 +409,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126](http://arxiv.org/abs/2404.02126)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
+|**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081](http://arxiv.org/abs/2404.02081)|null|
+|**2024-04-02**|**Ukrainian Texts Classification: Exploration of Cross-lingual Knowledge Transfer Approaches**|Daryna Dementieva et.al.|[2404.02043](http://arxiv.org/abs/2404.02043)|null|
+|**2024-04-02**|**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**|Hyunjong Ok et.al.|[2404.01914](http://arxiv.org/abs/2404.01914)|null|
+|**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767](http://arxiv.org/abs/2404.01767)|null|
+|**2024-04-02**|**Self-Improvement Programming for Temporal Knowledge Graph Question Answering**|Zhuo Chen et.al.|[2404.01720](http://arxiv.org/abs/2404.01720)|null|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705](http://arxiv.org/abs/2404.01705)|null|
+|**2024-04-02**|**Selective Temporal Knowledge Graph Reasoning**|Zhongni Hou et.al.|[2404.01695](http://arxiv.org/abs/2404.01695)|null|
+|**2024-04-02**|**LR-FPN: Enhancing Remote Sensing Object Detection with Location Refined Feature Pyramid Network**|Hanqian Li et.al.|[2404.01614](http://arxiv.org/abs/2404.01614)|null|
+|**2024-04-01**|**OpenChemIE: An Information Extraction Toolkit For Chemistry Literature**|Vincent Fan et.al.|[2404.01462](http://arxiv.org/abs/2404.01462)|null|
 |**2024-03-29**|**RealKIE: Five Novel Datasets for Enterprise Key Information Extraction**|Benjamin Townsend et.al.|[2403.20101](http://arxiv.org/abs/2403.20101)|null|
 |**2024-03-29**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095](http://arxiv.org/abs/2403.20095)|**[link](https://github.com/sisinflab/kguf)**|
 |**2024-03-29**|**Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets**|Shadi Manafi et.al.|[2403.20056](http://arxiv.org/abs/2403.20056)|**[link](https://github.com/csu-signal/xlingual-robustness)**|
