@@ -33,10 +33,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Attention is Naturally Sparse with Gaussian Distributed Input**|Yichuan Deng et.al.|[2404.02690](http://arxiv.org/abs/2404.02690)|null|
+|**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624](http://arxiv.org/abs/2404.02624)|null|
+|**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
+|**2024-04-03**|**Low-resource neural machine translation with morphological modeling**|Antoine Nzeyimana et.al.|[2404.02392](http://arxiv.org/abs/2404.02392)|**[link](https://github.com/anzeyimana/kinmt_naacl2024)**|
 |**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|null|
 |**2024-04-02**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al.|[2404.01929](http://arxiv.org/abs/2404.01929)|null|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
-|**2024-04-01**|**Positioning is All You Need**|Xin Li et.al.|[2404.01183](http://arxiv.org/abs/2404.01183)|null|
+|**2024-04-03**|**Positioning is All You Need**|Xin Li et.al.|[2404.01183](http://arxiv.org/abs/2404.01183)|null|
 |**2024-04-01**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al.|[2404.01156](http://arxiv.org/abs/2404.01156)|null|
 |**2024-04-01**|**Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation**|Yulin Chen et.al.|[2404.01127](http://arxiv.org/abs/2404.01127)|null|
 |**2024-04-01**|**CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening**|Wen-Jie Shu et.al.|[2404.01121](http://arxiv.org/abs/2404.01121)|null|
@@ -197,6 +201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
+|**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|**[link](https://github.com/toelt-llc/flightscope_bench)**|
+|**2024-04-03**|**Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes**|Poulami Sinhamahapatra et.al.|[2404.02830](http://arxiv.org/abs/2404.02830)|null|
+|**2024-04-03**|**Fast Diffusion Model For Seismic Data Noise Attenuation**|Junheng Peng et.al.|[2404.02767](http://arxiv.org/abs/2404.02767)|null|
+|**2024-04-03**|**AQuA -- Combining Experts' and Non-Experts' Views To Assess Deliberation Quality in Online Discussions Using LLMs**|Maike Behrendt et.al.|[2404.02761](http://arxiv.org/abs/2404.02761)|null|
+|**2024-04-03**|**Mixing Individual and Collective Behaviours to Predict Out-of-Routine Mobility**|Sebastiano Bontorin et.al.|[2404.02740](http://arxiv.org/abs/2404.02740)|null|
+|**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
+|**2024-04-03**|**Can We Understand Plasticity Through Neural Collapse?**|Guglielmo Bonifazi et.al.|[2404.02719](http://arxiv.org/abs/2404.02719)|**[link](https://github.com/gianhess/dl_project)**|
+|**2024-04-03**|**Cross-Architecture Transfer Learning for Linear-Cost Inference Transformers**|Sehyun Choi et.al.|[2404.02684](http://arxiv.org/abs/2404.02684)|null|
+|**2024-04-03**|**A Satellite Band Selection Framework for Amazon Forest Deforestation Detection Task**|Eduardo Neto et.al.|[2404.02659](http://arxiv.org/abs/2404.02659)|null|
 |**2024-04-02**|**ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**|Ryan Donghan Kwon et.al.|[2404.02135](http://arxiv.org/abs/2404.02135)|null|
 |**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|null|
 |**2024-04-02**|**Deep Learning for AGILE Anticoincidence System's Background Prediction from Orbital and Attitude Parameters**|N. Parmiggiani et.al.|[2404.02107](http://arxiv.org/abs/2404.02107)|null|
@@ -397,6 +411,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**FPT: Feature Prompt Tuning for Few-shot Readability Assessment**|Ziyang Wang et.al.|[2404.02772](http://arxiv.org/abs/2404.02772)|**[link](https://github.com/wzy232303/fpt)**|
+|**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660](http://arxiv.org/abs/2404.02660)|null|
+|**2024-04-03**|**Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations**|Emilio Villa-Cueva et.al.|[2404.02452](http://arxiv.org/abs/2404.02452)|**[link](https://github.com/villacu/ic_xlt)**|
+|**2024-04-03**|**Enhancing Low-Resource LLMs Classification with PEFT and Synthetic Data**|Parth Patwa et.al.|[2404.02422](http://arxiv.org/abs/2404.02422)|null|
+|**2024-04-03**|**On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL**|Yutong Shao et.al.|[2404.02389](http://arxiv.org/abs/2404.02389)|null|
+|**2024-04-02**|**Multi-BERT: Leveraging Adapters and Prompt Tuning for Low-Resource Multi-Domain Adaptation**|Parham Abed Azad et.al.|[2404.02335](http://arxiv.org/abs/2404.02335)|null|
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126](http://arxiv.org/abs/2404.02126)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
 |**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081](http://arxiv.org/abs/2404.02081)|null|
 |**2024-04-02**|**Ukrainian Texts Classification: Exploration of Cross-lingual Knowledge Transfer Approaches**|Daryna Dementieva et.al.|[2404.02043](http://arxiv.org/abs/2404.02043)|null|
