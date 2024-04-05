@@ -41,6 +41,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658](http://arxiv.org/abs/2404.03658)|null|
+|**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
+|**2024-04-04**|**Part-Attention Based Model Make Occluded Person Re-Identification Stronger**|Zhihao Chen et.al.|[2404.03443](http://arxiv.org/abs/2404.03443)|null|
+|**2024-04-04**|**Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation**|Izumi Fujimori et.al.|[2404.03394](http://arxiv.org/abs/2404.03394)|null|
+|**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
+|**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
+|**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|null|
+|**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
+|**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144](http://arxiv.org/abs/2404.03144)|null|
 |**2024-04-03**|**Attention is Naturally Sparse with Gaussian Distributed Input**|Yichuan Deng et.al.|[2404.02690](http://arxiv.org/abs/2404.02690)|null|
 |**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624](http://arxiv.org/abs/2404.02624)|null|
 |**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
@@ -211,6 +220,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
+|**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
+|**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567](http://arxiv.org/abs/2404.03567)|null|
+|**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558](http://arxiv.org/abs/2404.03558)|**[link](https://github.com/harmonbhasin/curriculum_learning_icl)**|
+|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549](http://arxiv.org/abs/2404.03549)|null|
+|**2024-04-04**|**Physics Informed Neural Networks for Free Shear Flows**|Siddharth Raghu et.al.|[2404.03542](http://arxiv.org/abs/2404.03542)|null|
+|**2024-04-04**|**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**|Siyuan Mei et.al.|[2404.03541](http://arxiv.org/abs/2404.03541)|null|
+|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes**|Poulami Sinhamahapatra et.al.|[2404.02830](http://arxiv.org/abs/2404.02830)|null|
@@ -423,6 +442,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
+|**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
+|**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
+|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
+|**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437](http://arxiv.org/abs/2404.03437)|null|
+|**2024-04-04**|**NLP4Gov: A Comprehensive Library for Computational Policy Analysis**|Mahasweta Chakraborti et.al.|[2404.03206](http://arxiv.org/abs/2404.03206)|null|
+|**2024-04-04**|**Does Knowledge Graph Really Matter for Recommender Systems?**|Haonan Zhang et.al.|[2404.03164](http://arxiv.org/abs/2404.03164)|**[link](https://github.com/hotbento/kg4receval)**|
+|**2024-04-03**|**Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales**|Lucas E. Resck et.al.|[2404.03098](http://arxiv.org/abs/2404.03098)|**[link](https://github.com/visual-ds/plausible-nlp-explanations)**|
+|**2024-04-03**|**Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model**|Yanpeng Ye et.al.|[2404.03080](http://arxiv.org/abs/2404.03080)|null|
 |**2024-04-03**|**FPT: Feature Prompt Tuning for Few-shot Readability Assessment**|Ziyang Wang et.al.|[2404.02772](http://arxiv.org/abs/2404.02772)|**[link](https://github.com/wzy232303/fpt)**|
 |**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660](http://arxiv.org/abs/2404.02660)|null|
 |**2024-04-03**|**Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations**|Emilio Villa-Cueva et.al.|[2404.02452](http://arxiv.org/abs/2404.02452)|**[link](https://github.com/villacu/ic_xlt)**|
