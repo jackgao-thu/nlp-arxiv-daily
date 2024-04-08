@@ -33,6 +33,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205](http://arxiv.org/abs/2404.04205)|null|
+|**2024-04-05**|**Improving Detection in Aerial Images by Capturing Inter-Object Relationships**|Botao Ren et.al.|[2404.04140](http://arxiv.org/abs/2404.04140)|null|
+|**2024-04-05**|**Learning Correlation Structures for Vision Transformers**|Manjin Kim et.al.|[2404.03924](http://arxiv.org/abs/2404.03924)|null|
+|**2024-04-05**|**Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation**|Jiaming Wang et.al.|[2404.03915](http://arxiv.org/abs/2404.03915)|null|
+|**2024-04-05**|**LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification**|Judy X Yang et.al.|[2404.03883](http://arxiv.org/abs/2404.03883)|null|
+|**2024-04-04**|**BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model**|Chenwei Xu et.al.|[2404.03830](http://arxiv.org/abs/2404.03830)|**[link](https://github.com/magics-lab/bishop)**|
+|**2024-04-04**|**Outlier-Efficient Hopfield Layers for Large Transformer-Based Models**|Jerry Yao-Chieh Hu et.al.|[2404.03828](http://arxiv.org/abs/2404.03828)|**[link](https://github.com/magics-lab/outeffhop)**|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658](http://arxiv.org/abs/2404.03658)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-05**|**Part-Attention Based Model Make Occluded Person Re-Identification Stronger**|Zhihao Chen et.al.|[2404.03443](http://arxiv.org/abs/2404.03443)|null|
@@ -210,6 +217,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
+|**2024-04-05**|**Deep-learning Segmentation of Small Volumes in CT images for Radiotherapy Treatment Planning**|Jianxin Zhou et.al.|[2404.04202](http://arxiv.org/abs/2404.04202)|null|
+|**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
+|**2024-04-05**|**Noisy Label Processing for Classification: A Survey**|Mengting Li et.al.|[2404.04159](http://arxiv.org/abs/2404.04159)|null|
+|**2024-04-05**|**Generalizable Temperature Nowcasting with Physics-Constrained RNNs for Predictive Maintenance of Wind Turbine Components**|Johannes Exenberger et.al.|[2404.04126](http://arxiv.org/abs/2404.04126)|**[link](https://github.com/jxnb/pcrnn-wtg)**|
+|**2024-04-05**|**GNNBENCH: Fair and Productive Benchmarking for Single-GPU GNN System**|Yidong Gong et.al.|[2404.04118](http://arxiv.org/abs/2404.04118)|null|
+|**2024-04-05**|**The Unreasonable Effectiveness Of Early Discarding After One Epoch In Neural Network Hyperparameter Optimization**|Romain Egele et.al.|[2404.04111](http://arxiv.org/abs/2404.04111)|null|
+|**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
+|**2024-04-05**|**Finsler-Laplace-Beltrami Operators with Application to Shape Analysis**|Simon Weber et.al.|[2404.03999](http://arxiv.org/abs/2404.03999)|null|
+|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
@@ -430,6 +447,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
+|**2024-04-05**|**Assessing the quality of information extraction**|Filip Seitl et.al.|[2404.04068](http://arxiv.org/abs/2404.04068)|null|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003](http://arxiv.org/abs/2404.04003)|null|
+|**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
+|**2024-04-05**|**A Bi-consolidating Model for Joint Relational Triple Extraction**|Xiaocheng Luo et.al.|[2404.03881](http://arxiv.org/abs/2404.03881)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|null|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
