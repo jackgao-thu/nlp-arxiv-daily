@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657](http://arxiv.org/abs/2404.05657)|null|
+|**2024-04-08**|**Multi-head Attention-based Deep Multiple Instance Learning**|Hassan Keshvarikhojasteh et.al.|[2404.05362](http://arxiv.org/abs/2404.05362)|null|
+|**2024-04-08**|**MC $^2$ : Multi-concept Guidance for Customized Multi-concept Generation**|Jiaxiu Jiang et.al.|[2404.05268](http://arxiv.org/abs/2404.05268)|null|
+|**2024-04-08**|**Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder**|Judy X Yang et.al.|[2404.05258](http://arxiv.org/abs/2404.05258)|null|
+|**2024-04-08**|**Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation**|Swati Jindal et.al.|[2404.05215](http://arxiv.org/abs/2404.05215)|null|
+|**2024-04-08**|**Bidirectional Long-Range Parser for Sequential Data Understanding**|George Leotescu et.al.|[2404.05210](http://arxiv.org/abs/2404.05210)|null|
+|**2024-04-08**|**ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting**|Hengyu Ye et.al.|[2404.05192](http://arxiv.org/abs/2404.05192)|null|
+|**2024-04-07**|**StockGPT: A GenAI Model for Stock Prediction and Trading**|Dat Mai et.al.|[2404.05101](http://arxiv.org/abs/2404.05101)|null|
+|**2024-04-07**|**GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**|Dongjing Shan et.al.|[2404.04924](http://arxiv.org/abs/2404.04924)|null|
+|**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
 |**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205](http://arxiv.org/abs/2404.04205)|null|
 |**2024-04-05**|**Improving Detection in Aerial Images by Capturing Inter-Object Relationships**|Botao Ren et.al.|[2404.04140](http://arxiv.org/abs/2404.04140)|null|
 |**2024-04-05**|**Learning Correlation Structures for Vision Transformers**|Manjin Kim et.al.|[2404.03924](http://arxiv.org/abs/2404.03924)|null|
@@ -217,6 +227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
+|**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|null|
+|**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
+|**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
+|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|
+|**2024-04-08**|**Deep Representation Learning for Multi-functional Degradation Modeling of Community-dwelling Aging Population**|Suiyao Chen et.al.|[2404.05613](http://arxiv.org/abs/2404.05613)|null|
+|**2024-04-08**|**AI-Enabled System for Efficient and Effective Cyber Incident Detection and Response in Cloud Environments**|Mohammed A. M. Farzaan et.al.|[2404.05602](http://arxiv.org/abs/2404.05602)|null|
+|**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
+|**2024-04-08**|**Neural Cellular Automata for Lightweight, Robust and Explainable Classification of White Blood Cell Images**|Michael Deutges et.al.|[2404.05584](http://arxiv.org/abs/2404.05584)|null|
+|**2024-04-08**|**Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model**|Yue-Hua Han et.al.|[2404.05583](http://arxiv.org/abs/2404.05583)|null|
 |**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
 |**2024-04-05**|**Deep-learning Segmentation of Small Volumes in CT images for Radiotherapy Treatment Planning**|Jianxin Zhou et.al.|[2404.04202](http://arxiv.org/abs/2404.04202)|null|
 |**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
@@ -447,6 +467,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
+|**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
+|**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
+|**2024-04-08**|**Multi-Task Learning for Features Extraction in Financial Annual Reports**|Syrielle Montariol et.al.|[2404.05281](http://arxiv.org/abs/2404.05281)|null|
+|**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159](http://arxiv.org/abs/2404.05159)|null|
+|**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088](http://arxiv.org/abs/2404.05088)|null|
+|**2024-04-07**|**OSS Malicious Package Analysis in the Wild**|Xiaoyan Zhou et.al.|[2404.04991](http://arxiv.org/abs/2404.04991)|null|
+|**2024-04-07**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
+|**2024-04-06**|**A Morphology-Based Investigation of Positional Encodings**|Poulami Ghosh et.al.|[2404.04530](http://arxiv.org/abs/2404.04530)|null|
 |**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
 |**2024-04-05**|**Assessing the quality of information extraction**|Filip Seitl et.al.|[2404.04068](http://arxiv.org/abs/2404.04068)|null|
 |**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003](http://arxiv.org/abs/2404.04003)|null|
