@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -42,7 +42,7 @@ layout: default
 |**2024-04-08**|**Rapid and Precise Topological Comparison with Merge Tree Neural Networks**|Yu Qin et.al.|[2404.05879](http://arxiv.org/abs/2404.05879)|null|
 |**2024-04-08**|**Softmax Attention with Constant Cost per Token**|Franz A. Heinsen et.al.|[2404.05843](http://arxiv.org/abs/2404.05843)|**[link](https://github.com/glassroom/heinsen_attention)**|
 |**2024-04-08**|**Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks**|Andre R Kuroswiski et.al.|[2404.05840](http://arxiv.org/abs/2404.05840)|null|
-|**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657](http://arxiv.org/abs/2404.05657)|null|
+|**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657](http://arxiv.org/abs/2404.05657)|**[link](https://github.com/sihaoevery/lambda_vit)**|
 |**2024-04-08**|**Multi-head Attention-based Deep Multiple Instance Learning**|Hassan Keshvarikhojasteh et.al.|[2404.05362](http://arxiv.org/abs/2404.05362)|null|
 |**2024-04-08**|**MC $^2$ : Multi-concept Guidance for Customized Multi-concept Generation**|Jiaxiu Jiang et.al.|[2404.05268](http://arxiv.org/abs/2404.05268)|null|
 |**2024-04-08**|**Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder**|Judy X Yang et.al.|[2404.05258](http://arxiv.org/abs/2404.05258)|null|
