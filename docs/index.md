@@ -33,6 +33,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
+|**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/abs/2404.07626)|**[link](https://github.com/shanwang-shan/homofusion)**|
+|**2024-04-11**|**Attention based End to end network for Offline Writer Identification on Word level data**|Vineet Kumar et.al.|[2404.07602](http://arxiv.org/abs/2404.07602)|null|
+|**2024-04-11**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
+|**2024-04-11**|**Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios**|Yuan Zhang et.al.|[2404.07484](http://arxiv.org/abs/2404.07484)|null|
 |**2024-04-10**|**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**|Tsendsuren Munkhdalai et.al.|[2404.07143](http://arxiv.org/abs/2404.07143)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
 |**2024-04-10**|**Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model**|Yijia Chen et.al.|[2404.07072](http://arxiv.org/abs/2404.07072)|**[link](https://github.com/CXH-Research/IRFormer)**|
@@ -244,6 +252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
+|**2024-04-11**|**Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting**|Lei Chen et.al.|[2404.07847](http://arxiv.org/abs/2404.07847)|null|
+|**2024-04-11**|**Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution**|Handi Deng et.al.|[2404.07833](http://arxiv.org/abs/2404.07833)|null|
+|**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/abs/2404.07821)|null|
+|**2024-04-11**|**Voice-Assisted Real-Time Traffic Sign Recognition System Using Convolutional Neural Network**|Mayura Manawadu et.al.|[2404.07807](http://arxiv.org/abs/2404.07807)|null|
+|**2024-04-11**|**Synergy between noisy quantum computers and scalable classical deep learning**|Simone Cantori et.al.|[2404.07802](http://arxiv.org/abs/2404.07802)|null|
+|**2024-04-11**|**VIFNet: An End-to-end Visible-Infrared Fusion Network for Image Dehazing**|Meng Yu et.al.|[2404.07790](http://arxiv.org/abs/2404.07790)|null|
+|**2024-04-11**|**Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification**|Tuong Vy Nguyen et.al.|[2404.07754](http://arxiv.org/abs/2404.07754)|null|
+|**2024-04-11**|**Exploiting Object-based and Segmentation-based Semantic Features for Deep Learning-based Indoor Scene Classification**|Ricardo Pereira et.al.|[2404.07739](http://arxiv.org/abs/2404.07739)|null|
+|**2024-04-11**|**Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Machine Explanations for Large Language Models**|Marvin Pafla et.al.|[2404.07725](http://arxiv.org/abs/2404.07725)|null|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176](http://arxiv.org/abs/2404.07176)|null|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
@@ -504,7 +522,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-11**|**ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs**|Lei Sun et.al.|[2404.07677](http://arxiv.org/abs/2404.07677)|null|
+|**2024-04-11**|**Leveraging Data Augmentation for Process Information Extraction**|Julian Neuberger et.al.|[2404.07501](http://arxiv.org/abs/2404.07501)|**[link](https://github.com/julianneuberger/pet-data-augmentation)**|
+|**2024-04-11**|**Interactive Prompt Debugging with Sequence Salience**|Ian Tenney et.al.|[2404.07498](http://arxiv.org/abs/2404.07498)|null|
+|**2024-04-11**|**The Survey on Multi-Source Data Fusion in Cyber-Physical-Social Systems:Foundational Infrastructure for Industrial Metaverses and Industries 5.0**|Xiao Wang et.al.|[2404.07476](http://arxiv.org/abs/2404.07476)|null|
+|**2024-04-11**|**WESE: Weak Exploration to Strong Exploitation for LLM Agents**|Xu Huang et.al.|[2404.07456](http://arxiv.org/abs/2404.07456)|null|
+|**2024-04-10**|**LLMs in Biomedicine: A study on clinical Named Entity Recognition**|Masoud Monajatipoor et.al.|[2404.07376](http://arxiv.org/abs/2404.07376)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**Knowledge graphs for empirical concept retrieval**|Lenka Tětková et.al.|[2404.07008](http://arxiv.org/abs/2404.07008)|**[link](https://github.com/lenkatetkova/knowledge-graphs-for-empirical-concept-retrieval)**|
 |**2024-04-10**|**Hybrid Multi-stage Decoding for Few-shot NER with Entity-aware Contrastive Learning**|Peipei Liu et.al.|[2404.06970](http://arxiv.org/abs/2404.06970)|null|
 |**2024-04-10**|**Emotion-cause pair extraction method based on multi-granularity information and multi-module interaction**|Mingrui Fu et.al.|[2404.06812](http://arxiv.org/abs/2404.06812)|null|
