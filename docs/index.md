@@ -33,6 +33,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction**|Bin Liu et.al.|[2404.10561](http://arxiv.org/abs/2404.10561)|null|
+|**2024-04-16**|**Adversarial Identity Injection for Semantic Face Image Synthesis**|Giuseppe Tarollo et.al.|[2404.10408](http://arxiv.org/abs/2404.10408)|null|
+|**2024-04-16**|**Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR**|Mingze Sun et.al.|[2404.10359](http://arxiv.org/abs/2404.10359)|null|
+|**2024-04-16**|**Anomaly Correction of Business Processes Using Transformer Autoencoder**|Ziyou Gong et.al.|[2404.10211](http://arxiv.org/abs/2404.10211)|null|
+|**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
+|**2024-04-15**|**Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives - A LESA-CamemBERT-bio Approach**|Boammani Aser Lompo et.al.|[2404.10171](http://arxiv.org/abs/2404.10171)|null|
+|**2024-04-15**|**High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers**|Luiz Schirmer et.al.|[2404.10170](http://arxiv.org/abs/2404.10170)|null|
+|**2024-04-15**|**Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation**|Ruoxi Cheng et.al.|[2404.10160](http://arxiv.org/abs/2404.10160)|null|
+|**2024-04-15**|**Unifying Global and Local Scene Entities Modelling for Precise Action Spotting**|Kim Hoang Tran et.al.|[2404.09951](http://arxiv.org/abs/2404.09951)|null|
 |**2024-04-15**|**HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**|Yang Liu et.al.|[2404.09697](http://arxiv.org/abs/2404.09697)|null|
 |**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516](http://arxiv.org/abs/2404.09516)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
 |**2024-04-14**|**Hierarchical Attention Models for Multi-Relational Graphs**|Roshni G. Iyer et.al.|[2404.09365](http://arxiv.org/abs/2404.09365)|null|
@@ -263,6 +272,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
+|**2024-04-16**|**How Deep Networks Learn Sparse and Hierarchical Data: the Sparse Random Hierarchy Model**|Umberto Tomasini et.al.|[2404.10727](http://arxiv.org/abs/2404.10727)|null|
+|**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|null|
+|**2024-04-16**|**HLAT: High-quality Large Language Model Pre-trained on AWS Trainium**|Haozheng Fan et.al.|[2404.10630](http://arxiv.org/abs/2404.10630)|null|
+|**2024-04-16**|**Intra-operative tumour margin evaluation in breast-conserving surgery with deep learning**|Wei-Chung Shia et.al.|[2404.10600](http://arxiv.org/abs/2404.10600)|null|
+|**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
+|**2024-04-16**|**Label merge-and-split: A graph-colouring approach for memory-efficient brain parcellation**|Aaron Kujawa et.al.|[2404.10572](http://arxiv.org/abs/2404.10572)|null|
+|**2024-04-16**|**HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction**|Bin Liu et.al.|[2404.10561](http://arxiv.org/abs/2404.10561)|null|
+|**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503](http://arxiv.org/abs/2404.10503)|null|
+|**2024-04-16**|**Robust Noisy Label Learning via Two-Stream Sample Distillation**|Sihan Bai et.al.|[2404.10499](http://arxiv.org/abs/2404.10499)|null|
 |**2024-04-15**|**Contrastive Pretraining for Visual Concept Explanations of Socioeconomic Outcomes**|Ivica Obadic et.al.|[2404.09768](http://arxiv.org/abs/2404.09768)|null|
 |**2024-04-15**|**Deep Learning-Based Segmentation of Tumors in PET/CT Volumes: Benchmark of Different Architectures and Training Strategies**|Monika Górka et.al.|[2404.09761](http://arxiv.org/abs/2404.09761)|null|
 |**2024-04-15**|**AMPCliff: quantitative definition and benchmarking of activity cliffs in antimicrobial peptides**|Kewei Li et.al.|[2404.09738](http://arxiv.org/abs/2404.09738)|**[link](https://github.com/kewei2023/ampcliff-generation)**|
@@ -555,6 +574,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**PAKT: Perspectivized Argumentation Knowledge Graph and Tool for Deliberation Analysis (with Supplementary Materials)**|Moritz Plenz et.al.|[2404.10570](http://arxiv.org/abs/2404.10570)|null|
+|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384](http://arxiv.org/abs/2404.10384)|null|
+|**2024-04-16**|**Learning Wireless Data Knowledge Graph for Green Intelligent Communications: Methodology and Experiments**|Yongming Huang et.al.|[2404.10365](http://arxiv.org/abs/2404.10365)|null|
+|**2024-04-16**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305](http://arxiv.org/abs/2404.10305)|null|
+|**2024-04-15**|**Progressive Knowledge Graph Completion**|Jiayi Li et.al.|[2404.09897](http://arxiv.org/abs/2404.09897)|null|
+|**2024-04-15**|**HyperMono: A Monotonicity-aware Approach to Hyper-Relational Knowledge Representation**|Zhiwei Hu et.al.|[2404.09848](http://arxiv.org/abs/2404.09848)|null|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763](http://arxiv.org/abs/2404.09763)|null|
 |**2024-04-15**|**Quantization of Large Language Models with an Overdetermined Basis**|Daniil Merkulov et.al.|[2404.09737](http://arxiv.org/abs/2404.09737)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
