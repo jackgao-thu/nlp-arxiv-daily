@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409](http://arxiv.org/abs/2404.14409)|null|
+|**2024-04-22**|**A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module**|Mohammad Ali Labbaf Khaniki et.al.|[2404.14322](http://arxiv.org/abs/2404.14322)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878](http://arxiv.org/abs/2404.13878)|**[link](https://github.com/lalunex/msdccl)**|
+|**2024-04-22**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.13838](http://arxiv.org/abs/2404.13838)|**[link](https://github.com/chengxihan/c2f-semicd-and-c2f-cdnet)**|
+|**2024-04-21**|**EncodeNet: A Framework for Boosting DNN Accuracy with Entropy-driven Generalized Converting Autoencoder**|Hasanul Mahmud et.al.|[2404.13770](http://arxiv.org/abs/2404.13770)|null|
+|**2024-04-21**|**PEMMA: Parameter-Efficient Multi-Modal Adaptation for Medical Image Segmentation**|Nada Saadi et.al.|[2404.13704](http://arxiv.org/abs/2404.13704)|null|
+|**2024-04-21**|**Data-independent Module-aware Pruning for Hierarchical Vision Transformers**|Yang He et.al.|[2404.13648](http://arxiv.org/abs/2404.13648)|**[link](https://github.com/he-y/data-independent-module-aware-pruning)**|
+|**2024-04-21**|**Exploring Diverse Methods in Visual Question Answering**|Panfeng Li et.al.|[2404.13565](http://arxiv.org/abs/2404.13565)|null|
+|**2024-04-21**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
 |**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973](http://arxiv.org/abs/2404.12973)|null|
 |**2024-04-19**|**ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model**|Dingming Liu et.al.|[2404.12903](http://arxiv.org/abs/2404.12903)|null|
 |**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900](http://arxiv.org/abs/2404.12900)|**[link](https://github.com/bluedyee/tf-gph)**|
@@ -295,6 +305,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370](http://arxiv.org/abs/2404.14370)|null|
+|**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
+|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|null|
+|**2024-04-22**|**Machine Learning Techniques for MRI Data Processing at Expanding Scale**|Taro Langner et.al.|[2404.14326](http://arxiv.org/abs/2404.14326)|null|
+|**2024-04-22**|**Automated Long Answer Grading with RiceChem Dataset**|Shashank Sonkar et.al.|[2404.14316](http://arxiv.org/abs/2404.14316)|null|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
+|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|null|
+|**2024-04-22**|**Fidelitous Augmentation of Human Accelerometric Data for Deep Learning**|Tracey K. M. Lee et.al.|[2404.14211](http://arxiv.org/abs/2404.14211)|null|
+|**2024-04-22**|**EnzChemRED, a rich enzyme chemistry relation extraction dataset**|Po-Ting Lai et.al.|[2404.14209](http://arxiv.org/abs/2404.14209)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data**|Yu Lei et.al.|[2404.13004](http://arxiv.org/abs/2404.13004)|**[link](https://github.com/leiyu0210/finlangnet)**|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
@@ -627,6 +647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani et.al.|[2404.14356](http://arxiv.org/abs/2404.14356)|null|
+|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
+|**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
+|**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215](http://arxiv.org/abs/2404.14215)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
+|**2024-04-22**|**EnzChemRED, a rich enzyme chemistry relation extraction dataset**|Po-Ting Lai et.al.|[2404.14209](http://arxiv.org/abs/2404.14209)|null|
+|**2024-04-22**|**LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation**|Keheng Wang et.al.|[2404.14043](http://arxiv.org/abs/2404.14043)|null|
+|**2024-04-22**|**Context-Enhanced Language Models for Generating Multi-Paper Citations**|Avinash Anand et.al.|[2404.13865](http://arxiv.org/abs/2404.13865)|null|
+|**2024-04-21**|**PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure**|Feiqi Cao et.al.|[2404.13645](http://arxiv.org/abs/2404.13645)|**[link](https://github.com/adlnlp/peach)**|
+|**2024-04-21**|**IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models**|Tao Feng et.al.|[2404.13504](http://arxiv.org/abs/2404.13504)|null|
+|**2024-04-20**|**Do "English" Named Entity Recognizers Work Well on Global Englishes?**|Alexander Shan et.al.|[2404.13465](http://arxiv.org/abs/2404.13465)|null|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**RedactBuster: Entity Type Recognition from Redacted Documents**|Mirco Beltrame et.al.|[2404.12991](http://arxiv.org/abs/2404.12991)|null|
 |**2024-04-19**|**FAIR Jupyter: a knowledge graph approach to semantic sharing and granular exploration of a computational notebook reproducibility dataset**|Sheeba Samuel et.al.|[2404.12935](http://arxiv.org/abs/2404.12935)|null|
