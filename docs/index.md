@@ -33,6 +33,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**Transformers Can Represent $n$ -gram Language Models**|Anej Svete et.al.|[2404.14994](http://arxiv.org/abs/2404.14994)|null|
+|**2024-04-23**|**Time-aware Heterogeneous Graph Transformer with Adaptive Attention Merging for Health Event Prediction**|Shibo Li et.al.|[2404.14815](http://arxiv.org/abs/2404.14815)|null|
+|**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757](http://arxiv.org/abs/2404.14757)|null|
+|**2024-04-23**|**SC-HVPPNet: Spatial and Channel Hybrid-Attention Video Post-Processing Network with CNN and Transformer**|Tong Zhang et.al.|[2404.14709](http://arxiv.org/abs/2404.14709)|null|
+|**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692](http://arxiv.org/abs/2404.14692)|null|
 |**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409](http://arxiv.org/abs/2404.14409)|null|
 |**2024-04-22**|**A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module**|Mohammad Ali Labbaf Khaniki et.al.|[2404.14322](http://arxiv.org/abs/2404.14322)|null|
 |**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
@@ -305,6 +311,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**A Hybrid Kernel-Free Boundary Integral Method with Operator Learning for Solving Parametric Partial Differential Equations In Complex Domains**|Shuo Ling et.al.|[2404.15242](http://arxiv.org/abs/2404.15242)|null|
+|**2024-04-23**|**Massively Annotated Datasets for Assessment of Synthetic and Real Data in Face Recognition**|Pedro C. Neto et.al.|[2404.15234](http://arxiv.org/abs/2404.15234)|null|
+|**2024-04-23**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
+|**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224](http://arxiv.org/abs/2404.15224)|null|
+|**2024-04-23**|**Every Breath You Don't Take: Deepfake Speech Detection Using Breath**|Seth Layton et.al.|[2404.15143](http://arxiv.org/abs/2404.15143)|null|
+|**2024-04-23**|**Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning**|Jie Lei et.al.|[2404.15043](http://arxiv.org/abs/2404.15043)|null|
+|**2024-04-23**|**A review of deep learning-based information fusion techniques for multimodal medical image classification**|Yihao Li et.al.|[2404.15022](http://arxiv.org/abs/2404.15022)|null|
+|**2024-04-23**|**A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data**|Hao Miao et.al.|[2404.14999](http://arxiv.org/abs/2404.14999)|null|
+|**2024-04-23**|**A Short Review for Ontology Learning from Text: Stride from Shallow Learning, Deep Learning to Large Language Models Trend**|Rick Du et.al.|[2404.14991](http://arxiv.org/abs/2404.14991)|null|
+|**2024-04-23**|**Surface profile recovery from electromagnetic field with physics--informed neural networks**|Yuxuan Chen et.al.|[2404.14984](http://arxiv.org/abs/2404.14984)|null|
 |**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370](http://arxiv.org/abs/2404.14370)|null|
 |**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
 |**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|null|
@@ -647,6 +663,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
+|**2024-04-23**|**Integrating Heterogeneous Gene Expression Data through Knowledge Graphs for Improving Diabetes Prediction**|Rita T. Sousa et.al.|[2404.14970](http://arxiv.org/abs/2404.14970)|**[link](https://github.com/ritatsousa/expressionkg)**|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**|Wenbo Shang et.al.|[2404.14809](http://arxiv.org/abs/2404.14809)|null|
+|**2024-04-23**|**Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering**|Yao Xu et.al.|[2404.14741](http://arxiv.org/abs/2404.14741)|**[link](https://github.com/yaooxu/gog)**|
 |**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani et.al.|[2404.14356](http://arxiv.org/abs/2404.14356)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
