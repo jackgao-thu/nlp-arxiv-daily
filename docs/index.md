@@ -33,6 +33,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data**|Charalampos Symeonidis et.al.|[2404.17276](http://arxiv.org/abs/2404.17276)|null|
+|**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
+|**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243](http://arxiv.org/abs/2404.17243)|**[link](https://github.com/aimagelab/fourbi)**|
+|**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235](http://arxiv.org/abs/2404.17235)|null|
+|**2024-04-26**|**Optimizing Cycle Life Prediction of Lithium-ion Batteries via a Physics-Informed Model**|Constantin-Daniel Nicolae et.al.|[2404.17174](http://arxiv.org/abs/2404.17174)|null|
+|**2024-04-26**|**Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network**|Zhaohui Huang et.al.|[2404.17138](http://arxiv.org/abs/2404.17138)|null|
+|**2024-04-25**|**Samsung Research China-Beijing at SemEval-2024 Task 3: A multi-stage framework for Emotion-Cause Pair Extraction in Conversations**|Shen Zhang et.al.|[2404.16905](http://arxiv.org/abs/2404.16905)|null|
 |**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|**[link](https://github.com/hggzjx/sfa)**|
 |**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555](http://arxiv.org/abs/2404.16555)|null|
 |**2024-04-25**|**BezierFormer: A Unified Architecture for 2D and 3D Lane Detection**|Zhiwei Dong et.al.|[2404.16304](http://arxiv.org/abs/2404.16304)|null|
@@ -323,6 +330,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
+|**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
+|**2024-04-26**|**Interpreting Deepcode, a learned feedback code**|Yingyao Zhou et.al.|[2404.17519](http://arxiv.org/abs/2404.17519)|null|
+|**2024-04-26**|**Causally Abstracted Multi-armed Bandits**|Fabio Massimo Zennaro et.al.|[2404.17493](http://arxiv.org/abs/2404.17493)|null|
+|**2024-04-26**|**FTL: Transfer Learning Nonlinear Plasma Dynamic Transitions in Low Dimensional Embeddings via Deep Neural Networks**|Zhe Bai et.al.|[2404.17466](http://arxiv.org/abs/2404.17466)|null|
+|**2024-04-26**|**Any-Quantile Probabilistic Forecasting of Short-Term Electricity Demand**|Slawek Smyl et.al.|[2404.17451](http://arxiv.org/abs/2404.17451)|null|
+|**2024-04-26**|**Transformer For Low-frequency Extrapolating of Seismic Data**|Zheng Cong et.al.|[2404.17437](http://arxiv.org/abs/2404.17437)|null|
+|**2024-04-26**|**Image Copy-Move Forgery Detection via Deep PatchMatch and Pairwise Ranking Learning**|Yuanman Li et.al.|[2404.17310](http://arxiv.org/abs/2404.17310)|null|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298](http://arxiv.org/abs/2404.17298)|**[link](https://github.com/robot-learning-freiburg/MDPCalib)**|
+|**2024-04-26**|**Comparison of self-supervised in-domain and supervised out-domain transfer learning for bird species recognition**|Houtan Ghaffari et.al.|[2404.17252](http://arxiv.org/abs/2404.17252)|null|
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
 |**2024-04-25**|**ConKeD++ -- Improving descriptor learning for retinal image registration: A comprehensive study of contrastive losses**|David Rivas-Villar et.al.|[2404.16773](http://arxiv.org/abs/2404.16773)|null|
@@ -695,6 +712,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**A Unified Label-Aware Contrastive Learning Framework for Few-Shot Named Entity Recognition**|Haojie Zhang et.al.|[2404.17178](http://arxiv.org/abs/2404.17178)|null|
+|**2024-04-26**|**2M-NER: Contrastive Learning for Multilingual and Multimodal NER with Language and Modal Fusion**|Dongsheng Wang et.al.|[2404.17122](http://arxiv.org/abs/2404.17122)|null|
+|**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000](http://arxiv.org/abs/2404.17000)|**[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-25**|**History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting**|Julia Gastinger et.al.|[2404.16726](http://arxiv.org/abs/2404.16726)|**[link](https://github.com/nec-research/recurrency_baseline_tkg)**|
 |**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627](http://arxiv.org/abs/2404.16627)|**[link](https://github.com/tian14267/ls_mbert)**|
