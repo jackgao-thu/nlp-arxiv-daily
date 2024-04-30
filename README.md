@@ -41,6 +41,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
+|**2024-04-29**|**Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention**|Ruijie Tao et.al.|[2404.18501](http://arxiv.org/abs/2404.18501)|null|
+|**2024-04-29**|**ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal**|Zhuohao Li et.al.|[2404.18433](http://arxiv.org/abs/2404.18433)|null|
+|**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
+|**2024-04-28**|**Mamba-FETrack: Frame-Event Tracking via State Space Model**|Ju Huang et.al.|[2404.18174](http://arxiv.org/abs/2404.18174)|**[link](https://github.com/event-ahu/mamba_fetrack)**|
+|**2024-04-28**|**Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers**|Clément Grisi et.al.|[2404.18152](http://arxiv.org/abs/2404.18152)|null|
+|**2024-04-27**|**Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion**|Yuntao Shou et.al.|[2404.17858](http://arxiv.org/abs/2404.17858)|null|
+|**2024-04-27**|**GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation**|Ziya Ata Yazıcı et.al.|[2404.17854](http://arxiv.org/abs/2404.17854)|null|
+|**2024-04-27**|**Efficient Bi-manipulation using RGBD Multi-model Fusion based on Attention Mechanism**|Jian Shen et.al.|[2404.17811](http://arxiv.org/abs/2404.17811)|null|
+|**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793](http://arxiv.org/abs/2404.17793)|**[link](https://github.com/claud1234/fcn_transformer_object_segmentation)**|
 |**2024-04-26**|**Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data**|Charalampos Symeonidis et.al.|[2404.17276](http://arxiv.org/abs/2404.17276)|null|
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
 |**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243](http://arxiv.org/abs/2404.17243)|**[link](https://github.com/aimagelab/fourbi)**|
@@ -340,6 +350,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**IPixMatch: Boost Semi-supervised Semantic Segmentation with Inter-Pixel Relation**|Kebin Wu et.al.|[2404.18891](http://arxiv.org/abs/2404.18891)|null|
+|**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
+|**2024-04-29**|**Deep orthogonal decomposition: a continuously adaptive data-driven approach to model order reduction**|Nicola Rares Franco et.al.|[2404.18841](http://arxiv.org/abs/2404.18841)|null|
+|**2024-04-29**|**Accurate adaptive deep learning method for solving elliptic problems**|Jingyong Ying et.al.|[2404.18838](http://arxiv.org/abs/2404.18838)|null|
+|**2024-04-29**|**Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain**|Gustaw Opiełka et.al.|[2404.18772](http://arxiv.org/abs/2404.18772)|null|
+|**2024-04-29**|**Adaptive Reinforcement Learning for Robot Control**|Yu Tang Liu et.al.|[2404.18713](http://arxiv.org/abs/2404.18713)|null|
+|**2024-04-29**|**Reading Order Independent Metrics for Information Extraction in Handwritten Documents**|David Villanova-Aparisi et.al.|[2404.18664](http://arxiv.org/abs/2404.18664)|null|
+|**2024-04-29**|**Feature importance to explain multimodal prediction models. A clinical use case**|Jorn-Jan van de Beld et.al.|[2404.18631](http://arxiv.org/abs/2404.18631)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|null|
+|**2024-04-29**|**Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification**|Ruben Grewal et.al.|[2404.18573](http://arxiv.org/abs/2404.18573)|**[link](https://github.com/ast-fortiss-tum/misbehaviour-prediction-with-uncertainty-quantification)**|
 |**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
 |**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
 |**2024-04-26**|**Interpreting Deepcode, a learned feedback code**|Yingyao Zhou et.al.|[2404.17519](http://arxiv.org/abs/2404.17519)|null|
@@ -724,6 +744,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Reading Order Independent Metrics for Information Extraction in Handwritten Documents**|David Villanova-Aparisi et.al.|[2404.18664](http://arxiv.org/abs/2404.18664)|null|
+|**2024-04-29**|**OAEI Machine Learning Dataset for Online Model Generation**|Sven Hertling et.al.|[2404.18542](http://arxiv.org/abs/2404.18542)|null|
+|**2024-04-29**|**Geospatial Big Data: Survey and Challenges**|Jiayang Wu et.al.|[2404.18428](http://arxiv.org/abs/2404.18428)|null|
+|**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228](http://arxiv.org/abs/2404.18228)|null|
+|**2024-04-28**|**L3Cube-MahaNews: News-based Short Text and Long Document Classification Datasets in Marathi**|Saloni Mittal et.al.|[2404.18216](http://arxiv.org/abs/2404.18216)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
+|**2024-04-28**|**Utilizing Large Language Models for Information Extraction from Real Estate Transactions**|Yu Zhao et.al.|[2404.18043](http://arxiv.org/abs/2404.18043)|null|
+|**2024-04-27**|**MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch**|Nadia Saeed et.al.|[2404.17999](http://arxiv.org/abs/2404.17999)|null|
+|**2024-04-27**|**VANER: Leveraging Large Language Model for Versatile and Adaptive Biomedical Named Entity Recognition**|Junyi Biana et.al.|[2404.17835](http://arxiv.org/abs/2404.17835)|null|
+|**2024-04-26**|**Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering**|Zhentao Xu et.al.|[2404.17723](http://arxiv.org/abs/2404.17723)|null|
 |**2024-04-26**|**A Unified Label-Aware Contrastive Learning Framework for Few-Shot Named Entity Recognition**|Haojie Zhang et.al.|[2404.17178](http://arxiv.org/abs/2404.17178)|null|
 |**2024-04-26**|**2M-NER: Contrastive Learning for Multilingual and Multimodal NER with Language and Modal Fusion**|Dongsheng Wang et.al.|[2404.17122](http://arxiv.org/abs/2404.17122)|null|
 |**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000](http://arxiv.org/abs/2404.17000)|**[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)**|
