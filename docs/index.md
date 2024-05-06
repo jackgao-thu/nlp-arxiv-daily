@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-16**|**Empirical Studies of Parameter Efficient Methods for Large Language Models of Code and Knowledge Transfer to R**|Amirreza Esmaeili et.al.|[2405.01553](http://arxiv.org/abs/2405.01553)|null|
 |**2024-05-01**|**DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training**|Bhuvanesh Verma et.al.|[2405.00321](http://arxiv.org/abs/2405.00321)|null|
 |**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458](http://arxiv.org/abs/2404.00458)|null|
 |**2024-03-18**|**SuperLoRA: Parameter-Efficient Unified Adaptation of Multi-Layer Attention Modules**|Xiangyu Chen et.al.|[2403.11887](http://arxiv.org/abs/2403.11887)|null|
@@ -34,6 +35,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network**|Ziang Zhou et.al.|[2405.01927](http://arxiv.org/abs/2405.01927)|**[link](https://github.com/scottjiao/slotgat_icml23)**|
+|**2024-05-02**|**Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps**|Yuwei Liu et.al.|[2405.01714](http://arxiv.org/abs/2405.01714)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337](http://arxiv.org/abs/2405.01337)|null|
 |**2024-05-02**|**MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[2405.01266](http://arxiv.org/abs/2405.01266)|null|
@@ -367,6 +370,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
+|**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|null|
+|**2024-05-03**|**All-fiber microendoscopic polarization sensing at single-photon level aided by deep-learning**|Martin Bielak et.al.|[2405.02172](http://arxiv.org/abs/2405.02172)|null|
+|**2024-05-03**|**GMP-ATL: Gender-augmented Multi-scale Pseudo-label Enhanced Adaptive Transfer Learning for Speech Emotion Recognition via HuBERT**|Yu Pan et.al.|[2405.02151](http://arxiv.org/abs/2405.02151)|null|
+|**2024-05-03**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
+|**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083](http://arxiv.org/abs/2405.02083)|null|
+|**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
+|**2024-05-03**|**Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field from reduced parametric space**|Rasoul Najafi Koopas et.al.|[2405.01975](http://arxiv.org/abs/2405.01975)|null|
+|**2024-05-03**|**Real-time multichannel deep speech enhancement in hearing aids: Comparing monaural and binaural processing in complex acoustic scenarios**|Nils L. Westhausen et.al.|[2405.01967](http://arxiv.org/abs/2405.01967)|null|
 |**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
@@ -789,6 +802,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
+|**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
+|**2024-05-03**|**Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance**|Ethar Alzaid et.al.|[2405.02040](http://arxiv.org/abs/2405.02040)|null|
+|**2024-05-03**|**The Trade-off between Performance, Efficiency, and Fairness in Adapter Modules for Text Classification**|Minh Duc Bui et.al.|[2405.02010](http://arxiv.org/abs/2405.02010)|null|
+|**2024-05-03**|**Which Identities Are Mobilized: Towards an automated detection of social group appeals in political texts**|Felicia Riethmüller et.al.|[2405.01904](http://arxiv.org/abs/2405.01904)|null|
+|**2024-05-02**|**PVF (Parameter Vulnerability Factor): A Quantitative Metric Measuring AI Vulnerability and Resilience Against Parameter Corruptions**|Xun Jiao et.al.|[2405.01741](http://arxiv.org/abs/2405.01741)|null|
+|**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
+|**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649](http://arxiv.org/abs/2405.01649)|null|
 |**2024-05-02**|**A Survey on Semantic Communication Networks: Architecture, Security, and Privacy**|Shaolong Guo et.al.|[2405.01221](http://arxiv.org/abs/2405.01221)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
 |**2024-05-02**|**Callico: a Versatile Open-Source Document Image Annotation Platform**|Christopher Kermorvant et.al.|[2405.01071](http://arxiv.org/abs/2405.01071)|null|
