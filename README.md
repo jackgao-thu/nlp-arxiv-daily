@@ -43,6 +43,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Dual Relation Mining Network for Zero-Shot Learning**|Jinwei Han et.al.|[2405.03613](http://arxiv.org/abs/2405.03613)|null|
+|**2024-05-06**|**Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation**|Jesher Joshua M et.al.|[2405.03537](http://arxiv.org/abs/2405.03537)|null|
+|**2024-05-06**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers**|Wenhao Zhu et.al.|[2405.03481](http://arxiv.org/abs/2405.03481)|null|
+|**2024-05-06**|**ReCycle: Fast and Efficient Long Time Series Forecasting with Residual Cyclic Transformers**|Arvid Weyrauch et.al.|[2405.03429](http://arxiv.org/abs/2405.03429)|**[link](https://github.com/helmholtz-ai-energy/recycle)**|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251](http://arxiv.org/abs/2405.03251)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Exploring prompts to elicit memorization in masked language model-based named entity recognition**|Yuxi Xia et.al.|[2405.03004](http://arxiv.org/abs/2405.03004)|null|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/searle)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906](http://arxiv.org/abs/2405.02906)|null|
 |**2024-05-03**|**SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network**|Ziang Zhou et.al.|[2405.01927](http://arxiv.org/abs/2405.01927)|**[link](https://github.com/scottjiao/slotgat_icml23)**|
 |**2024-05-02**|**Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps**|Yuwei Liu et.al.|[2405.01714](http://arxiv.org/abs/2405.01714)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
@@ -380,6 +390,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
+|**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636](http://arxiv.org/abs/2405.03636)|null|
+|**2024-05-06**|**Detecting Android Malware: From Neural Embeddings to Hands-On Validation with BERTroid**|Meryam Chaieb et.al.|[2405.03620](http://arxiv.org/abs/2405.03620)|null|
+|**2024-05-06**|**Deep Space Separable Distillation for Lightweight Acoustic Scene Classification**|ShuQi Ye et.al.|[2405.03567](http://arxiv.org/abs/2405.03567)|null|
+|**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
+|**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|null|
+|**2024-05-06**|**A Lightweight Neural Architecture Search Model for Medical Image Classification**|Lunchen Xie et.al.|[2405.03462](http://arxiv.org/abs/2405.03462)|null|
+|**2024-05-06**|**Improved Forward-Forward Contrastive Learning**|Gananath R et.al.|[2405.03432](http://arxiv.org/abs/2405.03432)|null|
+|**2024-05-06**|**Geometry-aware framework for deep energy method: an application to structural mechanics with hyperelastic materials**|Thi Nguyen Khoa Nguyen et.al.|[2405.03427](http://arxiv.org/abs/2405.03427)|null|
+|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413](http://arxiv.org/abs/2405.03413)|null|
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
 |**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|null|
 |**2024-05-03**|**All-fiber microendoscopic polarization sensing at single-photon level aided by deep-learning**|Martin Bielak et.al.|[2405.02172](http://arxiv.org/abs/2405.02172)|null|
@@ -814,6 +834,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Liberating Seen Classes: Boosting Few-Shot and Zero-Shot Text Classification via Anchor Generation and Classification Reframing**|Han Liu et.al.|[2405.03565](http://arxiv.org/abs/2405.03565)|null|
+|**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
+|**2024-05-06**|**SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence**|Hangyuan Ji et.al.|[2405.03446](http://arxiv.org/abs/2405.03446)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-06**|**GeoContrastNet: Contrastive Key-Value Edge Learning for Language-Agnostic Document Understanding**|Nil Biescas et.al.|[2405.03104](http://arxiv.org/abs/2405.03104)|null|
+|**2024-05-05**|**A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)**|Lingyao Li et.al.|[2405.03066](http://arxiv.org/abs/2405.03066)|null|
+|**2024-05-05**|**Exploring prompts to elicit memorization in masked language model-based named entity recognition**|Yuxi Xia et.al.|[2405.03004](http://arxiv.org/abs/2405.03004)|null|
+|**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
+|**2024-05-04**|**Relations Prediction for Knowledge Graph Completion using Large Language Models**|Sakher Khalil Alqaaidi et.al.|[2405.02738](http://arxiv.org/abs/2405.02738)|null|
+|**2024-05-04**|**Astro-NER -- Astronomy Named Entity Recognition: Is GPT a Good Domain Expert Annotator?**|Julia Evans et.al.|[2405.02602](http://arxiv.org/abs/2405.02602)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
 |**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
 |**2024-05-03**|**Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance**|Ethar Alzaid et.al.|[2405.02040](http://arxiv.org/abs/2405.02040)|null|
