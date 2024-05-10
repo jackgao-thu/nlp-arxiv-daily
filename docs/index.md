@@ -37,8 +37,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
+|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219](http://arxiv.org/abs/2405.05219)|null|
 |**2024-05-08**|**Explaining Clustering of Ecological Momentary Assessment Data Through Temporal and Feature Attention**|Mandani Ntekouli et.al.|[2405.04854](http://arxiv.org/abs/2405.04854)|null|
+|**2024-05-09**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807](http://arxiv.org/abs/2405.04807)|**[link](https://github.com/kn0wthing/netsdb)**|
 |**2024-05-08**|**From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control**|Yide Shentu et.al.|[2405.04798](http://arxiv.org/abs/2405.04798)|null|
 |**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|
 |**2024-05-07**|**A Transformer with Stack Attention**|Jiaoda Li et.al.|[2405.04515](http://arxiv.org/abs/2405.04515)|**[link](https://github.com/rycolab/stack-transformer)**|
@@ -394,6 +397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
+|**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906](http://arxiv.org/abs/2405.05906)|null|
+|**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900](http://arxiv.org/abs/2405.05900)|null|
+|**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|
+|**2024-05-09**|**Learned feature representations are biased by complexity, learning order, position, and more**|Andrew Kyle Lampinen et.al.|[2405.05847](http://arxiv.org/abs/2405.05847)|null|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795](http://arxiv.org/abs/2405.05795)|null|
+|**2024-05-09**|**Autonomous Robotic Ultrasound System for Liver Follow-up Diagnosis: Pilot Phantom Study**|Tianpeng Zhang et.al.|[2405.05787](http://arxiv.org/abs/2405.05787)|null|
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766](http://arxiv.org/abs/2405.05766)|null|
+|**2024-05-09**|**A Framework of SO(3)-equivariant Non-linear Representation Learning and its Application to Electronic-Structure Hamiltonian Prediction**|Shi Yin et.al.|[2405.05722](http://arxiv.org/abs/2405.05722)|null|
+|**2024-05-09**|**Identification of problematic epochs in Astronomical Time Series through Transfer Learning**|Stefano Cavuoti et.al.|[2405.05591](http://arxiv.org/abs/2405.05591)|**[link](https://github.com/cavuoti/AnomalyInTimeSeries)**|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
 |**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|**[link](https://github.com/dalhousieai/pangaea-downloader)**|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
@@ -856,6 +869,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795](http://arxiv.org/abs/2405.05795)|null|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
+|**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
+|**2024-05-08**|**Information Extraction from Historical Well Records Using A Large Language Model**|Zhiwei Ma et.al.|[2405.05438](http://arxiv.org/abs/2405.05438)|null|
 |**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|null|
 |**2024-05-08**|**ADELIE: Aligning Large Language Models on Information Extraction**|Yunjia Qi et.al.|[2405.05008](http://arxiv.org/abs/2405.05008)|**[link](https://github.com/THU-KEG/ADELIE)**|
