@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|null|
 |**2024-05-07**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News Detection**|Jasraj Singh et.al.|[2405.04165](http://arxiv.org/abs/2405.04165)|null|
-|**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869](http://arxiv.org/abs/2405.03869)|null|
+|**2024-05-12**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869](http://arxiv.org/abs/2405.03869)|null|
 |**2024-03-16**|**Empirical Studies of Parameter Efficient Methods for Large Language Models of Code and Knowledge Transfer to R**|Amirreza Esmaeili et.al.|[2405.01553](http://arxiv.org/abs/2405.01553)|null|
 |**2024-05-01**|**DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training**|Bhuvanesh Verma et.al.|[2405.00321](http://arxiv.org/abs/2405.00321)|null|
 |**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458](http://arxiv.org/abs/2404.00458)|null|
@@ -38,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|**[link](https://github.com/yuweihao/mambaout)**|
+|**2024-05-13**|**Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network**|Shulei Qu et.al.|[2405.07845](http://arxiv.org/abs/2405.07845)|null|
+|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
+|**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
+|**2024-05-13**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
+|**2024-05-13**|**An Efficient Multimodal Learning Framework to Comprehend Consumer Preferences Using BERT and Cross-Attention**|Junichiro Niimi et.al.|[2405.07435](http://arxiv.org/abs/2405.07435)|null|
+|**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
+|**2024-05-12**|**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**|Fatema Tuj Johora Faria et.al.|[2405.07338](http://arxiv.org/abs/2405.07338)|null|
+|**2024-05-12**|**Span-Aggregatable, Contextualized Word Embeddings for Effective Phrase Mining**|Eyal Orbach et.al.|[2405.07263](http://arxiv.org/abs/2405.07263)|null|
 |**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
 |**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
 |**2024-05-10**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
@@ -405,6 +415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
+|**2024-05-13**|**Enhancing Clinically Significant Prostate Cancer Prediction in T2-weighted Images through Transfer Learning from Breast Cancer**|Chi-en Amy Tai et.al.|[2405.07869](http://arxiv.org/abs/2405.07869)|null|
+|**2024-05-13**|**Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network**|Shulei Qu et.al.|[2405.07845](http://arxiv.org/abs/2405.07845)|null|
+|**2024-05-13**|**Ground-based Image Deconvolution with Swin Transformer UNet**|Utsav Akhaury et.al.|[2405.07842](http://arxiv.org/abs/2405.07842)|null|
+|**2024-05-13**|**Automatic Recognition of Food Ingestion Environment from the AIM-2 Wearable Sensor**|Yuning Huang et.al.|[2405.07827](http://arxiv.org/abs/2405.07827)|null|
+|**2024-05-13**|**Quick and Accurate Affordance Learning**|Fedor Scholz et.al.|[2405.07816](http://arxiv.org/abs/2405.07816)|null|
+|**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801](http://arxiv.org/abs/2405.07801)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
+|**2024-05-13**|**Integrating supervised and unsupervised learning approaches to unveil critical process inputs**|Paris Papavasileiou et.al.|[2405.07751](http://arxiv.org/abs/2405.07751)|null|
+|**2024-05-13**|**DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems**|Franz Kevin Stehle et.al.|[2405.07749](http://arxiv.org/abs/2405.07749)|**[link](https://github.com/unihd-ceg/deephydra)**|
+|**2024-05-13**|**MoCo: Fuzzing Deep Learning Libraries via Assembling Code**|Pin Ji et.al.|[2405.07744](http://arxiv.org/abs/2405.07744)|null|
 |**2024-05-10**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553](http://arxiv.org/abs/2405.06553)|null|
 |**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
 |**2024-05-10**|**Improving Deep Learning Model Calibration for Cardiac Applications using Deterministic Uncertainty Networks and Uncertainty-aware Training**|Tareen Dawood et.al.|[2405.06487](http://arxiv.org/abs/2405.06487)|null|
@@ -887,6 +907,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|null|
+|**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850](http://arxiv.org/abs/2405.07850)|null|
+|**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664](http://arxiv.org/abs/2405.07664)|null|
+|**2024-05-13**|**NoiseBench: Benchmarking the Impact of Real Label Noise on Named Entity Recognition**|Elena Merdjanovska et.al.|[2405.07609](http://arxiv.org/abs/2405.07609)|null|
+|**2024-05-13**|**Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents**|Juri Grosjean et.al.|[2405.07513](http://arxiv.org/abs/2405.07513)|null|
+|**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172](http://arxiv.org/abs/2405.07172)|null|
+|**2024-05-12**|**In The Wild Ellipse Parameter Estimation for Circular Dining Plates and Bowls**|Akil Pathiranage et.al.|[2405.07121](http://arxiv.org/abs/2405.07121)|null|
+|**2024-05-11**|**Selecting focused digital cohorts from social media using the metric backbone of biomedical knowledge graphs**|Ziqi Guo et.al.|[2405.07072](http://arxiv.org/abs/2405.07072)|null|
+|**2024-05-11**|**A framework of text-dependent speaker verification for chinese numerical string corpus**|Litong Zheng et.al.|[2405.07029](http://arxiv.org/abs/2405.07029)|null|
 |**2024-05-10**|**ExoplANETS-A: A VO database for host stars and planetary systems: The effect of XUV on planet atmospheres**|M. Morales-Calderón et.al.|[2405.06577](http://arxiv.org/abs/2405.06577)|null|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
 |**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524](http://arxiv.org/abs/2405.06524)|null|
