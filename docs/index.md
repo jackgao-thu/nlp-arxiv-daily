@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -43,7 +43,7 @@ layout: default
 |**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
-|**2024-05-13**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
+|**2024-05-14**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
 |**2024-05-13**|**An Efficient Multimodal Learning Framework to Comprehend Consumer Preferences Using BERT and Cross-Attention**|Junichiro Niimi et.al.|[2405.07435](http://arxiv.org/abs/2405.07435)|null|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-12**|**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**|Fatema Tuj Johora Faria et.al.|[2405.07338](http://arxiv.org/abs/2405.07338)|null|

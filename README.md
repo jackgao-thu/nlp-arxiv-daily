@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,7 +40,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|null|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
 
 ## Attention
 
@@ -51,7 +51,7 @@
 |**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
-|**2024-05-13**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
+|**2024-05-14**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
 |**2024-05-13**|**An Efficient Multimodal Learning Framework to Comprehend Consumer Preferences Using BERT and Cross-Attention**|Junichiro Niimi et.al.|[2405.07435](http://arxiv.org/abs/2405.07435)|null|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-12**|**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**|Fatema Tuj Johora Faria et.al.|[2405.07338](http://arxiv.org/abs/2405.07338)|null|
@@ -419,7 +419,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -913,7 +913,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
 
 ## Extraction
 
@@ -1268,7 +1268,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
