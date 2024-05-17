@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
 |**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|**[link](https://github.com/alevas/xai_similarity_transformers)**|
 |**2024-05-07**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News Detection**|Jasraj Singh et.al.|[2405.04165](http://arxiv.org/abs/2405.04165)|null|
 |**2024-05-12**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869](http://arxiv.org/abs/2405.03869)|null|
@@ -38,8 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284](http://arxiv.org/abs/2405.10284)|null|
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218](http://arxiv.org/abs/2405.10218)|null|
+|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
+|**2024-05-16**|**Learning from Observer Gaze:Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition**|Yuchen Zhou et.al.|[2405.09931](http://arxiv.org/abs/2405.09931)|null|
+|**2024-05-15**|**An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**|Renqi Chen et.al.|[2405.09585](http://arxiv.org/abs/2405.09585)|null|
 |**2024-05-15**|**Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling**|Gil Serrano et.al.|[2405.09428](http://arxiv.org/abs/2405.09428)|null|
-|**2024-05-15**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426](http://arxiv.org/abs/2405.09426)|null|
+|**2024-05-16**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426](http://arxiv.org/abs/2405.09426)|null|
 |**2024-05-15**|**Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning**|Junfeng Chen et.al.|[2405.09285](http://arxiv.org/abs/2405.09285)|null|
 |**2024-05-15**|**HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition**|Honghui Chen et.al.|[2405.09125](http://arxiv.org/abs/2405.09125)|null|
 |**2024-05-15**|**Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions**|Hitoshi Yoshioka et.al.|[2405.09081](http://arxiv.org/abs/2405.09081)|null|
@@ -430,6 +436,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|null|
+|**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
+|**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[2405.10145](http://arxiv.org/abs/2405.10145)|null|
+|**2024-05-16**|**Self-supervised feature distillation and design of experiments for efficient training of micromechanical deep learning surrogates**|Patxi Fernandez-Zelaia et.al.|[2405.10135](http://arxiv.org/abs/2405.10135)|null|
+|**2024-05-16**|**Continuous Transfer Learning for UAV Communication-aware Trajectory Design**|Chenrui Sun et.al.|[2405.10087](http://arxiv.org/abs/2405.10087)|null|
+|**2024-05-16**|**Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation**|Manh Luong et.al.|[2405.10084](http://arxiv.org/abs/2405.10084)|**[link](https://github.com/v-manhlt3/m-ltm-audio-text-retrieval)**|
+|**2024-05-16**|**MrRegNet: Multi-resolution Mask Guided Convolutional Neural Network for Medical Image Registration with Large Deformations**|Ruizhe Li et.al.|[2405.10068](http://arxiv.org/abs/2405.10068)|null|
+|**2024-05-16**|**Monaural speech enhancement on drone via Adapter based transfer learning**|Xingyu Chen et.al.|[2405.10022](http://arxiv.org/abs/2405.10022)|null|
+|**2024-05-16**|**Solving the enigma: Deriving optimal explanations of deep networks**|Michail Mamalakis et.al.|[2405.10008](http://arxiv.org/abs/2405.10008)|null|
+|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|null|
 |**2024-05-15**|**ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata**|Jonne Sälevä et.al.|[2405.09496](http://arxiv.org/abs/2405.09496)|null|
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
 |**2024-05-15**|**Non-contact Lung Disease Classification via OFDM-based Passive 6G ISAC Sensing**|Hasan Mujtaba Buttar et.al.|[2405.09458](http://arxiv.org/abs/2405.09458)|null|
@@ -942,6 +958,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
+|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
+|**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-15**|**ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata**|Jonne Sälevä et.al.|[2405.09496](http://arxiv.org/abs/2405.09496)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
 |**2024-05-14**|**Targeted Augmentation for Low-Resource Event Extraction**|Sijia Wang et.al.|[2405.08729](http://arxiv.org/abs/2405.08729)|**[link](https://github.com/VT-NLP/TALOR-EE)**|
