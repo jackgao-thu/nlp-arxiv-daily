@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284](http://arxiv.org/abs/2405.10284)|null|
 |**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218](http://arxiv.org/abs/2405.10218)|null|
-|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
+|**2024-05-17**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
 |**2024-05-16**|**Learning from Observer Gaze:Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition**|Yuchen Zhou et.al.|[2405.09931](http://arxiv.org/abs/2405.09931)|null|
 |**2024-05-15**|**An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**|Renqi Chen et.al.|[2405.09585](http://arxiv.org/abs/2405.09585)|**[link](https://github.com/RenqiChen/Genomic-Selection)**|
 |**2024-05-15**|**Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling**|Gil Serrano et.al.|[2405.09428](http://arxiv.org/abs/2405.09428)|**[link](https://github.com/GilSerrano/pinn-air)**|
@@ -959,7 +959,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
-|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
+|**2024-05-17**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
 |**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-15**|**ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata**|Jonne Sälevä et.al.|[2405.09496](http://arxiv.org/abs/2405.09496)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
