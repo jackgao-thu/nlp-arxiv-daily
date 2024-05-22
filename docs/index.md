@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|null|
+|**2024-05-21**|**AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.|[2405.12944](http://arxiv.org/abs/2405.12944)|**[link](https://github.com/bigD233/AMFD)**|
+|**2024-05-21**|**DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control**|Hong Chen et.al.|[2405.12796](http://arxiv.org/abs/2405.12796)|null|
+|**2024-05-21**|**Transformer in Touch: A Survey**|Jing Gao et.al.|[2405.12779](http://arxiv.org/abs/2405.12779)|null|
+|**2024-05-21**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
+|**2024-05-21**|**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**|Dongjie Yang et.al.|[2405.12532](http://arxiv.org/abs/2405.12532)|null|
+|**2024-05-21**|**GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems**|Zhenwei Wang et.al.|[2405.12475](http://arxiv.org/abs/2405.12475)|null|
+|**2024-05-21**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462](http://arxiv.org/abs/2405.12462)|null|
+|**2024-05-21**|**Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference**|Yonghao Liu et.al.|[2405.12434](http://arxiv.org/abs/2405.12434)|null|
+|**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202](http://arxiv.org/abs/2405.12202)|null|
 |**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|null|
@@ -455,6 +465,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Accelerating Resonance Searches via Signature-Oriented Pre-training**|Congqiao Li et.al.|[2405.12972](http://arxiv.org/abs/2405.12972)|null|
+|**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/abs/2405.12963)|null|
+|**2024-05-21**|**Pytorch-Wildlife: A Collaborative Deep Learning Framework for Conservation**|Andres Hernandez et.al.|[2405.12930](http://arxiv.org/abs/2405.12930)|**[link](https://github.com/microsoft/cameratraps)**|
+|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847](http://arxiv.org/abs/2405.12847)|null|
+|**2024-05-21**|**SmartFlow: Robotic Process Automation using LLMs**|Arushi Jain et.al.|[2405.12842](http://arxiv.org/abs/2405.12842)|null|
+|**2024-05-21**|**A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**|Xinyi Wang et.al.|[2405.12833](http://arxiv.org/abs/2405.12833)|null|
+|**2024-05-21**|**Deep LPPLS: Forecasting of temporal critical points in natural, engineering and financial systems**|Joshua Nielsen et.al.|[2405.12803](http://arxiv.org/abs/2405.12803)|null|
+|**2024-05-21**|**Artificial Intelligence Approaches for Predictive Maintenance in the Steel Industry: A Survey**|Jakub Jakubowski et.al.|[2405.12785](http://arxiv.org/abs/2405.12785)|null|
+|**2024-05-21**|**Blind Separation of Vibration Sources using Deep Learning and Deconvolution**|Igor Makienko et.al.|[2405.12774](http://arxiv.org/abs/2405.12774)|null|
+|**2024-05-21**|**Neural Operator for Accelerating Coronal Magnetic Field Model**|Yutao Du et.al.|[2405.12754](http://arxiv.org/abs/2405.12754)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Alzheimer's Magnetic Resonance Imaging Classification Using Deep and Meta-Learning Models**|Nida Nasir et.al.|[2405.12126](http://arxiv.org/abs/2405.12126)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
@@ -997,6 +1017,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656](http://arxiv.org/abs/2405.12656)|**[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)**|
+|**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630](http://arxiv.org/abs/2405.12630)|null|
+|**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442](http://arxiv.org/abs/2405.12442)|null|
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
 |**2024-05-20**|**Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus**|Fons Hartendorp et.al.|[2405.11941](http://arxiv.org/abs/2405.11941)|**[link](https://github.com/fonshartendorp/dutch_biomedical_entity_linking)**|
 |**2024-05-20**|**A Constraint-Enforcing Reward for Adversarial Attacks on Text Classifiers**|Tom Roth et.al.|[2405.11904](http://arxiv.org/abs/2405.11904)|null|
