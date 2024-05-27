@@ -47,6 +47,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration**|Gao Tianci et.al.|[2405.15562](http://arxiv.org/abs/2405.15562)|null|
+|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-24**|**Towards Precision Healthcare: Robust Fusion of Time Series and Image Data**|Ali Rasekh et.al.|[2405.15442](http://arxiv.org/abs/2405.15442)|null|
+|**2024-05-24**|**BiSup: Bidirectional Quantization Error Suppression for Large Language Models**|Minghui Zou et.al.|[2405.15346](http://arxiv.org/abs/2405.15346)|null|
+|**2024-05-24**|**Enhancing Generalized Fetal Brain MRI Segmentation using A Cascade Network with Depth-wise Separable Convolution and Attention Mechanism**|Zhigao Cai et.al.|[2405.15205](http://arxiv.org/abs/2405.15205)|null|
+|**2024-05-23**|**Linking In-context Learning in Transformers to Human Episodic Memory**|Li Ji-An et.al.|[2405.14992](http://arxiv.org/abs/2405.14992)|null|
 |**2024-05-23**|**Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images**|Jamie Burke et.al.|[2405.14453](http://arxiv.org/abs/2405.14453)|null|
 |**2024-05-23**|**LARS-VSA: A Vector Symbolic Architecture For Learning with Abstract Rules**|Mohamed Mejri et.al.|[2405.14436](http://arxiv.org/abs/2405.14436)|null|
 |**2024-05-23**|**M2ANET: Mobile Malaria Attention Network for efficient classification of plasmodium parasites in blood cells**|Salam Ahmed Ali et.al.|[2405.14242](http://arxiv.org/abs/2405.14242)|null|
@@ -485,6 +491,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-24**|**Anomalous Change Point Detection Using Probabilistic Predictive Coding**|Roelof G. Hup et.al.|[2405.15727](http://arxiv.org/abs/2405.15727)|null|
+|**2024-05-24**|**Information-theoretic Generalization Analysis for Expected Calibration Error**|Futoshi Futami et.al.|[2405.15709](http://arxiv.org/abs/2405.15709)|null|
+|**2024-05-24**|**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**|Michael Munn et.al.|[2405.15706](http://arxiv.org/abs/2405.15706)|null|
+|**2024-05-24**|**Sums: Sniffing Unknown Multiband Signals under Low Sampling Rates**|Jinbo Peng et.al.|[2405.15705](http://arxiv.org/abs/2405.15705)|null|
+|**2024-05-24**|**The Road Less Scheduled**|Aaron Defazio et.al.|[2405.15682](http://arxiv.org/abs/2405.15682)|**[link](https://github.com/facebookresearch/schedule_free)**|
+|**2024-05-24**|**Exposing Image Classifier Shortcuts with Counterfactual Frequency (CoF) Tables**|James Hinns et.al.|[2405.15661](http://arxiv.org/abs/2405.15661)|null|
+|**2024-05-24**|**HiddenSpeaker: Generate Imperceptible Unlearnable Audios for Speaker Verification System**|Zhisheng Zhang et.al.|[2405.15655](http://arxiv.org/abs/2405.15655)|null|
+|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|null|
+|**2024-05-24**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural Networks**|Felix Dangel et.al.|[2405.15603](http://arxiv.org/abs/2405.15603)|null|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
 |**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830](http://arxiv.org/abs/2405.14830)|null|
 |**2024-05-23**|**Scalable Optimization in the Modular Norm**|Tim Large et.al.|[2405.14813](http://arxiv.org/abs/2405.14813)|**[link](https://github.com/jxbz/modula)**|
@@ -1049,6 +1065,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Hybrid Context Retrieval Augmented Generation Pipeline: LLM-Augmented Knowledge Graphs and Vector Database for Accreditation Reporting Assistance**|Candace Edwards et.al.|[2405.15436](http://arxiv.org/abs/2405.15436)|**[link](https://github.com/cs-edwards/advrag)**|
+|**2024-05-24**|**A Planet Scale Spatial-Temporal Knowledge Graph Based On OpenStreetMap And H3 Grid**|Martin Böckling et.al.|[2405.15375](http://arxiv.org/abs/2405.15375)|null|
+|**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374](http://arxiv.org/abs/2405.15374)|null|
+|**2024-05-24**|**Question Answering models for information extraction from perovskite materials science literature**|M. Sipilä et.al.|[2405.15290](http://arxiv.org/abs/2405.15290)|null|
+|**2024-05-24**|**Cardinality Estimation on Hyper-relational Knowledge Graphs**|Fei Teng et.al.|[2405.15231](http://arxiv.org/abs/2405.15231)|null|
+|**2024-05-24**|**OptLLM: Optimal Assignment of Queries to Large Language Models**|Yueyue Liu et.al.|[2405.15130](http://arxiv.org/abs/2405.15130)|null|
 |**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831](http://arxiv.org/abs/2405.14831)|null|
 |**2024-05-23**|**Regressor-free Molecule Generation to Support Drug Response Prediction**|Kun Li et.al.|[2405.14536](http://arxiv.org/abs/2405.14536)|null|
 |**2024-05-23**|**Exploring Alignment in Shared Cross-lingual Spaces**|Basel Mousi et.al.|[2405.14535](http://arxiv.org/abs/2405.14535)|null|
