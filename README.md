@@ -47,6 +47,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429](http://arxiv.org/abs/2405.17429)|**[link](https://github.com/huang-yh/gaussianformer)**|
+|**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
+|**2024-05-27**|**Are Self-Attentions Effective for Time Series Forecasting?**|Dongbin Kim et.al.|[2405.16877](http://arxiv.org/abs/2405.16877)|null|
+|**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|null|
+|**2024-05-27**|**Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation**|Shuijing Liu et.al.|[2405.16830](http://arxiv.org/abs/2405.16830)|null|
+|**2024-05-27**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
+|**2024-05-26**|**Disentangling and Integrating Relational and Sensory Information in Transformer Architectures**|Awni Altabaa et.al.|[2405.16727](http://arxiv.org/abs/2405.16727)|null|
+|**2024-05-26**|**Compressing Lengthy Context With UltraGist**|Peitian Zhang et.al.|[2405.16635](http://arxiv.org/abs/2405.16635)|**[link](https://github.com/namespace-pt/ultragist)**|
+|**2024-05-26**|**Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model**|Yang Cao et.al.|[2405.16542](http://arxiv.org/abs/2405.16542)|null|
+|**2024-05-26**|**PPRSteg: Printing and Photography Robust QR Code Steganography via Attention Flow-Based Model**|Huayuan Ye et.al.|[2405.16414](http://arxiv.org/abs/2405.16414)|null|
 |**2024-05-24**|**Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration**|Gao Tianci et.al.|[2405.15562](http://arxiv.org/abs/2405.15562)|null|
 |**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
 |**2024-05-24**|**Towards Precision Healthcare: Robust Fusion of Time Series and Image Data**|Ali Rasekh et.al.|[2405.15442](http://arxiv.org/abs/2405.15442)|null|
@@ -491,6 +501,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Deep Learning Calabi-Yau four folds with hybrid and recurrent neural network architectures**|H. L. Dao et.al.|[2405.17406](http://arxiv.org/abs/2405.17406)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|null|
+|**2024-05-27**|**Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction**|Shengjie Liu et.al.|[2405.17262](http://arxiv.org/abs/2405.17262)|null|
+|**2024-05-27**|**A Retrospective of the Tutorial on Opportunities and Challenges of Online Deep Learning**|Cedric Kulbach et.al.|[2405.17222](http://arxiv.org/abs/2405.17222)|**[link](https://github.com/lucasczz/deep-river-demo-23)**|
+|**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
+|**2024-05-27**|**Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction**|Wenhao Zhang et.al.|[2405.17167](http://arxiv.org/abs/2405.17167)|null|
+|**2024-05-27**|**The Scaling Law in Stellar Light Curves**|Jia-Shu Pan et.al.|[2405.17156](http://arxiv.org/abs/2405.17156)|null|
+|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151](http://arxiv.org/abs/2405.17151)|null|
+|**2024-05-27**|**Deep Learning-based Joint Channel Prediction and Multibeam Precoding for LEO Satellite Internet of Things**|Ming Ying et.al.|[2405.17150](http://arxiv.org/abs/2405.17150)|null|
+|**2024-05-27**|**MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction**|Xiaohong Fan et.al.|[2405.17141](http://arxiv.org/abs/2405.17141)|**[link](https://github.com/fanxiaohong/mvms-rcn)**|
 |**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
 |**2024-05-24**|**Anomalous Change Point Detection Using Probabilistic Predictive Coding**|Roelof G. Hup et.al.|[2405.15727](http://arxiv.org/abs/2405.15727)|null|
 |**2024-05-24**|**Information-theoretic Generalization Analysis for Expected Calibration Error**|Futoshi Futami et.al.|[2405.15709](http://arxiv.org/abs/2405.15709)|null|
@@ -1065,6 +1085,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|null|
+|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
+|**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249](http://arxiv.org/abs/2405.17249)|**[link](https://github.com/ionutiga/llms-for-kgc)**|
+|**2024-05-27**|**Your decision path does matter in pre-training industrial recommenders with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132](http://arxiv.org/abs/2405.17132)|null|
+|**2024-05-27**|**Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models**|Xuemei Gu et.al.|[2405.17044](http://arxiv.org/abs/2405.17044)|null|
+|**2024-05-27**|**Uncertainty Management in the Construction of Knowledge Graphs: a Survey**|Lucas Jarnac et.al.|[2405.16929](http://arxiv.org/abs/2405.16929)|null|
+|**2024-05-27**|**Predicting from a Different Perspective in Re-ranking Model for Inductive Knowledge Graph Completion**|Yuki Iwamoto et.al.|[2405.16902](http://arxiv.org/abs/2405.16902)|null|
+|**2024-05-27**|**Unsupervised Generative Feature Transformation via Graph Contrastive Pre-training and Multi-objective Fine-tuning**|Wangyang Ying et.al.|[2405.16879](http://arxiv.org/abs/2405.16879)|null|
+|**2024-05-27**|**Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2405.16869](http://arxiv.org/abs/2405.16869)|**[link](https://github.com/zjukg/momok)**|
 |**2024-05-24**|**Hybrid Context Retrieval Augmented Generation Pipeline: LLM-Augmented Knowledge Graphs and Vector Database for Accreditation Reporting Assistance**|Candace Edwards et.al.|[2405.15436](http://arxiv.org/abs/2405.15436)|**[link](https://github.com/cs-edwards/advrag)**|
 |**2024-05-24**|**A Planet Scale Spatial-Temporal Knowledge Graph Based On OpenStreetMap And H3 Grid**|Martin Böckling et.al.|[2405.15375](http://arxiv.org/abs/2405.15375)|null|
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374](http://arxiv.org/abs/2405.15374)|null|
