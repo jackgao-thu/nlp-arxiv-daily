@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -1151,7 +1151,7 @@ layout: default
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163](http://arxiv.org/abs/2405.20163)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877](http://arxiv.org/abs/2405.19877)|null|
-|**2024-05-30**|**Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona**|Jeiyoon Park et.al.|[2405.19778](http://arxiv.org/abs/2405.19778)|**[link](https://github.com/jeiyoon/charactergpt)**|
+|**2024-06-01**|**Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona**|Jeiyoon Park et.al.|[2405.19778](http://arxiv.org/abs/2405.19778)|**[link](https://github.com/jeiyoon/charactergpt)**|
 |**2024-05-30**|**The Kosmosis Use-Case of Crypto Rug Pull Detection and Prevention**|Philipp Stangl et.al.|[2405.19762](http://arxiv.org/abs/2405.19762)|null|
 |**2024-05-30**|**Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback**|Jingwei Sun et.al.|[2405.19686](http://arxiv.org/abs/2405.19686)|null|
 |**2024-05-30**|**A Novel Approach for Automated Design Information Mining from Issue Logs**|Jiuang Zhao et.al.|[2405.19623](http://arxiv.org/abs/2405.19623)|null|
