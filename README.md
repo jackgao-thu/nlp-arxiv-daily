@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**|Wenzhuo Tang et.al.|[2406.01899](http://arxiv.org/abs/2406.01899)|null|
 |**2024-05-29**|**Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting**|Boje Deforce et.al.|[2405.18913](http://arxiv.org/abs/2405.18913)|null|
 |**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
 |**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|**[link](https://github.com/alevas/xai_similarity_transformers)**|
@@ -48,6 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
+|**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|null|
+|**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|null|
+|**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
+|**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|null|
+|**2024-06-04**|**Iteration Head: A Mechanistic Study of Chain-of-Thought**|Vivien Cabannes et.al.|[2406.02128](http://arxiv.org/abs/2406.02128)|null|
+|**2024-06-04**|**Nutrition Estimation for Dietary Management: A Transformer Approach with Depth Sensing**|Zhengyi Kwan et.al.|[2406.01938](http://arxiv.org/abs/2406.01938)|null|
+|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|null|
+|**2024-06-03**|**Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks**|Hasan Zan et.al.|[2406.01834](http://arxiv.org/abs/2406.01834)|null|
+|**2024-06-03**|**CAFO: Feature-Centric Explanation on Time Series Classification**|Jaeho Kim et.al.|[2406.01833](http://arxiv.org/abs/2406.01833)|**[link](https://github.com/eai-lab/cafo)**|
 |**2024-06-03**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
 |**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022](http://arxiv.org/abs/2405.21022)|null|
 |**2024-05-31**|**Automatic Channel Pruning for Multi-Head Attention**|Eunho Lee et.al.|[2405.20867](http://arxiv.org/abs/2405.20867)|null|
@@ -532,6 +543,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
+|**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443](http://arxiv.org/abs/2406.02443)|**[link](https://github.com/parampreetsingh97/pim_v1_exai)**|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
+|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|null|
+|**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
+|**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
+|**2024-06-04**|**$\textit{Kilonova Seekers}$ : the GOTO project for real-time citizen science in time-domain astrophysics**|T. L. Killestein et.al.|[2406.02334](http://arxiv.org/abs/2406.02334)|null|
+|**2024-06-04**|**Towards Neural Architecture Search for Transfer Learning in 6G Networks**|Adam Orucu et.al.|[2406.02333](http://arxiv.org/abs/2406.02333)|null|
+|**2024-06-04**|**Continual Unsupervised Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2406.02327](http://arxiv.org/abs/2406.02327)|null|
+|**2024-06-04**|**A deep-learning-based MAC for integrating channel access, rate adaptation and channel switch**|Jiantao Xin et.al.|[2406.02291](http://arxiv.org/abs/2406.02291)|null|
 |**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|**[link](https://github.com/state-spaces/mamba)**|
 |**2024-05-31**|**An Organic Weed Control Prototype using Directed Energy and Deep Learning**|Deng Cao et.al.|[2405.21056](http://arxiv.org/abs/2405.21056)|null|
 |**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
@@ -1156,6 +1177,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205](http://arxiv.org/abs/2406.02205)|null|
+|**2024-06-04**|**Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models**|Qingkai Min et.al.|[2406.02148](http://arxiv.org/abs/2406.02148)|**[link](https://github.com/taolusi/secure)**|
+|**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110](http://arxiv.org/abs/2406.02110)|null|
+|**2024-06-04**|**Assessing the Performance of Chinese Open Source Large Language Models in Information Extraction Tasks**|Yida Cai et.al.|[2406.02079](http://arxiv.org/abs/2406.02079)|null|
+|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
+|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|null|
+|**2024-06-03**|**From Latent to Lucid: Transforming Knowledge Graph Embeddings into Interpretable Structures**|Christoph Wehner et.al.|[2406.01759](http://arxiv.org/abs/2406.01759)|null|
+|**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422](http://arxiv.org/abs/2406.01422)|null|
+|**2024-06-03**|**Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery**|Zechang Sun et.al.|[2406.01391](http://arxiv.org/abs/2406.01391)|null|
+|**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311](http://arxiv.org/abs/2406.01311)|null|
 |**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585](http://arxiv.org/abs/2405.20585)|null|
 |**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565](http://arxiv.org/abs/2405.20565)|null|
 |**2024-06-03**|**DepsRAG: Towards Managing Software Dependencies using Large Language Models**|Mohannad Alhanahnah et.al.|[2405.20455](http://arxiv.org/abs/2405.20455)|null|
