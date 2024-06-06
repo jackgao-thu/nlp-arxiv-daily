@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 ## Attention
 
@@ -51,7 +51,7 @@
 |---|---|---|---|---|
 |**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
 |**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|null|
-|**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|null|
+|**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|**[link](https://github.com/remigenet/TKAT)**|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
 |**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|null|
 |**2024-06-04**|**Iteration Head: A Mechanistic Study of Chain-of-Thought**|Vivien Cabannes et.al.|[2406.02128](http://arxiv.org/abs/2406.02128)|null|
@@ -537,7 +537,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -545,8 +545,8 @@
 |---|---|---|---|---|
 |**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443](http://arxiv.org/abs/2406.02443)|**[link](https://github.com/parampreetsingh97/pim_v1_exai)**|
-|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
-|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|null|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
+|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|**[link](https://github.com/marc-harary/kirigami)**|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
 |**2024-06-04**|**$\textit{Kilonova Seekers}$ : the GOTO project for real-time citizen science in time-domain astrophysics**|T. L. Killestein et.al.|[2406.02334](http://arxiv.org/abs/2406.02334)|null|
@@ -1171,7 +1171,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 ## Extraction
 
@@ -1181,7 +1181,7 @@
 |**2024-06-04**|**Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models**|Qingkai Min et.al.|[2406.02148](http://arxiv.org/abs/2406.02148)|**[link](https://github.com/taolusi/secure)**|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110](http://arxiv.org/abs/2406.02110)|null|
 |**2024-06-04**|**Assessing the Performance of Chinese Open Source Large Language Models in Information Extraction Tasks**|Yida Cai et.al.|[2406.02079](http://arxiv.org/abs/2406.02079)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
+|**2024-06-05**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
 |**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|null|
 |**2024-06-03**|**From Latent to Lucid: Transforming Knowledge Graph Embeddings into Interpretable Structures**|Christoph Wehner et.al.|[2406.01759](http://arxiv.org/abs/2406.01759)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422](http://arxiv.org/abs/2406.01422)|null|
@@ -1617,7 +1617,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
