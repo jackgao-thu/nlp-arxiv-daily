@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486](http://arxiv.org/abs/2406.06486)|null|
+|**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479](http://arxiv.org/abs/2406.06479)|null|
+|**2024-06-10**|**SYM3D: Learning Symmetric Triplanes for Better 3D-Awareness of GANs**|Jing Yang et.al.|[2406.06432](http://arxiv.org/abs/2406.06432)|null|
+|**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366](http://arxiv.org/abs/2406.06366)|null|
+|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
+|**2024-06-10**|**An Effective-Efficient Approach for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2406.06187](http://arxiv.org/abs/2406.06187)|null|
+|**2024-06-10**|**Can I understand what I create? Self-Knowledge Evaluation of Large Language Models**|Zhiquan Tan et.al.|[2406.06140](http://arxiv.org/abs/2406.06140)|null|
+|**2024-06-10**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
+|**2024-06-10**|**Learning Physical Simulation with Message Passing Transformer**|Zeyi Xu et.al.|[2406.06060](http://arxiv.org/abs/2406.06060)|null|
 |**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038](http://arxiv.org/abs/2406.05038)|null|
 |**2024-06-07**|**UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**|Juncheng Liu et.al.|[2406.04975](http://arxiv.org/abs/2406.04975)|null|
 |**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
@@ -555,6 +565,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518](http://arxiv.org/abs/2406.06518)|null|
+|**2024-06-10**|**Time Series Analysis: yesterday, today, tomorrow**|Igor Mackarov et.al.|[2406.06453](http://arxiv.org/abs/2406.06453)|null|
+|**2024-06-10**|**An Improved Empirical Fisher Approximation for Natural Gradient Descent**|Xiaodong Wu et.al.|[2406.06420](http://arxiv.org/abs/2406.06420)|null|
+|**2024-06-10**|**INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition**|Andreas Triantafyllopoulos et.al.|[2406.06401](http://arxiv.org/abs/2406.06401)|null|
+|**2024-06-10**|**Contrastive learning of T cell receptor representations**|Yuta Nagano et.al.|[2406.06397](http://arxiv.org/abs/2406.06397)|null|
+|**2024-06-10**|**FPN-IAIA-BL: A Multi-Scale Interpretable Deep Learning Model for Classification of Mass Margins in Digital Mammography**|Julia Yang et.al.|[2406.06386](http://arxiv.org/abs/2406.06386)|null|
+|**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
+|**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366](http://arxiv.org/abs/2406.06366)|null|
+|**2024-06-10**|**Navigating Unknowns: Deep Learning Robustness for Gravitational Wave Signal Reconstruction**|Chayan Chatterjee et.al.|[2406.06324](http://arxiv.org/abs/2406.06324)|null|
 |**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128](http://arxiv.org/abs/2406.05128)|**[link](https://github.com/yoyololicon/torchlpc)**|
 |**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
 |**2024-06-07**|**Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach**|Difan Deng et.al.|[2406.05088](http://arxiv.org/abs/2406.05088)|null|
@@ -1217,7 +1237,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-07**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|null|
+|**2024-06-10**|**Robust Latent Representation Tuning for Image-text Classification**|Hao Sun et.al.|[2406.06048](http://arxiv.org/abs/2406.06048)|null|
+|**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032](http://arxiv.org/abs/2406.06032)|null|
+|**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027](http://arxiv.org/abs/2406.06027)|null|
+|**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
+|**2024-06-08**|**Fighting Against the Repetitive Training and Sample Dependency Problem in Few-shot Named Entity Recognition**|Chang Tian et.al.|[2406.05460](http://arxiv.org/abs/2406.05460)|null|
+|**2024-06-08**|**From Analog to Digital: Multi-Order Digital Joint Coding-Modulation for Semantic Communication**|Guangyi Zhang et.al.|[2406.05437](http://arxiv.org/abs/2406.05437)|null|
+|**2024-06-08**|**Toward Reliable Ad-hoc Scientific Information Extraction: A Case Study on Two Materials Datasets**|Satanu Ghosh et.al.|[2406.05348](http://arxiv.org/abs/2406.05348)|null|
+|**2024-06-08**|**DeviceBERT: Applied Transfer Learning With Targeted Annotations and Vocabulary Enrichment to Identify Medical Device and Component Terminology in FDA Recall Summaries**|Miriam Farrington et.al.|[2406.05307](http://arxiv.org/abs/2406.05307)|**[link](https://github.com/mmfarrington/devicebert-ner-project)**|
+|**2024-06-10**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|null|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989](http://arxiv.org/abs/2406.04989)|null|
 |**2024-06-07**|**ComplexTempQA: A Large-Scale Dataset for Complex Temporal Question Answering**|Raphael Gruber et.al.|[2406.04866](http://arxiv.org/abs/2406.04866)|**[link](https://github.com/datascienceuibk/complextempqa)**|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|null|
