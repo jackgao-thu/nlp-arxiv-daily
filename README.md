@@ -49,6 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Vision Model Pre-training on Interleaved Image-Text Data via Latent Compression Learning**|Chenyu Yang et.al.|[2406.07543](http://arxiv.org/abs/2406.07543)|**[link](https://github.com/opengvlab/lcl)**|
+|**2024-06-11**|**Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling**|Liliang Ren et.al.|[2406.07522](http://arxiv.org/abs/2406.07522)|null|
+|**2024-06-11**|**ReduceFormer: Attention with Tensor Reduction by Summation**|John Yang et.al.|[2406.07488](http://arxiv.org/abs/2406.07488)|null|
+|**2024-06-11**|**When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models**|Haoran You et.al.|[2406.07368](http://arxiv.org/abs/2406.07368)|**[link](https://github.com/gatech-eic/linearized-llm)**|
+|**2024-06-11**|**Dynamical Mean-Field Theory of Self-Attention Neural Networks**|Ángel Poc-López et.al.|[2406.07247](http://arxiv.org/abs/2406.07247)|null|
+|**2024-06-11**|**MeMSVD: Long-Range Temporal Structure Capturing Using Incremental SVD**|Ioanna Ntinou et.al.|[2406.07191](http://arxiv.org/abs/2406.07191)|null|
+|**2024-06-11**|**Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology**|Huahui Yi et.al.|[2406.07078](http://arxiv.org/abs/2406.07078)|**[link](https://github.com/huahuiyi/mmdp)**|
+|**2024-06-11**|**Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Model**|Hongbin Zhang et.al.|[2406.07036](http://arxiv.org/abs/2406.07036)|**[link](https://github.com/AzureStarz/paying_attention_to_the_source)**|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
 |**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486](http://arxiv.org/abs/2406.06486)|null|
 |**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479](http://arxiv.org/abs/2406.06479)|null|
@@ -575,6 +583,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
+|**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
+|**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484](http://arxiv.org/abs/2406.07484)|null|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
+|**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456](http://arxiv.org/abs/2406.07456)|**[link](https://github.com/alirezaafzalaghaei/fKAN)**|
+|**2024-06-11**|**DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting**|Yuxuan Shu et.al.|[2406.07438](http://arxiv.org/abs/2406.07438)|null|
+|**2024-06-11**|**GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**|Tonghan Wang et.al.|[2406.07428](http://arxiv.org/abs/2406.07428)|null|
+|**2024-06-11**|**Clever Hans Effect Found in Automatic Detection of Alzheimer's Disease through Speech**|Yin-Long Liu et.al.|[2406.07410](http://arxiv.org/abs/2406.07410)|null|
+|**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402](http://arxiv.org/abs/2406.07402)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
 |**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518](http://arxiv.org/abs/2406.06518)|null|
 |**2024-06-10**|**Time Series Analysis: yesterday, today, tomorrow**|Igor Mackarov et.al.|[2406.06453](http://arxiv.org/abs/2406.06453)|null|
@@ -1249,6 +1267,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
+|**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402](http://arxiv.org/abs/2406.07402)|null|
+|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
+|**2024-06-11**|**Guiding Catalogue Enrichment with User Queries**|Yupei Du et.al.|[2406.07098](http://arxiv.org/abs/2406.07098)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|null|
+|**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034](http://arxiv.org/abs/2406.07034)|**[link](https://github.com/kjh9503/caqr)**|
+|**2024-06-11**|**Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models**|Zhenyi Lu et.al.|[2406.07001](http://arxiv.org/abs/2406.07001)|**[link](https://github.com/chuge0335/pc-cot)**|
+|**2024-06-10**|**SecureNet: A Comparative Study of DeBERTa and Large Language Models for Phishing Detection**|Sakshi Mahendru et.al.|[2406.06663](http://arxiv.org/abs/2406.06663)|null|
+|**2024-06-10**|**Harnessing AI for efficient analysis of complex policy documents: a case study of Executive Order 14110**|Mark A. Kramer et.al.|[2406.06657](http://arxiv.org/abs/2406.06657)|null|
 |**2024-06-10**|**Robust Latent Representation Tuning for Image-text Classification**|Hao Sun et.al.|[2406.06048](http://arxiv.org/abs/2406.06048)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032](http://arxiv.org/abs/2406.06032)|null|
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027](http://arxiv.org/abs/2406.06027)|null|
