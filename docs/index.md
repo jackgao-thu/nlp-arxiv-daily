@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -41,6 +41,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Memory-Efficient Sparse Pyramid Attention Networks for Whole Slide Image Analysis**|Weiyi Wu et.al.|[2406.09333](http://arxiv.org/abs/2406.09333)|null|
+|**2024-06-13**|**Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**|Kaavya Rekanar et.al.|[2406.09203](http://arxiv.org/abs/2406.09203)|null|
+|**2024-06-13**|**Adaptive Slot Attention: Object Discovery with Dynamic Slot Number**|Ke Fan et.al.|[2406.09196](http://arxiv.org/abs/2406.09196)|null|
+|**2024-06-13**|**EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts**|Yucheng Han et.al.|[2406.09162](http://arxiv.org/abs/2406.09162)|null|
+|**2024-06-13**|**Contextual Distillation Model for Diversified Recommendation**|Fan Li et.al.|[2406.09021](http://arxiv.org/abs/2406.09021)|null|
+|**2024-06-13**|**AMSA-UNet: An Asymmetric Multiple Scales U-net Based on Self-attention for Deblurring**|Yingying Wang et.al.|[2406.09015](http://arxiv.org/abs/2406.09015)|null|
+|**2024-06-13**|**SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search**|Yize Sun et.al.|[2406.08882](http://arxiv.org/abs/2406.08882)|null|
+|**2024-06-13**|**Research on Optimization of Natural Language Processing Model Based on Multimodal Deep Learning**|Dan Sun et.al.|[2406.08838](http://arxiv.org/abs/2406.08838)|null|
+|**2024-06-13**|**AGFA-Net: Attention-Guided and Feature-Aggregated Network for Coronary Artery Segmentation using Computed Tomography Angiography**|Xinyun Liu et.al.|[2406.08724](http://arxiv.org/abs/2406.08724)|null|
 |**2024-06-12**|**Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization**|Fengxiao Tang et.al.|[2406.08305](http://arxiv.org/abs/2406.08305)|null|
 |**2024-06-13**|**Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences**|Zicheng Liu et.al.|[2406.08128](http://arxiv.org/abs/2406.08128)|null|
 |**2024-06-12**|**Incremental Learning and Self-Attention Mechanisms Improve Neural System Identification**|Isaac Lin et.al.|[2406.07843](http://arxiv.org/abs/2406.07843)|null|
@@ -577,6 +586,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Why Warmup the Learning Rate? Underlying Mechanisms and Improvements**|Dayal Singh Kalra et.al.|[2406.09405](http://arxiv.org/abs/2406.09405)|null|
+|**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393](http://arxiv.org/abs/2406.09393)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
+|**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|null|
+|**2024-06-13**|**You Don't Need Data-Augmentation in Self-Supervised Learning**|Théo Moutakanni et.al.|[2406.09294](http://arxiv.org/abs/2406.09294)|null|
+|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
+|**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168](http://arxiv.org/abs/2406.09168)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
+|**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167](http://arxiv.org/abs/2406.09167)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
+|**2024-06-13**|**ALPHAGMUT: A Rationale-Guided Alpha Shape Graph Neural Network to Evaluate Mutation Effects**|Boshen Wang et.al.|[2406.09159](http://arxiv.org/abs/2406.09159)|null|
 |**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484](http://arxiv.org/abs/2406.08484)|null|
 |**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473](http://arxiv.org/abs/2406.08473)|**[link](https://github.com/anthonyzhou-1/pretraining_pdes)**|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
@@ -1269,6 +1288,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393](http://arxiv.org/abs/2406.09393)|null|
+|**2024-06-13**|**Master of Disaster: A Disaster-Related Event Monitoring System From News Streams**|Junbo Huang et.al.|[2406.09323](http://arxiv.org/abs/2406.09323)|null|
+|**2024-06-13**|**Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models**|Christopher Schröder et.al.|[2406.09206](http://arxiv.org/abs/2406.09206)|null|
+|**2024-06-13**|**Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation**|Franz Georg Listl et.al.|[2406.09042](http://arxiv.org/abs/2406.09042)|null|
+|**2024-06-13**|**Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations**|Jun-Woo Kim et.al.|[2406.08718](http://arxiv.org/abs/2406.08718)|null|
+|**2024-06-12**|**Fine-Tuned 'Small' LLMs (Still) Significantly Outperform Zero-Shot Generative AI Models in Text Classification**|Martin Juan José Bucher et.al.|[2406.08660](http://arxiv.org/abs/2406.08660)|null|
 |**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|**[link](https://github.com/msorkhpar/wiki-entity-summarization-preprocessor)**|
 |**2024-06-12**|**Practical, Automated Scenario-based Mobile App Testing**|Shengcheng Yu et.al.|[2406.08340](http://arxiv.org/abs/2406.08340)|null|
 |**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223](http://arxiv.org/abs/2406.08223)|null|
