@@ -49,6 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|null|
+|**2024-06-17**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452](http://arxiv.org/abs/2406.11452)|null|
+|**2024-06-17**|**Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks**|Peter Samoaa et.al.|[2406.11437](http://arxiv.org/abs/2406.11437)|**[link](https://github.com/petersamoaa/tree_based_nn_error_analysis)**|
+|**2024-06-17**|**DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer**|Keon Lee et.al.|[2406.11427](http://arxiv.org/abs/2406.11427)|null|
+|**2024-06-17**|**Skip-Layer Attention: Bridging Abstract and Detailed Dependencies in Transformers**|Qian Chen et.al.|[2406.11274](http://arxiv.org/abs/2406.11274)|null|
+|**2024-06-17**|**YOLO9tr: A Lightweight Model for Pavement Damage Detection Utilizing a Generalized Efficient Layer Aggregation Network and Attention Mechanism**|Sompote Youwai et.al.|[2406.11254](http://arxiv.org/abs/2406.11254)|null|
+|**2024-06-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al.|[2406.10907](http://arxiv.org/abs/2406.10907)|null|
+|**2024-06-16**|**Breaking the Attention Bottleneck**|Kalle Hilsenbek et.al.|[2406.10906](http://arxiv.org/abs/2406.10906)|**[link](https://gitlab.com/bachstelze/causal_generation)**|
+|**2024-06-16**|**Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution**|Cuixin Yang et.al.|[2406.10869](http://arxiv.org/abs/2406.10869)|null|
+|**2024-06-16**|**LAIP: Learning Local Alignment from Image-Phrase Modeling for Text-based Person Search**|Yu Wu et.al.|[2406.10845](http://arxiv.org/abs/2406.10845)|null|
 |**2024-06-14**|**SSTFB: Leveraging self-supervised pretext learning and temporal self-attention with feature branching for real-time video polyp segmentation**|Ziang Xu et.al.|[2406.10200](http://arxiv.org/abs/2406.10200)|null|
 |**2024-06-14**|**Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency**|Weide Liu et.al.|[2406.10175](http://arxiv.org/abs/2406.10175)|null|
 |**2024-06-14**|**ECGMamba: Towards Efficient ECG Classification with BiSSM**|Yupeng Qiang et.al.|[2406.10098](http://arxiv.org/abs/2406.10098)|null|
@@ -603,6 +613,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Spectral Introspection Identifies Group Training Dynamics in Deep Neural Networks for Neuroimaging**|Bradley T. Baker et.al.|[2406.11825](http://arxiv.org/abs/2406.11825)|null|
+|**2024-06-17**|**Faces of Experimental Pain: Transferability of Deep Learned Heat Pain Features to Electrical Pain**|Pooja Prajod et.al.|[2406.11808](http://arxiv.org/abs/2406.11808)|null|
+|**2024-06-17**|**Deep Learning methodology for the identification of wood species using high-resolution macroscopic images**|David Herrera-Poyatos et.al.|[2406.11772](http://arxiv.org/abs/2406.11772)|null|
+|**2024-06-17**|**Is Efficient PAC Learning Possible with an Oracle That Responds 'Yes' or 'No'?**|Constantinos Daskalakis et.al.|[2406.11667](http://arxiv.org/abs/2406.11667)|null|
+|**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
+|**2024-06-17**|**SeamPose: Repurposing Seams as Capacitive Sensors in a Shirt for Upper-Body Pose Tracking**|Tianhong Catherine Yu et.al.|[2406.11645](http://arxiv.org/abs/2406.11645)|null|
+|**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641](http://arxiv.org/abs/2406.11641)|null|
+|**2024-06-17**|**Model-Based Deep Learning for Music Information Research**|Gael Richard et.al.|[2406.11540](http://arxiv.org/abs/2406.11540)|null|
+|**2024-06-17**|**ESI-GAL: EEG Source Imaging-based Kinemaics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500](http://arxiv.org/abs/2406.11500)|null|
+|**2024-06-17**|**RMFA-Net: A Neural ISP for Real RAW to RGB Image Reconstruction**|Fei Li et.al.|[2406.11469](http://arxiv.org/abs/2406.11469)|null|
 |**2024-06-14**|**Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency**|Weide Liu et.al.|[2406.10175](http://arxiv.org/abs/2406.10175)|null|
 |**2024-06-14**|**Misam: Using ML in Dataflow Selection of Sparse-Sparse Matrix Multiplication**|Sanjali Yadav et.al.|[2406.10166](http://arxiv.org/abs/2406.10166)|null|
 |**2024-06-14**|**Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks**|Matthias König et.al.|[2406.10154](http://arxiv.org/abs/2406.10154)|null|
@@ -1317,6 +1337,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Wide Area VISTA Extra-galactic Survey (WAVES): Unsupervised star-galaxy separation on the WAVES-Wide photometric input catalogue using UMAP and ${\rm{\scriptsize HDBSCAN}}$**|Todd L. Cook et.al.|[2406.11611](http://arxiv.org/abs/2406.11611)|null|
+|**2024-06-17**|**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**|Chuyan Xiong et.al.|[2406.11548](http://arxiv.org/abs/2406.11548)|null|
+|**2024-06-17**|**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2406.11460](http://arxiv.org/abs/2406.11460)|**[link](https://github.com/jyfang6/trace)**|
+|**2024-06-17**|**Adaptive Reinforcement Learning Planning: Harnessing Large Language Models for Complex Information Extraction**|Zepeng Ding et.al.|[2406.11455](http://arxiv.org/abs/2406.11455)|null|
+|**2024-06-17**|**Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report**|Franz Louis Cesista et.al.|[2406.11403](http://arxiv.org/abs/2406.11403)|**[link](https://github.com/leloykun/mmfm-challenge)**|
+|**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400](http://arxiv.org/abs/2406.11400)|null|
+|**2024-06-17**|**An Empirical Investigation of Matrix Factorization Methods for Pre-trained Transformers**|Ashim Gupta et.al.|[2406.11307](http://arxiv.org/abs/2406.11307)|null|
+|**2024-06-17**|**Beyond Boundaries: Learning a Universal Entity Taxonomy across Datasets and Languages for Open Named Entity Recognition**|Yuming Yang et.al.|[2406.11192](http://arxiv.org/abs/2406.11192)|**[link](https://github.com/umeannever/b2ner)**|
+|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162](http://arxiv.org/abs/2406.11162)|null|
+|**2024-06-17**|**Move Beyond Triples: Contextual Knowledge Graph Representation and Reasoning**|Chengjin Xu et.al.|[2406.11160](http://arxiv.org/abs/2406.11160)|null|
 |**2024-06-14**|**Improving rule mining via embedding-based link prediction**|N'Dah Jean Kouagou et.al.|[2406.10144](http://arxiv.org/abs/2406.10144)|**[link](https://github.com/jean-kouagou/enhancedrulelearning)**|
 |**2024-06-14**|**First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models**|Enming Zhang et.al.|[2406.10057](http://arxiv.org/abs/2406.10057)|null|
 |**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994](http://arxiv.org/abs/2406.09994)|null|
