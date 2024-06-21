@@ -45,7 +45,7 @@ layout: default
 |**2024-06-20**|**Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach**|Mohamed Fadhlallah Guerri et.al.|[2406.14120](http://arxiv.org/abs/2406.14120)|null|
 |**2024-06-20**|**Self-Attention in Transformer Networks Explains Monkeys' Gaze Pattern in Pac-Man Game**|Zhongqiao Lin et.al.|[2406.14100](http://arxiv.org/abs/2406.14100)|null|
 |**2024-06-20**|**Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields**|Jintong Hu et.al.|[2406.14052](http://arxiv.org/abs/2406.14052)|null|
-|**2024-06-20**|**Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition**|Yimin Zhao et.al.|[2406.14014](http://arxiv.org/abs/2406.14014)|null|
+|**2024-06-20**|**Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition**|Yimin Zhao et.al.|[2406.14014](http://arxiv.org/abs/2406.14014)|**[link](https://github.com/ztony0712/MCA)**|
 |**2024-06-19**|**A Primal-Dual Framework for Transformers and Neural Networks**|Tan M. Nguyen et.al.|[2406.13781](http://arxiv.org/abs/2406.13781)|null|
 |**2024-06-19**|**Elliptical Attention**|Stefan K. Nielsen et.al.|[2406.13770](http://arxiv.org/abs/2406.13770)|null|
 |**2024-06-19**|**Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis**|Rachel S. Y. Teo et.al.|[2406.13762](http://arxiv.org/abs/2406.13762)|null|
