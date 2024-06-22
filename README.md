@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|null|
+|**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
 |**2024-06-04**|**Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**|Wenzhuo Tang et.al.|[2406.01899](http://arxiv.org/abs/2406.01899)|**[link](https://github.com/wenzhuotang/uniaug)**|
 |**2024-05-29**|**Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting**|Boje Deforce et.al.|[2405.18913](http://arxiv.org/abs/2405.18913)|null|
 |**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
@@ -44,7 +44,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## Attention
 
@@ -627,14 +627,14 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-20**|**Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning**|Adriano Vinhas et.al.|[2406.14525](http://arxiv.org/abs/2406.14525)|null|
-|**2024-06-20**|**rKAN: Rational Kolmogorov-Arnold Networks**|Alireza Afzal Aghaei et.al.|[2406.14495](http://arxiv.org/abs/2406.14495)|**[link](https://github.com/alirezaafzalaghaei/rkan)**|
+|**2024-06-20**|**rKAN: Rational Kolmogorov-Arnold Networks**|Alireza Afzal Aghaei et.al.|[2406.14495](http://arxiv.org/abs/2406.14495)|null|
 |**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455](http://arxiv.org/abs/2406.14455)|null|
 |**2024-06-20**|**Learning Binary Color Filter Arrays with Trainable Hard Thresholding**|Cemre Omer Ayna et.al.|[2406.14421](http://arxiv.org/abs/2406.14421)|null|
 |**2024-06-20**|**WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark**|Tao Han et.al.|[2406.14399](http://arxiv.org/abs/2406.14399)|**[link](https://github.com/taohan10200/weather-5k)**|
@@ -1371,7 +1371,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## Extraction
 
@@ -1912,7 +1912,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|null|
+|**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
 |**2024-06-04**|**Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**|Wenzhuo Tang et.al.|[2406.01899](http://arxiv.org/abs/2406.01899)|**[link](https://github.com/wenzhuotang/uniaug)**|
 |**2024-05-29**|**Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting**|Boje Deforce et.al.|[2405.18913](http://arxiv.org/abs/2405.18913)|null|
 |**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
@@ -624,7 +624,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning**|Adriano Vinhas et.al.|[2406.14525](http://arxiv.org/abs/2406.14525)|null|
-|**2024-06-20**|**rKAN: Rational Kolmogorov-Arnold Networks**|Alireza Afzal Aghaei et.al.|[2406.14495](http://arxiv.org/abs/2406.14495)|**[link](https://github.com/alirezaafzalaghaei/rkan)**|
+|**2024-06-20**|**rKAN: Rational Kolmogorov-Arnold Networks**|Alireza Afzal Aghaei et.al.|[2406.14495](http://arxiv.org/abs/2406.14495)|null|
 |**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455](http://arxiv.org/abs/2406.14455)|null|
 |**2024-06-20**|**Learning Binary Color Filter Arrays with Trainable Hard Thresholding**|Cemre Omer Ayna et.al.|[2406.14421](http://arxiv.org/abs/2406.14421)|null|
 |**2024-06-20**|**WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark**|Tao Han et.al.|[2406.14399](http://arxiv.org/abs/2406.14399)|**[link](https://github.com/taohan10200/weather-5k)**|
