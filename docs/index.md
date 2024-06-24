@@ -42,6 +42,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333](http://arxiv.org/abs/2406.15333)|**[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)**|
+|**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
+|**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327](http://arxiv.org/abs/2406.15327)|**[link](https://github.com/raphaaal/fieldy)**|
+|**2024-06-21**|**A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion**|Ayush Roy et.al.|[2406.15128](http://arxiv.org/abs/2406.15128)|**[link](https://github.com/ayushroy2001/wagf-fusion)**|
+|**2024-06-21**|**FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays**|Ayush Roy et.al.|[2406.15117](http://arxiv.org/abs/2406.15117)|**[link](https://github.com/ayushroy2001/fa-net)**|
+|**2024-06-21**|**SiT: Symmetry-Invariant Transformers for Generalisation in Reinforcement Learning**|Matthias Weissenbacher et.al.|[2406.15025](http://arxiv.org/abs/2406.15025)|null|
+|**2024-06-21**|**Optimised Grouped-Query Attention Mechanism for Transformers**|Yuang Chen et.al.|[2406.14963](http://arxiv.org/abs/2406.14963)|null|
+|**2024-06-21**|**Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering**|Chongzhi Zhang et.al.|[2406.14880](http://arxiv.org/abs/2406.14880)|null|
 |**2024-06-20**|**Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach**|Mohamed Fadhlallah Guerri et.al.|[2406.14120](http://arxiv.org/abs/2406.14120)|null|
 |**2024-06-20**|**Self-Attention in Transformer Networks Explains Monkeys' Gaze Pattern in Pac-Man Game**|Zhongqiao Lin et.al.|[2406.14100](http://arxiv.org/abs/2406.14100)|null|
 |**2024-06-20**|**Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields**|Jintong Hu et.al.|[2406.14052](http://arxiv.org/abs/2406.14052)|null|
@@ -623,6 +631,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329](http://arxiv.org/abs/2406.15329)|null|
+|**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299](http://arxiv.org/abs/2406.15299)|null|
+|**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283](http://arxiv.org/abs/2406.15283)|null|
+|**2024-06-21**|**DiffExplainer: Unveiling Black Box Models Via Counterfactual Generation**|Yingying Fang et.al.|[2406.15182](http://arxiv.org/abs/2406.15182)|null|
+|**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172](http://arxiv.org/abs/2406.15172)|null|
+|**2024-06-21**|**Speech Emotion Recognition under Resource Constraints with Data Distillation**|Yi Chang et.al.|[2406.15119](http://arxiv.org/abs/2406.15119)|null|
+|**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118](http://arxiv.org/abs/2406.15118)|null|
+|**2024-06-21**|**A Dual Attention-aided DenseNet-121 for Classification of Glaucoma from Fundus Images**|Soham Chakraborty et.al.|[2406.15113](http://arxiv.org/abs/2406.15113)|**[link](https://github.com/soham2004github/dadgc)**|
+|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
+|**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
 |**2024-06-20**|**Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning**|Adriano Vinhas et.al.|[2406.14525](http://arxiv.org/abs/2406.14525)|null|
 |**2024-06-20**|**rKAN: Rational Kolmogorov-Arnold Networks**|Alireza Afzal Aghaei et.al.|[2406.14495](http://arxiv.org/abs/2406.14495)|null|
 |**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455](http://arxiv.org/abs/2406.14455)|null|
@@ -1365,6 +1383,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294](http://arxiv.org/abs/2406.15294)|**[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)**|
+|**2024-06-21**|**Retrieval Augmented Zero-Shot Text Classification**|Tassallah Abdullahi et.al.|[2406.15241](http://arxiv.org/abs/2406.15241)|null|
+|**2024-06-21**|**Hierarchical thematic classification of major conference proceedings**|Arsentii Kuzmin et.al.|[2406.14983](http://arxiv.org/abs/2406.14983)|null|
+|**2024-06-21**|**Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering**|Chongzhi Zhang et.al.|[2406.14880](http://arxiv.org/abs/2406.14880)|null|
+|**2024-06-21**|**A review of feature selection strategies utilizing graph data structures and knowledge graphs**|Sisi Shao et.al.|[2406.14864](http://arxiv.org/abs/2406.14864)|null|
+|**2024-06-20**|**SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions**|Huitong Pan et.al.|[2406.14756](http://arxiv.org/abs/2406.14756)|null|
+|**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745](http://arxiv.org/abs/2406.14745)|null|
+|**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703](http://arxiv.org/abs/2406.14703)|null|
+|**2024-06-20**|**Depth $F_1$ : Improving Evaluation of Cross-Domain Text Classification by Measuring Semantic Generalizability**|Parker Seegmiller et.al.|[2406.14695](http://arxiv.org/abs/2406.14695)|null|
 |**2024-06-20**|**Self-supervised Interpretable Concept-based Models for Text Classification**|Francesco De Santis et.al.|[2406.14335](http://arxiv.org/abs/2406.14335)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
 |**2024-06-20**|**Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**|Junjie Wang et.al.|[2406.14282](http://arxiv.org/abs/2406.14282)|null|
