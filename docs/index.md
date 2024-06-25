@@ -42,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747](http://arxiv.org/abs/2406.16747)|null|
+|**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
+|**2024-06-24**|**Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation**|Vincent Loos et.al.|[2406.16701](http://arxiv.org/abs/2406.16701)|null|
+|**2024-06-24**|**Scaling Laws for Linear Complexity Language Models**|Xuyang Shen et.al.|[2406.16690](http://arxiv.org/abs/2406.16690)|null|
+|**2024-06-24**|**C-LLM: Learn to Check Chinese Spelling Errors Character by Character**|Kunting Li et.al.|[2406.16536](http://arxiv.org/abs/2406.16536)|**[link](https://github.com/ktlktl/c-llm)**|
+|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
+|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-24**|**Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans**|Kwang-Hyun Uhm et.al.|[2406.16322](http://arxiv.org/abs/2406.16322)|null|
+|**2024-06-23**|**Speech Representation Analysis based on Inter- and Intra-Model Similarities**|Yassine El Kheir et.al.|[2406.16099](http://arxiv.org/abs/2406.16099)|null|
 |**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333](http://arxiv.org/abs/2406.15333)|**[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)**|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327](http://arxiv.org/abs/2406.15327)|**[link](https://github.com/raphaaal/fieldy)**|
@@ -631,6 +641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
+|**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
+|**2024-06-24**|**Learning the boundary-to-domain mapping using Lifting Product Fourier Neural Operators for partial differential equations**|Aditya Kashi et.al.|[2406.16740](http://arxiv.org/abs/2406.16740)|null|
+|**2024-06-24**|**Convolutional neural network for Lyman break galaxies classification and redshift regression in DESI (Dark Energy Spectroscopic Instrument)**|Julien Taran et.al.|[2406.16730](http://arxiv.org/abs/2406.16730)|null|
+|**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
+|**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
+|**2024-06-24**|**Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models**|Mohammad Belal et.al.|[2406.16638](http://arxiv.org/abs/2406.16638)|null|
+|**2024-06-24**|**Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances**|Emma Hart et.al.|[2406.16609](http://arxiv.org/abs/2406.16609)|null|
+|**2024-06-24**|**Forecasting with Deep Learning: Beyond Average of Average of Average Performance**|Vitor Cerqueira et.al.|[2406.16590](http://arxiv.org/abs/2406.16590)|null|
 |**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329](http://arxiv.org/abs/2406.15329)|null|
 |**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299](http://arxiv.org/abs/2406.15299)|null|
 |**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283](http://arxiv.org/abs/2406.15283)|null|
@@ -1383,6 +1403,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
+|**2024-06-24**|**Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings**|Andrea Posada et.al.|[2406.16611](http://arxiv.org/abs/2406.16611)|**[link](https://github.com/anpoc/language-models-in-medicine)**|
+|**2024-06-24**|**Learning in Wilson-Cowan model for metapopulation**|Raffaele Marino et.al.|[2406.16453](http://arxiv.org/abs/2406.16453)|**[link](https://github.com/raffaelemarino/learning_in_wilsoncowan)**|
+|**2024-06-24**|**Context-augmented Retrieval: A Novel Framework for Fast Information Retrieval based Response Generation using Large Language Model**|Sai Ganesh et.al.|[2406.16383](http://arxiv.org/abs/2406.16383)|null|
+|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374](http://arxiv.org/abs/2406.16374)|null|
+|**2024-06-24**|**UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding**|Dongyang Li et.al.|[2406.16372](http://arxiv.org/abs/2406.16372)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
+|**2024-06-23**|**Harvesting Events from Multiple Sources: Towards a Cross-Document Event Extraction Paradigm**|Qiang Gao et.al.|[2406.16021](http://arxiv.org/abs/2406.16021)|**[link](https://github.com/cooper12121/cles)**|
+|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
+|**2024-06-22**|**Feedback-driven quantum reservoir computing for time-series analysis**|Kaito Kobayashi et.al.|[2406.15783](http://arxiv.org/abs/2406.15783)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294](http://arxiv.org/abs/2406.15294)|**[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)**|
 |**2024-06-21**|**Retrieval Augmented Zero-Shot Text Classification**|Tassallah Abdullahi et.al.|[2406.15241](http://arxiv.org/abs/2406.15241)|null|
 |**2024-06-21**|**Hierarchical thematic classification of major conference proceedings**|Arsentii Kuzmin et.al.|[2406.14983](http://arxiv.org/abs/2406.14983)|null|
