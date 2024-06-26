@@ -42,6 +42,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**|Mohammad Ali Labbaf Khaniki et.al.|[2406.17670](http://arxiv.org/abs/2406.17670)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
+|**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530](http://arxiv.org/abs/2406.17530)|null|
+|**2024-06-25**|**Dual-Space Knowledge Distillation for Large Language Models**|Songming Zhang et.al.|[2406.17328](http://arxiv.org/abs/2406.17328)|**[link](https://github.com/songmzhang/dskd)**|
+|**2024-06-25**|**Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images**|Songhan Jiang et.al.|[2406.17225](http://arxiv.org/abs/2406.17225)|**[link](https://github.com/jsh0792/mcti)**|
+|**2024-06-24**|**BrainMAE: A Region-aware Self-supervised Learning Framework for Brain Signals**|Yifan Yang et.al.|[2406.17086](http://arxiv.org/abs/2406.17086)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747](http://arxiv.org/abs/2406.16747)|null|
 |**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
@@ -641,6 +647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749](http://arxiv.org/abs/2406.17749)|null|
+|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pai Peng et.al.|[2406.17745](http://arxiv.org/abs/2406.17745)|null|
+|**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640](http://arxiv.org/abs/2406.17640)|null|
+|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615](http://arxiv.org/abs/2406.17615)|null|
+|**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591](http://arxiv.org/abs/2406.17591)|**[link](https://github.com/ahmad-shirazi/docparsenet)**|
+|**2024-06-25**|**Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning**|Bomin Wang et.al.|[2406.17575](http://arxiv.org/abs/2406.17575)|**[link](https://github.com/xzluo97/continual-reg)**|
+|**2024-06-25**|**Transfer Learning for High Dimensional Robust Regression**|Xiaohui Yuan et.al.|[2406.17567](http://arxiv.org/abs/2406.17567)|null|
+|**2024-06-25**|**Improving density matrix electronic structure method by deep learning**|Zechen Tang et.al.|[2406.17561](http://arxiv.org/abs/2406.17561)|null|
+|**2024-06-25**|**SincVAE: a New Approach to Improve Anomaly Detection on EEG Data Using SincNet and Variational Autoencoder**|Andrea Pollastro et.al.|[2406.17537](http://arxiv.org/abs/2406.17537)|null|
+|**2024-06-25**|**Neural Networks for ID Gap Orbit Distortion Compensation in PETRA III**|Bianca Veglia et.al.|[2406.17494](http://arxiv.org/abs/2406.17494)|null|
 |**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
 |**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
@@ -1403,6 +1419,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|null|
+|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
+|**2024-06-25**|**Transformer-based Named Entity Recognition with Combined Data Representation**|Michał Marcińczuk et.al.|[2406.17474](http://arxiv.org/abs/2406.17474)|null|
+|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361](http://arxiv.org/abs/2406.17361)|null|
+|**2024-06-25**|**Retrieval Augmented Instruction Tuning for Open NER with Large Language Models**|Tingyu Xie et.al.|[2406.17305](http://arxiv.org/abs/2406.17305)|**[link](https://github.com/emma1066/retrieval-augmented-it-openner)**|
+|**2024-06-25**|**What Do the Circuits Mean? A Knowledge Edit View**|Huaizhi Ge et.al.|[2406.17241](http://arxiv.org/abs/2406.17241)|null|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|null|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
 |**2024-06-24**|**Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings**|Andrea Posada et.al.|[2406.16611](http://arxiv.org/abs/2406.16611)|**[link](https://github.com/anpoc/language-models-in-medicine)**|
 |**2024-06-24**|**Learning in Wilson-Cowan model for metapopulation**|Raffaele Marino et.al.|[2406.16453](http://arxiv.org/abs/2406.16453)|**[link](https://github.com/raffaelemarino/learning_in_wilsoncowan)**|
