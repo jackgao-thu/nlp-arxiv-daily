@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -49,7 +49,7 @@ layout: default
 |**2024-06-24**|**Scaling Laws for Linear Complexity Language Models**|Xuyang Shen et.al.|[2406.16690](http://arxiv.org/abs/2406.16690)|null|
 |**2024-06-24**|**C-LLM: Learn to Check Chinese Spelling Errors Character by Character**|Kunting Li et.al.|[2406.16536](http://arxiv.org/abs/2406.16536)|**[link](https://github.com/ktlktl/c-llm)**|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
-|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
 |**2024-06-24**|**Lesion-Aware Cross-Phase Attention Network for Renal Tumor Subtype Classification on Multi-Phase CT Scans**|Kwang-Hyun Uhm et.al.|[2406.16322](http://arxiv.org/abs/2406.16322)|null|
 |**2024-06-23**|**Speech Representation Analysis based on Inter- and Intra-Model Similarities**|Yassine El Kheir et.al.|[2406.16099](http://arxiv.org/abs/2406.16099)|null|
 |**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333](http://arxiv.org/abs/2406.15333)|**[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)**|
