@@ -42,6 +42,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Attention Meets UAVs: A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs**|Ashish Sharma et.al.|[2406.19881](http://arxiv.org/abs/2406.19881)|null|
+|**2024-06-28**|**FootBots: A Transformer-based Architecture for Motion Prediction in Soccer**|Guillem Capellera et.al.|[2406.19852](http://arxiv.org/abs/2406.19852)|null|
+|**2024-06-28**|**MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection**|Hongzhen Lv et.al.|[2406.19776](http://arxiv.org/abs/2406.19776)|null|
+|**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/abs/2406.19393)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
 |**2024-06-27**|**Temporally Multi-Scale Sparse Self-Attention for Physical Activity Data Imputation**|Hui Wei et.al.|[2406.18848](http://arxiv.org/abs/2406.18848)|**[link](https://github.com/reml-lab/allofus-imputation)**|
@@ -657,6 +661,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
+|**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038](http://arxiv.org/abs/2406.20038)|null|
+|**2024-06-28**|**Explore as a Storm, Exploit as a Raindrop: On the Benefit of Fine-Tuning Kernel Schedulers with Coordinate Descent**|Michael Canesche et.al.|[2406.20037](http://arxiv.org/abs/2406.20037)|null|
+|**2024-06-28**|**Malaria Cell Detection Using Deep Neural Networks**|Saurabh Sawant et.al.|[2406.20005](http://arxiv.org/abs/2406.20005)|null|
+|**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|null|
+|**2024-06-28**|**RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization**|Bing Yang et.al.|[2406.19959](http://arxiv.org/abs/2406.19959)|null|
+|**2024-06-28**|**Neural Network Representations of Multiphase Equations of State**|George A. Kevrekidis et.al.|[2406.19957](http://arxiv.org/abs/2406.19957)|null|
+|**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943](http://arxiv.org/abs/2406.19943)|**[link](https://github.com/neuropoly/pediatric-dl-registration)**|
+|**2024-06-28**|**Deep Learning of Multivariate Extremes via a Geometric Representation**|Callum J. R. Murphy-Barltrop et.al.|[2406.19936](http://arxiv.org/abs/2406.19936)|null|
 |**2024-06-27**|**Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors**|Burak Ekim et.al.|[2406.19302](http://arxiv.org/abs/2406.19302)|null|
 |**2024-06-27**|**Data Preparation for Deep Learning based Code Smell Detection: A Systematic Literature Review**|Fengji Zhang et.al.|[2406.19240](http://arxiv.org/abs/2406.19240)|null|
 |**2024-06-27**|**T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings**|Björn Deiseroth et.al.|[2406.19223](http://arxiv.org/abs/2406.19223)|null|
@@ -1449,6 +1463,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038](http://arxiv.org/abs/2406.20038)|null|
+|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967](http://arxiv.org/abs/2406.19967)|null|
+|**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640](http://arxiv.org/abs/2406.19640)|**[link](https://github.com/lqm26/rmfnet)**|
+|**2024-06-27**|**TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers**|Majd Saleh et.al.|[2406.19526](http://arxiv.org/abs/2406.19526)|null|
+|**2024-06-27**|**Knowledge acquisition for dialogue agents using reinforcement learning on graph representations**|Selene Baez Santamaria et.al.|[2406.19500](http://arxiv.org/abs/2406.19500)|null|
 |**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217](http://arxiv.org/abs/2406.19217)|null|
 |**2024-06-27**|**Annotation Errors and NER: A Study with OntoNotes 5.0**|Gabriel Bernier-Colborne et.al.|[2406.19172](http://arxiv.org/abs/2406.19172)|null|
