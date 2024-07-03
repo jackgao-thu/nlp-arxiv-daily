@@ -52,7 +52,7 @@
 |---|---|---|---|---|
 |**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484](http://arxiv.org/abs/2407.02484)|null|
 |**2024-07-02**|**On the Anatomy of Attention**|Nikhil Khatri et.al.|[2407.02423](http://arxiv.org/abs/2407.02423)|null|
-|**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418](http://arxiv.org/abs/2407.02418)|null|
+|**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418](http://arxiv.org/abs/2407.02418)|**[link](https://github.com/GabrieleLozupone/AXIAL)**|
 |**2024-07-02**|**Efficient Sparse Attention needs Adaptive Token Release**|Chaoran Zhang et.al.|[2407.02328](http://arxiv.org/abs/2407.02328)|null|
 |**2024-07-02**|**SOAF: Scene Occlusion-aware Neural Acoustic Field**|Huiyu Gao et.al.|[2407.02264](http://arxiv.org/abs/2407.02264)|null|
 |**2024-07-02**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
@@ -682,7 +682,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439](http://arxiv.org/abs/2407.02439)|null|
-|**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418](http://arxiv.org/abs/2407.02418)|null|
+|**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418](http://arxiv.org/abs/2407.02418)|**[link](https://github.com/GabrieleLozupone/AXIAL)**|
 |**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370](http://arxiv.org/abs/2407.02370)|null|
 |**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
 |**2024-07-02**|**CALICO: Confident Active Learning with Integrated Calibration**|Lorenzo S. Querol et.al.|[2407.02335](http://arxiv.org/abs/2407.02335)|null|
