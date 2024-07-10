@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Attention
 
@@ -704,7 +704,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -717,7 +717,7 @@
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
 |**2024-07-08**|**Understanding Visual Feature Reliance through the Lens of Complexity**|Thomas Fel et.al.|[2407.06076](http://arxiv.org/abs/2407.06076)|null|
 |**2024-07-08**|**MERGE -- A Bimodal Dataset for Static Music Emotion Recognition**|Pedro Lima Louro et.al.|[2407.06060](http://arxiv.org/abs/2407.06060)|null|
-|**2024-07-08**|**Learning local equivariant representations for quantum operators**|Zhanghao Zhouyin et.al.|[2407.06053](http://arxiv.org/abs/2407.06053)|null|
+|**2024-07-08**|**Learning local equivariant representations for quantum operators**|Zhanghao Zhouyin et.al.|[2407.06053](http://arxiv.org/abs/2407.06053)|**[link](https://github.com/deepmodeling/DeePTB)**|
 |**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
 |**2024-07-08**|**Evaluating Predictive Models in Cybersecurity: A Comparative Analysis of Machine and Deep Learning Techniques for Threat Detection**|Momen Hesham et.al.|[2407.06014](http://arxiv.org/abs/2407.06014)|null|
 |**2024-07-05**|**XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi**|Chenliang Zhou et.al.|[2407.04678](http://arxiv.org/abs/2407.04678)|null|
@@ -1548,19 +1548,19 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|null|
+|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|**[link](https://github.com/dice-group/MST5)**|
 |**2024-07-08**|**STMR: Spiral Transformer for Hand Mesh Reconstruction**|Huilong Xie et.al.|[2407.05967](http://arxiv.org/abs/2407.05967)|null|
 |**2024-07-08**|**KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions**|Yanxu Zhu et.al.|[2407.05868](http://arxiv.org/abs/2407.05868)|**[link](https://github.com/yanxuzhu/kg-fpq)**|
 |**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786](http://arxiv.org/abs/2407.05786)|null|
 |**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705](http://arxiv.org/abs/2407.05705)|**[link](https://github.com/seukgcode/fastkge)**|
 |**2024-07-08**|**New Directions in Text Classification Research: Maximizing The Performance of Sentiment Classification from Limited Data**|Surya Agustian et.al.|[2407.05627](http://arxiv.org/abs/2407.05627)|null|
-|**2024-07-08**|**Open-world Multi-label Text Classification with Extremely Weak Supervision**|Xintong Li et.al.|[2407.05609](http://arxiv.org/abs/2407.05609)|null|
+|**2024-07-08**|**Open-world Multi-label Text Classification with Extremely Weak Supervision**|Xintong Li et.al.|[2407.05609](http://arxiv.org/abs/2407.05609)|**[link](https://github.com/Kaylee0501/X-MLClass)**|
 |**2024-07-07**|**KAE: A Property-based Method for Knowledge Graph Alignment and Extension**|Daqian Shi et.al.|[2407.05320](http://arxiv.org/abs/2407.05320)|null|
 |**2024-07-06**|**Database Technology Evolution III: Knowledge Graphs and Linked Data**|Malcolm Crowe et.al.|[2407.05096](http://arxiv.org/abs/2407.05096)|null|
 |**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
@@ -2175,7 +2175,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
