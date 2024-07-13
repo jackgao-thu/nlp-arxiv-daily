@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -52,7 +52,7 @@ layout: default
 |**2024-07-10**|**Spatial-Temporal Attention Model for Traffic State Estimation with Sparse Internet of Vehicles**|Jianzhe Xue et.al.|[2407.08047](http://arxiv.org/abs/2407.08047)|null|
 |**2024-07-10**|**Search, Examine and Early-Termination: Fake News Detection with Annotation-Free Evidences**|Yuzhou Yang et.al.|[2407.07931](http://arxiv.org/abs/2407.07931)|null|
 |**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557](http://arxiv.org/abs/2407.07557)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
-|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|null|
+|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|**[link](https://github.com/quiil/falformer)**|
 |**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276](http://arxiv.org/abs/2407.07276)|null|
 |**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
 |**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723](http://arxiv.org/abs/2407.06723)|null|
