@@ -53,7 +53,7 @@
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669](http://arxiv.org/abs/2407.08669)|null|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
-|**2024-07-11**|**HDT: Hierarchical Document Transformer**|Haoyu He et.al.|[2407.08330](http://arxiv.org/abs/2407.08330)|null|
+|**2024-07-11**|**HDT: Hierarchical Document Transformer**|Haoyu He et.al.|[2407.08330](http://arxiv.org/abs/2407.08330)|**[link](https://github.com/autonomousvision/hdt)**|
 |**2024-07-11**|**Multimodal contrastive learning for spatial gene expression prediction using histology images**|Wenwen Min et.al.|[2407.08216](http://arxiv.org/abs/2407.08216)|**[link](https://github.com/shizhiceng/mclstexp)**|
 |**2024-07-11**|**Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks**|Pu Feng et.al.|[2407.08164](http://arxiv.org/abs/2407.08164)|null|
 |**2024-07-11**|**Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism**|Shahriar Rezaie et.al.|[2407.08114](http://arxiv.org/abs/2407.08114)|null|
@@ -736,7 +736,7 @@
 |**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
 |**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
 |**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
-|**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|null|
+|**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|**[link](https://github.com/yihanz3/evaadsaliency)**|
 |**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
 |**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
 |**2024-07-10**|**Estimating the stability number of a random graph using convolutional neural networks**|Randy Davila et.al.|[2407.07827](http://arxiv.org/abs/2407.07827)|null|
@@ -1609,7 +1609,7 @@
 |**2024-07-10**|**Fusion of Short-term and Long-term Attention for Video Mirror Detection**|Mingchen Xu et.al.|[2407.07999](http://arxiv.org/abs/2407.07999)|null|
 |**2024-07-10**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639](http://arxiv.org/abs/2407.07639)|null|
-|**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|null|
+|**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|**[link](https://github.com/thescreamingmonkey/mbm-em)**|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972](http://arxiv.org/abs/2407.06972)|null|
 |**2024-07-09**|**Integrating Ontology Design with the CRISP-DM in the context of Cyber-Physical Systems Maintenance**|Milapji Singh Gill et.al.|[2407.06930](http://arxiv.org/abs/2407.06930)|null|
 |**2024-07-09**|**Hypergraph based Understanding for Document Semantic Entity Recognition**|Qiwei Li et.al.|[2407.06904](http://arxiv.org/abs/2407.06904)|null|
