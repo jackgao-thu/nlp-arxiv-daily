@@ -42,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935](http://arxiv.org/abs/2407.11935)|null|
+|**2024-07-16**|**Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data**|Tim Elsner et.al.|[2407.11913](http://arxiv.org/abs/2407.11913)|null|
+|**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
+|**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764](http://arxiv.org/abs/2407.11764)|null|
+|**2024-07-16**|**A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection**|Pandiyaraju V et.al.|[2407.11753](http://arxiv.org/abs/2407.11753)|null|
+|**2024-07-16**|**Graph Dimension Attention Networks for Enterprise Credit Assessment**|Shaopeng Wei et.al.|[2407.11615](http://arxiv.org/abs/2407.11615)|null|
+|**2024-07-16**|**Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization**|Yuan Feng et.al.|[2407.11550](http://arxiv.org/abs/2407.11550)|null|
+|**2024-07-16**|**Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers**|Freya Behrens et.al.|[2407.11542](http://arxiv.org/abs/2407.11542)|null|
+|**2024-07-16**|**Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets**|Camillo Maria Caruso et.al.|[2407.11540](http://arxiv.org/abs/2407.11540)|**[link](https://github.com/cosbidev/naim)**|
+|**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505](http://arxiv.org/abs/2407.11505)|null|
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921](http://arxiv.org/abs/2407.10921)|null|
 |**2024-07-15**|**Weighted Grouped Query Attention in Transformers**|Sai Sena Chinnakonduru et.al.|[2407.10855](http://arxiv.org/abs/2407.10855)|null|
 |**2024-07-15**|**Towards Enhanced Classification of Abnormal Lung sound in Multi-breath: A Light Weight Multi-label and Multi-head Attention Classification Method**|Yi-Wei Chua et.al.|[2407.10828](http://arxiv.org/abs/2407.10828)|null|
@@ -734,6 +744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941](http://arxiv.org/abs/2407.11941)|null|
+|**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922](http://arxiv.org/abs/2407.11922)|null|
+|**2024-07-16**|**Deep Learning without Global Optimization by Random Fourier Neural Networks**|Owen Davis et.al.|[2407.11894](http://arxiv.org/abs/2407.11894)|null|
+|**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection**|Pandiyaraju V et.al.|[2407.11753](http://arxiv.org/abs/2407.11753)|null|
+|**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745](http://arxiv.org/abs/2407.11745)|null|
+|**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|null|
+|**2024-07-16**|**Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen**|Alessandro Palma et.al.|[2407.11734](http://arxiv.org/abs/2407.11734)|null|
+|**2024-07-16**|**Novel Artistic Scene-Centric Datasets for Effective Transfer Learning in Fragrant Spaces**|Shumei Liu et.al.|[2407.11701](http://arxiv.org/abs/2407.11701)|null|
 |**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
 |**2024-07-15**|**Comparing AI versus Optimization Workflows for Simulation-Based Inference of Spatial-Stochastic Systems**|Michael A. Ramirez-Sierra et.al.|[2407.10938](http://arxiv.org/abs/2407.10938)|null|
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921](http://arxiv.org/abs/2407.10921)|null|
@@ -1626,6 +1646,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821](http://arxiv.org/abs/2407.11821)|null|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
 |**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|null|
 |**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805](http://arxiv.org/abs/2407.10805)|null|
