@@ -50,6 +50,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
+|**2024-07-17**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
+|**2024-07-17**|**ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks**|Salma Afifi et.al.|[2407.12638](http://arxiv.org/abs/2407.12638)|null|
+|**2024-07-17**|**Variable-Agnostic Causal Exploration for Reinforcement Learning**|Minh Hoang Nguyen et.al.|[2407.12437](http://arxiv.org/abs/2407.12437)|null|
+|**2024-07-17**|**I2AM: Interpreting Image-to-Image Latent Diffusion Models via Attribution Maps**|Junseo Park et.al.|[2407.12331](http://arxiv.org/abs/2407.12331)|null|
+|**2024-07-17**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322](http://arxiv.org/abs/2407.12322)|null|
+|**2024-07-17**|**Dual-Hybrid Attention Network for Specular Highlight Removal**|Xiaojiao Guo et.al.|[2407.12255](http://arxiv.org/abs/2407.12255)|**[link](https://github.com/CXH-Research/DHAN-SHR)**|
+|**2024-07-16**|**Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent**|Karolis Jucys et.al.|[2407.12161](http://arxiv.org/abs/2407.12161)|null|
 |**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935](http://arxiv.org/abs/2407.11935)|null|
 |**2024-07-16**|**Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data**|Tim Elsner et.al.|[2407.11913](http://arxiv.org/abs/2407.11913)|null|
 |**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
@@ -754,6 +762,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides**|Zhuoyan Shen et.al.|[2407.12773](http://arxiv.org/abs/2407.12773)|null|
+|**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
+|**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724](http://arxiv.org/abs/2407.12724)|null|
+|**2024-07-17**|**Calibrated Diverse Ensemble Entropy Minimization for Robust Test-Time Adaptation in Prostate Cancer Detection**|Mahdi Gilany et.al.|[2407.12697](http://arxiv.org/abs/2407.12697)|null|
+|**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
+|**2024-07-17**|**Strawberry detection and counting based on YOLOv7 pruning and information based tracking algorithm**|Shiyu Liu et.al.|[2407.12614](http://arxiv.org/abs/2407.12614)|null|
+|**2024-07-17**|**Instance-wise Uncertainty for Class Imbalance in Semantic Segmentation**|Luís Almeida et.al.|[2407.12609](http://arxiv.org/abs/2407.12609)|null|
+|**2024-07-17**|**SigDLA: A Deep Learning Accelerator Extension for Signal Processing**|Fangfa Fu et.al.|[2407.12565](http://arxiv.org/abs/2407.12565)|null|
+|**2024-07-17**|**Evaluating the transferability potential of deep learning models for climate downscaling**|Ayush Prasad et.al.|[2407.12517](http://arxiv.org/abs/2407.12517)|null|
+|**2024-07-17**|**On Initializing Transformers with Pre-trained Embeddings**|Ha Young Kim et.al.|[2407.12514](http://arxiv.org/abs/2407.12514)|null|
 |**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941](http://arxiv.org/abs/2407.11941)|null|
 |**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922](http://arxiv.org/abs/2407.11922)|null|
 |**2024-07-16**|**Deep Learning without Global Optimization by Random Fourier Neural Networks**|Owen Davis et.al.|[2407.11894](http://arxiv.org/abs/2407.11894)|null|
@@ -1658,6 +1676,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
+|**2024-07-17**|**Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?**|Aman Sinha et.al.|[2407.12626](http://arxiv.org/abs/2407.12626)|null|
+|**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
+|**2024-07-17**|**Label-Efficient 3D Brain Segmentation via Complementary 2D Diffusion Models with Orthogonal Views**|Jihoon Cho et.al.|[2407.12329](http://arxiv.org/abs/2407.12329)|null|
+|**2024-07-17**|**Adaptive Cascading Network for Continual Test-Time Adaptation**|Kien X. Nguyen et.al.|[2407.12240](http://arxiv.org/abs/2407.12240)|null|
+|**2024-07-16**|**Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation**|Garima Agrawal et.al.|[2407.12216](http://arxiv.org/abs/2407.12216)|null|
 |**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821](http://arxiv.org/abs/2407.11821)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
