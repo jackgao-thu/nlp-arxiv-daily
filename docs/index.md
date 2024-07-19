@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -42,6 +42,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning**|Ans Munir et.al.|[2407.13715](http://arxiv.org/abs/2407.13715)|null|
+|**2024-07-18**|**Dual-arm Motion Generation for Repositioning Care based on Deep Predictive Learning with Somatosensory Attention Mechanism**|Tamon Miyake et.al.|[2407.13376](http://arxiv.org/abs/2407.13376)|null|
+|**2024-07-18**|**QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View**|Trinh T. L. Vuong et.al.|[2407.13216](http://arxiv.org/abs/2407.13216)|null|
+|**2024-07-18**|**Transformer-based Single-Cell Language Model: A Survey**|Wei Lan et.al.|[2407.13205](http://arxiv.org/abs/2407.13205)|null|
+|**2024-07-18**|**Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement**|Eashan Adhikarla et.al.|[2407.13170](http://arxiv.org/abs/2407.13170)|null|
+|**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151](http://arxiv.org/abs/2407.13151)|null|
+|**2024-07-18**|**DFMSD: Dual Feature Masking Stage-wise Knowledge Distillation for Object Detection**|Zhourui Zhang et.al.|[2407.13147](http://arxiv.org/abs/2407.13147)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-17**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
 |**2024-07-17**|**ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks**|Salma Afifi et.al.|[2407.12638](http://arxiv.org/abs/2407.12638)|null|
@@ -752,6 +759,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
+|**2024-07-18**|**FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning**|Tristan Cinquin et.al.|[2407.13711](http://arxiv.org/abs/2407.13711)|null|
+|**2024-07-18**|**Are We Ready for Out-of-Distribution Detection in Digital Pathology?**|Ji-Hun Oh et.al.|[2407.13708](http://arxiv.org/abs/2407.13708)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Non-Asymptotic Uncertainty Quantification in High-Dimensional Learning**|Frederik Hoppe et.al.|[2407.13666](http://arxiv.org/abs/2407.13666)|null|
+|**2024-07-18**|**Beyond Dropout: Robust Convolutional Neural Networks Based on Local Feature Masking**|Yunpeng Gong et.al.|[2407.13646](http://arxiv.org/abs/2407.13646)|null|
+|**2024-07-18**|**Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration**|Abhijeet Parida et.al.|[2407.13632](http://arxiv.org/abs/2407.13632)|null|
+|**2024-07-18**|**dzFinNlp at AraFinNLP: Improving Intent Detection in Financial Conversational Agents**|Mohamed Lichouri et.al.|[2407.13565](http://arxiv.org/abs/2407.13565)|null|
+|**2024-07-18**|**Discussion: Effective and Interpretable Outcome Prediction by Training Sparse Mixtures of Linear Experts**|Francesco Folino et.al.|[2407.13526](http://arxiv.org/abs/2407.13526)|null|
+|**2024-07-18**|**Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law**|Giorgio Franceschelli et.al.|[2407.13493](http://arxiv.org/abs/2407.13493)|null|
 |**2024-07-17**|**OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides**|Zhuoyan Shen et.al.|[2407.12773](http://arxiv.org/abs/2407.12773)|null|
 |**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
 |**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724](http://arxiv.org/abs/2407.12724)|null|
@@ -1664,6 +1681,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
+|**2024-07-18**|**How to quantify an examination? Evidence from physics examinations via complex networks**|Min Xia et.al.|[2407.13161](http://arxiv.org/abs/2407.13161)|null|
+|**2024-07-17**|**A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks**|Shubham Vatsal et.al.|[2407.12994](http://arxiv.org/abs/2407.12994)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
 |**2024-07-17**|**Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?**|Aman Sinha et.al.|[2407.12626](http://arxiv.org/abs/2407.12626)|null|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
