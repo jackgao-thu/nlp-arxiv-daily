@@ -1700,7 +1700,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
-|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277](http://arxiv.org/abs/2407.14277)|null|
+|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277](http://arxiv.org/abs/2407.14277)|**[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)**|
 |**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146](http://arxiv.org/abs/2407.14146)|null|
 |**2024-07-19**|**An Improved Method for Class-specific Keyword Extraction: A Case Study in the German Business Registry**|Stephen Meisenbacher et.al.|[2407.14085](http://arxiv.org/abs/2407.14085)|**[link](https://github.com/sjmeis/CSKE)**|
 |**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030](http://arxiv.org/abs/2407.14030)|null|
