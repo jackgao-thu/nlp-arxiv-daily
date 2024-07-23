@@ -50,6 +50,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843](http://arxiv.org/abs/2407.15843)|null|
+|**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
+|**2024-07-22**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714](http://arxiv.org/abs/2407.15714)|**[link](https://github.com/hzlbbfrog/crackmamba)**|
+|**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
+|**2024-07-22**|**Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing**|Yaoqi Yang et.al.|[2407.15483](http://arxiv.org/abs/2407.15483)|null|
+|**2024-07-22**|**RoadPainter: Points Are Ideal Navigators for Topology transformER**|Zhongxing Ma et.al.|[2407.15349](http://arxiv.org/abs/2407.15349)|null|
+|**2024-07-22**|**vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving**|Jiale Xu et.al.|[2407.15309](http://arxiv.org/abs/2407.15309)|null|
+|**2024-07-21**|**Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope**|Xiaoran Liu et.al.|[2407.15176](http://arxiv.org/abs/2407.15176)|null|
+|**2024-07-21**|**Token-Picker: Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation**|Junyoung Park et.al.|[2407.15131](http://arxiv.org/abs/2407.15131)|null|
+|**2024-07-21**|**Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions**|Sarah Wiegreffe et.al.|[2407.15018](http://arxiv.org/abs/2407.15018)|null|
 |**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
 |**2024-07-19**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459](http://arxiv.org/abs/2407.14459)|**[link](https://github.com/air029/polyformer)**|
 |**2024-07-19**|**Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference**|Chao Min et.al.|[2407.14214](http://arxiv.org/abs/2407.14214)|null|
@@ -777,6 +787,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
+|**2024-07-22**|**Robust Facial Reactions Generation: An Emotion-Aware Framework with Modality Compensation**|Guanyu Hu et.al.|[2407.15798](http://arxiv.org/abs/2407.15798)|null|
+|**2024-07-22**|**Reconfigurable Intelligent Surface Empowered Full Duplex Systems: Opportunities and Challenges**|Chong Huang et.al.|[2407.15782](http://arxiv.org/abs/2407.15782)|null|
+|**2024-07-22**|**Model editing for distribution shifts in uranium oxide morphological analysis**|Davis Brown et.al.|[2407.15756](http://arxiv.org/abs/2407.15756)|null|
+|**2024-07-22**|**Parallel Split Learning with Global Sampling**|Mohammad Kohankhaki et.al.|[2407.15738](http://arxiv.org/abs/2407.15738)|null|
+|**2024-07-22**|**Beyond Size and Class Balance: Alpha as a New Dataset Quality Metric for Deep Learning**|Josiah Couch et.al.|[2407.15724](http://arxiv.org/abs/2407.15724)|null|
+|**2024-07-22**|**SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams**|Liangyan Jiang et.al.|[2407.15708](http://arxiv.org/abs/2407.15708)|null|
+|**2024-07-22**|**Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2407.15675](http://arxiv.org/abs/2407.15675)|null|
+|**2024-07-22**|**A spatiotemporal deep learning framework for prediction of crack dynamics in heterogeneous solids: efficient mapping of concrete microstructures to its fracture properties**|Rasoul Najafi Koopas et.al.|[2407.15665](http://arxiv.org/abs/2407.15665)|null|
+|**2024-07-22**|**TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly**|Mengqi Guo et.al.|[2407.15648](http://arxiv.org/abs/2407.15648)|null|
 |**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
 |**2024-07-19**|**AudioInsight: Detecting Social Contexts Relevant to Social Anxiety from Speech**|Varun Reddy et.al.|[2407.14458](http://arxiv.org/abs/2407.14458)|null|
 |**2024-07-19**|**The Extrapolation Power of Implicit Models**|Juliette Decugis et.al.|[2407.14430](http://arxiv.org/abs/2407.14430)|null|
@@ -1711,6 +1731,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588](http://arxiv.org/abs/2407.15588)|**[link](https://github.com/eralign/eralign)**|
+|**2024-07-22**|**An Empirical Study of Retrieval Augmented Generation with Chain-of-Thought**|Yuetong Zhao et.al.|[2407.15569](http://arxiv.org/abs/2407.15569)|null|
+|**2024-07-22**|**Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval**|Daeun Lee et.al.|[2407.15459](http://arxiv.org/abs/2407.15459)|null|
+|**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|null|
+|**2024-07-22**|**UF-HOBI at "Discharge Me!": A Hybrid Solution for Discharge Summary Generation Through Prompt-based Tuning of GatorTronGPT Models**|Mengxian Lyu et.al.|[2407.15359](http://arxiv.org/abs/2407.15359)|null|
+|**2024-07-21**|**A multi-level multi-label text classification dataset of 19th century Ottoman and Russian literary and critical texts**|Gokcen Gokceoglu et.al.|[2407.15136](http://arxiv.org/abs/2407.15136)|null|
+|**2024-07-21**|**A Model of Proactive Safety Based on Knowledge Graph**|He Wen et.al.|[2407.15127](http://arxiv.org/abs/2407.15127)|null|
+|**2024-07-20**|**SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-based Synthetic Lethal Prediction**|Haoran Jiang et.al.|[2407.14770](http://arxiv.org/abs/2407.14770)|null|
+|**2024-07-20**|**A Comprehensive Review of Few-shot Action Recognition**|Yuyang Wanyan et.al.|[2407.14744](http://arxiv.org/abs/2407.14744)|null|
+|**2024-07-20**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733](http://arxiv.org/abs/2407.14733)|**[link](https://github.com/youseob/pin)**|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
 |**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277](http://arxiv.org/abs/2407.14277)|**[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)**|
 |**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146](http://arxiv.org/abs/2407.14146)|null|
