@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -46,7 +46,7 @@ layout: default
 |**2024-07-23**|**SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging**|Lingtong Kong et.al.|[2407.16308](http://arxiv.org/abs/2407.16308)|**[link](https://github.com/ltkong218/safnet)**|
 |**2024-07-23**|**TAPTRv2: Attention-based Position Update Improves Tracking Any Point**|Hongyang Li et.al.|[2407.16291](http://arxiv.org/abs/2407.16291)|null|
 |**2024-07-23**|**When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[2407.16277](http://arxiv.org/abs/2407.16277)|null|
-|**2024-07-23**|**Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval**|Xiaowan Hu et.al.|[2407.16248](http://arxiv.org/abs/2407.16248)|**[link](https://github.com/huxiaowan/sgmn)**|
+|**2024-07-24**|**Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval**|Xiaowan Hu et.al.|[2407.16248](http://arxiv.org/abs/2407.16248)|**[link](https://github.com/huxiaowan/sgmn)**|
 |**2024-07-23**|**HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification**|Shuyi Ouyang et.al.|[2407.16244](http://arxiv.org/abs/2407.16244)|null|
 |**2024-07-23**|**EIANet: A Novel Domain Adaptation Approach to Maximize Class Distinction with Neural Collapse Principles**|Zicheng Pan et.al.|[2407.16189](http://arxiv.org/abs/2407.16189)|null|
 |**2024-07-23**|**On the Benefits of Rank in Attention Layers**|Noah Amsel et.al.|[2407.16153](http://arxiv.org/abs/2407.16153)|null|
