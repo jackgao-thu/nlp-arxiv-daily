@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
 |**2024-06-04**|**Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**|Wenzhuo Tang et.al.|[2406.01899](http://arxiv.org/abs/2406.01899)|**[link](https://github.com/wenzhuotang/uniaug)**|
-|**2024-05-29**|**Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting**|Boje Deforce et.al.|[2405.18913](http://arxiv.org/abs/2405.18913)|null|
+|**2024-07-29**|**Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting**|Boje Deforce et.al.|[2405.18913](http://arxiv.org/abs/2405.18913)|null|
 |**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
 |**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|**[link](https://github.com/alevas/xai_similarity_transformers)**|
 |**2024-05-07**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News Detection**|Jasraj Singh et.al.|[2405.04165](http://arxiv.org/abs/2405.04165)|null|
@@ -50,6 +50,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
+|**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198](http://arxiv.org/abs/2407.20198)|null|
+|**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976](http://arxiv.org/abs/2407.19976)|null|
+|**2024-07-29**|**AOTree: Aspect Order Tree-based Model for Explainable Recommendation**|Wenxin Zhao et.al.|[2407.19937](http://arxiv.org/abs/2407.19937)|null|
+|**2024-07-29**|**Language-driven Grasp Detection with Mask-guided Attention**|Tuan Van Vo et.al.|[2407.19877](http://arxiv.org/abs/2407.19877)|null|
+|**2024-07-29**|**Frequency & Channel Attention Network for Small Footprint Noisy Spoken Keyword Spotting**|Yuanxi Lin et.al.|[2407.19834](http://arxiv.org/abs/2407.19834)|null|
+|**2024-07-29**|**Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism**|Tianhang Nan et.al.|[2407.19821](http://arxiv.org/abs/2407.19821)|null|
+|**2024-07-29**|**Synthesizing Scientific Summaries: An Extractive and Abstractive Approach**|Grishma Sharma et.al.|[2407.19779](http://arxiv.org/abs/2407.19779)|null|
+|**2024-07-29**|**Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting**|Shiyu Wang et.al.|[2407.19697](http://arxiv.org/abs/2407.19697)|null|
 |**2024-07-26**|**Learning production functions for supply chains with graph neural networks**|Serina Chang et.al.|[2407.18772](http://arxiv.org/abs/2407.18772)|null|
 |**2024-07-26**|**Climbing the Complexity Ladder with Expressive Attention**|Claudius Gros et.al.|[2407.18601](http://arxiv.org/abs/2407.18601)|null|
 |**2024-07-26**|**Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer**|Carolin Flosdorf et.al.|[2407.18554](http://arxiv.org/abs/2407.18554)|null|
@@ -815,6 +825,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
+|**2024-07-29**|**Machine Learning for predicting chaotic systems**|Christof Schötz et.al.|[2407.20158](http://arxiv.org/abs/2407.20158)|null|
+|**2024-07-29**|**GsPINN: A novel fast Green kernel solver based on symmetric Physics-Informed neural networks**|Xiaopei Jiao et.al.|[2407.20155](http://arxiv.org/abs/2407.20155)|null|
+|**2024-07-29**|**Enhancing Anti-spoofing Countermeasures Robustness through Joint Optimization and Transfer Learning**|Yikang Wang et.al.|[2407.20111](http://arxiv.org/abs/2407.20111)|null|
+|**2024-07-29**|**Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**|Jinmiao Zhao et.al.|[2407.20090](http://arxiv.org/abs/2407.20090)|null|
+|**2024-07-29**|**Segmenting Fetal Head with Efficient Fine-tuning Strategies in Low-resource Settings: an empirical study with U-Net**|Fangyijie Wang et.al.|[2407.20086](http://arxiv.org/abs/2407.20086)|null|
+|**2024-07-29**|**Transfer Learning Targeting Mixed Population: A Distributional Robust Perspective**|Keyao Zhan et.al.|[2407.20073](http://arxiv.org/abs/2407.20073)|null|
+|**2024-07-29**|**Generative Diffusion Model Bootstraps Zero-shot Classification of Fetal Ultrasound Images In Underrepresented African Populations**|Fangyijie Wang et.al.|[2407.20072](http://arxiv.org/abs/2407.20072)|null|
+|**2024-07-29**|**RelBench: A Benchmark for Deep Learning on Relational Databases**|Joshua Robinson et.al.|[2407.20060](http://arxiv.org/abs/2407.20060)|**[link](https://github.com/snap-stanford/relbench)**|
+|**2024-07-29**|**BEExAI: Benchmark to Evaluate Explainable AI**|Samuel Sithakoul et.al.|[2407.19897](http://arxiv.org/abs/2407.19897)|**[link](https://github.com/squareresearchcenter-ai/beexai)**|
 |**2024-07-26**|**Enhancing material property prediction with ensemble deep graph convolutional networks**|Chowdhury Mohammad Abid Rahman et.al.|[2407.18847](http://arxiv.org/abs/2407.18847)|null|
 |**2024-07-26**|**Interpreting artificial neural networks to detect genome-wide association signals for complex traits**|Burak Yelmen et.al.|[2407.18811](http://arxiv.org/abs/2407.18811)|null|
 |**2024-07-26**|**Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging**|Sarah Müller et.al.|[2407.18792](http://arxiv.org/abs/2407.18792)|**[link](https://github.com/berenslab/dependence-measures-medical-imaging)**|
@@ -1799,6 +1819,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Rosetta Statements: Lowering the Barrier for Semantic Parsing and Increasing the Cognitive Interoperability of Knowledge Graphs**|Lars Vogt et.al.|[2407.20007](http://arxiv.org/abs/2407.20007)|null|
+|**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820](http://arxiv.org/abs/2407.19820)|null|
+|**2024-07-29**|**Comparative Analysis of Encoder-Based NER and Large Language Models for Skill Extraction from Russian Job Vacancies**|Nikita Matkin et.al.|[2407.19816](http://arxiv.org/abs/2407.19816)|null|
+|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
+|**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|null|
+|**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
+|**2024-07-27**|**Inference-Time Selective Debiasing**|Gleb Kuzmin et.al.|[2407.19345](http://arxiv.org/abs/2407.19345)|null|
+|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338](http://arxiv.org/abs/2407.19338)|null|
+|**2024-07-27**|**IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19302](http://arxiv.org/abs/2407.19302)|null|
+|**2024-07-26**|**OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation**|Zilong Wang et.al.|[2407.19056](http://arxiv.org/abs/2407.19056)|null|
 |**2024-07-26**|**Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**|Yuze Zheng et.al.|[2407.18854](http://arxiv.org/abs/2407.18854)|null|
 |**2024-07-26**|**Human-artificial intelligence teaming for scientific information extraction from data-driven additive manufacturing research using large language models**|Mutahar Safdar et.al.|[2407.18827](http://arxiv.org/abs/2407.18827)|null|
 |**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
