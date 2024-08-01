@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -1829,7 +1829,7 @@ layout: default
 |**2024-07-29**|**Rosetta Statements: Lowering the Barrier for Semantic Parsing and Increasing the Cognitive Interoperability of Knowledge Graphs**|Lars Vogt et.al.|[2407.20007](http://arxiv.org/abs/2407.20007)|null|
 |**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820](http://arxiv.org/abs/2407.19820)|null|
 |**2024-07-29**|**Comparative Analysis of Encoder-Based NER and Large Language Models for Skill Extraction from Russian Job Vacancies**|Nikita Matkin et.al.|[2407.19816](http://arxiv.org/abs/2407.19816)|null|
-|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
+|**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-27**|**Inference-Time Selective Debiasing**|Gleb Kuzmin et.al.|[2407.19345](http://arxiv.org/abs/2407.19345)|null|
