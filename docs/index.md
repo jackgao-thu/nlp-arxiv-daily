@@ -1841,12 +1841,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
-|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
+|**2024-08-01**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293](http://arxiv.org/abs/2407.21293)|null|
 |**2024-07-31**|**Multi-Level Querying using A Knowledge Pyramid**|Rubing Chen et.al.|[2407.21276](http://arxiv.org/abs/2407.21276)|null|
 |**2024-07-30**|**A Scalable Tool For Analyzing Genomic Variants Of Humans Using Knowledge Graphs and Machine Learning**|Shivika Prasanna et.al.|[2407.20879](http://arxiv.org/abs/2407.20879)|null|
-|**2024-07-30**|**The Susceptibility of Example-Based Explainability Methods to Class Outliers**|Ikhtiyor Nematov et.al.|[2407.20678](http://arxiv.org/abs/2407.20678)|null|
+|**2024-08-01**|**The Susceptibility of Example-Based Explainability Methods to Class Outliers**|Ikhtiyor Nematov et.al.|[2407.20678](http://arxiv.org/abs/2407.20678)|null|
 |**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595](http://arxiv.org/abs/2407.20595)|null|
 |**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564](http://arxiv.org/abs/2407.20564)|null|
 |**2024-07-29**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462](http://arxiv.org/abs/2407.20462)|null|
