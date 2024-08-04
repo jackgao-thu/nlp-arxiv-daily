@@ -43,6 +43,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
+|**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
+|**2024-08-01**|**CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images**|Thiziri Nait Saada et.al.|[2408.00427](http://arxiv.org/abs/2408.00427)|null|
+|**2024-08-01**|**A deep spatio-temporal attention model of dynamic functional network connectivity shows sensitivity to Alzheimer's in asymptomatic individuals**|Yuxiang Wei et.al.|[2408.00378](http://arxiv.org/abs/2408.00378)|null|
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
 |**2024-07-31**|**MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
@@ -828,6 +833,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753](http://arxiv.org/abs/2408.00753)|null|
+|**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722](http://arxiv.org/abs/2408.00722)|null|
+|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
+|**2024-08-01**|**Accelerating Full Waveform Inversion By Transfer Learning**|Divya Shyam Singh et.al.|[2408.00695](http://arxiv.org/abs/2408.00695)|null|
+|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677](http://arxiv.org/abs/2408.00677)|null|
+|**2024-08-01**|**Refinement of genetic variants needs attention**|Omar Abdelwahab et.al.|[2408.00659](http://arxiv.org/abs/2408.00659)|null|
+|**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639](http://arxiv.org/abs/2408.00639)|null|
+|**2024-08-01**|**Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images**|Xiaoyi Liu et.al.|[2408.00636](http://arxiv.org/abs/2408.00636)|null|
+|**2024-08-01**|**AutoPV: Automatically Design Your Photovoltaic Power Forecasting Model**|Dayin Chen et.al.|[2408.00601](http://arxiv.org/abs/2408.00601)|null|
+|**2024-08-01**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591](http://arxiv.org/abs/2408.00591)|null|
 |**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791](http://arxiv.org/abs/2407.21791)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
 |**2024-08-01**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740](http://arxiv.org/abs/2407.21740)|null|
@@ -1840,6 +1855,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728](http://arxiv.org/abs/2408.00728)|null|
+|**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722](http://arxiv.org/abs/2408.00722)|null|
+|**2024-08-01**|**Aligning Multiple Knowledge Graphs in a Single Pass**|Yaming Yang et.al.|[2408.00662](http://arxiv.org/abs/2408.00662)|null|
+|**2024-08-01**|**HBot: A Chatbot for Healthcare Applications in Traditional Chinese Medicine Based on Human Body 3D Visualization**|Bolin Zhang et.al.|[2408.00481](http://arxiv.org/abs/2408.00481)|null|
+|**2024-08-01**|**Task-oriented and Semantics-aware Communications for Augmented Reality**|Zhe Wang et.al.|[2408.00407](http://arxiv.org/abs/2408.00407)|null|
+|**2024-07-31**|**ReLiK: Retrieve and LinK, Fast and Accurate Entity Linking and Relation Extraction on an Academic Budget**|Riccardo Orlando et.al.|[2408.00103](http://arxiv.org/abs/2408.00103)|null|
+|**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
 |**2024-08-01**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|null|
