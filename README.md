@@ -52,6 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
+|**2024-08-06**|**Nighttime Pedestrian Detection Based on Fore-Background Contrast Learning**|He Yao et.al.|[2408.03030](http://arxiv.org/abs/2408.03030)|null|
+|**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769](http://arxiv.org/abs/2408.02769)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
 |**2024-08-05**|**Cross-modulated Attention Transformer for RGBT Tracking**|Yun Xiao et.al.|[2408.02222](http://arxiv.org/abs/2408.02222)|null|
@@ -859,6 +862,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
+|**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
+|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
+|**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
+|**2024-08-06**|**Kolmogorov-Arnold PointNet: Deep learning for prediction of fluid fields on irregular geometries**|Ali Kashefi et.al.|[2408.02950](http://arxiv.org/abs/2408.02950)|null|
+|**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533](http://arxiv.org/abs/2408.02533)|null|
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
@@ -1903,6 +1916,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202](http://arxiv.org/abs/2408.03202)|null|
+|**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
+|**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
+|**2024-08-06**|**Conditioning LLMs with Emotion in Neural Machine Translation**|Charles Brazier et.al.|[2408.03150](http://arxiv.org/abs/2408.03150)|null|
+|**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079](http://arxiv.org/abs/2408.03079)|null|
+|**2024-08-06**|**L3iTC at the FinLLM Challenge Task: Quantization for Financial Text Classification & Summarization**|Elvys Linhares Pontes et.al.|[2408.03033](http://arxiv.org/abs/2408.03033)|null|
+|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010](http://arxiv.org/abs/2408.03010)|null|
+|**2024-08-06**|**Adversarial Robustness of Open-source Text Classification Models and Fine-Tuning Chains**|Hao Qin et.al.|[2408.02963](http://arxiv.org/abs/2408.02963)|null|
+|**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
+|**2024-08-05**|**Interpretation of the Intent Detection Problem as Dynamics in a Low-dimensional Space**|Eduardo Sanchez-Karhunen et.al.|[2408.02838](http://arxiv.org/abs/2408.02838)|null|
 |**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
 |**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
 |**2024-08-05**|**Enhancing Heterogeneous Knowledge Graph Completion with a Novel GAT-based Approach**|Wanxu Wei et.al.|[2408.02456](http://arxiv.org/abs/2408.02456)|null|
