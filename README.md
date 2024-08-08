@@ -52,6 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Retrieval Augmentation via User Interest Clustering**|Hanjia Lyu et.al.|[2408.03886](http://arxiv.org/abs/2408.03886)|null|
+|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
+|**2024-08-06**|**ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning**|Hieu Man et.al.|[2408.03402](http://arxiv.org/abs/2408.03402)|**[link](https://github.com/nlp-uoregon/ullme)**|
 |**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
 |**2024-08-06**|**Nighttime Pedestrian Detection Based on Fore-Background Contrast Learning**|He Yao et.al.|[2408.03030](http://arxiv.org/abs/2408.03030)|null|
 |**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769](http://arxiv.org/abs/2408.02769)|null|
@@ -862,6 +865,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849](http://arxiv.org/abs/2408.03849)|null|
+|**2024-08-07**|**ImageSI: Semantic Interaction for Deep Learning Image Projections**|Jiayue Lin et.al.|[2408.03845](http://arxiv.org/abs/2408.03845)|null|
+|**2024-08-07**|**Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring**|Zifan Wang et.al.|[2408.03811](http://arxiv.org/abs/2408.03811)|null|
+|**2024-08-07**|**Methodological Explainability Evaluation of an Interpretable Deep Learning Model for Post-Hepatectomy Liver Failure Prediction Incorporating Counterfactual Explanations and Layerwise Relevance Propagation: A Prospective In Silico Trial**|Xian Zhong et.al.|[2408.03771](http://arxiv.org/abs/2408.03771)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
+|**2024-08-07**|**Generative Design of Periodic Orbits in the Restricted Three-Body Problem**|Alvaro Francisco Gil et.al.|[2408.03691](http://arxiv.org/abs/2408.03691)|null|
+|**2024-08-07**|**mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**|Ahmed Abdou et.al.|[2408.03652](http://arxiv.org/abs/2408.03652)|null|
+|**2024-08-07**|**Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration**|Zhongyao Luo et.al.|[2408.03647](http://arxiv.org/abs/2408.03647)|null|
+|**2024-08-07**|**Weakly Contrastive Learning via Batch Instance Discrimination and Feature Clustering for Small Sample SAR ATR**|Yikui Zhai et.al.|[2408.03627](http://arxiv.org/abs/2408.03627)|**[link](https://github.com/wenlve-zhou/bidfc-master)**|
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
@@ -1916,6 +1929,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
+|**2024-08-07**|**Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning**|Simret Araya Gebreegziabher et.al.|[2408.03819](http://arxiv.org/abs/2408.03819)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**|Ahmed Abdou et.al.|[2408.03652](http://arxiv.org/abs/2408.03652)|null|
+|**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
+|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|null|
+|**2024-08-06**|**Prioritize Alignment in Dataset Distillation**|Zekai Li et.al.|[2408.03360](http://arxiv.org/abs/2408.03360)|null|
 |**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202](http://arxiv.org/abs/2408.03202)|null|
 |**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
 |**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
