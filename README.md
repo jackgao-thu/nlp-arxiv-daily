@@ -52,8 +52,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
+|**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
+|**2024-08-11**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**|Jiafeng Xia et.al.|[2408.05792](http://arxiv.org/abs/2408.05792)|null|
+|**2024-08-11**|**Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**|Yifan Pu et.al.|[2408.05710](http://arxiv.org/abs/2408.05710)|null|
+|**2024-08-11**|**TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling**|Ruiquan Ge et.al.|[2408.05705](http://arxiv.org/abs/2408.05705)|**[link](https://github.com/lcbkmm/tc-kanrecon)**|
+|**2024-08-10**|**PointMT: Efficient Point Cloud Analysis with Hybrid MLP-Transformer Architecture**|Qiang Zheng et.al.|[2408.05508](http://arxiv.org/abs/2408.05508)|null|
+|**2024-08-10**|**SAMSA: Efficient Transformer for Many Data Modalities**|Minh Lenhat et.al.|[2408.05391](http://arxiv.org/abs/2408.05391)|**[link](https://github.com/hysonlab/samsa)**|
 |**2024-08-09**|**SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation**|Da Mu et.al.|[2408.05057](http://arxiv.org/abs/2408.05057)|null|
-|**2024-08-08**|**Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement**|Muhammad Salman Khan et.al.|[2408.04773](http://arxiv.org/abs/2408.04773)|**[link](https://github.com/salman18376/SE-SSL)**|
+|**2024-08-08**|**Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement**|Muhammad Salman Khan et.al.|[2408.04773](http://arxiv.org/abs/2408.04773)|null|
 |**2024-08-08**|**Segmentation of Mental Foramen in Orthopantomographs: A Deep Learning Approach**|Haider Raza et.al.|[2408.04763](http://arxiv.org/abs/2408.04763)|null|
 |**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
 |**2024-08-08**|**Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization**|Aditya Kapoor et.al.|[2408.04295](http://arxiv.org/abs/2408.04295)|null|
@@ -875,6 +882,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326](http://arxiv.org/abs/2408.06326)|null|
+|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321](http://arxiv.org/abs/2408.06321)|null|
+|**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|null|
+|**2024-08-12**|**Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning**|Davide Galli et.al.|[2408.06296](http://arxiv.org/abs/2408.06296)|null|
+|**2024-08-12**|**Mambular: A Sequential Model for Tabular Deep Learning**|Anton Frederik Thielmann et.al.|[2408.06291](http://arxiv.org/abs/2408.06291)|**[link](https://github.com/basf/mamba-tabular)**|
+|**2024-08-12**|**Multi-marginal Schrödinger Bridges with Iterative Reference**|Yunyi Shen et.al.|[2408.06277](http://arxiv.org/abs/2408.06277)|null|
+|**2024-08-12**|**DUNE: A Machine Learning Deep UNet++ based Ensemble Approach to Monthly, Seasonal and Annual Climate Forecasting**|Pratik Shukla et.al.|[2408.06262](http://arxiv.org/abs/2408.06262)|**[link](https://github.com/Pratik-Shukla-1/DUNE_AI_Model)**|
+|**2024-08-12**|**Deep Learning System Boundary Testing through Latent Space Style Mixing**|Amr Abdellatif et.al.|[2408.06258](http://arxiv.org/abs/2408.06258)|null|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
+|**2024-08-12**|**Deep Learning Accelerated Phase Prediction of Refractory Multi-Principal Element Alloys**|A. K. Shargh et.al.|[2408.06237](http://arxiv.org/abs/2408.06237)|null|
 |**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
 |**2024-08-09**|**HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels for Pan-Cancer Predictive Modelling**|Piotr Keller et.al.|[2408.05195](http://arxiv.org/abs/2408.05195)|**[link](https://github.com/pkeller00/histokernel)**|
 |**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
@@ -1959,6 +1976,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310](http://arxiv.org/abs/2408.06310)|null|
+|**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121](http://arxiv.org/abs/2408.06121)|null|
+|**2024-08-12**|**ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**|Ronak Pradeep et.al.|[2408.05948](http://arxiv.org/abs/2408.05948)|null|
+|**2024-08-11**|**Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve Partially Observable Markov Decision Processes**|Taewoon Kim et.al.|[2408.05861](http://arxiv.org/abs/2408.05861)|null|
+|**2024-08-11**|**HiLight: A Hierarchy-aware Light Global Model with Hierarchical Local ConTrastive Learning**|Zhijian Chen et.al.|[2408.05786](http://arxiv.org/abs/2408.05786)|null|
+|**2024-08-11**|**Low-Dimensional Federated Knowledge Graph Embedding via Knowledge Distillation**|Xiaoxiong Zhang et.al.|[2408.05748](http://arxiv.org/abs/2408.05748)|null|
+|**2024-08-10**|**SHREC: a SRE Behaviour Knowledge Graph Model for Shell Command Recommendations**|Andrea Tonon et.al.|[2408.05592](http://arxiv.org/abs/2408.05592)|null|
+|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-09**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**|Pengjie Liu et.al.|[2408.05283](http://arxiv.org/abs/2408.05283)|null|
 |**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
 |**2024-08-09**|**Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**|Shouyue Liu et.al.|[2408.05117](http://arxiv.org/abs/2408.05117)|null|
