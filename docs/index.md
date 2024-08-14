@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -1972,7 +1972,7 @@ layout: default
 |**2024-08-11**|**HiLight: A Hierarchy-aware Light Global Model with Hierarchical Local ConTrastive Learning**|Zhijian Chen et.al.|[2408.05786](http://arxiv.org/abs/2408.05786)|null|
 |**2024-08-11**|**Low-Dimensional Federated Knowledge Graph Embedding via Knowledge Distillation**|Xiaoxiong Zhang et.al.|[2408.05748](http://arxiv.org/abs/2408.05748)|null|
 |**2024-08-10**|**SHREC: a SRE Behaviour Knowledge Graph Model for Shell Command Recommendations**|Andrea Tonon et.al.|[2408.05592](http://arxiv.org/abs/2408.05592)|null|
-|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-13**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
 |**2024-08-09**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**|Pengjie Liu et.al.|[2408.05283](http://arxiv.org/abs/2408.05283)|null|
 |**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
