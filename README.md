@@ -52,6 +52,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-08-13**|**Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**|Tao Zheng et.al.|[2408.06911](http://arxiv.org/abs/2408.06911)|null|
+|**2024-08-13**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
+|**2024-08-13**|**Long-Tailed Out-of-Distribution Detection: Prioritizing Attention to Tail**|Yina He et.al.|[2408.06742](http://arxiv.org/abs/2408.06742)|null|
+|**2024-08-12**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
 |**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
 |**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
 |**2024-08-11**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**|Jiafeng Xia et.al.|[2408.05792](http://arxiv.org/abs/2408.05792)|null|
@@ -882,6 +887,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
+|**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870](http://arxiv.org/abs/2408.06870)|null|
+|**2024-08-13**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
+|**2024-08-13**|**Convolutional Neural Networks For Turbulent Model Uncertainty Quantification**|Minghan Chu et.al.|[2408.06864](http://arxiv.org/abs/2408.06864)|null|
+|**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
+|**2024-08-13**|**Unmasking the Uniqueness: A Glimpse into Age-Invariant Face Recognition of Indigenous African Faces**|Fakunle Ajewole et.al.|[2408.06806](http://arxiv.org/abs/2408.06806)|null|
 |**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326](http://arxiv.org/abs/2408.06326)|null|
 |**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321](http://arxiv.org/abs/2408.06321)|null|
 |**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
@@ -1976,6 +1991,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787](http://arxiv.org/abs/2408.06787)|null|
+|**2024-08-13**|**Generalized knowledge-enhanced framework for biomedical entity and relation extraction**|Minh Nguyen et.al.|[2408.06618](http://arxiv.org/abs/2408.06618)|null|
+|**2024-08-13**|**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**|Rui Ying et.al.|[2408.06603](http://arxiv.org/abs/2408.06603)|**[link](https://github.com/nk-ruiying/tcompounde)**|
+|**2024-08-12**|**Design Proteins Using Large Language Models: Enhancements and Comparative Analyses**|Kamyar Zeinalipour et.al.|[2408.06396](http://arxiv.org/abs/2408.06396)|null|
 |**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
 |**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310](http://arxiv.org/abs/2408.06310)|null|
 |**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121](http://arxiv.org/abs/2408.06121)|null|
