@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -46,9 +46,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
 |**2024-08-13**|**Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**|Tao Zheng et.al.|[2408.06911](http://arxiv.org/abs/2408.06911)|null|
-|**2024-08-13**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
+|**2024-08-14**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
 |**2024-08-13**|**Long-Tailed Out-of-Distribution Detection: Prioritizing Attention to Tail**|Yina He et.al.|[2408.06742](http://arxiv.org/abs/2408.06742)|null|
-|**2024-08-12**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
+|**2024-08-14**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
 |**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
 |**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
 |**2024-08-11**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**|Jiafeng Xia et.al.|[2408.05792](http://arxiv.org/abs/2408.05792)|null|
@@ -883,7 +883,7 @@ layout: default
 |**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870](http://arxiv.org/abs/2408.06870)|null|
-|**2024-08-13**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
+|**2024-08-14**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
 |**2024-08-13**|**Convolutional Neural Networks For Turbulent Model Uncertainty Quantification**|Minghan Chu et.al.|[2408.06864](http://arxiv.org/abs/2408.06864)|null|
 |**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
 |**2024-08-13**|**Unmasking the Uniqueness: A Glimpse into Age-Invariant Face Recognition of Indigenous African Faces**|Fakunle Ajewole et.al.|[2408.06806](http://arxiv.org/abs/2408.06806)|null|
