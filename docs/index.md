@@ -44,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Multi-periodicity dependency Transformer based on spectrum offset for radio frequency fingerprint identification**|Jing Xiao et.al.|[2408.07592](http://arxiv.org/abs/2408.07592)|null|
+|**2024-08-14**|**A Nested Graph Reinforcement Learning-based Decision-making Strategy for Eco-platooning**|Xin Gao et.al.|[2408.07578](http://arxiv.org/abs/2408.07578)|null|
+|**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
+|**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340](http://arxiv.org/abs/2408.07340)|**[link](https://github.com/jypeng28/mse-gnn)**|
+|**2024-08-14**|**Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery**|Yue Yu et.al.|[2408.07307](http://arxiv.org/abs/2408.07307)|null|
+|**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
+|**2024-08-14**|**Lesion-aware network for diabetic retinopathy diagnosis**|Xue Xia et.al.|[2408.07264](http://arxiv.org/abs/2408.07264)|**[link](https://github.com/xia-xx-cv/lanet-dr)**|
 |**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
 |**2024-08-13**|**Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**|Tao Zheng et.al.|[2408.06911](http://arxiv.org/abs/2408.06911)|null|
 |**2024-08-14**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
@@ -877,6 +884,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
+|**2024-08-14**|**Latent Anomaly Detection Through Density Matrices**|Joseph Gallego-Mejia et.al.|[2408.07623](http://arxiv.org/abs/2408.07623)|null|
+|**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
+|**2024-08-14**|**TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases**|Thibault Simonetto et.al.|[2408.07579](http://arxiv.org/abs/2408.07579)|**[link](https://github.com/serval-uni-lu/tabularbench)**|
+|**2024-08-14**|**PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations**|Jiajun Zhou et.al.|[2408.07556](http://arxiv.org/abs/2408.07556)|null|
+|**2024-08-14**|**Learning-based Models for Vulnerability Detection: An Extensive Study**|Chao Ni et.al.|[2408.07526](http://arxiv.org/abs/2408.07526)|null|
+|**2024-08-14**|**Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark**|Senmao Wang et.al.|[2408.07444](http://arxiv.org/abs/2408.07444)|null|
+|**2024-08-14**|**Automated Retinal Image Analysis and Medical Report Generation through Deep Learning**|Jia-Hong Huang et.al.|[2408.07349](http://arxiv.org/abs/2408.07349)|null|
+|**2024-08-14**|**LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models**|Md Fahim Anjum et.al.|[2408.07292](http://arxiv.org/abs/2408.07292)|**[link](https://github.com/mdfahimanjum/lipcot)**|
+|**2024-08-14**|**Lesion-aware network for diabetic retinopathy diagnosis**|Xue Xia et.al.|[2408.07264](http://arxiv.org/abs/2408.07264)|**[link](https://github.com/xia-xx-cv/lanet-dr)**|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
 |**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
@@ -1979,6 +1996,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
+|**2024-08-14**|**Graph polyhedral divisions in growing cell aggregates**|Urban Železnik et.al.|[2408.07551](http://arxiv.org/abs/2408.07551)|null|
+|**2024-08-14**|**QirK: Question Answering via Intermediate Representation on Knowledge Graphs**|Jan Luca Scheerer et.al.|[2408.07494](http://arxiv.org/abs/2408.07494)|null|
+|**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](http://arxiv.org/abs/2408.07465)|null|
+|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453](http://arxiv.org/abs/2408.07453)|null|
+|**2024-08-14**|**Evaluating Large Language Model based Personal Information Extraction and Countermeasures**|Yupei Liu et.al.|[2408.07291](http://arxiv.org/abs/2408.07291)|null|
+|**2024-08-13**|**The gene function prediction challenge: large language models and knowledge graphs to the rescue**|Rohan Shawn Sunil et.al.|[2408.07222](http://arxiv.org/abs/2408.07222)|null|
 |**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787](http://arxiv.org/abs/2408.06787)|null|
 |**2024-08-13**|**Generalized knowledge-enhanced framework for biomedical entity and relation extraction**|Minh Nguyen et.al.|[2408.06618](http://arxiv.org/abs/2408.06618)|null|
 |**2024-08-13**|**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**|Rui Ying et.al.|[2408.06603](http://arxiv.org/abs/2408.06603)|**[link](https://github.com/nk-ruiying/tcompounde)**|
