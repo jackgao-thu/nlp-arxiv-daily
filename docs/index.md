@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -2011,7 +2011,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248](http://arxiv.org/abs/2408.08248)|null|
-|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238](http://arxiv.org/abs/2408.08238)|null|
+|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238](http://arxiv.org/abs/2408.08238)|**[link](https://github.com/bankh/DocumentLabeler)**|
 |**2024-08-15**|**Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction**|Yuqicheng Zhu et.al.|[2408.08226](http://arxiv.org/abs/2408.08226)|null|
 |**2024-08-15**|**KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment**|Zongzong Wu et.al.|[2408.08088](http://arxiv.org/abs/2408.08088)|null|
 |**2024-08-15**|**CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Improving Temporal Knowledge Graph Extrapolation Reasoning**|Jinze Sun et.al.|[2408.07911](http://arxiv.org/abs/2408.07911)|null|
