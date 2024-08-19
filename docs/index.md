@@ -44,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852](http://arxiv.org/abs/2408.08852)|null|
+|**2024-08-16**|**Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models**|Lin Zhao et.al.|[2408.08813](http://arxiv.org/abs/2408.08813)|null|
+|**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
+|**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709](http://arxiv.org/abs/2408.08709)|null|
+|**2024-08-16**|**Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase**|Yicong Li et.al.|[2408.08684](http://arxiv.org/abs/2408.08684)|null|
+|**2024-08-16**|**Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making in Heterogeneous Mixed Autonomy**|Xin Gao et.al.|[2408.08516](http://arxiv.org/abs/2408.08516)|null|
+|**2024-08-15**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454](http://arxiv.org/abs/2408.08454)|null|
 |**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999](http://arxiv.org/abs/2408.07999)|null|
 |**2024-08-15**|**Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis**|Bingyu Li et.al.|[2408.07891](http://arxiv.org/abs/2408.07891)|**[link](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis)**|
 |**2024-08-15**|**MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**|Simiao Lai et.al.|[2408.07889](http://arxiv.org/abs/2408.07889)|null|
@@ -888,6 +895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk**|Mohamad Fares El Hajj Chehade et.al.|[2408.08812](http://arxiv.org/abs/2408.08812)|null|
+|**2024-08-16**|**Assessing Generalization Capabilities of Malaria Diagnostic Models from Thin Blood Smears**|Louise Guillon et.al.|[2408.08792](http://arxiv.org/abs/2408.08792)|null|
+|**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790](http://arxiv.org/abs/2408.08790)|null|
+|**2024-08-16**|**Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM**|Wanting Yang et.al.|[2408.08765](http://arxiv.org/abs/2408.08765)|null|
+|**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742](http://arxiv.org/abs/2408.08742)|null|
+|**2024-08-16**|**Beam Prediction based on Large Language Models**|Yucheng Sheng et.al.|[2408.08707](http://arxiv.org/abs/2408.08707)|null|
+|**2024-08-16**|**TextCAVs: Debugging vision models using text**|Angus Nicolson et.al.|[2408.08652](http://arxiv.org/abs/2408.08652)|**[link](https://github.com/angusnicolson/textcavs)**|
+|**2024-08-16**|**DeepDFA: Automata Learning through Neural Probabilistic Relaxations**|Elena Umili et.al.|[2408.08622](http://arxiv.org/abs/2408.08622)|**[link](https://github.com/whitemech/deepdfa)**|
+|**2024-08-16**|**Rubick: Exploiting Job Reconfigurability for Deep Learning Cluster Scheduling**|Xinyi Zhang et.al.|[2408.08586](http://arxiv.org/abs/2408.08586)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
 |**2024-08-15**|**A Multi-task Adversarial Attack Against Face Authentication**|Hanrui Wang et.al.|[2408.08205](http://arxiv.org/abs/2408.08205)|**[link](https://github.com/azrealwang/mtadv)**|
 |**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|null|
 |**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
@@ -2010,6 +2027,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**|Abdullah Al Imran et.al.|[2408.08803](http://arxiv.org/abs/2408.08803)|null|
+|**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709](http://arxiv.org/abs/2408.08709)|null|
+|**2024-08-16**|**NFDI4DSO: Towards a BFO Compliant Ontology for Data Science**|Genet Asefa Gesese et.al.|[2408.08698](http://arxiv.org/abs/2408.08698)|null|
+|**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535](http://arxiv.org/abs/2408.08535)|null|
+|**2024-08-15**|**Evaluating Text Classification Robustness to Part-of-Speech Adversarial Examples**|Anahita Samadi et.al.|[2408.08374](http://arxiv.org/abs/2408.08374)|null|
 |**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248](http://arxiv.org/abs/2408.08248)|null|
 |**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238](http://arxiv.org/abs/2408.08238)|**[link](https://github.com/bankh/DocumentLabeler)**|
 |**2024-08-15**|**Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction**|Yuqicheng Zhu et.al.|[2408.08226](http://arxiv.org/abs/2408.08226)|null|
