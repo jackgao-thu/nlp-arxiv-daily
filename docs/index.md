@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -895,7 +895,7 @@ layout: default
 |**2024-08-15**|**Crystalline Material Discovery in the Era of Artificial Intelligence**|Zhenzhong Wang et.al.|[2408.08044](http://arxiv.org/abs/2408.08044)|null|
 |**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035](http://arxiv.org/abs/2408.08035)|null|
 |**2024-08-15**|**Inversion-DeepONet: A Novel DeepONet-Based Network with Encoder-Decoder for Full Waveform Inversion**|Zekai Guo et.al.|[2408.08005](http://arxiv.org/abs/2408.08005)|null|
-|**2024-08-15**|**Exploring learning environments for label\-efficient cancer diagnosis**|Samta Rani et.al.|[2408.07988](http://arxiv.org/abs/2408.07988)|null|
+|**2024-08-16**|**Exploring learning environments for label\-efficient cancer diagnosis**|Samta Rani et.al.|[2408.07988](http://arxiv.org/abs/2408.07988)|null|
 |**2024-08-15**|**Training Spatial-Frequency Visual Prompts and Probabilistic Clusters for Accurate Black-Box Transfer Learning**|Wonwoo Cho et.al.|[2408.07944](http://arxiv.org/abs/2408.07944)|null|
 |**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932](http://arxiv.org/abs/2408.07932)|**[link](https://github.com/lucaskirsten/mobilemef)**|
 |**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
