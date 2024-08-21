@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -44,7 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
+|**2024-08-20**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
 |**2024-08-19**|**Caption-Driven Explorations: Aligning Image and Text Embeddings through Human-Inspired Foveated Vision**|Dario Zanca et.al.|[2408.09948](http://arxiv.org/abs/2408.09948)|null|
 |**2024-08-19**|**sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting**|Jiaheng Yin et.al.|[2408.09723](http://arxiv.org/abs/2408.09723)|null|
 |**2024-08-19**|**LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting**|Yisong Fu et.al.|[2408.09695](http://arxiv.org/abs/2408.09695)|null|
