@@ -44,6 +44,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799](http://arxiv.org/abs/2408.11799)|null|
+|**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
+|**2024-08-21**|**Macformer: Transformer with Random Maclaurin Feature Attention**|Yuhan Guo et.al.|[2408.11656](http://arxiv.org/abs/2408.11656)|null|
+|**2024-08-21**|**Explainable Deep Learning Framework for Human Activity Recognition**|Yiran Huang et.al.|[2408.11552](http://arxiv.org/abs/2408.11552)|null|
+|**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
+|**2024-08-21**|**An Improved CovidConvLSTM model for pneumonia-COVID-19 detection and classification**|Imane Beghoura et.al.|[2408.11507](http://arxiv.org/abs/2408.11507)|null|
+|**2024-08-21**|**Estimating Peer Direct and Indirect Effects in Observational Network Data**|Xiaojing Du et.al.|[2408.11492](http://arxiv.org/abs/2408.11492)|null|
+|**2024-08-21**|**HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation**|Mingya Zhang et.al.|[2408.11289](http://arxiv.org/abs/2408.11289)|null|
 |**2024-08-20**|**SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement**|Linlin Hu et.al.|[2408.10934](http://arxiv.org/abs/2408.10934)|null|
 |**2024-08-21**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919](http://arxiv.org/abs/2408.10919)|null|
 |**2024-08-20**|**Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended?**|Chen Liang et.al.|[2408.10627](http://arxiv.org/abs/2408.10627)|null|
@@ -909,6 +917,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Embedding Ordinality to Binary Loss Function for Improving Solar Flare Forecasting**|Chetraj Pandey et.al.|[2408.11768](http://arxiv.org/abs/2408.11768)|**[link](https://bitbucket.org/gsudmlab/ordinalloss-sf)**|
+|**2024-08-21**|**Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**|Dewmini Hasara Wickremasinghe et.al.|[2408.11754](http://arxiv.org/abs/2408.11754)|null|
+|**2024-08-21**|**Less is more: AI Decision-Making using Dynamic Deep Neural Networks for Short-Term Stock Index Prediction**|CJ Finnegan et.al.|[2408.11740](http://arxiv.org/abs/2408.11740)|null|
+|**2024-08-21**|**On Learnable Parameters of Optimal and Suboptimal Deep Learning Models**|Ziwei Zheng et.al.|[2408.11720](http://arxiv.org/abs/2408.11720)|null|
+|**2024-08-21**|**FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation**|Philip Schutte et.al.|[2408.11701](http://arxiv.org/abs/2408.11701)|**[link](https://github.com/trustworthy-ai-uu-nki/federated-learning-disentanglement)**|
+|**2024-08-21**|**Optimizing Interpretable Decision Tree Policies for Reinforcement Learning**|Daniël Vos et.al.|[2408.11632](http://arxiv.org/abs/2408.11632)|**[link](https://github.com/tudelft-cda-lab/dtpo)**|
+|**2024-08-21**|**Data-driven Modeling of Combined Sewer Systems for Urban Sustainability: An Empirical Evaluation**|Vipin Singh et.al.|[2408.11619](http://arxiv.org/abs/2408.11619)|null|
+|**2024-08-21**|**Active learning for efficient data selection in radio-signal based positioning via deep learning**|Vincent Corlay et.al.|[2408.11592](http://arxiv.org/abs/2408.11592)|null|
 |**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955](http://arxiv.org/abs/2408.10955)|null|
@@ -2061,6 +2079,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs**|Mayank Kharbanda et.al.|[2408.11526](http://arxiv.org/abs/2408.11526)|**[link](https://github.com/kracr/rcone-qa-mmkg)**|
+|**2024-08-21**|**Green Probabilistic Semantic Communication over Wireless Networks**|Ruopeng Xu et.al.|[2408.11446](http://arxiv.org/abs/2408.11446)|null|
+|**2024-08-21**|**emPDF: Inferring the Milky Way mass with data-driven distribution function in phase space**|Zhaozhou Li et.al.|[2408.11414](http://arxiv.org/abs/2408.11414)|null|
+|**2024-08-21**|**Towards Evaluating Large Language Models on Sarcasm Understanding**|Yazhou Zhang et.al.|[2408.11319](http://arxiv.org/abs/2408.11319)|null|
+|**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819](http://arxiv.org/abs/2408.10819)|null|
 |**2024-08-20**|**NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**|Tuc Nguyen et.al.|[2408.10528](http://arxiv.org/abs/2408.10528)|null|
 |**2024-08-20**|**Is the Lecture Engaging for Learning? Lecture Voice Sentiment Analysis for Knowledge Graph-Supported Intelligent Lecturing Assistant (ILA) System**|Yuan An et.al.|[2408.10492](http://arxiv.org/abs/2408.10492)|null|
