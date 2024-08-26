@@ -44,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
+|**2024-08-23**|**KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection**|Haruna Yunusa et.al.|[2408.13160](http://arxiv.org/abs/2408.13160)|null|
+|**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
+|**2024-08-23**|**SIMPNet: Spatial-Informed Motion Planning Network**|Davood Soleymanzadeh et.al.|[2408.12831](http://arxiv.org/abs/2408.12831)|null|
+|**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[2408.12805](http://arxiv.org/abs/2408.12805)|null|
+|**2024-08-22**|**Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm**|Qiming Yang et.al.|[2408.12672](http://arxiv.org/abs/2408.12672)|null|
+|**2024-08-22**|**Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles**|Charles Gadd et.al.|[2408.12636](http://arxiv.org/abs/2408.12636)|null|
 |**2024-08-22**|**EUIS-Net: A Convolutional Neural Network for Efficient Ultrasound Image Segmentation**|Shahzaib Iqbal et.al.|[2408.12323](http://arxiv.org/abs/2408.12323)|null|
 |**2024-08-22**|**Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning**|Haotian Zhang et.al.|[2408.12252](http://arxiv.org/abs/2408.12252)|null|
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
@@ -922,6 +929,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**Amortized Bayesian Multilevel Models**|Daniel Habermann et.al.|[2408.13230](http://arxiv.org/abs/2408.13230)|null|
+|**2024-08-23**|**Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition**|Ahmad Pouramini et.al.|[2408.13227](http://arxiv.org/abs/2408.13227)|null|
+|**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
+|**2024-08-23**|**EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods**|Hongcheng Ding et.al.|[2408.13214](http://arxiv.org/abs/2408.13214)|null|
+|**2024-08-23**|**Instruct-DeBERTa: A Hybrid Approach for Aspect-based Sentiment Analysis on Textual Reviews**|Dineth Jayakody et.al.|[2408.13202](http://arxiv.org/abs/2408.13202)|null|
+|**2024-08-23**|**NAS-Cap: Deep-Learning Driven 3-D Capacitance Extraction with Neural Architecture Search and Data Augmentation**|Haoyuan Li et.al.|[2408.13195](http://arxiv.org/abs/2408.13195)|null|
+|**2024-08-23**|**Deep Learning for Lung Disease Classification Using Transfer Learning and a Customized CNN Architecture with Attention**|Xiaoyi Liu et.al.|[2408.13180](http://arxiv.org/abs/2408.13180)|null|
+|**2024-08-23**|**Interpretable breast cancer classification using CNNs on mammographic images**|Ann-Kristin Balve et.al.|[2408.13154](http://arxiv.org/abs/2408.13154)|null|
+|**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135](http://arxiv.org/abs/2408.13135)|null|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
 |**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534](http://arxiv.org/abs/2408.12534)|null|
@@ -2094,6 +2111,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
+|**2024-08-23**|**Multi-Faceted Question Complexity Estimation Targeting Topic Domain-Specificity**|Sujay R et.al.|[2408.12850](http://arxiv.org/abs/2408.12850)|null|
+|**2024-08-23**|**CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition**|Yafeng Zhang et.al.|[2408.12834](http://arxiv.org/abs/2408.12834)|null|
+|**2024-08-23**|**BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks on Large Language Models**|Yige Li et.al.|[2408.12798](http://arxiv.org/abs/2408.12798)|null|
+|**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|null|
 |**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
 |**2024-08-22**|**The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design**|Artem Snegirev et.al.|[2408.12503](http://arxiv.org/abs/2408.12503)|null|
 |**2024-08-22**|**CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset**|Mashael Al-Duwais et.al.|[2408.12362](http://arxiv.org/abs/2408.12362)|null|
