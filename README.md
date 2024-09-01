@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
 
 ## Attention
 
@@ -56,7 +56,7 @@
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
 |**2024-08-29**|**Locally Grouped and Scale-Guided Attention for Dense Pest Counting**|Chang-Hwan Son et.al.|[2408.16503](http://arxiv.org/abs/2408.16503)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-27**|**TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting**|Abid Hasan Zim et.al.|[2408.15737](http://arxiv.org/abs/2408.15737)|null|
 |**2024-08-27**|**Graph Attention Inference of Network Topology in Multi-Agent Systems**|Akshay Kolli et.al.|[2408.15449](http://arxiv.org/abs/2408.15449)|null|
 |**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
@@ -958,7 +958,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2182,7 +2182,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
 
 ## Extraction
 
@@ -3066,7 +3066,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

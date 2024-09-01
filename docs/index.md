@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -48,7 +48,7 @@ layout: default
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
 |**2024-08-29**|**Locally Grouped and Scale-Guided Attention for Dense Pest Counting**|Chang-Hwan Son et.al.|[2408.16503](http://arxiv.org/abs/2408.16503)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-27**|**TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting**|Abid Hasan Zim et.al.|[2408.15737](http://arxiv.org/abs/2408.15737)|null|
 |**2024-08-27**|**Graph Attention Inference of Network Topology in Multi-Agent Systems**|Akshay Kolli et.al.|[2408.15449](http://arxiv.org/abs/2408.15449)|null|
 |**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
