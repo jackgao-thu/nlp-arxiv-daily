@@ -44,6 +44,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering**|Nicholas Pochinkov et.al.|[2408.17322](http://arxiv.org/abs/2408.17322)|**[link](https://github.com/nickypro/investigating-ablation)**|
+|**2024-08-30**|**Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings**|Shota Horiguchi et.al.|[2408.17142](http://arxiv.org/abs/2408.17142)|null|
+|**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
+|**2024-08-30**|**Cross Fusion RGB-T Tracking with Bi-directional Adapter**|Zhirong Zeng et.al.|[2408.16979](http://arxiv.org/abs/2408.16979)|null|
+|**2024-08-30**|**MemLong: Memory-Augmented Retrieval for Long Text Modeling**|Weijie Liu et.al.|[2408.16967](http://arxiv.org/abs/2408.16967)|**[link](https://github.com/bui1dmysea/memlong)**|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
@@ -954,6 +960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430](http://arxiv.org/abs/2408.17430)|null|
+|**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
+|**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
+|**2024-08-30**|**LASSO-MOGAT: A Multi-Omics Graph Attention Framework for Cancer Classification**|Fadi Alharbi et.al.|[2408.17384](http://arxiv.org/abs/2408.17384)|null|
+|**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364](http://arxiv.org/abs/2408.17364)|null|
+|**2024-08-30**|**Look, Learn and Leverage (L $^3$ ): Mitigating Visual-Domain Shift and Discovering Intrinsic Relations via Symbolic Alignment**|Hanchen Xie et.al.|[2408.17363](http://arxiv.org/abs/2408.17363)|null|
+|**2024-08-30**|**C-RADAR: A Centralized Deep Learning System for Intrusion Detection in Software Defined Networks**|Osama Mustafa et.al.|[2408.17356](http://arxiv.org/abs/2408.17356)|null|
+|**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252](http://arxiv.org/abs/2408.17252)|null|
+|**2024-08-30**|**Leveraging Deep Generative Model For Computational Protein Design And Optimization**|Boqiao Lai et.al.|[2408.17241](http://arxiv.org/abs/2408.17241)|null|
 |**2024-08-29**|**Towards Efficient Modelling of String Dynamics: A Comparison of State Space and Koopman based Deep Learning Methods**|Rodrigo Diaz et.al.|[2408.16650](http://arxiv.org/abs/2408.16650)|null|
 |**2024-08-29**|**Optimizing Automated Picking Systems in Warehouse Robots Using Machine Learning**|Keqin Li et.al.|[2408.16633](http://arxiv.org/abs/2408.16633)|null|
 |**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
@@ -2176,6 +2192,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
+|**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
+|**2024-08-30**|**Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study**|Shubham Agarwal et.al.|[2408.17181](http://arxiv.org/abs/2408.17181)|null|
+|**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
 |**2024-08-28**|**ChartEye: A Deep Learning Framework for Chart Information Extraction**|Osama Mustafa et.al.|[2408.16123](http://arxiv.org/abs/2408.16123)|null|
