@@ -44,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|null|
+|**2024-09-04**|**USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction**|Bang Zeng et.al.|[2409.02615](http://arxiv.org/abs/2409.02615)|null|
+|**2024-09-04**|**How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations**|Florian Blume et.al.|[2409.02566](http://arxiv.org/abs/2409.02566)|null|
+|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|null|
+|**2024-09-03**|**TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation**|Bobby Azad et.al.|[2409.02018](http://arxiv.org/abs/2409.02018)|null|
+|**2024-09-03**|**Learning Resilient Formation Control of Drones with Graph Attention Network**|Jiaping Xiao et.al.|[2409.01953](http://arxiv.org/abs/2409.01953)|null|
+|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-03**|**Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach**|Salah Eddine Laidoudi et.al.|[2409.01871](http://arxiv.org/abs/2409.01871)|null|
+|**2024-09-03**|**AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling**|Siddhant Dutta et.al.|[2409.01626](http://arxiv.org/abs/2409.01626)|null|
 |**2024-08-30**|**Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering**|Nicholas Pochinkov et.al.|[2408.17322](http://arxiv.org/abs/2408.17322)|**[link](https://github.com/nickypro/investigating-ablation)**|
 |**2024-08-30**|**Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings**|Shota Horiguchi et.al.|[2408.17142](http://arxiv.org/abs/2408.17142)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
@@ -960,6 +970,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883](http://arxiv.org/abs/2409.02883)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|null|
+|**2024-09-04**|**Knowledge Transfer for Collaborative Misbehavior Detection in Untrusted Vehicular Environments**|Roshan Sedar et.al.|[2409.02844](http://arxiv.org/abs/2409.02844)|null|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
+|**2024-09-04**|**Deep Learning Meets Satellite Images -- An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images**|Shuang Song et.al.|[2409.02825](http://arxiv.org/abs/2409.02825)|null|
+|**2024-09-04**|**A hybrid FEM-PINN method for time-dependent partial differential equations**|Xiaodong Feng et.al.|[2409.02810](http://arxiv.org/abs/2409.02810)|null|
+|**2024-09-04**|**Regularized Multi-output Gaussian Convolution Process with Domain Adaptation**|Wang Xinming et.al.|[2409.02778](http://arxiv.org/abs/2409.02778)|null|
+|**2024-09-04**|**Validation of musculoskeletal segmentation model with uncertainty estimation for bone and muscle assessment in hip-to-knee clinical CT images**|Mazen Soufi et.al.|[2409.02770](http://arxiv.org/abs/2409.02770)|null|
+|**2024-09-04**|**Convolutional Neural Networks for Automated Cellular Automaton Classification**|Michiel Rollier et.al.|[2409.02740](http://arxiv.org/abs/2409.02740)|null|
 |**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430](http://arxiv.org/abs/2408.17430)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
 |**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
@@ -2192,6 +2212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649](http://arxiv.org/abs/2409.02649)|null|
+|**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375](http://arxiv.org/abs/2409.02375)|null|
+|**2024-09-03**|**What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**|Zhi Chen et.al.|[2409.01893](http://arxiv.org/abs/2409.01893)|null|
+|**2024-09-03**|**State-of-the-art Advances of Deep-learning Linguistic Steganalysis Research**|Yihao Wang et.al.|[2409.01780](http://arxiv.org/abs/2409.01780)|null|
+|**2024-09-03**|**SpannerLib: Embedding Declarative Information Extraction in an Imperative Workflow**|Dean Light et.al.|[2409.01736](http://arxiv.org/abs/2409.01736)|null|
+|**2024-09-02**|**PoliPrompt: A High-Performance Cost-Effective LLM-Based Text Classification Framework for Political Science**|Menglin Liu et.al.|[2409.01466](http://arxiv.org/abs/2409.01466)|null|
+|**2024-09-02**|**Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning**|Vyacheslav Kungurtsev et.al.|[2409.01410](http://arxiv.org/abs/2409.01410)|null|
+|**2024-09-02**|**CARIn: Constraint-Aware and Responsive Inference on Heterogeneous Devices for Single- and Multi-DNN Workloads**|Ioannis Panopoulos et.al.|[2409.01089](http://arxiv.org/abs/2409.01089)|null|
+|**2024-09-02**|**Merging Multiple Datasets for Improved Appearance-Based Gaze Estimation**|Liang Wu et.al.|[2409.00912](http://arxiv.org/abs/2409.00912)|**[link](https://github.com/hkust-nisl/gazesetmerge)**|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
 |**2024-08-30**|**Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study**|Shubham Agarwal et.al.|[2408.17181](http://arxiv.org/abs/2408.17181)|null|
