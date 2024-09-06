@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183](http://arxiv.org/abs/2409.03183)|null|
 |**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/abs/2408.00767)|null|
 |**2024-08-01**|**CultureVo: The Serious Game of Utilizing Gen AI for Enhancing Cultural Intelligence**|Ajita Agarwala et.al.|[2407.20685](http://arxiv.org/abs/2407.20685)|null|
 |**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
@@ -52,6 +53,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers**|Amit Ben Artzy et.al.|[2409.03621](http://arxiv.org/abs/2409.03621)|null|
+|**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463](http://arxiv.org/abs/2409.03463)|**[link](https://github.com/msorbi/gnn-ma)**|
+|**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249](http://arxiv.org/abs/2409.03249)|null|
+|**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115](http://arxiv.org/abs/2409.03115)|null|
 |**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|**[link](https://github.com/junegoo94/Hybrid-Segmentor)**|
 |**2024-09-04**|**USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction**|Bang Zeng et.al.|[2409.02615](http://arxiv.org/abs/2409.02615)|null|
 |**2024-09-04**|**How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations**|Florian Blume et.al.|[2409.02566](http://arxiv.org/abs/2409.02566)|null|
@@ -980,6 +985,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Threat Classification on Deployed Optical Networks Using MIMO Digital Fiber Sensing, Wavelets, and Machine Learning**|Khouloud Abdelli et.al.|[2409.03667](http://arxiv.org/abs/2409.03667)|null|
+|**2024-09-05**|**A DNN Biophysics Model with Topological and Electrostatic Features**|Elyssa Sliheet et.al.|[2409.03658](http://arxiv.org/abs/2409.03658)|null|
+|**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
+|**2024-09-05**|**CTMBIDS: Convolutional Tsetlin Machine Based Intrusion Detection System for DDoS attacks in an SDN environment**|Rasoul Jafari Gohari et.al.|[2409.03544](http://arxiv.org/abs/2409.03544)|null|
+|**2024-09-05**|**Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation**|Prerak Mody et.al.|[2409.03470](http://arxiv.org/abs/2409.03470)|**[link](https://github.com/prerakmody/bayesuncertainty-error-correspondence)**|
+|**2024-09-05**|**Panopticon: a novel deep learning model to detect single transit events with no prior data filtering in PLATO light curves**|H. G. Vivien et.al.|[2409.03466](http://arxiv.org/abs/2409.03466)|null|
+|**2024-09-05**|**Automatic occlusion removal from 3D maps for maritime situational awareness**|Felix Sattler et.al.|[2409.03451](http://arxiv.org/abs/2409.03451)|null|
+|**2024-09-05**|**Shuffle Vision Transformer: Lightweight, Fast and Efficient Recognition of Driver Facial Expression**|Ibtissam Saadi et.al.|[2409.03438](http://arxiv.org/abs/2409.03438)|null|
+|**2024-09-05**|**TBConvL-Net: A Hybrid Deep Learning Architecture for Robust Medical Image Segmentation**|Shahzaib Iqbal et.al.|[2409.03367](http://arxiv.org/abs/2409.03367)|null|
+|**2024-09-05**|**Rethinking Improved Privacy-Utility Trade-off with Pre-existing Knowledge for DP Training**|Yu Zheng et.al.|[2409.03344](http://arxiv.org/abs/2409.03344)|null|
 |**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883](http://arxiv.org/abs/2409.02883)|null|
 |**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
 |**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|**[link](https://github.com/junegoo94/Hybrid-Segmentor)**|
@@ -2224,6 +2239,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
+|**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|null|
+|**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284](http://arxiv.org/abs/2409.03284)|**[link](https://github.com/AuvaLab/itext2kg)**|
+|**2024-09-05**|**Preserving Empirical Probabilities in BERT for Small-sample Clinical Entity Recognition**|Abdul Rehman et.al.|[2409.03238](http://arxiv.org/abs/2409.03238)|null|
+|**2024-09-05**|**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**|Chenglizhao Chen et.al.|[2409.03236](http://arxiv.org/abs/2409.03236)|**[link](https://github.com/liuxy3366/DecoAD)**|
+|**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
 |**2024-09-05**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649](http://arxiv.org/abs/2409.02649)|null|
 |**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375](http://arxiv.org/abs/2409.02375)|null|
 |**2024-09-03**|**What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**|Zhi Chen et.al.|[2409.01893](http://arxiv.org/abs/2409.01893)|null|
