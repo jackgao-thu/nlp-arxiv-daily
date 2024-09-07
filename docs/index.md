@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -49,7 +49,7 @@ layout: default
 |**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463](http://arxiv.org/abs/2409.03463)|**[link](https://github.com/msorbi/gnn-ma)**|
 |**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249](http://arxiv.org/abs/2409.03249)|null|
 |**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115](http://arxiv.org/abs/2409.03115)|null|
-|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|**[link](https://github.com/junegoo94/Hybrid-Segmentor)**|
+|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|null|
 |**2024-09-04**|**USEF-TSE: Universal Speaker Embedding Free Target Speaker Extraction**|Bang Zeng et.al.|[2409.02615](http://arxiv.org/abs/2409.02615)|null|
 |**2024-09-04**|**How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations**|Florian Blume et.al.|[2409.02566](http://arxiv.org/abs/2409.02566)|null|
 |**2024-09-05**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
