@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
+|**2024-09-09**|**Boosting CNN-based Handwriting Recognition Systems with Learnable Relaxation Labeling**|Sara Ferro et.al.|[2409.05699](http://arxiv.org/abs/2409.05699)|null|
+|**2024-09-09**|**MANA-Net: Mitigating Aggregated Sentiment Homogenization with News Weighting for Enhanced Market Prediction**|Mengyu Wang et.al.|[2409.05698](http://arxiv.org/abs/2409.05698)|null|
+|**2024-09-09**|**SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching**|Yi Li et.al.|[2409.05681](http://arxiv.org/abs/2409.05681)|null|
+|**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|null|
+|**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280](http://arxiv.org/abs/2409.05280)|**[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)**|
+|**2024-09-09**|**Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement**|Shyang-En Weng et.al.|[2409.05274](http://arxiv.org/abs/2409.05274)|null|
+|**2024-09-08**|**SS-BRPE: Self-Supervised Blind Room Parameter Estimation Using Attention Mechanisms**|Chunxi Wang et.al.|[2409.05212](http://arxiv.org/abs/2409.05212)|null|
+|**2024-09-08**|**Better Spanish Emotion Recognition In-the-wild: Bringing Attention to Deep Spectrum Voice Analysis**|Elena Ortega-Beltrán et.al.|[2409.05148](http://arxiv.org/abs/2409.05148)|null|
+|**2024-09-08**|**MHS-STMA: Multimodal Hate Speech Detection via Scalable Transformer-Based Multilevel Attention Framework**|Anusha Chhabra et.al.|[2409.05136](http://arxiv.org/abs/2409.05136)|null|
 |**2024-09-06**|**Introducing Gating and Context into Temporal Action Detection**|Aglind Reka et.al.|[2409.04205](http://arxiv.org/abs/2409.04205)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133](http://arxiv.org/abs/2409.04133)|null|
 |**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
@@ -981,6 +991,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**A CLIP-based siamese approach for meme classification**|Javier Huertas-Tato et.al.|[2409.05772](http://arxiv.org/abs/2409.05772)|null|
+|**2024-09-09**|**Application of Physics-Informed Neural Networks in Removing Telescope Beam Effects**|Shulei Ni et.al.|[2409.05718](http://arxiv.org/abs/2409.05718)|null|
+|**2024-09-09**|**Real-time optimal control of high-dimensional parametrized systems by deep learning-based reduced order models**|Matteo Tomasetto et.al.|[2409.05709](http://arxiv.org/abs/2409.05709)|null|
+|**2024-09-09**|**Segmentation by Factorization: Unsupervised Semantic Segmentation for Pathology by Factorizing Foundation Model Features**|Jacob Gildenblat et.al.|[2409.05697](http://arxiv.org/abs/2409.05697)|null|
+|**2024-09-09**|**Robust Real-time Segmentation of Bio-Morphological Features in Human Cherenkov Imaging during Radiotherapy via Deep Learning**|Shiru Wang et.al.|[2409.05666](http://arxiv.org/abs/2409.05666)|null|
+|**2024-09-09**|**Real-Time Human Action Recognition on Embedded Platforms**|Ruiqi Wang et.al.|[2409.05662](http://arxiv.org/abs/2409.05662)|null|
+|**2024-09-09**|**Replay Consolidation with Label Propagation for Continual Object Detection**|Riccardo De Monte et.al.|[2409.05650](http://arxiv.org/abs/2409.05650)|null|
+|**2024-09-09**|**3D-SAR Tomography and Machine Learning for High-Resolution Tree Height Estimation**|Grace Colverd et.al.|[2409.05636](http://arxiv.org/abs/2409.05636)|null|
+|**2024-09-09**|**Latent 3D Brain MRI Counterfactual**|Wei Peng et.al.|[2409.05585](http://arxiv.org/abs/2409.05585)|null|
+|**2024-09-09**|**Preparing Schrödinger cat states in a microwave cavity using a neural network**|Hector Hutin et.al.|[2409.05557](http://arxiv.org/abs/2409.05557)|null|
 |**2024-09-06**|**Holographic Air-quality Monitor (HAM)**|Nicholas Bravo-Frank et.al.|[2409.04435](http://arxiv.org/abs/2409.04435)|null|
 |**2024-09-06**|**Enhancing Skin Lesion Diagnosis with Ensemble Learning**|Xiaoyi Liu et.al.|[2409.04381](http://arxiv.org/abs/2409.04381)|null|
 |**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368](http://arxiv.org/abs/2409.04368)|null|
@@ -2243,6 +2263,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
+|**2024-09-09**|**RexUniNLU: Recursive Method with Explicit Schema Instructor for Universal NLU**|Chengyuan Liu et.al.|[2409.05275](http://arxiv.org/abs/2409.05275)|null|
+|**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934](http://arxiv.org/abs/2409.04934)|null|
+|**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
+|**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
+|**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
+|**2024-09-06**|**Graph versioning for evolving urban data**|Jey Puget Gil et.al.|[2409.04498](http://arxiv.org/abs/2409.04498)|null|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
 |**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103](http://arxiv.org/abs/2409.04103)|null|
