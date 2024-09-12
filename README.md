@@ -53,6 +53,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Data Augmentation via Latent Diffusion for Saliency Prediction**|Bahar Aydemir et.al.|[2409.07307](http://arxiv.org/abs/2409.07307)|**[link](https://github.com/ivrl/augsal)**|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|null|
+|**2024-09-11**|**Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models**|Jiahang Cao et.al.|[2409.07163](http://arxiv.org/abs/2409.07163)|null|
+|**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
+|**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
 |**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding**|Xiaoyu Liang et.al.|[2409.06485](http://arxiv.org/abs/2409.06485)|null|
@@ -1008,6 +1013,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability**|A. E. M Ridwan et.al.|[2409.07426](http://arxiv.org/abs/2409.07426)|null|
+|**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
+|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
+|**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
+|**2024-09-11**|**ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel Electroencephalographic Signals**|Chun-Hsiang Chuang et.al.|[2409.07326](http://arxiv.org/abs/2409.07326)|null|
+|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
+|**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
+|**2024-09-11**|**Optimizing Neural Network Performance and Interpretability with Diophantine Equation Encoding**|Ronald Katende et.al.|[2409.07310](http://arxiv.org/abs/2409.07310)|null|
+|**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
+|**2024-09-11**|**TLD-READY: Traffic Light Detection -- Relevance Estimation and Deployment Analysis**|Nikolai Polley et.al.|[2409.07284](http://arxiv.org/abs/2409.07284)|**[link](https://github.com/kastel-mobilitylab/traffic-light-detection)**|
 |**2024-09-10**|**A study on Deep Convolutional Neural Networks, Transfer Learning and Ensemble Model for Breast Cancer Detection**|Md Taimur Ahad et.al.|[2409.06699](http://arxiv.org/abs/2409.06699)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
@@ -2292,6 +2307,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
+|**2024-09-11**|**LLM-based feature generation from text for interpretable machine learning**|Vojtěch Balek et.al.|[2409.07132](http://arxiv.org/abs/2409.07132)|null|
+|**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088](http://arxiv.org/abs/2409.07088)|**[link](https://github.com/daehuikim/WikiOFGraph)**|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433](http://arxiv.org/abs/2409.06433)|null|
 |**2024-09-10**|**SubRegWeigh: Effective and Efficient Annotation Weighing with Subword Regularization**|Kohei Tsuji et.al.|[2409.06216](http://arxiv.org/abs/2409.06216)|null|
