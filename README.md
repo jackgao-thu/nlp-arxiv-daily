@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Attention
 
@@ -57,7 +57,7 @@
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding**|Xiaoyu Liang et.al.|[2409.06485](http://arxiv.org/abs/2409.06485)|null|
 |**2024-09-10**|**Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks**|Prakash Thakolkaran et.al.|[2409.06457](http://arxiv.org/abs/2409.06457)|null|
-|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385](http://arxiv.org/abs/2409.06385)|null|
+|**2024-09-11**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385](http://arxiv.org/abs/2409.06385)|null|
 |**2024-09-10**|**An End-to-End Approach for Chord-Conditioned Song Generation**|Shuochen Gao et.al.|[2409.06307](http://arxiv.org/abs/2409.06307)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
 |**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
@@ -1002,7 +1002,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -1013,7 +1013,7 @@
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
 |**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689](http://arxiv.org/abs/2409.06689)|null|
 |**2024-09-10**|**A study on deep feature extraction to detect and classify Acute Lymphoblastic Leukemia (ALL)**|Sabit Ahamed Preanto et.al.|[2409.06687](http://arxiv.org/abs/2409.06687)|null|
-|**2024-09-10**|**Segmenting sea ice floes in close-range optical imagery with active contour and foundation models**|Giulio Passerotti et.al.|[2409.06641](http://arxiv.org/abs/2409.06641)|null|
+|**2024-09-11**|**Segmenting sea ice floes in close-range optical imagery with active contour and foundation models**|Giulio Passerotti et.al.|[2409.06641](http://arxiv.org/abs/2409.06641)|null|
 |**2024-09-10**|**Improving the Precision of CNNs for Magnetic Resonance Spectral Modeling**|John LaMaster et.al.|[2409.06609](http://arxiv.org/abs/2409.06609)|null|
 |**2024-09-10**|**Interactive 3D Segmentation for Primary Gross Tumor Volume in Oropharyngeal Cancer**|Mikko Saukkoriipi et.al.|[2409.06605](http://arxiv.org/abs/2409.06605)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
@@ -2286,7 +2286,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Extraction
 
@@ -2298,7 +2298,7 @@
 |**2024-09-10**|**VC-ENHANCE: Speech Restoration with Integrated Noise Suppression and Voice Conversion**|Kyungguen Byun et.al.|[2409.06126](http://arxiv.org/abs/2409.06126)|null|
 |**2024-09-09**|**A Small Claims Court for the NLP: Judging Legal Text Classification Strategies With Small Datasets**|Mariana Yukari Noguti et.al.|[2409.05972](http://arxiv.org/abs/2409.05972)|null|
 |**2024-09-09**|**Assessing SPARQL capabilities of Large Language Models**|Lars-Peter Meyer et.al.|[2409.05925](http://arxiv.org/abs/2409.05925)|**[link](https://github.com/aksw/llm-kg-bench-results)**|
-|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
 |**2024-09-09**|**RexUniNLU: Recursive Method with Explicit Schema Instructor for Universal NLU**|Chengyuan Liu et.al.|[2409.05275](http://arxiv.org/abs/2409.05275)|null|
 |**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934](http://arxiv.org/abs/2409.04934)|null|
@@ -3210,7 +3210,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
