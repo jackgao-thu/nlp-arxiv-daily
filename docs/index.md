@@ -45,8 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Cross-Attention Based Influence Model for Manual and Nonmanual Sign Language Analysis**|Lipisha Chaudhary et.al.|[2409.08162](http://arxiv.org/abs/2409.08162)|null|
+|**2024-09-12**|**Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms**|Fatemeh Askari et.al.|[2409.07989](http://arxiv.org/abs/2409.07989)|null|
+|**2024-09-12**|**InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation**|Andrew Lee et.al.|[2409.07914](http://arxiv.org/abs/2409.07914)|null|
+|**2024-09-12**|**TSELM: Target Speaker Extraction using Discrete Tokens and Language Models**|Beilong Tang et.al.|[2409.07841](http://arxiv.org/abs/2409.07841)|**[link](https://github.com/Beilong-Tang/TSELM)**|
+|**2024-09-12**|**A deep learning approach to search for superconductors from electronic bands**|Jun Li et.al.|[2409.07721](http://arxiv.org/abs/2409.07721)|null|
+|**2024-09-12**|**Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG**|Gabriel de Souza P. Moreira et.al.|[2409.07691](http://arxiv.org/abs/2409.07691)|null|
+|**2024-09-11**|**DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis**|Ke Chen et.al.|[2409.07584](http://arxiv.org/abs/2409.07584)|null|
+|**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|null|
 |**2024-09-11**|**Data Augmentation via Latent Diffusion for Saliency Prediction**|Bahar Aydemir et.al.|[2409.07307](http://arxiv.org/abs/2409.07307)|**[link](https://github.com/ivrl/augsal)**|
-|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|null|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|**[link](https://github.com/samsunglabs/summarymixing)**|
 |**2024-09-11**|**Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models**|Jiahang Cao et.al.|[2409.07163](http://arxiv.org/abs/2409.07163)|null|
 |**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
 |**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
@@ -1003,6 +1011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252](http://arxiv.org/abs/2409.08252)|null|
+|**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
+|**2024-09-12**|**Model Ensemble for Brain Tumor Segmentation in Magnetic Resonance Imaging**|Daniel Capellán-Martín et.al.|[2409.08232](http://arxiv.org/abs/2409.08232)|null|
+|**2024-09-12**|**Identification of head impact locations, speeds, and force based on head kinematics**|Xianghao Zhan et.al.|[2409.08177](http://arxiv.org/abs/2409.08177)|null|
+|**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
+|**2024-09-12**|**Open Source Infrastructure for Automatic Cell Segmentation**|Aaron Rock Menezes et.al.|[2409.08163](http://arxiv.org/abs/2409.08163)|null|
+|**2024-09-12**|**Dark Experience for Incremental Keyword Spotting**|Tianyi Peng et.al.|[2409.08153](http://arxiv.org/abs/2409.08153)|null|
+|**2024-09-12**|**Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications**|Yiming Cui et.al.|[2409.08149](http://arxiv.org/abs/2409.08149)|null|
+|**2024-09-12**|**Effective Segmentation of Post-Treatment Gliomas Using Simple Approaches: Artificial Sequence Generation and Ensemble Models**|Heejong Kim et.al.|[2409.08143](http://arxiv.org/abs/2409.08143)|null|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-11**|**Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability**|A. E. M Ridwan et.al.|[2409.07426](http://arxiv.org/abs/2409.07426)|null|
 |**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
@@ -2295,6 +2313,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
+|**2024-09-12**|**SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**|An Guo et.al.|[2409.08081](http://arxiv.org/abs/2409.08081)|null|
+|**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869](http://arxiv.org/abs/2409.07869)|**[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)**|
+|**2024-09-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|**[link](https://github.com/danieladam2001/llm-based-validation)**|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**LLM-based feature generation from text for interpretable machine learning**|Vojtěch Balek et.al.|[2409.07132](http://arxiv.org/abs/2409.07132)|null|
 |**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088](http://arxiv.org/abs/2409.07088)|**[link](https://github.com/daehuikim/WikiOFGraph)**|
