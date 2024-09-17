@@ -45,6 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**TCDformer-based Momentum Transfer Model for Long-term Sports Prediction**|Hui Liu et.al.|[2409.10176](http://arxiv.org/abs/2409.10176)|null|
+|**2024-09-16**|**Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction**|Lei Chu et.al.|[2409.09978](http://arxiv.org/abs/2409.09978)|null|
+|**2024-09-15**|**Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning**|He Wang et.al.|[2409.09670](http://arxiv.org/abs/2409.09670)|null|
+|**2024-09-14**|**TransformerMPC: Accelerating Model Predictive Control via Transformers**|Vrushabh Zinage et.al.|[2409.09266](http://arxiv.org/abs/2409.09266)|null|
+|**2024-09-14**|**VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding**|Hongyu Sun et.al.|[2409.09254](http://arxiv.org/abs/2409.09254)|**[link](https://github.com/auniquesun/vsformer)**|
+|**2024-09-13**|**FiAt-Net: Detecting Fibroatheroma Plaque Cap in 3D Intravascular OCT Images**|Yaopeng Peng et.al.|[2409.09188](http://arxiv.org/abs/2409.09188)|null|
+|**2024-09-13**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data**|Tianqi Yang et.al.|[2409.08790](http://arxiv.org/abs/2409.08790)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769](http://arxiv.org/abs/2409.08769)|**[link](https://github.com/ybkurt/vift)**|
 |**2024-09-13**|**Dynamic Link and Flow Prediction in Bank Transfer Networks**|Shu Takahashi et.al.|[2409.08718](http://arxiv.org/abs/2409.08718)|null|
@@ -1019,6 +1026,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481](http://arxiv.org/abs/2409.10481)|null|
+|**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
+|**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394](http://arxiv.org/abs/2409.10394)|**[link](https://github.com/snu-list/most)**|
+|**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|null|
+|**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
+|**2024-09-16**|**InfoDisent: Explainability of Image Classification Models by Information Disentanglement**|Łukasz Struski et.al.|[2409.10329](http://arxiv.org/abs/2409.10329)|null|
+|**2024-09-16**|**Know your limits! Optimize the robot's behavior through self-awareness**|Esteve Valls Mascaro et.al.|[2409.10308](http://arxiv.org/abs/2409.10308)|null|
+|**2024-09-16**|**ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation**|Dohee Kim et.al.|[2409.10244](http://arxiv.org/abs/2409.10244)|null|
+|**2024-09-16**|**RF-GML: Reference-Free Generative Machine Listener**|Arijit Biswas et.al.|[2409.10210](http://arxiv.org/abs/2409.10210)|null|
+|**2024-09-16**|**AutoPET Challenge III: Testing the Robustness of Generalized Dice Focal Loss trained 3D Residual UNet for FDG and PSMA Lesion Segmentation from Whole-Body PET/CT Images**|Shadab Ahamed et.al.|[2409.10151](http://arxiv.org/abs/2409.10151)|**[link](https://github.com/ahxmeds/autosegnet2024)**|
 |**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
 |**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|null|
 |**2024-09-13**|**Biomimetic Frontend for Differentiable Audio Processing**|Ruolan Leslie Famularo et.al.|[2409.08997](http://arxiv.org/abs/2409.08997)|**[link](https://github.com/pirl-lab/diffAudNeuro)**|
@@ -2331,6 +2348,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
+|**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
+|**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077](http://arxiv.org/abs/2409.10077)|null|
+|**2024-09-15**|**Generating Synthetic Free-text Medical Records with Low Re-identification Risk using Masked Language Modeling**|Samuel Belkadi et.al.|[2409.09831](http://arxiv.org/abs/2409.09831)|null|
+|**2024-09-14**|**Synthetic4Health: Generating Annotated Synthetic Clinical Letters**|Libo Ren et.al.|[2409.09501](http://arxiv.org/abs/2409.09501)|null|
+|**2024-09-14**|**Generating Event-oriented Attribution for Movies via Two-Stage Prefix-Enhanced Multimodal LLM**|Yuanjie Lyu et.al.|[2409.09362](http://arxiv.org/abs/2409.09362)|null|
+|**2024-09-14**|**Turbo your multi-modal classification with contrastive learning**|Zhiyu Zhang et.al.|[2409.09282](http://arxiv.org/abs/2409.09282)|null|
+|**2024-09-13**|**CHARM: Creating Halos with Auto-Regressive Multi-stage networks**|Shivam Pandey et.al.|[2409.09124](http://arxiv.org/abs/2409.09124)|**[link](https://github.com/shivampcosmo/charm)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
