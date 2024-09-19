@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,15 +47,15 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Attention
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
+|**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
 |**2024-09-17**|**D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding**|Xiaobao Song et.al.|[2409.11024](http://arxiv.org/abs/2409.11024)|null|
-|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
 |**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944](http://arxiv.org/abs/2409.10944)|**[link](https://github.com/angusmonroe/contrasformer)**|
 |**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|null|
 |**2024-09-17**|**Adaptive Large Language Models By Layerwise Attention Shortcuts**|Prateek Verma et.al.|[2409.10870](http://arxiv.org/abs/2409.10870)|null|
@@ -1040,7 +1040,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2374,14 +2374,14 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
-|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
 |**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
@@ -3320,7 +3320,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
