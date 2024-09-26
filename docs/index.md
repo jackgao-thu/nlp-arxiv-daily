@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -52,11 +52,11 @@ layout: default
 |**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214](http://arxiv.org/abs/2409.16214)|null|
 |**2024-09-24**|**Self-attention as an attractor network: transient memories without backpropagation**|Francesco D'Amico et.al.|[2409.16112](http://arxiv.org/abs/2409.16112)|null|
 |**2024-09-24**|**Whisper in Medusa's Ear: Multi-head Efficient Decoding for Transformer-based ASR**|Yael Segal-Feldman et.al.|[2409.15869](http://arxiv.org/abs/2409.15869)|null|
-|**2024-09-24**|**Making Text Embedders Few-Shot Learners**|Chaofan Li et.al.|[2409.15700](http://arxiv.org/abs/2409.15700)|null|
+|**2024-09-24**|**Making Text Embedders Few-Shot Learners**|Chaofan Li et.al.|[2409.15700](http://arxiv.org/abs/2409.15700)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-09-23**|**Optimizing News Text Classification with Bi-LSTM and Attention Mechanism for Efficient Data Processing**|Bingyao Liu et.al.|[2409.15576](http://arxiv.org/abs/2409.15576)|null|
-|**2024-09-23**|**SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries**|Sebastian Janampa et.al.|[2409.15553](http://arxiv.org/abs/2409.15553)|null|
+|**2024-09-23**|**SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries**|Sebastian Janampa et.al.|[2409.15553](http://arxiv.org/abs/2409.15553)|**[link](https://github.com/sebastianjanampa/sofi)**|
 |**2024-09-23**|**Patch-Based End-to-End Quantum Learning Network for Reduction and Classification of Classical Data**|Jishnu Mahmud et.al.|[2409.15214](http://arxiv.org/abs/2409.15214)|null|
-|**2024-09-23**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[2409.15182](http://arxiv.org/abs/2409.15182)|null|
+|**2024-09-25**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[2409.15182](http://arxiv.org/abs/2409.15182)|null|
 |**2024-09-23**|**Deep Reinforcement Learning-based Obstacle Avoidance for Robot Movement in Warehouse Environments**|Keqin Li et.al.|[2409.14972](http://arxiv.org/abs/2409.14972)|null|
 |**2024-09-18**|**On Vision Transformers for Classification Tasks in Side-Scan Sonar Imagery**|BW Sheffield et.al.|[2409.12026](http://arxiv.org/abs/2409.12026)|null|
 |**2024-09-18**|**DocMamba: Efficient Document Pre-training with State Space Model**|Pengfei Hu et.al.|[2409.11887](http://arxiv.org/abs/2409.11887)|null|
@@ -1056,7 +1056,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
-|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|null|
+|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
 |**2024-09-24**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
 |**2024-09-24**|**Facial Expression-Enhanced TTS: Combining Face Representation and Emotion Intensity for Adaptive Speech**|Yunji Chu et.al.|[2409.16203](http://arxiv.org/abs/2409.16203)|null|
 |**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
@@ -2409,9 +2409,9 @@ layout: default
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
-|**2024-09-24**|**SLIMER-IT: Zero-Shot NER on Italian Language**|Andrew Zamai et.al.|[2409.15933](http://arxiv.org/abs/2409.15933)|null|
-|**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902](http://arxiv.org/abs/2409.15902)|null|
-|**2024-09-24**|**iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification**|Yuanzhe Jin et.al.|[2409.15848](http://arxiv.org/abs/2409.15848)|null|
+|**2024-09-24**|**SLIMER-IT: Zero-Shot NER on Italian Language**|Andrew Zamai et.al.|[2409.15933](http://arxiv.org/abs/2409.15933)|**[link](https://github.com/andrewzamai/slimer_it)**|
+|**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902](http://arxiv.org/abs/2409.15902)|**[link](https://github.com/s-nlp/konstruktor)**|
+|**2024-09-24**|**iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification**|Yuanzhe Jin et.al.|[2409.15848](http://arxiv.org/abs/2409.15848)|**[link](https://github.com/mattjin19/rbf)**|
 |**2024-09-24**|**NER-Luxury: Named entity recognition for the fashion and luxury domain**|Akim Mousterou et.al.|[2409.15804](http://arxiv.org/abs/2409.15804)|null|
 |**2024-09-23**|**Optimizing News Text Classification with Bi-LSTM and Attention Mechanism for Efficient Data Processing**|Bingyao Liu et.al.|[2409.15576](http://arxiv.org/abs/2409.15576)|null|
 |**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|null|
