@@ -48,6 +48,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|null|
+|**2024-09-25**|**Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms**|Chun-Jung Lin et.al.|[2409.16850](http://arxiv.org/abs/2409.16850)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-24**|**Transformer based time series prediction of the maximum power point for solar photovoltaic cells**|Palaash Agrawal et.al.|[2409.16342](http://arxiv.org/abs/2409.16342)|null|
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214](http://arxiv.org/abs/2409.16214)|null|
 |**2024-09-24**|**Self-attention as an attractor network: transient memories without backpropagation**|Francesco D'Amico et.al.|[2409.16112](http://arxiv.org/abs/2409.16112)|null|
@@ -1054,6 +1058,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
+|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[2409.17120](http://arxiv.org/abs/2409.17120)|null|
+|**2024-09-25**|**Small data deep learning methodology for in-field disease detection**|David Herrera-Poyato et.al.|[2409.17119](http://arxiv.org/abs/2409.17119)|null|
+|**2024-09-25**|**MorphoSeg: An Uncertainty-Aware Deep Learning Method for Biomedical Segmentation of Complex Cellular Morphologies**|Tianhao Zhang et.al.|[2409.17110](http://arxiv.org/abs/2409.17110)|**[link](https://github.com/ranchogoose/morphoseg)**|
+|**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
+|**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081](http://arxiv.org/abs/2409.17081)|null|
+|**2024-09-25**|**Efficient Feature Interactions with Transformers: Improving User Spending Propensity Predictions in Gaming**|Ved Prakash et.al.|[2409.17077](http://arxiv.org/abs/2409.17077)|null|
+|**2024-09-25**|**Benchmarking Domain Generalization Algorithms in Computational Pathology**|Neda Zamanitajeddin et.al.|[2409.17063](http://arxiv.org/abs/2409.17063)|null|
+|**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055](http://arxiv.org/abs/2409.17055)|null|
+|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
 |**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
 |**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
@@ -2406,6 +2420,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
+|**2024-09-25**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934](http://arxiv.org/abs/2409.16934)|null|
+|**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884](http://arxiv.org/abs/2409.16884)|null|
+|**2024-09-25**|**Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera**|Xu Han et.al.|[2409.16820](http://arxiv.org/abs/2409.16820)|null|
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
