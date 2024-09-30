@@ -48,6 +48,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|null|
+|**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18644](http://arxiv.org/abs/2409.18644)|null|
+|**2024-09-27**|**Token Caching for Diffusion Transformer Acceleration**|Jinming Lou et.al.|[2409.18523](http://arxiv.org/abs/2409.18523)|null|
+|**2024-09-26**|**Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework**|Bangyu Lan et.al.|[2409.18266](http://arxiv.org/abs/2409.18266)|null|
 |**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986](http://arxiv.org/abs/2409.17986)|null|
 |**2024-09-26**|**Enhancing elusive clues in knowledge learning by contrasting attention of language models**|Jian Gao et.al.|[2409.17954](http://arxiv.org/abs/2409.17954)|null|
 |**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
@@ -1068,6 +1072,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
+|**2024-09-27**|**Deep Learning Enhanced Quantum Holography with Undetected Photons**|Weiru Fan et.al.|[2409.18887](http://arxiv.org/abs/2409.18887)|null|
+|**2024-09-27**|**HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting**|Nian Ran et.al.|[2409.18885](http://arxiv.org/abs/2409.18885)|null|
+|**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814](http://arxiv.org/abs/2409.18814)|null|
+|**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
+|**2024-09-27**|**HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation**|Joseph Cotnareanu et.al.|[2409.18778](http://arxiv.org/abs/2409.18778)|null|
+|**2024-09-27**|**A method of using RSVD in residual calculation of LowBit GEMM**|Hongyaoxing Gu et.al.|[2409.18772](http://arxiv.org/abs/2409.18772)|null|
+|**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769](http://arxiv.org/abs/2409.18769)|null|
+|**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
+|**2024-09-27**|**TensorSocket: Shared Data Loading for Deep Learning Training**|Ties Robroek et.al.|[2409.18749](http://arxiv.org/abs/2409.18749)|null|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
 |**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
@@ -2440,6 +2454,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678](http://arxiv.org/abs/2409.18678)|null|
+|**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|null|
+|**2024-09-27**|**Revisiting Weighted Information Extraction: A Simpler and Faster Algorithm for Ranked Enumeration**|Pawel Gawrychowski et.al.|[2409.18563](http://arxiv.org/abs/2409.18563)|null|
+|**2024-09-27**|**Med-IC: Fusing a Single Layer Involution with Convolutions for Enhanced Medical Image Classification and Segmentation**|Md. Farhadul Islam et.al.|[2409.18506](http://arxiv.org/abs/2409.18506)|null|
+|**2024-09-26**|**Trustworthy AI: Securing Sensitive Data in Large Language Models**|Georgios Feretzakis et.al.|[2409.18222](http://arxiv.org/abs/2409.18222)|null|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
 |**2024-09-26**|**The Lou Dataset -- Exploring the Impact of Gender-Fair Language in German Text Classification**|Andreas Waldis et.al.|[2409.17929](http://arxiv.org/abs/2409.17929)|null|
 |**2024-09-26**|**PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting**|Yuxin Jia et.al.|[2409.17703](http://arxiv.org/abs/2409.17703)|**[link](https://github.com/water2sea/tpgn)**|
