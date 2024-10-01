@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|null|
+|**2024-09-30**|**A Self-attention Residual Convolutional Neural Network for Health Condition Classification of Cow Teat Images**|Minghao Wang et.al.|[2409.19963](http://arxiv.org/abs/2409.19963)|null|
+|**2024-09-30**|**Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation**|Huangyu Dai et.al.|[2409.19877](http://arxiv.org/abs/2409.19877)|null|
+|**2024-09-30**|**TokenBinder: Text-Video Retrieval with One-to-Many Alignment Paradigm**|Bingqing Zhang et.al.|[2409.19865](http://arxiv.org/abs/2409.19865)|null|
+|**2024-09-30**|**SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers**|Nick Nikzad et.al.|[2409.19850](http://arxiv.org/abs/2409.19850)|null|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|null|
+|**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|null|
+|**2024-09-29**|**Learning Attentional Mixture of LoRAs for Language Model Continual Learning**|Jialin Liu et.al.|[2409.19611](http://arxiv.org/abs/2409.19611)|null|
+|**2024-09-29**|**Fully Aligned Network for Referring Image Segmentation**|Yong Liu et.al.|[2409.19569](http://arxiv.org/abs/2409.19569)|null|
+|**2024-09-28**|**Intelligent Fish Detection System with Similarity-Aware Transformer**|Shengchen Li et.al.|[2409.19323](http://arxiv.org/abs/2409.19323)|null|
 |**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|**[link](https://github.com/gmongaras/Cottention_Transformer)**|
 |**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18644](http://arxiv.org/abs/2409.18644)|null|
 |**2024-09-27**|**Token Caching for Diffusion Transformer Acceleration**|Jinming Lou et.al.|[2409.18523](http://arxiv.org/abs/2409.18523)|null|
@@ -1072,6 +1082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503](http://arxiv.org/abs/2409.20503)|null|
+|**2024-09-30**|**IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**|Ruiqiang Xiao et.al.|[2409.20474](http://arxiv.org/abs/2409.20474)|null|
+|**2024-09-30**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|null|
+|**2024-09-30**|**Open-Source Periorbital Segmentation Dataset for Ophthalmic Applications**|George R. Nahass et.al.|[2409.20407](http://arxiv.org/abs/2409.20407)|null|
+|**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384](http://arxiv.org/abs/2409.20384)|null|
+|**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
+|**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
+|**2024-09-30**|**Old Optimizer, New Norm: An Anthology**|Jeremy Bernstein et.al.|[2409.20325](http://arxiv.org/abs/2409.20325)|null|
 |**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
 |**2024-09-27**|**Deep Learning Enhanced Quantum Holography with Undetected Photons**|Weiru Fan et.al.|[2409.18887](http://arxiv.org/abs/2409.18887)|null|
 |**2024-09-27**|**HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting**|Nian Ran et.al.|[2409.18885](http://arxiv.org/abs/2409.18885)|null|
@@ -2454,6 +2474,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Constraining Anomaly Detection with Anomaly-Free Regions**|Maximilian Toller et.al.|[2409.20208](http://arxiv.org/abs/2409.20208)|null|
+|**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147](http://arxiv.org/abs/2409.20147)|null|
+|**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053](http://arxiv.org/abs/2409.20053)|null|
+|**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010](http://arxiv.org/abs/2409.20010)|null|
+|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979](http://arxiv.org/abs/2409.19979)|null|
+|**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977](http://arxiv.org/abs/2409.19977)|**[link](https://github.com/changyi7231/nfe)**|
+|**2024-09-29**|**Adversarial Examples for DNA Classification**|Hyunwoo Yoo et.al.|[2409.19788](http://arxiv.org/abs/2409.19788)|null|
+|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753](http://arxiv.org/abs/2409.19753)|null|
+|**2024-09-29**|**DiMB-RE: Mining the Scientific Literature for Diet-Microbiome Associations**|Gibong Hong et.al.|[2409.19581](http://arxiv.org/abs/2409.19581)|null|
+|**2024-09-29**|**See then Tell: Enhancing Key Information Extraction with Vision Grounding**|Shuhang Liu et.al.|[2409.19573](http://arxiv.org/abs/2409.19573)|null|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678](http://arxiv.org/abs/2409.18678)|null|
 |**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|null|
