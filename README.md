@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-24**|**Undergrads Are All You Have**|Ashe Neth et.al.|[2409.13750](http://arxiv.org/abs/2409.13750)|null|
-|**2024-09-19**|**CodePlan: Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|null|
+|**2024-10-04**|**Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|null|
 |**2024-09-18**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|null|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183](http://arxiv.org/abs/2409.03183)|null|
 |**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/abs/2408.00767)|null|
@@ -50,7 +50,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Attention
 
@@ -1106,7 +1106,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2520,7 +2520,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Extraction
 
@@ -2531,7 +2531,7 @@
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
 |**2024-10-03**|**Semantic-Guided RL for Interpretable Feature Engineering**|Mohamed Bouadi et.al.|[2410.02519](http://arxiv.org/abs/2410.02519)|null|
 |**2024-10-03**|**Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks**|Junlin Hou et.al.|[2410.02331](http://arxiv.org/abs/2410.02331)|null|
-|**2024-10-03**|**Annotation Guidelines for Corpus Novelties: Part 1 -- Named Entity Recognition**|Arthur Amalvy et.al.|[2410.02281](http://arxiv.org/abs/2410.02281)|null|
+|**2024-10-04**|**Annotation Guidelines for Corpus Novelties: Part 1 -- Named Entity Recognition**|Arthur Amalvy et.al.|[2410.02281](http://arxiv.org/abs/2410.02281)|null|
 |**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun et.al.|[2410.02024](http://arxiv.org/abs/2410.02024)|**[link](https://github.com/namir0806/flag)**|
 |**2024-10-02**|**LLM+KG@VLDB'24 Workshop Summary**|Arijit Khan et.al.|[2410.01978](http://arxiv.org/abs/2410.01978)|null|
 |**2024-10-02**|**SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization of Scientific Topics**|Zhiwen You et.al.|[2410.01946](http://arxiv.org/abs/2410.01946)|**[link](https://github.com/zhiwenyou103/SciPrompt)**|
@@ -3530,7 +3530,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

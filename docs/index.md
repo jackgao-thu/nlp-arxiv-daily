@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-24**|**Undergrads Are All You Have**|Ashe Neth et.al.|[2409.13750](http://arxiv.org/abs/2409.13750)|null|
-|**2024-09-19**|**CodePlan: Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|null|
+|**2024-10-04**|**Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|null|
 |**2024-09-18**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|null|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183](http://arxiv.org/abs/2409.03183)|null|
 |**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/abs/2408.00767)|null|
@@ -2519,7 +2519,7 @@ layout: default
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
 |**2024-10-03**|**Semantic-Guided RL for Interpretable Feature Engineering**|Mohamed Bouadi et.al.|[2410.02519](http://arxiv.org/abs/2410.02519)|null|
 |**2024-10-03**|**Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks**|Junlin Hou et.al.|[2410.02331](http://arxiv.org/abs/2410.02331)|null|
-|**2024-10-03**|**Annotation Guidelines for Corpus Novelties: Part 1 -- Named Entity Recognition**|Arthur Amalvy et.al.|[2410.02281](http://arxiv.org/abs/2410.02281)|null|
+|**2024-10-04**|**Annotation Guidelines for Corpus Novelties: Part 1 -- Named Entity Recognition**|Arthur Amalvy et.al.|[2410.02281](http://arxiv.org/abs/2410.02281)|null|
 |**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun et.al.|[2410.02024](http://arxiv.org/abs/2410.02024)|**[link](https://github.com/namir0806/flag)**|
 |**2024-10-02**|**LLM+KG@VLDB'24 Workshop Summary**|Arijit Khan et.al.|[2410.01978](http://arxiv.org/abs/2410.01978)|null|
 |**2024-10-02**|**SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization of Scientific Topics**|Zhiwen You et.al.|[2410.01946](http://arxiv.org/abs/2410.01946)|**[link](https://github.com/zhiwenyou103/SciPrompt)**|
