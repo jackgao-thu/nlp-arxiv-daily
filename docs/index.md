@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**InAttention: Linear Context Scaling for Transformers**|Joseph Eisner et.al.|[2410.07063](http://arxiv.org/abs/2410.07063)|null|
+|**2024-10-09**|**ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling**|Deok-Kyeong Jang et.al.|[2410.06963](http://arxiv.org/abs/2410.06963)|null|
+|**2024-10-09**|**Faithful Interpretation for Graph Neural Networks**|Lijie Hu et.al.|[2410.06950](http://arxiv.org/abs/2410.06950)|null|
+|**2024-10-09**|**Dynamic metastability in the self-attention model**|Borjan Geshkovski et.al.|[2410.06833](http://arxiv.org/abs/2410.06833)|**[link](https://github.com/hugokoubbi/2024-transformers-dotm)**|
+|**2024-10-09**|**Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data**|Matthew Ashman et.al.|[2410.06731](http://arxiv.org/abs/2410.06731)|null|
+|**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
+|**2024-10-08**|**Round and Round We Go! What makes Rotary Positional Encodings useful?**|Federico Barbero et.al.|[2410.06205](http://arxiv.org/abs/2410.06205)|null|
+|**2024-10-08**|**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**|Boyuan Cao et.al.|[2410.06055](http://arxiv.org/abs/2410.06055)|null|
+|**2024-10-08**|**Extracting Finite State Machines from Transformers**|Rik Adriaensen et.al.|[2410.06045](http://arxiv.org/abs/2410.06045)|null|
+|**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/abs/2410.05916)|null|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
 |**2024-10-07**|**MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain**|Timothy Chase Jr et.al.|[2410.05182](http://arxiv.org/abs/2410.05182)|null|
 |**2024-10-07**|**HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments**|Junming Wang et.al.|[2410.05079](http://arxiv.org/abs/2410.05079)|null|
@@ -1117,6 +1127,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091](http://arxiv.org/abs/2410.07091)|null|
+|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
+|**2024-10-09**|**Towards xAI: Configuring RNN Weights using Domain Knowledge for MIMO Receive Processing**|Shashank Jere et.al.|[2410.07072](http://arxiv.org/abs/2410.07072)|null|
+|**2024-10-09**|**Z-upscaling: Optical Flow Guided Frame Interpolation for Isotropic Reconstruction of 3D EM Volumes**|Fisseha A. Ferede et.al.|[2410.07043](http://arxiv.org/abs/2410.07043)|**[link](https://github.com/fisseha21/z-upscaling)**|
+|**2024-10-09**|**Emergent properties with repeated examples**|François Charton et.al.|[2410.07041](http://arxiv.org/abs/2410.07041)|null|
+|**2024-10-09**|**Diagnosis of Malignant Lymphoma Cancer Using Hybrid Optimized Techniques Based on Dense Neural Networks**|Salah A. Aly et.al.|[2410.06974](http://arxiv.org/abs/2410.06974)|null|
+|**2024-10-09**|**Updated Determination of Ellis-Jaffe Sum Rules and Extraction of Quark Spin Content**|Hua Zhou et.al.|[2410.06956](http://arxiv.org/abs/2410.06956)|null|
+|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|null|
+|**2024-10-09**|**Learning a generalized multiscale prolongation operator**|Yucheng Liu et.al.|[2410.06832](http://arxiv.org/abs/2410.06832)|null|
+|**2024-10-09**|**Transfer Learning for a Class of Cascade Dynamical Systems**|Shima Rabiei et.al.|[2410.06828](http://arxiv.org/abs/2410.06828)|null|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-07**|**Deep-Learning-Based Adaptive Error-Correction Decoding for Spin-Torque Transfer Magnetic Random Access Memory (STT-MRAM)**|Xingwei Zhong et.al.|[2410.05174](http://arxiv.org/abs/2410.05174)|null|
 |**2024-10-07**|**A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**|Mengjian Hua et.al.|[2410.05163](http://arxiv.org/abs/2410.05163)|null|
@@ -2549,6 +2569,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Inference over Unseen Entities, Relations and Literals on Knowledge Graphs**|Caglar Demir et.al.|[2410.06742](http://arxiv.org/abs/2410.06742)|null|
+|**2024-10-08**|**A Comparative Study of Hybrid Models in Health Misinformation Text Classification**|Mkululi Sikosana et.al.|[2410.06311](http://arxiv.org/abs/2410.06311)|null|
+|**2024-10-08**|**Manual Verbalizer Enrichment for Few-Shot Text Classification**|Quang Anh Nguyen et.al.|[2410.06173](http://arxiv.org/abs/2410.06173)|null|
+|**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121](http://arxiv.org/abs/2410.06121)|null|
+|**2024-10-08**|**Posets and Bounded Probabilities for Discovering Order-inducing Features in Event Knowledge Graphs**|Christoffer Olling Back et.al.|[2410.06065](http://arxiv.org/abs/2410.06065)|null|
+|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010](http://arxiv.org/abs/2410.06010)|null|
+|**2024-10-08**|**Bottom-up Anytime Discovery of Generalised Multimodal Graph Patterns for Knowledge Graphs**|Xander Wilcke et.al.|[2410.05839](http://arxiv.org/abs/2410.05839)|null|
+|**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763](http://arxiv.org/abs/2410.05763)|null|
+|**2024-10-08**|**Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training**|Chang Su et.al.|[2410.05731](http://arxiv.org/abs/2410.05731)|null|
 |**2024-10-07**|**IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2410.05100](http://arxiv.org/abs/2410.05100)|null|
 |**2024-10-07**|**Explanation sensitivity to the randomness of large language models: the case of journalistic text classification**|Jeremie Bogaert et.al.|[2410.05085](http://arxiv.org/abs/2410.05085)|null|
 |**2024-10-07**|**Named Clinical Entity Recognition Benchmark**|Wadood M Abdul et.al.|[2410.05046](http://arxiv.org/abs/2410.05046)|**[link](https://github.com/wadoodabdul/clinical_ner_benchmark)**|
