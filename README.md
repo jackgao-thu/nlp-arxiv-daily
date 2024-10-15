@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2024-09-24**|**Undergrads Are All You Have**|Ashe Neth et.al.|[2409.13750](http://arxiv.org/abs/2409.13750)|null|
 |**2024-10-04**|**Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|**[link](https://github.com/thu-coai/codeplan)**|
-|**2024-09-18**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|null|
+|**2024-10-13**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|**[link](https://github.com/lugroupumn/icl-ellipticpdes)**|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183](http://arxiv.org/abs/2409.03183)|null|
 |**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/abs/2408.00767)|null|
 |**2024-08-01**|**CultureVo: The Serious Game of Utilizing Gen AI for Enhancing Cultural Intelligence**|Ajita Agarwala et.al.|[2407.20685](http://arxiv.org/abs/2407.20685)|null|
@@ -56,6 +56,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**|Akrit Mudvari et.al.|[2410.10759](http://arxiv.org/abs/2410.10759)|null|
+|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
+|**2024-10-14**|**Hybrid Transformer for Early Alzheimer's Detection: Integration of Handwriting-Based 2D Images and 1D Signal Features**|Changqing Gong et.al.|[2410.10547](http://arxiv.org/abs/2410.10547)|null|
+|**2024-10-14**|**KBLaM: Knowledge Base augmented Language Model**|Xi Wang et.al.|[2410.10450](http://arxiv.org/abs/2410.10450)|null|
+|**2024-10-14**|**Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**|Pengzhou Cai et.al.|[2410.10352](http://arxiv.org/abs/2410.10352)|null|
+|**2024-10-14**|**HSR-Enhanced Sparse Attention Acceleration**|Bo Chen et.al.|[2410.10165](http://arxiv.org/abs/2410.10165)|null|
+|**2024-10-14**|**TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control**|Weichao Zeng et.al.|[2410.10133](http://arxiv.org/abs/2410.10133)|**[link](https://github.com/weichaozeng/textctrl)**|
+|**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
+|**2024-10-13**|**DAG-aware Transformer for Causal Effect Estimation**|Manqing Liu et.al.|[2410.10044](http://arxiv.org/abs/2410.10044)|null|
+|**2024-10-13**|**Online Multi-modal Root Cause Analysis**|Lecheng Zheng et.al.|[2410.10021](http://arxiv.org/abs/2410.10021)|null|
 |**2024-10-11**|**Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient**|Wenlong Wang et.al.|[2410.08893](http://arxiv.org/abs/2410.08893)|**[link](https://github.com/realwenlongwang/drama)**|
 |**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879](http://arxiv.org/abs/2410.08879)|null|
 |**2024-10-11**|**On-Chip Learning via Transformer In-Context Learning**|Jan Finkbeiner et.al.|[2410.08711](http://arxiv.org/abs/2410.08711)|null|
@@ -1151,6 +1161,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**TL-PCA: Transfer Learning of Principal Component Analysis**|Sharon Hendy et.al.|[2410.10805](http://arxiv.org/abs/2410.10805)|null|
+|**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713](http://arxiv.org/abs/2410.10713)|null|
+|**2024-10-14**|**LISAC: Learned Coded Waveform Design for ISAC with OFDM**|Chenghong Bian et.al.|[2410.10711](http://arxiv.org/abs/2410.10711)|null|
+|**2024-10-14**|**Early Diagnoses of Acute Lymphoblastic Leukemia Using YOLOv8 and YOLOv11 Deep Learning Models**|Alaa Awad et.al.|[2410.10701](http://arxiv.org/abs/2410.10701)|null|
+|**2024-10-14**|**Active Learning of Robot Vision Using Adaptive Path Planning**|Julius Rückin et.al.|[2410.10684](http://arxiv.org/abs/2410.10684)|null|
+|**2024-10-14**|**Cross-Modal Few-Shot Learning: a Generative Transfer Learning Framework**|Zhengwei Yang et.al.|[2410.10663](http://arxiv.org/abs/2410.10663)|null|
+|**2024-10-14**|**Lambda-Skip Connections: the architectural component that prevents Rank Collapse**|Federico Arangath Joseph et.al.|[2410.10609](http://arxiv.org/abs/2410.10609)|null|
+|**2024-10-14**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587](http://arxiv.org/abs/2410.10587)|**[link](https://github.com/modelscope/facechain)**|
+|**2024-10-14**|**Tübingen-CL at SemEval-2024 Task 1:Ensemble Learning for Semantic Relatedness Estimation**|Leixin Zhang et.al.|[2410.10585](http://arxiv.org/abs/2410.10585)|null|
+|**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
 |**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
 |**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
 |**2024-10-11**|**Efficient Hyperparameter Importance Assessment for CNNs**|Ruinan Wang et.al.|[2410.08920](http://arxiv.org/abs/2410.08920)|null|
@@ -2615,6 +2635,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813](http://arxiv.org/abs/2410.10813)|**[link](https://github.com/xiaowu0162/longmemeval)**|
+|**2024-10-14**|**Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks**|Xinyue Liu et.al.|[2410.10454](http://arxiv.org/abs/2410.10454)|**[link](https://github.com/yvogao/laqda)**|
+|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365](http://arxiv.org/abs/2410.10365)|null|
+|**2024-10-14**|**A Multi-Task Text Classification Pipeline with Natural Language Explanations: A User-Centric Evaluation in Sentiment Analysis and Offensive Language Identification in Greek Tweets**|Nikolaos Mylonas et.al.|[2410.10290](http://arxiv.org/abs/2410.10290)|null|
+|**2024-10-14**|**Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**|Hongyi Yuan et.al.|[2410.10144](http://arxiv.org/abs/2410.10144)|null|
+|**2024-10-14**|**DecKG: Decentralized Collaborative Learning with Knowledge Graph Enhancement for POI Recommendation**|Ruiqi Zheng et.al.|[2410.10130](http://arxiv.org/abs/2410.10130)|null|
+|**2024-10-13**|**A Comparative Study of PDF Parsing Tools Across Diverse Document Categories**|Narayan S. Adhikari et.al.|[2410.09871](http://arxiv.org/abs/2410.09871)|null|
+|**2024-10-13**|**Single Ground Truth Is Not Enough: Add Linguistic Variability to Aspect-based Sentiment Analysis Evaluation**|Soyoung Yang et.al.|[2410.09807](http://arxiv.org/abs/2410.09807)|null|
+|**2024-10-13**|**ChartKG: A Knowledge-Graph-Based Representation for Chart Images**|Zhiguang Zhou et.al.|[2410.09761](http://arxiv.org/abs/2410.09761)|null|
+|**2024-10-13**|**Empirical Study of Mutual Reinforcement Effect and Application in Few-shot Text Classification Tasks via Prompt**|Chengguang Gan et.al.|[2410.09745](http://arxiv.org/abs/2410.09745)|null|
 |**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of Large Language Models using Semantic Knowledge Tuning**|Nusrat Jahan Prottasha et.al.|[2410.08598](http://arxiv.org/abs/2410.08598)|null|
 |**2024-10-11**|**Improving Legal Entity Recognition Using a Hybrid Transformer Model and Semantic Filtering Approach**|Duraimurugan Rajamanickam et.al.|[2410.08521](http://arxiv.org/abs/2410.08521)|null|
