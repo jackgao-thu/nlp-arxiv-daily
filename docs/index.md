@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
+|**2024-10-17**|**Reducing the Transformer Architecture to a Minimum**|Bernhard Bermeitinger et.al.|[2410.13732](http://arxiv.org/abs/2410.13732)|null|
+|**2024-10-17**|**On the Role of Attention Heads in Large Language Model Safety**|Zhenhong Zhou et.al.|[2410.13708](http://arxiv.org/abs/2410.13708)|null|
+|**2024-10-17**|**DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition**|Demetris Shianios et.al.|[2410.13663](http://arxiv.org/abs/2410.13663)|null|
+|**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
+|**2024-10-17**|**Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding**|Jongbhin Woo et.al.|[2410.13598](http://arxiv.org/abs/2410.13598)|null|
+|**2024-10-17**|**Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques**|Rahimanuddin Shaik et.al.|[2410.13498](http://arxiv.org/abs/2410.13498)|null|
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
 |**2024-10-16**|**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing**|Mingce Guo et.al.|[2410.12526](http://arxiv.org/abs/2410.12526)|null|
 |**2024-10-16**|**iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System**|Xiaowei Jiang et.al.|[2410.12267](http://arxiv.org/abs/2410.12267)|null|
@@ -1170,6 +1180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
+|**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
+|**2024-10-17**|**CrystalX: Ultra-Precision Crystal Structure Resolution and Error Correction Using Deep Learning**|Kaipeng Zheng et.al.|[2410.13713](http://arxiv.org/abs/2410.13713)|null|
+|**2024-10-17**|**On-device Federated Learning in Smartphones for Detecting Depression from Reddit Posts**|Mustofa Ahmed et.al.|[2410.13709](http://arxiv.org/abs/2410.13709)|null|
+|**2024-10-17**|**Label-free prediction of fluorescence markers in bovine satellite cells using deep learning**|Sania Sinha et.al.|[2410.13685](http://arxiv.org/abs/2410.13685)|null|
+|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-17**|**Align-ULCNet: Towards Low-Complexity and Robust Acoustic Echo and Noise Reduction**|Shrishti Saha Shetu et.al.|[2410.13620](http://arxiv.org/abs/2410.13620)|null|
+|**2024-10-17**|**Material Fingerprinting: Identifying and Predicting Perceptual Attributes of Material Appearance**|Jiri Filip et.al.|[2410.13615](http://arxiv.org/abs/2410.13615)|null|
+|**2024-10-17**|**Deep-learning recognition and tracking of individual nanotubes in low-contrast microscopy videos**|Vladimir Pimonov et.al.|[2410.13594](http://arxiv.org/abs/2410.13594)|null|
+|**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592](http://arxiv.org/abs/2410.13592)|null|
 |**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759](http://arxiv.org/abs/2410.12759)|null|
 |**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750](http://arxiv.org/abs/2410.12750)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
@@ -2662,6 +2682,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
+|**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765](http://arxiv.org/abs/2410.13765)|null|
+|**2024-10-17**|**Disjointness Violations in Wikidata**|Ege Atacan Doğan et.al.|[2410.13707](http://arxiv.org/abs/2410.13707)|null|
+|**2024-10-17**|**Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models**|Yuki Hou et.al.|[2410.13553](http://arxiv.org/abs/2410.13553)|null|
+|**2024-10-17**|**Similarity-Dissimilarity Loss with Supervised Contrastive Learning for Multi-label Classification**|Guangming Huang et.al.|[2410.13439](http://arxiv.org/abs/2410.13439)|null|
+|**2024-10-17**|**Attr-Int: A Simple and Effective Entity Alignment Framework for Heterogeneous Knowledge Graphs**|Linyan Yang et.al.|[2410.13409](http://arxiv.org/abs/2410.13409)|null|
+|**2024-10-17**|**Towards Hybrid Intelligence in Journalism: Findings and Lessons Learnt from a Collaborative Analysis of Greek Political Rhetoric by ChatGPT and Humans**|Thanasis Troboukis et.al.|[2410.13400](http://arxiv.org/abs/2410.13400)|null|
+|**2024-10-17**|**Computational Approaches to Arabic-English Code-Switching**|Caroline Sabty et.al.|[2410.13318](http://arxiv.org/abs/2410.13318)|null|
+|**2024-10-17**|**A Simplifying and Learnable Graph Convolutional Attention Network for Unsupervised Knowledge Graphs Alignment**|Weishan Cai et.al.|[2410.13263](http://arxiv.org/abs/2410.13263)|null|
+|**2024-10-17**|**Retrieval-Enhanced Named Entity Recognition**|Enzo Shiraishi et.al.|[2410.13118](http://arxiv.org/abs/2410.13118)|null|
 |**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750](http://arxiv.org/abs/2410.12750)|null|
 |**2024-10-16**|**From Measurement Instruments to Training Data: Leveraging Theory-Driven Synthetic Training Data for Measuring Social Constructs**|Lukas Birkenmaier et.al.|[2410.12622](http://arxiv.org/abs/2410.12622)|null|
 |**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609](http://arxiv.org/abs/2410.12609)|null|
