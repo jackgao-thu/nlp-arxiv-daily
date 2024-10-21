@@ -48,6 +48,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection**|Aaron Alvarado Kristanto Julistiono et.al.|[2410.14581](http://arxiv.org/abs/2410.14581)|null|
+|**2024-10-18**|**SignAttention: On the Interpretability of Transformer Models for Sign Language Translation**|Pedro Alejandro Dal Bianco et.al.|[2410.14506](http://arxiv.org/abs/2410.14506)|null|
+|**2024-10-18**|**Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems**|Shuang shuang Li et.al.|[2410.14439](http://arxiv.org/abs/2410.14439)|null|
+|**2024-10-18**|**Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension**|Yin Xie et.al.|[2410.14332](http://arxiv.org/abs/2410.14332)|**[link](https://github.com/deepglint/croc)**|
+|**2024-10-18**|**Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis**|Honglin Li et.al.|[2410.14195](http://arxiv.org/abs/2410.14195)|null|
+|**2024-10-17**|**Your Interest, Your Summaries: Query-Focused Long Video Summarization**|Nirav Patel et.al.|[2410.14087](http://arxiv.org/abs/2410.14087)|null|
+|**2024-10-17**|**MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment**|Ehsan Kazemi et.al.|[2410.13973](http://arxiv.org/abs/2410.13973)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
@@ -1180,6 +1187,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
+|**2024-10-18**|**Temperature-Dependent Design of BCC High Entropy Alloys: Integrating Deep Learning, CALPHAD, and Experimental Validation**|A. K. Shargh et.al.|[2410.14614](http://arxiv.org/abs/2410.14614)|null|
+|**2024-10-18**|**How Does Data Diversity Shape the Weight Landscape of Neural Networks?**|Yang Ba et.al.|[2410.14602](http://arxiv.org/abs/2410.14602)|null|
+|**2024-10-18**|**Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**|Y. Wang et.al.|[2410.14577](http://arxiv.org/abs/2410.14577)|null|
+|**2024-10-18**|**MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts**|Rachel S. Y. Teo et.al.|[2410.14574](http://arxiv.org/abs/2410.14574)|**[link](https://github.com/rachtsy/momentumsmoe)**|
+|**2024-10-18**|**A Hybrid Feature Fusion Deep Learning Framework for Leukemia Cancer Detection in Microscopic Blood Sample Using Gated Recurrent Unit and Uncertainty Quantification**|Maksuda Akter et.al.|[2410.14536](http://arxiv.org/abs/2410.14536)|null|
+|**2024-10-18**|**Less is More: Selective Reduction of CT Data for Self-Supervised Pre-Training of Deep Learning Models with Contrastive Learning Improves Downstream Classification Performance**|Daniel Wolf et.al.|[2410.14524](http://arxiv.org/abs/2410.14524)|null|
+|**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
+|**2024-10-18**|**An Integrated Deep Learning Model for Skin Cancer Detection Using Hybrid Feature Fusion Technique**|Maksuda Akter et.al.|[2410.14489](http://arxiv.org/abs/2410.14489)|null|
+|**2024-10-18**|**Transfer Reinforcement Learning in Heterogeneous Action Spaces using Subgoal Mapping**|Kavinayan P. Sivakumar et.al.|[2410.14484](http://arxiv.org/abs/2410.14484)|null|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
 |**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
 |**2024-10-17**|**CrystalX: Ultra-Precision Crystal Structure Resolution and Error Correction Using Deep Learning**|Kaipeng Zheng et.al.|[2410.13713](http://arxiv.org/abs/2410.13713)|null|
@@ -2682,6 +2699,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**|Wei Ai et.al.|[2410.14584](http://arxiv.org/abs/2410.14584)|null|
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571](http://arxiv.org/abs/2410.14571)|null|
+|**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
+|**2024-10-18**|**Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2410.14425](http://arxiv.org/abs/2410.14425)|null|
+|**2024-10-18**|**A Novel Method to Metigate Demographic and Expert Bias in ICD Coding with Causal Inference**|Bin Zhang et.al.|[2410.14236](http://arxiv.org/abs/2410.14236)|null|
+|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
+|**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
+|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
+|**2024-10-17**|**The art of connections: constructing a social network from the correspondence archive of Sybren Valkema**|Vera Provatorova et.al.|[2410.13980](http://arxiv.org/abs/2410.13980)|null|
+|**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
 |**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765](http://arxiv.org/abs/2410.13765)|null|
 |**2024-10-17**|**Disjointness Violations in Wikidata**|Ege Atacan Doğan et.al.|[2410.13707](http://arxiv.org/abs/2410.13707)|null|
