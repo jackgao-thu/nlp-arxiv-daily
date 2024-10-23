@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -49,7 +49,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-21**|**Multi-Level Speaker Representation for Target Speaker Extraction**|Ke Zhang et.al.|[2410.16059](http://arxiv.org/abs/2410.16059)|null|
-|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
+|**2024-10-22**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
 |**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689](http://arxiv.org/abs/2410.15689)|null|
 |**2024-10-21**|**Revealing and Mitigating the Local Pattern Shortcuts of Mamba**|Wangjie You et.al.|[2410.15678](http://arxiv.org/abs/2410.15678)|**[link](https://github.com/zetangforward/global_mamba)**|
 |**2024-10-21**|**All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers**|Amira Hijazi et.al.|[2410.15601](http://arxiv.org/abs/2410.15601)|null|
@@ -1206,7 +1206,7 @@ layout: default
 |**2024-10-21**|**Increasing Interpretability of Neural Networks By Approximating Human Visual Saliency**|Aidan Boyd et.al.|[2410.16115](http://arxiv.org/abs/2410.16115)|null|
 |**2024-10-21**|**Addressing Spectral Bias of Deep Neural Networks by Multi-Grade Deep Learning**|Ronglong Fang et.al.|[2410.16105](http://arxiv.org/abs/2410.16105)|**[link](https://github.com/ronglong-fang/addressingspectralbiasviamgdl)**|
 |**2024-10-21**|**Massimo: Public Queue Monitoring and Management using Mass-Spring Model**|Abhijeet Kumar et.al.|[2410.16012](http://arxiv.org/abs/2410.16012)|null|
-|**2024-10-21**|**Granularity Matters in Long-Tail Learning**|Shizhen Zhao et.al.|[2410.15980](http://arxiv.org/abs/2410.15980)|null|
+|**2024-10-22**|**Granularity Matters in Long-Tail Learning**|Shizhen Zhao et.al.|[2410.15980](http://arxiv.org/abs/2410.15980)|null|
 |**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
 |**2024-10-18**|**Temperature-Dependent Design of BCC High Entropy Alloys: Integrating Deep Learning, CALPHAD, and Experimental Validation**|A. K. Shargh et.al.|[2410.14614](http://arxiv.org/abs/2410.14614)|null|
 |**2024-10-18**|**How Does Data Diversity Shape the Weight Landscape of Neural Networks?**|Yang Ba et.al.|[2410.14602](http://arxiv.org/abs/2410.14602)|null|
