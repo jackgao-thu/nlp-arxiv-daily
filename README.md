@@ -2797,7 +2797,7 @@
 |**2024-10-22**|**Artificial Intelligence in Brazilian News: A Mixed-Methods Analysis**|Raphael Hernandes et.al.|[2410.17423](http://arxiv.org/abs/2410.17423)|null|
 |**2024-10-22**|**Neural association between musical features and shared inter-subject emotional perception while movie-watching: fMRI study**|Leonardo Muller-Rodriguez et.al.|[2410.17300](http://arxiv.org/abs/2410.17300)|null|
 |**2024-10-22**|**Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing**|Kento Nishi et.al.|[2410.17194](http://arxiv.org/abs/2410.17194)|null|
-|**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|null|
+|**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|**[link](https://github.com/liying-xu/pgcs)**|
 |**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803](http://arxiv.org/abs/2410.16803)|null|
 |**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708](http://arxiv.org/abs/2410.16708)|null|
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
