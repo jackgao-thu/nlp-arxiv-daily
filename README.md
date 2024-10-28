@@ -56,6 +56,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
+|**2024-10-25**|**MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction**|Xiaoman Liu et.al.|[2410.19297](http://arxiv.org/abs/2410.19297)|null|
 |**2024-10-24**|**MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**|Ling-Hao Chen et.al.|[2410.18977](http://arxiv.org/abs/2410.18977)|null|
 |**2024-10-24**|**Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766](http://arxiv.org/abs/2410.18766)|null|
 |**2024-10-24**|**Why Does the Effective Context Length of LLMs Fall Short?**|Chenxin An et.al.|[2410.18745](http://arxiv.org/abs/2410.18745)|null|
@@ -1234,6 +1236,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719](http://arxiv.org/abs/2410.19719)|null|
+|**2024-10-25**|**Deep Learning for Classification of Inflammatory Bowel Disease Activity in Whole Slide Images of Colonic Histopathology**|Amit Das et.al.|[2410.19690](http://arxiv.org/abs/2410.19690)|null|
+|**2024-10-25**|**Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective**|Ethan Harvey et.al.|[2410.19675](http://arxiv.org/abs/2410.19675)|null|
+|**2024-10-25**|**Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test**|Sajjad Karimi et.al.|[2410.19667](http://arxiv.org/abs/2410.19667)|null|
+|**2024-10-25**|**Deep learning-based identification of patients at increased risk of cancer using routine laboratory markers**|Vivek Singh et.al.|[2410.19646](http://arxiv.org/abs/2410.19646)|null|
+|**2024-10-25**|**VARS: Vision-based Assessment of Risk in Security Systems**|Pranav Gupta et.al.|[2410.19642](http://arxiv.org/abs/2410.19642)|null|
+|**2024-10-25**|**Toward Generalizable Multiple Sclerosis Lesion Segmentation Models**|Liviu Badea et.al.|[2410.19623](http://arxiv.org/abs/2410.19623)|null|
+|**2024-10-25**|**Microplastic Identification Using AI-Driven Image Segmentation and GAN-Generated Ecological Context**|Alex Dils et.al.|[2410.19604](http://arxiv.org/abs/2410.19604)|null|
+|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-25**|**Balancing the Scales: Enhancing Fairness in Facial Expression Recognition with Latent Alignment**|Syed Sameen Ahmad Rizvi et.al.|[2410.19444](http://arxiv.org/abs/2410.19444)|null|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
 |**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
 |**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896](http://arxiv.org/abs/2410.18896)|null|
@@ -2788,6 +2800,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
+|**2024-10-24**|**MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark**|S Sakshi et.al.|[2410.19168](http://arxiv.org/abs/2410.19168)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
 |**2024-10-25**|**Link, Synthesize, Retrieve: Universal Document Linking for Zero-Shot Information Retrieval**|Dae Yon Hwang et.al.|[2410.18385](http://arxiv.org/abs/2410.18385)|**[link](https://github.com/eoduself/udl)**|
 |**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345](http://arxiv.org/abs/2410.18345)|null|
