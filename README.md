@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -50,7 +50,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Attention
 
@@ -60,7 +60,7 @@
 |**2024-10-28**|**Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies**|Xiwen Li et.al.|[2410.21170](http://arxiv.org/abs/2410.21170)|null|
 |**2024-10-28**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
 |**2024-10-28**|**KA $^2$ ER: Knowledge Adaptive Amalgamation of ExpeRts for Medical Images Segmentation**|Shangde Gao et.al.|[2410.21085](http://arxiv.org/abs/2410.21085)|null|
-|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
+|**2024-10-29**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
 |**2024-10-28**|**Pay Attention to Attention for Sequential Recommendation**|Yuli Liu et.al.|[2410.21048](http://arxiv.org/abs/2410.21048)|null|
 |**2024-10-28**|**SepMamba: State-space models for speaker separation using Mamba**|Thor Højhus Avenstrup et.al.|[2410.20997](http://arxiv.org/abs/2410.20997)|null|
 |**2024-10-28**|**Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting**|Bong Gyun Kang et.al.|[2410.20772](http://arxiv.org/abs/2410.20772)|**[link](https://github.com/djlee1208/bsa_2024)**|
@@ -1240,7 +1240,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -1253,7 +1253,7 @@
 |**2024-10-28**|**KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation**|Zhihao Zhao et.al.|[2410.21160](http://arxiv.org/abs/2410.21160)|null|
 |**2024-10-28**|**uOttawa at LegalLens-2024: Transformer-based Classification Experiments**|Nima Meghdadi et.al.|[2410.21139](http://arxiv.org/abs/2410.21139)|**[link](https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification)**|
 |**2024-10-28**|**Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein Language Model**|Yang Tan et.al.|[2410.21127](http://arxiv.org/abs/2410.21127)|**[link](https://github.com/tyang816/protrem)**|
-|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
+|**2024-10-29**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
 |**2024-10-28**|**Deep Learning the Forecast of Galactic Cosmic-Rays Spectra**|Yi-Lun Du et.al.|[2410.21046](http://arxiv.org/abs/2410.21046)|null|
 |**2024-10-28**|**Breccia and basalt classification of thin sections of Apollo rocks with deep learning**|Freja Thoresen et.al.|[2410.21024](http://arxiv.org/abs/2410.21024)|null|
 |**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719](http://arxiv.org/abs/2410.19719)|null|
@@ -2814,14 +2814,14 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
 |**2024-10-28**|**SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents**|Qi Zhang et.al.|[2410.21155](http://arxiv.org/abs/2410.21155)|null|
 |**2024-10-28**|**uOttawa at LegalLens-2024: Transformer-based Classification Experiments**|Nima Meghdadi et.al.|[2410.21139](http://arxiv.org/abs/2410.21139)|**[link](https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification)**|
@@ -3950,7 +3950,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
