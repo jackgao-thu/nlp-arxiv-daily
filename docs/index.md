@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -48,7 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|null|
+|**2024-10-30**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|**[link](https://github.com/shaokai1209/fdan)**|
 |**2024-10-29**|**Inverse Attention Agent for Multi-Agent System**|Qian Long et.al.|[2410.21794](http://arxiv.org/abs/2410.21794)|null|
 |**2024-10-29**|**Sequential choice in ordered bundles**|Rajeev Kohli et.al.|[2410.21670](http://arxiv.org/abs/2410.21670)|null|
 |**2024-10-29**|**Discriminative Pedestrian Features and Gated Channel Attention for Clothes-Changing Person Re-Identification**|Yongkang Ding et.al.|[2410.21663](http://arxiv.org/abs/2410.21663)|null|
@@ -1244,8 +1244,8 @@ layout: default
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Effective Guidance for Model Attention with Simple Yes-no Annotations**|Seongmin Lee et.al.|[2410.22312](http://arxiv.org/abs/2410.22312)|null|
 |**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
-|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
-|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
 |**2024-10-29**|**Drone Acoustic Analysis for Predicting Psychoacoustic Annoyance via Artificial Neural Networks**|Andrea Vaiuso et.al.|[2410.22208](http://arxiv.org/abs/2410.22208)|null|
 |**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
@@ -2832,7 +2832,7 @@ layout: default
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
 |**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
-|**2024-10-28**|**SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents**|Qi Zhang et.al.|[2410.21155](http://arxiv.org/abs/2410.21155)|null|
+|**2024-10-28**|**SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents**|Qi Zhang et.al.|[2410.21155](http://arxiv.org/abs/2410.21155)|**[link](https://github.com/edzq/SciER)**|
 |**2024-10-28**|**uOttawa at LegalLens-2024: Transformer-based Classification Experiments**|Nima Meghdadi et.al.|[2410.21139](http://arxiv.org/abs/2410.21139)|**[link](https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification)**|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
 |**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060](http://arxiv.org/abs/2410.21060)|null|
