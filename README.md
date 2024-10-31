@@ -56,6 +56,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279](http://arxiv.org/abs/2410.23279)|null|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|null|
+|**2024-10-30**|**TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters**|Haiyang Wang et.al.|[2410.23168](http://arxiv.org/abs/2410.23168)|**[link](https://github.com/haiyang-w/tokenformer)**|
+|**2024-10-30**|**FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities**|Jingge Xiao et.al.|[2410.23160](http://arxiv.org/abs/2410.23160)|null|
+|**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
+|**2024-10-30**|**High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer**|Mingxian Li et.al.|[2410.22922](http://arxiv.org/abs/2410.22922)|**[link](https://github.com/CXH-Research/StainRestorer)**|
+|**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
+|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|null|
+|**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-30**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|**[link](https://github.com/shaokai1209/fdan)**|
 |**2024-10-29**|**Inverse Attention Agent for Multi-Agent System**|Qian Long et.al.|[2410.21794](http://arxiv.org/abs/2410.21794)|null|
 |**2024-10-29**|**Sequential choice in ordered bundles**|Rajeev Kohli et.al.|[2410.21670](http://arxiv.org/abs/2410.21670)|null|
@@ -1251,6 +1261,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**Classically studied coherent structures only paint a partial picture of wall-bounded turbulence**|Andrés Cremades et.al.|[2410.23189](http://arxiv.org/abs/2410.23189)|null|
+|**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
+|**2024-10-30**|**Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**|Songyu Xu et.al.|[2410.23154](http://arxiv.org/abs/2410.23154)|null|
+|**2024-10-30**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109](http://arxiv.org/abs/2410.23109)|null|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
+|**2024-10-30**|**AI-assisted prostate cancer detection and localisation on biparametric MR by classifying radiologist-positives**|Xiangcen Wu et.al.|[2410.23084](http://arxiv.org/abs/2410.23084)|null|
+|**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
+|**2024-10-30**|**Legitimate ground-truth-free metrics for deep uncertainty classification scoring**|Arthur Pignet et.al.|[2410.23046](http://arxiv.org/abs/2410.23046)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Effective Guidance for Model Attention with Simple Yes-no Annotations**|Seongmin Lee et.al.|[2410.22312](http://arxiv.org/abs/2410.22312)|null|
 |**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
@@ -2835,6 +2855,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
+|**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996](http://arxiv.org/abs/2410.22996)|null|
+|**2024-10-30**|**Scalable Sampling for High Utility Patterns**|Lamine Diop et.al.|[2410.22964](http://arxiv.org/abs/2410.22964)|null|
+|**2024-10-30**|**A Graph-Based Model for Vehicle-Centric Data Sharing Ecosystem**|Haiyue Yuan et.al.|[2410.22897](http://arxiv.org/abs/2410.22897)|null|
+|**2024-10-30**|**Knowledge Graph Based Visual Search Application**|Pawandeep Kaur Betz et.al.|[2410.22846](http://arxiv.org/abs/2410.22846)|null|
+|**2024-10-30**|**Beyond Ontology in Dialogue State Tracking for Goal-Oriented Chatbot**|Sejin Lee et.al.|[2410.22767](http://arxiv.org/abs/2410.22767)|**[link](https://github.com/eastha0526/beyond-ontology-in-dst)**|
+|**2024-10-30**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
+|**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
+|**2024-10-30**|**Automated Trustworthiness Oracle Generation for Machine Learning Text Classifiers**|Lam Nguyen Tung et.al.|[2410.22663](http://arxiv.org/abs/2410.22663)|null|
+|**2024-10-30**|**DECRL: A Deep Evolutionary Clustering Jointed Temporal Knowledge Graph Representation Learning Approach**|Qian Chen et.al.|[2410.22631](http://arxiv.org/abs/2410.22631)|null|
 |**2024-10-29**|**DISCERN: Decoding Systematic Errors in Natural Language for Text Classifiers**|Rakesh R. Menon et.al.|[2410.22239](http://arxiv.org/abs/2410.22239)|null|
 |**2024-10-29**|**Class-Aware Contrastive Optimization for Imbalanced Text Classification**|Grigorii Khvatskii et.al.|[2410.22197](http://arxiv.org/abs/2410.22197)|null|
 |**2024-10-29**|**Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**|Muhammad Bilal et.al.|[2410.22180](http://arxiv.org/abs/2410.22180)|null|
