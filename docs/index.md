@@ -1261,7 +1261,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
-|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|**[link](https://github.com/remigenet/Caadam)**|
 |**2024-10-31**|**TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**|Yury Gorishniy et.al.|[2410.24210](http://arxiv.org/abs/2410.24210)|**[link](https://github.com/yandex-research/tabm)**|
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
 |**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
@@ -2868,7 +2868,7 @@ layout: default
 |**2024-10-31**|**OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models**|Junda Wu et.al.|[2410.23703](http://arxiv.org/abs/2410.23703)|null|
 |**2024-10-31**|**Web-Scale Visual Entity Recognition: An LLM-Driven Data Approach**|Mathilde Caron et.al.|[2410.23676](http://arxiv.org/abs/2410.23676)|null|
 |**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
-|**2024-10-30**|**Collage: Decomposable Rapid Prototyping for Information Extraction on Scientific PDFs**|Sireesh Gururaja et.al.|[2410.23478](http://arxiv.org/abs/2410.23478)|null|
+|**2024-10-30**|**Collage: Decomposable Rapid Prototyping for Information Extraction on Scientific PDFs**|Sireesh Gururaja et.al.|[2410.23478](http://arxiv.org/abs/2410.23478)|**[link](https://github.com/gsireesh/ht-max)**|
 |**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
 |**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996](http://arxiv.org/abs/2410.22996)|null|
 |**2024-10-30**|**Scalable Sampling for High Utility Patterns**|Lamine Diop et.al.|[2410.22964](http://arxiv.org/abs/2410.22964)|**[link](https://github.com/ScalableSamplingInLargeDatabases/QPlus)**|
