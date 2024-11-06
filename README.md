@@ -64,7 +64,7 @@
 |**2024-11-05**|**TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image**|Xiang Li et.al.|[2411.02724](http://arxiv.org/abs/2411.02724)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
-|**2024-11-04**|**QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition**|Chengpeng Wang et.al.|[2411.01988](http://arxiv.org/abs/2411.01988)|null|
+|**2024-11-04**|**QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition**|Chengpeng Wang et.al.|[2411.01988](http://arxiv.org/abs/2411.01988)|**[link](https://github.com/birdwcp/qcs)**|
 |**2024-11-04**|**HACD: Harnessing Attribute Semantics and Mesoscopic Structure for Community Detection**|Anran Zhang et.al.|[2411.01947](http://arxiv.org/abs/2411.01947)|**[link](https://github.com/anniran1/hacd1-wsdm)**|
 |**2024-11-05**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781](http://arxiv.org/abs/2411.01781)|null|
 |**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
