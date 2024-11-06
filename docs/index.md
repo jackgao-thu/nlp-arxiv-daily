@@ -49,11 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI**|Haoan Xu et.al.|[2411.02867](http://arxiv.org/abs/2411.02867)|null|
+|**2024-11-05**|**The Evolution of RWKV: Advancements in Efficient Language Modeling**|Akul Datta et.al.|[2411.02795](http://arxiv.org/abs/2411.02795)|null|
+|**2024-11-05**|**A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks**|Uday Kiran Reddy Tadipatri et.al.|[2411.02767](http://arxiv.org/abs/2411.02767)|null|
+|**2024-11-05**|**TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image**|Xiang Li et.al.|[2411.02724](http://arxiv.org/abs/2411.02724)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
 |**2024-11-04**|**QCS:Feature Refining from Quadruplet Cross Similarity for Facial Expression Recognition**|Chengpeng Wang et.al.|[2411.01988](http://arxiv.org/abs/2411.01988)|null|
 |**2024-11-04**|**HACD: Harnessing Attribute Semantics and Mesoscopic Structure for Community Detection**|Anran Zhang et.al.|[2411.01947](http://arxiv.org/abs/2411.01947)|**[link](https://github.com/anniran1/hacd1-wsdm)**|
-|**2024-11-04**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781](http://arxiv.org/abs/2411.01781)|null|
+|**2024-11-05**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781](http://arxiv.org/abs/2411.01781)|null|
 |**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
@@ -1271,6 +1276,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Proxy-informed Bayesian transfer learning with unknown sources**|Sabina J. Sloman et.al.|[2411.03263](http://arxiv.org/abs/2411.03263)|null|
+|**2024-11-05**|**Kernel Orthogonality does not necessarily imply a Decrease in Feature Map Redundancy in CNNs: Convolutional Similarity Minimization**|Zakariae Belmekki et.al.|[2411.03226](http://arxiv.org/abs/2411.03226)|null|
+|**2024-11-05**|**Interpretable Predictive Models for Healthcare via Rational Logistic Regression**|Thiti Suttaket et.al.|[2411.03224](http://arxiv.org/abs/2411.03224)|null|
+|**2024-11-05**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223](http://arxiv.org/abs/2411.03223)|null|
+|**2024-11-05**|**MA^2: A Self-Supervised and Motion Augmenting Autoencoder for Gait-Based Automatic Disease Detection**|Yiqun Liu et.al.|[2411.03129](http://arxiv.org/abs/2411.03129)|null|
+|**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098](http://arxiv.org/abs/2411.03098)|null|
+|**2024-11-05**|**Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images**|Gabriel Bellon de Carvalho et.al.|[2411.03064](http://arxiv.org/abs/2411.03064)|null|
+|**2024-11-05**|**Enhancing DP-SGD through Non-monotonous Adaptive Scaling Gradient Weight**|Tao Huang et.al.|[2411.03059](http://arxiv.org/abs/2411.03059)|null|
+|**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010](http://arxiv.org/abs/2411.03010)|null|
+|**2024-11-05**|**Speaker Emotion Recognition: Leveraging Self-Supervised Models for Feature Extraction Using Wav2Vec2 and HuBERT**|Pourya Jafarzadeh et.al.|[2411.02964](http://arxiv.org/abs/2411.02964)|null|
 |**2024-11-04**|**Graph Neural Networks Based Deep Learning for Predicting Structural and Electronic Properties**|Selva Chandrasekaran Selvaraj et.al.|[2411.02331](http://arxiv.org/abs/2411.02331)|**[link](https://github.com/selvachandrasekaranselvaraj/GNN_prediction)**|
 |**2024-11-04**|**Digital Twin-Assisted Federated Learning with Blockchain in Multi-tier Computing Systems**|Yongyi Tang et.al.|[2411.02323](http://arxiv.org/abs/2411.02323)|null|
 |**2024-11-04**|**Advancing Cyber-Attack Detection in Power Systems: A Comparative Study of Machine Learning and Graph Neural Network Approaches**|Tianzhixi Yin et.al.|[2411.02248](http://arxiv.org/abs/2411.02248)|null|
@@ -2883,6 +2898,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
+|**2024-11-05**|**Confidence Calibration of Classifiers with Many Classes**|Adrien Le Coz et.al.|[2411.02988](http://arxiv.org/abs/2411.02988)|**[link](https://github.com/allglc/tva-calibration)**|
+|**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695](http://arxiv.org/abs/2411.02695)|null|
+|**2024-11-05**|**JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs**|Wanying Ding et.al.|[2411.02692](http://arxiv.org/abs/2411.02692)|null|
+|**2024-11-04**|**Wave Network: An Ultra-Small Language Model**|Xin Zhang et.al.|[2411.02674](http://arxiv.org/abs/2411.02674)|null|
+|**2024-11-04**|**A Comparative Analysis of Instruction Fine-Tuning LLMs for Financial Text Classification**|Sorouralsadat Fatemi et.al.|[2411.02476](http://arxiv.org/abs/2411.02476)|null|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
 |**2024-11-04**|**Grid-Based Projection of Spatial Data into Knowledge Graphs**|Amin Anjomshoaa et.al.|[2411.02309](http://arxiv.org/abs/2411.02309)|null|
 |**2024-11-04**|**TriG-NER: Triplet-Grid Framework for Discontinuous Named Entity Recognition**|Rina Carines Cabral et.al.|[2411.01839](http://arxiv.org/abs/2411.01839)|null|
