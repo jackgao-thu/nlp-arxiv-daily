@@ -62,7 +62,7 @@ layout: default
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
 |**2024-11-06**|**Cross Feature Fusion of Fundus Image and Generated Lesion Map for Referable Diabetic Retinopathy Classification**|Dahyun Mok et.al.|[2411.03618](http://arxiv.org/abs/2411.03618)|null|
 |**2024-11-05**|**LASER: Attention with Exponential Transformation**|Sai Surya Duvvuri et.al.|[2411.03493](http://arxiv.org/abs/2411.03493)|null|
-|**2024-11-05**|**TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs**|Fan Wang et.al.|[2411.03464](http://arxiv.org/abs/2411.03464)|null|
+|**2024-11-05**|**TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs**|Fan Wang et.al.|[2411.03464](http://arxiv.org/abs/2411.03464)|**[link](https://github.com/RNZZL/TopoTxR-A-topology-guided-deep-convolutional-network-for-breast-parenchyma-learning-on-DCE-MRIs-2024)**|
 |**2024-11-05**|**Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis**|Mohammadreza Kouchaki et.al.|[2411.03365](http://arxiv.org/abs/2411.03365)|null|
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
 |**2024-11-05**|**AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI**|Haoan Xu et.al.|[2411.02867](http://arxiv.org/abs/2411.02867)|null|
@@ -77,8 +77,8 @@ layout: default
 |**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
-|**2024-11-03**|**LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems**|Langming Liu et.al.|[2411.01537](http://arxiv.org/abs/2411.01537)|null|
-|**2024-11-02**|**An Innovative CGL-MHA Model for Sarcasm Sentiment Recognition Using the MindSpore Framework**|Zhenkai Qin et.al.|[2411.01264](http://arxiv.org/abs/2411.01264)|null|
+|**2024-11-03**|**LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems**|Langming Liu et.al.|[2411.01537](http://arxiv.org/abs/2411.01537)|**[link](https://github.com/Applied-Machine-Learning-Lab/LinRec)**|
+|**2024-11-02**|**An Innovative CGL-MHA Model for Sarcasm Sentiment Recognition Using the MindSpore Framework**|Zhenkai Qin et.al.|[2411.01264](http://arxiv.org/abs/2411.01264)|**[link](https://github.com/bitbitlemon/CGL-MHA)**|
 |**2024-11-01**|**DELTA: Dense Efficient Long-range 3D Tracking for any video**|Tuan Duc Ngo et.al.|[2410.24211](http://arxiv.org/abs/2410.24211)|null|
 |**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200](http://arxiv.org/abs/2410.24200)|null|
 |**2024-10-31**|**The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains**|Eric Qu et.al.|[2410.24169](http://arxiv.org/abs/2410.24169)|null|
@@ -89,14 +89,14 @@ layout: default
 |**2024-10-31**|**Context-Aware Token Selection and Packing for Enhanced Vision Transformer**|Tianyi Zhang et.al.|[2410.23608](http://arxiv.org/abs/2410.23608)|null|
 |**2024-10-30**|**Tiny Transformers Excel at Sentence Compression**|Peter Belcak et.al.|[2410.23510](http://arxiv.org/abs/2410.23510)|null|
 |**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279](http://arxiv.org/abs/2410.23279)|null|
-|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|**[link](https://github.com/ai-med/diamond)**|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|null|
 |**2024-10-30**|**TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters**|Haiyang Wang et.al.|[2410.23168](http://arxiv.org/abs/2410.23168)|**[link](https://github.com/haiyang-w/tokenformer)**|
-|**2024-10-30**|**FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities**|Jingge Xiao et.al.|[2410.23160](http://arxiv.org/abs/2410.23160)|null|
+|**2024-10-30**|**FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities**|Jingge Xiao et.al.|[2410.23160](http://arxiv.org/abs/2410.23160)|**[link](https://github.com/jingge326/flextsf)**|
 |**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
 |**2024-10-30**|**High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer**|Mingxian Li et.al.|[2410.22922](http://arxiv.org/abs/2410.22922)|**[link](https://github.com/CXH-Research/StainRestorer)**|
 |**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
-|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|null|
+|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|**[link](https://github.com/KitazawaLab/vit-human-attention-comparison)**|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-30**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|**[link](https://github.com/shaokai1209/fdan)**|
 |**2024-10-29**|**Inverse Attention Agent for Multi-Agent System**|Qian Long et.al.|[2410.21794](http://arxiv.org/abs/2410.21794)|null|
@@ -109,12 +109,12 @@ layout: default
 |**2024-10-28**|**KA $^2$ ER: Knowledge Adaptive Amalgamation of ExpeRts for Medical Images Segmentation**|Shangde Gao et.al.|[2410.21085](http://arxiv.org/abs/2410.21085)|null|
 |**2024-10-29**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
 |**2024-10-28**|**Pay Attention to Attention for Sequential Recommendation**|Yuli Liu et.al.|[2410.21048](http://arxiv.org/abs/2410.21048)|null|
-|**2024-10-28**|**SepMamba: State-space models for speaker separation using Mamba**|Thor Højhus Avenstrup et.al.|[2410.20997](http://arxiv.org/abs/2410.20997)|null|
+|**2024-10-28**|**SepMamba: State-space models for speaker separation using Mamba**|Thor Højhus Avenstrup et.al.|[2410.20997](http://arxiv.org/abs/2410.20997)|**[link](https://github.com/andrasschin/SepMamba)**|
 |**2024-10-28**|**Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting**|Bong Gyun Kang et.al.|[2410.20772](http://arxiv.org/abs/2410.20772)|**[link](https://github.com/djlee1208/bsa_2024)**|
 |**2024-10-28**|**CIB-SE-YOLOv8: Optimized YOLOv8 for Real-Time Safety Equipment Detection on Construction Sites**|Xiaoyi Liu et.al.|[2410.20699](http://arxiv.org/abs/2410.20699)|null|
 |**2024-10-28**|**KANsformer for Scalable Beamforming**|Xinke Xie et.al.|[2410.20690](http://arxiv.org/abs/2410.20690)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
-|**2024-10-25**|**MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction**|Xiaoman Liu et.al.|[2410.19297](http://arxiv.org/abs/2410.19297)|null|
+|**2024-10-25**|**MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction**|Xiaoman Liu et.al.|[2410.19297](http://arxiv.org/abs/2410.19297)|**[link](https://github.com/xiaoman-liu/mac)**|
 |**2024-10-24**|**MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**|Ling-Hao Chen et.al.|[2410.18977](http://arxiv.org/abs/2410.18977)|null|
 |**2024-10-24**|**Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766](http://arxiv.org/abs/2410.18766)|null|
 |**2024-10-24**|**Why Does the Effective Context Length of LLMs Fall Short?**|Chenxin An et.al.|[2410.18745](http://arxiv.org/abs/2410.18745)|null|
@@ -126,17 +126,17 @@ layout: default
 |**2024-10-24**|**WAFFLE: Multi-Modal Model for Automated Front-End Development**|Shanchao Liang et.al.|[2410.18362](http://arxiv.org/abs/2410.18362)|**[link](https://github.com/lt-asset/Waffle)**|
 |**2024-10-23**|**NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection**|Solmaz Seyed Monir et.al.|[2410.18294](http://arxiv.org/abs/2410.18294)|null|
 |**2024-10-24**|**Striking a New Chord: Neural Networks in Music Information Dynamics**|Farshad Jafari et.al.|[2410.17989](http://arxiv.org/abs/2410.17989)|**[link](https://github.com/frshdjfry/SeqLab)**|
-|**2024-10-23**|**Stick-breaking Attention**|Shawn Tan et.al.|[2410.17980](http://arxiv.org/abs/2410.17980)|null|
+|**2024-10-23**|**Stick-breaking Attention**|Shawn Tan et.al.|[2410.17980](http://arxiv.org/abs/2410.17980)|**[link](https://github.com/shawntan/stickbreaking-attention)**|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-23**|**ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**|Zhiwei Hao et.al.|[2410.17779](http://arxiv.org/abs/2410.17779)|**[link](https://github.com/hao840/adem-vl)**|
-|**2024-10-23**|**Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data**|Salvatore Raieli et.al.|[2410.17758](http://arxiv.org/abs/2410.17758)|null|
+|**2024-10-23**|**Escaping the Forest: Sparse Interpretable Neural Networks for Tabular Data**|Salvatore Raieli et.al.|[2410.17758](http://arxiv.org/abs/2410.17758)|**[link](https://github.com/salvatorera/sam)**|
 |**2024-10-23**|**Emotion Recognition with Facial Attention and Objective Activation Functions**|Andrzej Miskow et.al.|[2410.17740](http://arxiv.org/abs/2410.17740)|null|
 |**2024-10-23**|**Feature Learning in Attention Mechanisms Is More Compact and Stable Than in Convolution**|Baiyuan Chen et.al.|[2410.17628](http://arxiv.org/abs/2410.17628)|null|
 |**2024-10-23**|**Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation**|Yuxuan Wu et.al.|[2410.17620](http://arxiv.org/abs/2410.17620)|null|
 |**2024-10-22**|**Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification**|Arrun Sivasubramanian et.al.|[2410.17396](http://arxiv.org/abs/2410.17396)|null|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
 |**2024-10-22**|**AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**|Xiaoxuan Ma et.al.|[2410.17136](http://arxiv.org/abs/2410.17136)|**[link](https://github.com/shirleymaxx/chimpact)**|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-22**|**Progressive Compositionality In Text-to-Image Generative Models**|Xu Han et.al.|[2410.16719](http://arxiv.org/abs/2410.16719)|null|
 |**2024-10-22**|**PLDR-LLM: Large Language Model from Power Law Decoder Representations**|Burc Gokden et.al.|[2410.16703](http://arxiv.org/abs/2410.16703)|**[link](https://github.com/burcgokden/llm-from-power-law-decoder-representations)**|
 |**2024-10-21**|**Large Body Language Models**|Saif Punjwani et.al.|[2410.16533](http://arxiv.org/abs/2410.16533)|null|
@@ -156,15 +156,15 @@ layout: default
 |**2024-10-18**|**SignAttention: On the Interpretability of Transformer Models for Sign Language Translation**|Pedro Alejandro Dal Bianco et.al.|[2410.14506](http://arxiv.org/abs/2410.14506)|null|
 |**2024-10-18**|**Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems**|Shuang shuang Li et.al.|[2410.14439](http://arxiv.org/abs/2410.14439)|null|
 |**2024-10-18**|**Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension**|Yin Xie et.al.|[2410.14332](http://arxiv.org/abs/2410.14332)|**[link](https://github.com/deepglint/croc)**|
-|**2024-10-18**|**Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis**|Honglin Li et.al.|[2410.14195](http://arxiv.org/abs/2410.14195)|null|
+|**2024-10-18**|**Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis**|Honglin Li et.al.|[2410.14195](http://arxiv.org/abs/2410.14195)|**[link](https://github.com/invoker-ll/long-mil)**|
 |**2024-10-17**|**Your Interest, Your Summaries: Query-Focused Long Video Summarization**|Nirav Patel et.al.|[2410.14087](http://arxiv.org/abs/2410.14087)|null|
 |**2024-10-17**|**MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment**|Ehsan Kazemi et.al.|[2410.13973](http://arxiv.org/abs/2410.13973)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
-|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|**[link](https://github.com/guotianyu2000/active-dormant-attention)**|
 |**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
 |**2024-10-17**|**Reducing the Transformer Architecture to a Minimum**|Bernhard Bermeitinger et.al.|[2410.13732](http://arxiv.org/abs/2410.13732)|null|
-|**2024-10-17**|**On the Role of Attention Heads in Large Language Model Safety**|Zhenhong Zhou et.al.|[2410.13708](http://arxiv.org/abs/2410.13708)|null|
+|**2024-10-17**|**On the Role of Attention Heads in Large Language Model Safety**|Zhenhong Zhou et.al.|[2410.13708](http://arxiv.org/abs/2410.13708)|**[link](https://github.com/ydyjya/safetyheadattribution)**|
 |**2024-10-17**|**DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition**|Demetris Shianios et.al.|[2410.13663](http://arxiv.org/abs/2410.13663)|null|
 |**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
 |**2024-10-17**|**Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding**|Jongbhin Woo et.al.|[2410.13598](http://arxiv.org/abs/2410.13598)|null|
@@ -181,7 +181,7 @@ layout: default
 |**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842](http://arxiv.org/abs/2410.11842)|**[link](https://github.com/skyworkai/moh)**|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
 |**2024-10-15**|**Light-Weight Fault Tolerant Attention for Large Language Model Training**|Yuhang Liang et.al.|[2410.11720](http://arxiv.org/abs/2410.11720)|null|
-|**2024-10-15**|**Point-Calibrated Spectral Neural Operators**|Xihang Yue et.al.|[2410.11382](http://arxiv.org/abs/2410.11382)|null|
+|**2024-10-15**|**Point-Calibrated Spectral Neural Operators**|Xihang Yue et.al.|[2410.11382](http://arxiv.org/abs/2410.11382)|**[link](https://github.com/yuexihang/pcsm)**|
 |**2024-10-15**|**Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations**|Seongho Kim et.al.|[2410.11381](http://arxiv.org/abs/2410.11381)|null|
 |**2024-10-15**|**LargePiG: Your Large Language Model is Secretly a Pointer Generator**|Zhongxiang Sun et.al.|[2410.11366](http://arxiv.org/abs/2410.11366)|null|
 |**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358](http://arxiv.org/abs/2410.11358)|null|
@@ -195,7 +195,7 @@ layout: default
 |**2024-10-15**|**Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**|Pengzhou Cai et.al.|[2410.10352](http://arxiv.org/abs/2410.10352)|null|
 |**2024-10-14**|**HSR-Enhanced Sparse Attention Acceleration**|Bo Chen et.al.|[2410.10165](http://arxiv.org/abs/2410.10165)|null|
 |**2024-10-14**|**TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control**|Weichao Zeng et.al.|[2410.10133](http://arxiv.org/abs/2410.10133)|**[link](https://github.com/weichaozeng/textctrl)**|
-|**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
+|**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|**[link](https://github.com/y-d-wang/changeminds)**|
 |**2024-10-13**|**DAG-aware Transformer for Causal Effect Estimation**|Manqing Liu et.al.|[2410.10044](http://arxiv.org/abs/2410.10044)|null|
 |**2024-10-13**|**Online Multi-modal Root Cause Analysis**|Lecheng Zheng et.al.|[2410.10021](http://arxiv.org/abs/2410.10021)|null|
 |**2024-10-11**|**Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient**|Wenlong Wang et.al.|[2410.08893](http://arxiv.org/abs/2410.08893)|**[link](https://github.com/realwenlongwang/drama)**|
@@ -219,10 +219,10 @@ layout: default
 |**2024-10-10**|**Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data**|Matthew Ashman et.al.|[2410.06731](http://arxiv.org/abs/2410.06731)|null|
 |**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
 |**2024-10-08**|**Round and Round We Go! What makes Rotary Positional Encodings useful?**|Federico Barbero et.al.|[2410.06205](http://arxiv.org/abs/2410.06205)|null|
-|**2024-10-08**|**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**|Boyuan Cao et.al.|[2410.06055](http://arxiv.org/abs/2410.06055)|null|
+|**2024-10-08**|**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**|Boyuan Cao et.al.|[2410.06055](http://arxiv.org/abs/2410.06055)|**[link](https://github.com/kmittle/ap-ldm)**|
 |**2024-10-08**|**Extracting Finite State Machines from Transformers**|Rik Adriaensen et.al.|[2410.06045](http://arxiv.org/abs/2410.06045)|null|
 |**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/abs/2410.05916)|null|
-|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|**[link](https://github.com/microsoft/unilm/blob/master/Diff-Transformer/)**|
 |**2024-10-07**|**MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain**|Timothy Chase Jr et.al.|[2410.05182](http://arxiv.org/abs/2410.05182)|null|
 |**2024-10-07**|**HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments**|Junming Wang et.al.|[2410.05079](http://arxiv.org/abs/2410.05079)|null|
 |**2024-10-07**|**TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention**|Lijie Yang et.al.|[2410.05076](http://arxiv.org/abs/2410.05076)|**[link](https://github.com/DerrickYLJ/TidalDecode)**|
@@ -233,28 +233,28 @@ layout: default
 |**2024-10-07**|**GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA**|Xinyu Wang et.al.|[2410.04790](http://arxiv.org/abs/2410.04790)|null|
 |**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
 |**2024-10-04**|**Adaptive Masking Enhances Visual Grounding**|Sen Jia et.al.|[2410.03161](http://arxiv.org/abs/2410.03161)|null|
-|**2024-10-04**|**Autoregressive Moving-average Attention Mechanism for Time Series Forecasting**|Jiecheng Lu et.al.|[2410.03159](http://arxiv.org/abs/2410.03159)|null|
+|**2024-10-04**|**Autoregressive Moving-average Attention Mechanism for Time Series Forecasting**|Jiecheng Lu et.al.|[2410.03159](http://arxiv.org/abs/2410.03159)|**[link](https://github.com/ljc-fvnr/arma-attention)**|
 |**2024-10-04**|**Mamba in Vision: A Comprehensive Survey of Techniques and Applications**|Md Maklachur Rahman et.al.|[2410.03105](http://arxiv.org/abs/2410.03105)|**[link](https://github.com/maklachur/mamba-in-computer-vision)**|
 |**2024-10-03**|**Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models**|Mingxue Xu et.al.|[2410.03040](http://arxiv.org/abs/2410.03040)|null|
-|**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981](http://arxiv.org/abs/2410.02981)|null|
+|**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981](http://arxiv.org/abs/2410.02981)|**[link](https://github.com/EIDOSLAB/GABIC)**|
 |**2024-10-03**|**Selective Attention Improves Transformer**|Yaniv Leviathan et.al.|[2410.02703](http://arxiv.org/abs/2410.02703)|null|
 |**2024-10-03**|**Deconstructing Recurrence, Attention, and Gating: Investigating the transferability of Transformers and Gated Recurrent Neural Networks in forecasting of dynamical systems**|Hunter S. Heidenreich et.al.|[2410.02654](http://arxiv.org/abs/2410.02654)|null|
 |**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
 |**2024-10-03**|**Long-Sequence Recommendation Models Need Decoupled Embeddings**|Ningya Feng et.al.|[2410.02604](http://arxiv.org/abs/2410.02604)|null|
 |**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550](http://arxiv.org/abs/2410.02550)|null|
 |**2024-10-03**|**MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02458](http://arxiv.org/abs/2410.02458)|null|
-|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420](http://arxiv.org/abs/2410.02420)|null|
+|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420](http://arxiv.org/abs/2410.02420)|**[link](https://github.com/karim416/LoGDesc)**|
 |**2024-10-03**|**A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362](http://arxiv.org/abs/2410.02362)|**[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)**|
 |**2024-10-03**|**Listening to the Wise Few: Select-and-Copy Attention Heads for Multiple-Choice QA**|Eduard Tulchinskii et.al.|[2410.02343](http://arxiv.org/abs/2410.02343)|null|
 |**2024-10-03**|**Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense Wireless Networks**|Rongsheng Zhang et.al.|[2410.02289](http://arxiv.org/abs/2410.02289)|null|
-|**2024-10-02**|**OmniSR: Shadow Removal under Direct and Indirect Lighting**|Jiamin Xu et.al.|[2410.01719](http://arxiv.org/abs/2410.01719)|null|
+|**2024-10-02**|**OmniSR: Shadow Removal under Direct and Indirect Lighting**|Jiamin Xu et.al.|[2410.01719](http://arxiv.org/abs/2410.01719)|**[link](https://github.com/BlackJoke76/OmniSR)**|
 |**2024-10-02**|**Positional Attention: Out-of-Distribution Generalization and Expressivity for Neural Algorithmic Reasoning**|Artur Back de Luca et.al.|[2410.01686](http://arxiv.org/abs/2410.01686)|**[link](https://github.com/opallab/positional_attention)**|
 |**2024-10-02**|**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**|Aleksandr Gordeev et.al.|[2410.01615](http://arxiv.org/abs/2410.01615)|**[link](https://github.com/ai-forever/sg-detr)**|
 |**2024-10-02**|**Attention layers provably solve single-location regression**|Pierre Marion et.al.|[2410.01537](http://arxiv.org/abs/2410.01537)|**[link](https://github.com/pierremarion23/single-location-regression)**|
 |**2024-10-02**|**TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics**|Junwoo Ha et.al.|[2410.01531](http://arxiv.org/abs/2410.01531)|null|
 |**2024-10-02**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
 |**2024-10-02**|**Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpoints and Regions**|Yutaro Ishida et.al.|[2410.01292](http://arxiv.org/abs/2410.01292)|null|
-|**2024-10-02**|**Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**|Zhiwen Shao et.al.|[2410.01251](http://arxiv.org/abs/2410.01251)|null|
+|**2024-10-02**|**Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**|Zhiwen Shao et.al.|[2410.01251](http://arxiv.org/abs/2410.01251)|**[link](https://github.com/zhiwenshao/ac2d)**|
 |**2024-10-01**|**Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation**|Muhammad Hamza Sharif et.al.|[2410.01003](http://arxiv.org/abs/2410.01003)|null|
 |**2024-10-01**|**TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting**|Muhammad Hamza Sharif et.al.|[2410.00986](http://arxiv.org/abs/2410.00986)|**[link](https://github.com/sharifmhamza/transresnet)**|
 |**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
@@ -266,14 +266,14 @@ layout: default
 |**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|null|
 |**2024-09-29**|**Learning Attentional Mixture of LoRAs for Language Model Continual Learning**|Jialin Liu et.al.|[2409.19611](http://arxiv.org/abs/2409.19611)|null|
 |**2024-09-29**|**Fully Aligned Network for Referring Image Segmentation**|Yong Liu et.al.|[2409.19569](http://arxiv.org/abs/2409.19569)|null|
-|**2024-09-28**|**Intelligent Fish Detection System with Similarity-Aware Transformer**|Shengchen Li et.al.|[2409.19323](http://arxiv.org/abs/2409.19323)|null|
+|**2024-09-28**|**Intelligent Fish Detection System with Similarity-Aware Transformer**|Shengchen Li et.al.|[2409.19323](http://arxiv.org/abs/2409.19323)|**[link](https://github.com/vision4robotics/fishvit)**|
 |**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|**[link](https://github.com/gmongaras/Cottention_Transformer)**|
 |**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18644](http://arxiv.org/abs/2409.18644)|null|
 |**2024-09-27**|**Token Caching for Diffusion Transformer Acceleration**|Jinming Lou et.al.|[2409.18523](http://arxiv.org/abs/2409.18523)|null|
 |**2024-09-26**|**Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework**|Bangyu Lan et.al.|[2409.18266](http://arxiv.org/abs/2409.18266)|null|
 |**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986](http://arxiv.org/abs/2409.17986)|null|
-|**2024-09-26**|**Enhancing elusive clues in knowledge learning by contrasting attention of language models**|Jian Gao et.al.|[2409.17954](http://arxiv.org/abs/2409.17954)|null|
-|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
+|**2024-09-26**|**Enhancing elusive clues in knowledge learning by contrasting attention of language models**|Jian Gao et.al.|[2409.17954](http://arxiv.org/abs/2409.17954)|**[link](https://github.com/hushes-minutes/contrasting_attention)**|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|**[link](https://github.com/hqhqaq/mip-adapter)**|
 |**2024-09-26**|**LKA-ReID:Vehicle Re-Identification with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17908](http://arxiv.org/abs/2409.17908)|null|
 |**2024-09-26**|**A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru**|Chao Min et.al.|[2409.17889](http://arxiv.org/abs/2409.17889)|null|
 |**2024-09-26**|**Optimal Memorization Capacity of Transformers**|Tokio Kajitsuka et.al.|[2409.17677](http://arxiv.org/abs/2409.17677)|null|
@@ -302,7 +302,7 @@ layout: default
 |**2024-09-17**|**Retinal Vessel Segmentation with Deep Graph and Capsule Reasoning**|Xinxu Wei et.al.|[2409.11508](http://arxiv.org/abs/2409.11508)|null|
 |**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
 |**2024-09-17**|**D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding**|Xiaobao Song et.al.|[2409.11024](http://arxiv.org/abs/2409.11024)|null|
-|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|**[link](https://github.com/cascadener/cascadener)**|
 |**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944](http://arxiv.org/abs/2409.10944)|**[link](https://github.com/angusmonroe/contrasformer)**|
 |**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|**[link](https://github.com/EruM16/Attention-Seeker)**|
 |**2024-09-17**|**Adaptive Large Language Models By Layerwise Attention Shortcuts**|Prateek Verma et.al.|[2409.10870](http://arxiv.org/abs/2409.10870)|null|
@@ -361,7 +361,7 @@ layout: default
 |**2024-09-06**|**BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection**|Yangguang Chen et.al.|[2409.04025](http://arxiv.org/abs/2409.04025)|null|
 |**2024-09-06**|**Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task**|Jing Wang et.al.|[2409.04005](http://arxiv.org/abs/2409.04005)|**[link](https://github.com/360cvgroup/qihoo-t2x)**|
 |**2024-09-04**|**Interpretable Cyber Threat Detection for Enterprise Industrial Networks: A Computational Design Science Approach**|Prabhat Kumar et.al.|[2409.03798](http://arxiv.org/abs/2409.03798)|null|
-|**2024-09-05**|**Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers**|Amit Ben Artzy et.al.|[2409.03621](http://arxiv.org/abs/2409.03621)|null|
+|**2024-09-05**|**Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers**|Amit Ben Artzy et.al.|[2409.03621](http://arxiv.org/abs/2409.03621)|**[link](https://github.com/schwartz-lab-NLP/Attend-First-Consolidate-Later)**|
 |**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463](http://arxiv.org/abs/2409.03463)|**[link](https://github.com/msorbi/gnn-ma)**|
 |**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249](http://arxiv.org/abs/2409.03249)|null|
 |**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115](http://arxiv.org/abs/2409.03115)|null|
@@ -383,7 +383,7 @@ layout: default
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
-|**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
+|**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|**[link](https://github.com/deezer/recsys24-pisa)**|
 |**2024-08-29**|**Locally Grouped and Scale-Guided Attention for Dense Pest Counting**|Chang-Hwan Son et.al.|[2408.16503](http://arxiv.org/abs/2408.16503)|null|
 |**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-27**|**TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting**|Abid Hasan Zim et.al.|[2408.15737](http://arxiv.org/abs/2408.15737)|null|
@@ -501,7 +501,7 @@ layout: default
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/abs/2408.01014)|null|
 |**2024-08-02**|**Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making**|Yang Luo et.al.|[2408.01000](http://arxiv.org/abs/2408.01000)|**[link](https://github.com/floating-ly/harmony1)**|
 |**2024-08-01**|**A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage**|Caiwen Jiang et.al.|[2408.00940](http://arxiv.org/abs/2408.00940)|null|
-|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|**[link](https://github.com/susunghong/seg-sdxl)**|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-08-01**|**CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images**|Thiziri Nait Saada et.al.|[2408.00427](http://arxiv.org/abs/2408.00427)|null|
@@ -654,7 +654,7 @@ layout: default
 |**2024-07-04**|**DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification**|Wenhui Zhu et.al.|[2407.03575](http://arxiv.org/abs/2407.03575)|**[link](https://github.com/chongqingnosubway/dgr-mil)**|
 |**2024-07-06**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
 |**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200](http://arxiv.org/abs/2407.03200)|**[link](https://github.com/weitaikang/segvg)**|
-|**2024-07-03**|**Motion meets Attention: Video Motion Prompts**|Qixiang Chen et.al.|[2407.03179](http://arxiv.org/abs/2407.03179)|null|
+|**2024-07-03**|**Motion meets Attention: Video Motion Prompts**|Qixiang Chen et.al.|[2407.03179](http://arxiv.org/abs/2407.03179)|**[link](https://github.com/q1xiangchen/vmps)**|
 |**2024-07-03**|**Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging**|Siying Xu et.al.|[2407.03034](http://arxiv.org/abs/2407.03034)|**[link](https://github.com/midas-tum/a-liknet)**|
 |**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033](http://arxiv.org/abs/2407.03033)|null|
 |**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|**[link](https://github.com/fanourakis/hybea)**|
@@ -695,7 +695,7 @@ layout: default
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747](http://arxiv.org/abs/2406.16747)|null|
 |**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
-|**2024-06-24**|**Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation**|Vincent Loos et.al.|[2406.16701](http://arxiv.org/abs/2406.16701)|null|
+|**2024-06-24**|**Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation**|Vincent Loos et.al.|[2406.16701](http://arxiv.org/abs/2406.16701)|**[link](https://github.com/vinloo/u-net-receptive-field-study)**|
 |**2024-06-24**|**Scaling Laws for Linear Complexity Language Models**|Xuyang Shen et.al.|[2406.16690](http://arxiv.org/abs/2406.16690)|**[link](https://github.com/opennlplab/scalinglaws)**|
 |**2024-06-24**|**C-LLM: Learn to Check Chinese Spelling Errors Character by Character**|Kunting Li et.al.|[2406.16536](http://arxiv.org/abs/2406.16536)|**[link](https://github.com/ktlktl/c-llm)**|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
@@ -715,19 +715,19 @@ layout: default
 |**2024-06-20**|**Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields**|Jintong Hu et.al.|[2406.14052](http://arxiv.org/abs/2406.14052)|**[link](https://github.com/tljxyys/perspective-unet)**|
 |**2024-06-20**|**Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition**|Yimin Zhao et.al.|[2406.14014](http://arxiv.org/abs/2406.14014)|**[link](https://github.com/ztony0712/MCA)**|
 |**2024-06-19**|**A Primal-Dual Framework for Transformers and Neural Networks**|Tan M. Nguyen et.al.|[2406.13781](http://arxiv.org/abs/2406.13781)|null|
-|**2024-06-19**|**Elliptical Attention**|Stefan K. Nielsen et.al.|[2406.13770](http://arxiv.org/abs/2406.13770)|null|
-|**2024-06-19**|**Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis**|Rachel S. Y. Teo et.al.|[2406.13762](http://arxiv.org/abs/2406.13762)|null|
+|**2024-06-19**|**Elliptical Attention**|Stefan K. Nielsen et.al.|[2406.13770](http://arxiv.org/abs/2406.13770)|**[link](https://github.com/stefvk/elliptical-attention)**|
+|**2024-06-19**|**Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis**|Rachel S. Y. Teo et.al.|[2406.13762](http://arxiv.org/abs/2406.13762)|**[link](https://github.com/rachtsy/kpca_code)**|
 |**2024-06-19**|**In-Context Former: Lightning-fast Compressing Context for Large Language Model**|Xiangfeng Wang et.al.|[2406.13618](http://arxiv.org/abs/2406.13618)|null|
 |**2024-06-19**|**Strengthening Layer Interaction via Dynamic Layer Attention**|Kaishen Wang et.al.|[2406.13392](http://arxiv.org/abs/2406.13392)|**[link](https://github.com/tunantu/dynamic-layer-attention)**|
 |**2024-06-19**|**ECAFormer: Low-light Image Enhancement using Cross Attention**|Yudi Ruan et.al.|[2406.13281](http://arxiv.org/abs/2406.13281)|**[link](https://github.com/ruanyudi/ecaformer)**|
 |**2024-06-18**|**On the Robustness of Language Models for Tabular Question Answering**|Kushal Raj Bhandari et.al.|[2406.12719](http://arxiv.org/abs/2406.12719)|null|
 |**2024-06-18**|**Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images**|Nagur Shareef Shaik et.al.|[2406.12683](http://arxiv.org/abs/2406.12683)|null|
-|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
-|**2024-06-18**|**RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes**|Xiaoshan Yu et.al.|[2406.12465](http://arxiv.org/abs/2406.12465)|null|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|**[link](https://github.com/Talented-Q/Restorer)**|
+|**2024-06-18**|**RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes**|Xiaoshan Yu et.al.|[2406.12465](http://arxiv.org/abs/2406.12465)|**[link](https://github.com/labyrinthineleo/rigl)**|
 |**2024-06-18**|**Binaural Selective Attention Model for Target Speaker Extraction**|Hanyu Meng et.al.|[2406.12236](http://arxiv.org/abs/2406.12236)|null|
 |**2024-06-18**|**Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking**|Ryo Karakida et.al.|[2406.12220](http://arxiv.org/abs/2406.12220)|**[link](https://github.com/Toshihiro-Ota/paramixer)**|
 |**2024-06-17**|**A Scalable and Effective Alternative to Graph Transformers**|Kaan Sancak et.al.|[2406.12059](http://arxiv.org/abs/2406.12059)|null|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|**[link](https://github.com/vedantpalit/WellDunn)**|
 |**2024-06-17**|**Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2406.11941](http://arxiv.org/abs/2406.11941)|null|
 |**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|**[link](https://github.com/vkhoi/cora_cvpr24)**|
 |**2024-06-17**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452](http://arxiv.org/abs/2406.11452)|null|
@@ -768,7 +768,7 @@ layout: default
 |**2024-06-11**|**Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology**|Huahui Yi et.al.|[2406.07078](http://arxiv.org/abs/2406.07078)|**[link](https://github.com/huahuiyi/mmdp)**|
 |**2024-06-11**|**Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Model**|Hongbin Zhang et.al.|[2406.07036](http://arxiv.org/abs/2406.07036)|**[link](https://github.com/AzureStarz/paying_attention_to_the_source)**|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
-|**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486](http://arxiv.org/abs/2406.06486)|null|
+|**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486](http://arxiv.org/abs/2406.06486)|**[link](https://github.com/EdoardoCalvello/TransformerNeuralOperators)**|
 |**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479](http://arxiv.org/abs/2406.06479)|null|
 |**2024-06-10**|**SYM3D: Learning Symmetric Triplanes for Better 3D-Awareness of GANs**|Jing Yang et.al.|[2406.06432](http://arxiv.org/abs/2406.06432)|null|
 |**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366](http://arxiv.org/abs/2406.06366)|null|
@@ -799,12 +799,12 @@ layout: default
 |**2024-06-05**|**S $^2$ GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis**|Bingfeng Chen et.al.|[2406.02902](http://arxiv.org/abs/2406.02902)|**[link](https://github.com/ouy7han/s2gsl)**|
 |**2024-06-05**|**Too Big to Fail: Larger Language Models are Disproportionately Resilient to Induction of Dementia-Related Linguistic Anomalies**|Changye Li et.al.|[2406.02830](http://arxiv.org/abs/2406.02830)|**[link](https://github.com/linguisticanomalies/artificial-neural-reserve)**|
 |**2024-06-04**|**Multi-layer Learnable Attention Mask for Multimodal Tasks**|Wayner Barrios et.al.|[2406.02761](http://arxiv.org/abs/2406.02761)|null|
-|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
+|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|**[link](https://github.com/hpcgroup/loki)**|
 |**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|**[link](https://github.com/PositionalHidden/PositionalHidden)**|
 |**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|**[link](https://github.com/remigenet/TKAT)**|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|**[link](https://github.com/ai-med/stablepose)**|
 |**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345](http://arxiv.org/abs/2406.02345)|null|
-|**2024-06-04**|**Iteration Head: A Mechanistic Study of Chain-of-Thought**|Vivien Cabannes et.al.|[2406.02128](http://arxiv.org/abs/2406.02128)|null|
+|**2024-06-04**|**Iteration Head: A Mechanistic Study of Chain-of-Thought**|Vivien Cabannes et.al.|[2406.02128](http://arxiv.org/abs/2406.02128)|**[link](https://github.com/facebookresearch/pal)**|
 |**2024-06-04**|**Nutrition Estimation for Dietary Management: A Transformer Approach with Depth Sensing**|Zhengyi Kwan et.al.|[2406.01938](http://arxiv.org/abs/2406.01938)|null|
 |**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934](http://arxiv.org/abs/2406.01934)|**[link](https://github.com/zhangzef/ot-mel)**|
 |**2024-06-03**|**Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks**|Hasan Zan et.al.|[2406.01834](http://arxiv.org/abs/2406.01834)|null|
@@ -841,11 +841,11 @@ layout: default
 |**2024-05-28**|**Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models**|Sangmin Woo et.al.|[2405.17820](http://arxiv.org/abs/2405.17820)|null|
 |**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429](http://arxiv.org/abs/2405.17429)|**[link](https://github.com/huang-yh/gaussianformer)**|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
-|**2024-05-27**|**Are Self-Attentions Effective for Time Series Forecasting?**|Dongbin Kim et.al.|[2405.16877](http://arxiv.org/abs/2405.16877)|null|
-|**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|null|
+|**2024-05-27**|**Are Self-Attentions Effective for Time Series Forecasting?**|Dongbin Kim et.al.|[2405.16877](http://arxiv.org/abs/2405.16877)|**[link](https://github.com/dongbeank/cats)**|
+|**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|**[link](https://github.com/ML-GSAI/MesaOpt-AR-Transformer)**|
 |**2024-05-28**|**Structured Graph Network for Constrained Robot Crowd Navigation with Low Fidelity Simulation**|Shuijing Liu et.al.|[2405.16830](http://arxiv.org/abs/2405.16830)|null|
 |**2024-05-27**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
-|**2024-05-26**|**Disentangling and Integrating Relational and Sensory Information in Transformer Architectures**|Awni Altabaa et.al.|[2405.16727](http://arxiv.org/abs/2405.16727)|null|
+|**2024-05-26**|**Disentangling and Integrating Relational and Sensory Information in Transformer Architectures**|Awni Altabaa et.al.|[2405.16727](http://arxiv.org/abs/2405.16727)|**[link](https://github.com/awni00/dual-attention)**|
 |**2024-05-26**|**Compressing Lengthy Context With UltraGist**|Peitian Zhang et.al.|[2405.16635](http://arxiv.org/abs/2405.16635)|**[link](https://github.com/namespace-pt/ultragist)**|
 |**2024-05-26**|**Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model**|Yang Cao et.al.|[2405.16542](http://arxiv.org/abs/2405.16542)|null|
 |**2024-05-26**|**PPRSteg: Printing and Photography Robust QR Code Steganography via Attention Flow-Based Model**|Huayuan Ye et.al.|[2405.16414](http://arxiv.org/abs/2405.16414)|null|
@@ -854,7 +854,7 @@ layout: default
 |**2024-05-24**|**Towards Precision Healthcare: Robust Fusion of Time Series and Image Data**|Ali Rasekh et.al.|[2405.15442](http://arxiv.org/abs/2405.15442)|null|
 |**2024-05-24**|**BiSup: Bidirectional Quantization Error Suppression for Large Language Models**|Minghui Zou et.al.|[2405.15346](http://arxiv.org/abs/2405.15346)|null|
 |**2024-05-24**|**Enhancing Generalized Fetal Brain MRI Segmentation using A Cascade Network with Depth-wise Separable Convolution and Attention Mechanism**|Zhigao Cai et.al.|[2405.15205](http://arxiv.org/abs/2405.15205)|null|
-|**2024-05-23**|**Linking In-context Learning in Transformers to Human Episodic Memory**|Li Ji-An et.al.|[2405.14992](http://arxiv.org/abs/2405.14992)|null|
+|**2024-05-23**|**Linking In-context Learning in Transformers to Human Episodic Memory**|Li Ji-An et.al.|[2405.14992](http://arxiv.org/abs/2405.14992)|**[link](https://github.com/corxyz/icl-cmr)**|
 |**2024-05-23**|**Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images**|Jamie Burke et.al.|[2405.14453](http://arxiv.org/abs/2405.14453)|null|
 |**2024-05-23**|**LARS-VSA: A Vector Symbolic Architecture For Learning with Abstract Rules**|Mohamed Mejri et.al.|[2405.14436](http://arxiv.org/abs/2405.14436)|**[link](https://github.com/mmejri3/lars-vsa)**|
 |**2024-05-23**|**M2ANET: Mobile Malaria Attention Network for efficient classification of plasmodium parasites in blood cells**|Salam Ahmed Ali et.al.|[2405.14242](http://arxiv.org/abs/2405.14242)|null|
@@ -862,7 +862,7 @@ layout: default
 |**2024-05-23**|**Enhancing Image Layout Control with Loss-Guided Diffusion Models**|Zakaria Patel et.al.|[2405.14101](http://arxiv.org/abs/2405.14101)|null|
 |**2024-05-23**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094](http://arxiv.org/abs/2405.14094)|null|
 |**2024-05-22**|**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**|Omer F. Atli et.al.|[2405.14022](http://arxiv.org/abs/2405.14022)|**[link](https://github.com/icon-lab/I2I-Mamba)**|
-|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|null|
+|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|**[link](https://github.com/toytiny/radarocc)**|
 |**2024-05-22**|**DCT-Based Decorrelated Attention for Vision Transformers**|Hongyi Pan et.al.|[2405.13901](http://arxiv.org/abs/2405.13901)|null|
 |**2024-05-22**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672](http://arxiv.org/abs/2405.13672)|**[link](https://github.com/Ym-Shan/Spiking_Multiscale_Attention_Arxiv)**|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
@@ -877,7 +877,7 @@ layout: default
 |**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202](http://arxiv.org/abs/2405.12202)|null|
-|**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|null|
+|**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|**[link](https://github.com/AndssY/DeMa)**|
 |**2024-05-21**|**CSTA: CNN-based Spatiotemporal Attention for Video Summarization**|Jaewon Son et.al.|[2405.11905](http://arxiv.org/abs/2405.11905)|**[link](https://github.com/thswodnjs3/CSTA)**|
 |**2024-05-20**|**Quality assurance of organs-at-risk delineation in radiotherapy**|Yihao Zhao et.al.|[2405.11732](http://arxiv.org/abs/2405.11732)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim et.al.|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
@@ -924,7 +924,7 @@ layout: default
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-12**|**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**|Fatema Tuj Johora Faria et.al.|[2405.07338](http://arxiv.org/abs/2405.07338)|**[link](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)**|
 |**2024-05-12**|**Span-Aggregatable, Contextualized Word Embeddings for Effective Phrase Mining**|Eyal Orbach et.al.|[2405.07263](http://arxiv.org/abs/2405.07263)|null|
-|**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
+|**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|**[link](https://github.com/sundongwei/sft_chag2cap)**|
 |**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
 |**2024-05-10**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
 |**2024-05-10**|**Interpretable Multi-task Learning with Shared Variable Embeddings**|Maciej Żelaszczyk et.al.|[2405.06330](http://arxiv.org/abs/2405.06330)|null|
@@ -975,7 +975,7 @@ layout: default
 |**2024-05-01**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|**[link](https://github.com/toneli/petailor-for-bio-triple-extraction)**|
 |**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448](http://arxiv.org/abs/2405.00448)|null|
 |**2024-05-01**|**CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection**|Shihan Dou et.al.|[2405.00428](http://arxiv.org/abs/2405.00428)|**[link](https://github.com/cc2vector/cc2vec)**|
-|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|**[link](https://github.com/nii-yamagishilab/ssl_vits_df)**|
 |**2024-04-30**|**Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer**|Tahira Shehzadi et.al.|[2405.00187](http://arxiv.org/abs/2405.00187)|null|
 |**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/abs/2405.00130)|**[link](https://github.com/mirthai/csa-net)**|
 |**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427](http://arxiv.org/abs/2404.19427)|null|
@@ -1075,7 +1075,7 @@ layout: default
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
-|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|**[link](https://github.com/Soumyabrata2003/Simba)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/abs/2404.07626)|**[link](https://github.com/shanwang-shan/homofusion)**|
 |**2024-04-11**|**Attention based End to end network for Offline Writer Identification on Word level data**|Vineet Kumar et.al.|[2404.07602](http://arxiv.org/abs/2404.07602)|null|
 |**2024-04-11**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
@@ -1208,7 +1208,7 @@ layout: default
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
 |**2024-03-19**|**TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer**|Eunjee Choi et.al.|[2403.12481](http://arxiv.org/abs/2403.12481)|null|
 |**2024-03-19**|**Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation**|Zhangjie Peng et.al.|[2403.12453](http://arxiv.org/abs/2403.12453)|null|
-|**2024-03-18**|**Fusion Transformer with Object Mask Guidance for Image Forgery Analysis**|Dimitrios Karageorgiou et.al.|[2403.12229](http://arxiv.org/abs/2403.12229)|null|
+|**2024-03-18**|**Fusion Transformer with Object Mask Guidance for Image Forgery Analysis**|Dimitrios Karageorgiou et.al.|[2403.12229](http://arxiv.org/abs/2403.12229)|**[link](https://github.com/mever-team/omgfuser)**|
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**|Hui Lu et.al.|[2403.11818](http://arxiv.org/abs/2403.11818)|**[link](https://github.com/hotfinda/tcnet)**|
 |**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
@@ -1261,7 +1261,7 @@ layout: default
 |**2024-03-09**|**Measuring Bias in a Ranked List using Term-based Representations**|Amin Abolghasemi et.al.|[2403.05975](http://arxiv.org/abs/2403.05975)|null|
 |**2024-03-09**|**Frequency Attention for Knowledge Distillation**|Cuong Pham et.al.|[2403.05894](http://arxiv.org/abs/2403.05894)|**[link](https://github.com/cuong-pv/FAM-KD)**|
 |**2024-03-08**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314](http://arxiv.org/abs/2403.05314)|null|
-|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160](http://arxiv.org/abs/2403.05160)|null|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160](http://arxiv.org/abs/2403.05160)|**[link](https://github.com/vison307/mammil)**|
 |**2024-03-08**|**Multimodal Infusion Tuning for Large Models**|Hao Sun et.al.|[2403.05060](http://arxiv.org/abs/2403.05060)|null|
 |**2024-03-08**|**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering**|Yibin Wang et.al.|[2403.05053](http://arxiv.org/abs/2403.05053)|**[link](https://github.com/codegoat24/primecomposer)**|
 |**2024-03-08**|**Are Human Conversations Special? A Large Language Model Perspective**|Toshish Jawale et.al.|[2403.05045](http://arxiv.org/abs/2403.05045)|null|
@@ -1303,7 +1303,7 @@ layout: default
 |**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750](http://arxiv.org/abs/2411.04750)|null|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
 |**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
-|**2024-11-06**|**Multi-Scale and Multimodal Species Distribution Modeling**|Nina van Tiel et.al.|[2411.04016](http://arxiv.org/abs/2411.04016)|null|
+|**2024-11-06**|**Multi-Scale and Multimodal Species Distribution Modeling**|Nina van Tiel et.al.|[2411.04016](http://arxiv.org/abs/2411.04016)|**[link](https://github.com/ninavantiel/multi_scale_SDMs)**|
 |**2024-11-06**|**Aligning Characteristic Descriptors with Images for Human-Expert-like Explainability**|Bharat Chandra Yalavarthi et.al.|[2411.04008](http://arxiv.org/abs/2411.04008)|null|
 |**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996](http://arxiv.org/abs/2411.03996)|null|
 |**2024-11-06**|**Fine-tuning -- a Transfer Learning approach**|Joseph Arul Raj et.al.|[2411.03941](http://arxiv.org/abs/2411.03941)|null|
@@ -1335,13 +1335,13 @@ layout: default
 |**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|**[link](https://github.com/remigenet/Caadam)**|
 |**2024-10-31**|**TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**|Yury Gorishniy et.al.|[2410.24210](http://arxiv.org/abs/2410.24210)|**[link](https://github.com/yandex-research/tabm)**|
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
-|**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
+|**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|**[link](https://github.com/astro-informatics/rcGAN)**|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
 |**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087](http://arxiv.org/abs/2410.24087)|null|
 |**2024-10-31**|**Advanced Predictive Quality Assessment for Ultrasonic Additive Manufacturing with Deep Learning Model**|Lokendra Poudel et.al.|[2410.24055](http://arxiv.org/abs/2410.24055)|null|
 |**2024-10-31**|**Attention is All You Need to Optimize Wind Farm Operations and Maintenance**|Iman Kazemian et.al.|[2410.24052](http://arxiv.org/abs/2410.24052)|null|
 |**2024-10-31**|**Deep Learning with HM-VGG: AI Strategies for Multi-modal Image Analysis**|Junliang Du et.al.|[2410.24046](http://arxiv.org/abs/2410.24046)|null|
-|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|**[link](https://github.com/ai-med/diamond)**|
 |**2024-10-30**|**Classically studied coherent structures only paint a partial picture of wall-bounded turbulence**|Andrés Cremades et.al.|[2410.23189](http://arxiv.org/abs/2410.23189)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**|Songyu Xu et.al.|[2410.23154](http://arxiv.org/abs/2410.23154)|null|
@@ -1359,13 +1359,13 @@ layout: default
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
 |**2024-10-29**|**Drone Acoustic Analysis for Predicting Psychoacoustic Annoyance via Artificial Neural Networks**|Andrea Vaiuso et.al.|[2410.22208](http://arxiv.org/abs/2410.22208)|null|
 |**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
-|**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
+|**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|**[link](https://github.com/slicerdmri/tractshapenet)**|
 |**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/abs/2410.22078)|null|
 |**2024-10-28**|**Modular Duality in Deep Learning**|Jeremy Bernstein et.al.|[2410.21265](http://arxiv.org/abs/2410.21265)|null|
-|**2024-10-28**|**Adaptive Transfer Clustering: A Unified Framework**|Yuqi Gu et.al.|[2410.21263](http://arxiv.org/abs/2410.21263)|null|
+|**2024-10-28**|**Adaptive Transfer Clustering: A Unified Framework**|Yuqi Gu et.al.|[2410.21263](http://arxiv.org/abs/2410.21263)|**[link](https://github.com/zhongyuanlyu/atc)**|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
 |**2024-10-28**|**Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks**|Jiawei Zhang et.al.|[2410.21175](http://arxiv.org/abs/2410.21175)|null|
-|**2024-10-28**|**KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation**|Zhihao Zhao et.al.|[2410.21160](http://arxiv.org/abs/2410.21160)|null|
+|**2024-10-28**|**KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation**|Zhihao Zhao et.al.|[2410.21160](http://arxiv.org/abs/2410.21160)|**[link](https://github.com/aieyesystem/kaldex)**|
 |**2024-10-28**|**uOttawa at LegalLens-2024: Transformer-based Classification Experiments**|Nima Meghdadi et.al.|[2410.21139](http://arxiv.org/abs/2410.21139)|**[link](https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification)**|
 |**2024-10-28**|**Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein Language Model**|Yang Tan et.al.|[2410.21127](http://arxiv.org/abs/2410.21127)|**[link](https://github.com/tyang816/protrem)**|
 |**2024-10-29**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
@@ -1373,7 +1373,7 @@ layout: default
 |**2024-10-28**|**Breccia and basalt classification of thin sections of Apollo rocks with deep learning**|Freja Thoresen et.al.|[2410.21024](http://arxiv.org/abs/2410.21024)|null|
 |**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719](http://arxiv.org/abs/2410.19719)|null|
 |**2024-10-25**|**Deep Learning for Classification of Inflammatory Bowel Disease Activity in Whole Slide Images of Colonic Histopathology**|Amit Das et.al.|[2410.19690](http://arxiv.org/abs/2410.19690)|null|
-|**2024-10-25**|**Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective**|Ethan Harvey et.al.|[2410.19675](http://arxiv.org/abs/2410.19675)|null|
+|**2024-10-25**|**Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective**|Ethan Harvey et.al.|[2410.19675](http://arxiv.org/abs/2410.19675)|**[link](https://github.com/tufts-ml/data-emphasized-ELBo)**|
 |**2024-10-25**|**Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test**|Sajjad Karimi et.al.|[2410.19667](http://arxiv.org/abs/2410.19667)|null|
 |**2024-10-25**|**Deep learning-based identification of patients at increased risk of cancer using routine laboratory markers**|Vivek Singh et.al.|[2410.19646](http://arxiv.org/abs/2410.19646)|null|
 |**2024-10-25**|**VARS: Vision-based Assessment of Risk in Security Systems**|Pranav Gupta et.al.|[2410.19642](http://arxiv.org/abs/2410.19642)|null|
@@ -1406,7 +1406,7 @@ layout: default
 |**2024-10-23**|**Understanding Transfer Learning via Mean-field Analysis**|Gholamali Aminian et.al.|[2410.17128](http://arxiv.org/abs/2410.17128)|null|
 |**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
 |**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
-|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|**[link](https://github.com/oxwhirl/pymarl)**|
 |**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|**[link](https://github.com/kuty007/multi-kernel-gan)**|
 |**2024-10-22**|**DIRI: Adversarial Patient Reidentification with Large Language Models for Evaluating Clinical Text Anonymization**|John X. Morris et.al.|[2410.17035](http://arxiv.org/abs/2410.17035)|null|
 |**2024-10-22**|**Variational autoencoders stabilise TCN performance when classifying weakly labelled bioacoustics data**|Laia Garrobé Fonollosa et.al.|[2410.17006](http://arxiv.org/abs/2410.17006)|null|
@@ -1441,7 +1441,7 @@ layout: default
 |**2024-10-17**|**Material Fingerprinting: Identifying and Predicting Perceptual Attributes of Material Appearance**|Jiri Filip et.al.|[2410.13615](http://arxiv.org/abs/2410.13615)|null|
 |**2024-10-17**|**Deep-learning recognition and tracking of individual nanotubes in low-contrast microscopy videos**|Vladimir Pimonov et.al.|[2410.13594](http://arxiv.org/abs/2410.13594)|null|
 |**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592](http://arxiv.org/abs/2410.13592)|null|
-|**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759](http://arxiv.org/abs/2410.12759)|null|
+|**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759](http://arxiv.org/abs/2410.12759)|**[link](https://github.com/h-chang/UniBERT)**|
 |**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750](http://arxiv.org/abs/2410.12750)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-17**|**Local transfer learning Gaussian process modeling, with applications to surrogate modeling of expensive computer simulators**|Xinming Wang et.al.|[2410.12690](http://arxiv.org/abs/2410.12690)|null|
@@ -1449,9 +1449,9 @@ layout: default
 |**2024-10-16**|**SWIM: An Attention-Only Model for Speech Quality Assessment Under Subjective Variance**|Imran E Kibria et.al.|[2410.12675](http://arxiv.org/abs/2410.12675)|null|
 |**2024-10-16**|**Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction**|Yang Zhang et.al.|[2410.12642](http://arxiv.org/abs/2410.12642)|null|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
-|**2024-10-16**|**From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19**|Danny Falero et.al.|[2410.12589](http://arxiv.org/abs/2410.12589)|null|
-|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520](http://arxiv.org/abs/2410.12520)|null|
-|**2024-10-16**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|null|
+|**2024-10-16**|**From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19**|Danny Falero et.al.|[2410.12589](http://arxiv.org/abs/2410.12589)|**[link](https://github.com/DannyFGitHub/COVID-19PneumoCheckApp)**|
+|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520](http://arxiv.org/abs/2410.12520)|**[link](https://github.com/larocs/queenscamp-dataset)**|
+|**2024-10-16**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|**[link](https://github.com/ast-fortiss-tum/coverage-emse-24)**|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
 |**2024-10-15**|**Parameter estimation of structural dynamics with neural operators enabled surrogate modeling**|Mingyuan Zhou et.al.|[2410.11712](http://arxiv.org/abs/2410.11712)|null|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
@@ -1492,13 +1492,13 @@ layout: default
 |**2024-10-10**|**More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-Inspired Fixed Routing**|Sagi Shaier et.al.|[2410.08003](http://arxiv.org/abs/2410.08003)|null|
 |**2024-10-10**|**PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in biomedical science**|Jian Xu et.al.|[2410.07969](http://arxiv.org/abs/2410.07969)|null|
 |**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091](http://arxiv.org/abs/2410.07091)|null|
-|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
+|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|**[link](https://github.com/jpeginspireddl/jpeg-inspired-dl)**|
 |**2024-10-09**|**Towards xAI: Configuring RNN Weights using Domain Knowledge for MIMO Receive Processing**|Shashank Jere et.al.|[2410.07072](http://arxiv.org/abs/2410.07072)|null|
 |**2024-10-09**|**Z-upscaling: Optical Flow Guided Frame Interpolation for Isotropic Reconstruction of 3D EM Volumes**|Fisseha A. Ferede et.al.|[2410.07043](http://arxiv.org/abs/2410.07043)|**[link](https://github.com/fisseha21/z-upscaling)**|
 |**2024-10-09**|**Emergent properties with repeated examples**|François Charton et.al.|[2410.07041](http://arxiv.org/abs/2410.07041)|null|
 |**2024-10-09**|**Diagnosis of Malignant Lymphoma Cancer Using Hybrid Optimized Techniques Based on Dense Neural Networks**|Salah A. Aly et.al.|[2410.06974](http://arxiv.org/abs/2410.06974)|null|
 |**2024-10-09**|**Updated Determination of Ellis-Jaffe Sum Rules and Extraction of Quark Spin Content**|Hua Zhou et.al.|[2410.06956](http://arxiv.org/abs/2410.06956)|null|
-|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|null|
+|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|**[link](https://github.com/hiyoochan/sequentialtransfer)**|
 |**2024-10-09**|**Learning a generalized multiscale prolongation operator**|Yucheng Liu et.al.|[2410.06832](http://arxiv.org/abs/2410.06832)|null|
 |**2024-10-09**|**Transfer Learning for a Class of Cascade Dynamical Systems**|Shima Rabiei et.al.|[2410.06828](http://arxiv.org/abs/2410.06828)|null|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
@@ -1513,14 +1513,14 @@ layout: default
 |**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
 |**2024-10-04**|**NRGBoost: Energy-Based Generative Boosted Trees**|João Bravo et.al.|[2410.03535](http://arxiv.org/abs/2410.03535)|null|
 |**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487](http://arxiv.org/abs/2410.03487)|null|
-|**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|null|
+|**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 |**2024-10-04**|**On Uncertainty In Natural Language Processing**|Dennis Ulmer et.al.|[2410.03446](http://arxiv.org/abs/2410.03446)|**[link](https://github.com/kaleidophon/nlp-uncertainty-zoo)**|
 |**2024-10-04**|**Towards Real-time Intrahepatic Vessel Identification in Intraoperative Ultrasound-Guided Liver Surgery**|Karl-Philippe Beaudet et.al.|[2410.03420](http://arxiv.org/abs/2410.03420)|null|
 |**2024-10-04**|**Lightning UQ Box: A Comprehensive Framework for Uncertainty Quantification in Deep Learning**|Nils Lehmann et.al.|[2410.03390](http://arxiv.org/abs/2410.03390)|**[link](https://github.com/lightning-uq-box/lightning-uq-box)**|
 |**2024-10-04**|**From Epilepsy Seizures Classification to Detection: A Deep Learning-based Approach for Raw EEG Signals**|Davy Darankoum et.al.|[2410.03385](http://arxiv.org/abs/2410.03385)|null|
 |**2024-10-04**|**Dolphin: A Programmable Framework for Scalable Neurosymbolic Learning**|Aaditya Naik et.al.|[2410.03348](http://arxiv.org/abs/2410.03348)|null|
 |**2024-10-04**|**Lost in Tracking: Uncertainty-guided Cardiac Cine MRI Segmentation at Right Ventricle Base**|Yidong Zhao et.al.|[2410.03320](http://arxiv.org/abs/2410.03320)|null|
-|**2024-10-04**|**Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**|Sameer Ambekar et.al.|[2410.03306](http://arxiv.org/abs/2410.03306)|null|
+|**2024-10-04**|**Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**|Sameer Ambekar et.al.|[2410.03306](http://arxiv.org/abs/2410.03306)|**[link](https://github.com/compai-lab/2024-miccai-adsmi-ambekar)**|
 |**2024-10-03**|**Forecasting Smog Clouds With Deep Learning**|Valentijn Oldenburg et.al.|[2410.02759](http://arxiv.org/abs/2410.02759)|null|
 |**2024-10-03**|**An Online Automatic Modulation Classification Scheme Based on Isolation Distributional Kernel**|Xinpeng Li et.al.|[2410.02750](http://arxiv.org/abs/2410.02750)|null|
 |**2024-10-03**|**AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**|Romoke Grace Akindele et.al.|[2410.02714](http://arxiv.org/abs/2410.02714)|null|
@@ -1535,25 +1535,25 @@ layout: default
 |**2024-10-02**|**Towards deep learning sequence-structure co-generation for protein design**|Chentong Wang et.al.|[2410.01773](http://arxiv.org/abs/2410.01773)|null|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
 |**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
-|**2024-10-02**|**DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data**|Angel Paul et.al.|[2410.01648](http://arxiv.org/abs/2410.01648)|null|
+|**2024-10-02**|**DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data**|Angel Paul et.al.|[2410.01648](http://arxiv.org/abs/2410.01648)|**[link](https://github.com/angelpaulml17/DeIDClinic)**|
 |**2024-10-02**|**SAFE: Semantic Adaptive Feature Extraction with Rate Control for 6G Wireless Communications**|Yuna Yan et.al.|[2410.01597](http://arxiv.org/abs/2410.01597)|null|
 |**2024-10-02**|**Imaging foundation model for universal enhancement of non-ideal measurement CT**|Yuxin Liu et.al.|[2410.01591](http://arxiv.org/abs/2410.01591)|**[link](https://github.com/yutinghe-list/tamp)**|
 |**2024-10-02**|**In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks**|Dingzirui Wang et.al.|[2410.01548](http://arxiv.org/abs/2410.01548)|**[link](https://github.com/zirui-HIT/ICTL)**|
-|**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|null|
+|**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|**[link](https://github.com/kevinmicha/ANTIPASTI)**|
 |**2024-10-02**|**AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach**|Berta Margalef-Bentabol et.al.|[2410.01437](http://arxiv.org/abs/2410.01437)|null|
 |**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503](http://arxiv.org/abs/2409.20503)|**[link](https://github.com/mooselab/suppmaterial-CfgTransAnomalyDetector)**|
-|**2024-09-30**|**IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**|Ruiqiang Xiao et.al.|[2409.20474](http://arxiv.org/abs/2409.20474)|null|
+|**2024-09-30**|**IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**|Ruiqiang Xiao et.al.|[2409.20474](http://arxiv.org/abs/2409.20474)|**[link](https://github.com/sheauhuu/irfusionformer)**|
 |**2024-09-30**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|**[link](https://github.com/m1balcerak/PhysRegTumor)**|
-|**2024-09-30**|**Open-Source Periorbital Segmentation Dataset for Ophthalmic Applications**|George R. Nahass et.al.|[2409.20407](http://arxiv.org/abs/2409.20407)|null|
+|**2024-09-30**|**Open-Source Periorbital Segmentation Dataset for Ophthalmic Applications**|George R. Nahass et.al.|[2409.20407](http://arxiv.org/abs/2409.20407)|**[link](https://github.com/aiolab/periorbital-dataset)**|
 |**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384](http://arxiv.org/abs/2409.20384)|null|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
 |**2024-10-01**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
 |**2024-09-30**|**Old Optimizer, New Norm: An Anthology**|Jeremy Bernstein et.al.|[2409.20325](http://arxiv.org/abs/2409.20325)|null|
 |**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
 |**2024-09-27**|**Deep Learning Enhanced Quantum Holography with Undetected Photons**|Weiru Fan et.al.|[2409.18887](http://arxiv.org/abs/2409.18887)|null|
-|**2024-09-27**|**HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting**|Nian Ran et.al.|[2409.18885](http://arxiv.org/abs/2409.18885)|null|
+|**2024-09-27**|**HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting**|Nian Ran et.al.|[2409.18885](http://arxiv.org/abs/2409.18885)|**[link](https://github.com/HuskyNian/HR-Extreme)**|
 |**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814](http://arxiv.org/abs/2409.18814)|null|
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
 |**2024-09-27**|**HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation**|Joseph Cotnareanu et.al.|[2409.18778](http://arxiv.org/abs/2409.18778)|null|
@@ -1561,14 +1561,14 @@ layout: default
 |**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769](http://arxiv.org/abs/2409.18769)|null|
 |**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
 |**2024-09-27**|**TensorSocket: Shared Data Loading for Deep Learning Training**|Ties Robroek et.al.|[2409.18749](http://arxiv.org/abs/2409.18749)|null|
-|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
+|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|**[link](https://github.com/plantnet/malpolon)**|
 |**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038](http://arxiv.org/abs/2409.18038)|null|
+|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038](http://arxiv.org/abs/2409.18038)|**[link](https://github.com/CPS-TUWien/mmdvs)**|
 |**2024-09-27**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994](http://arxiv.org/abs/2409.17994)|null|
 |**2024-09-26**|**Predicting Anchored Text from Translation Memories for Machine Translation Using Deep Learning Methods**|Richard Yue et.al.|[2409.17939](http://arxiv.org/abs/2409.17939)|null|
-|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|null|
+|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|**[link](https://github.com/graal-research/pick-to-learn)**|
 |**2024-09-26**|**Intelligent Energy Management: Remaining Useful Life Prediction and Charging Automation System Comprised of Deep Learning and the Internet of Things**|Biplov Paneru et.al.|[2409.17931](http://arxiv.org/abs/2409.17931)|null|
 |**2024-09-26**|**Machine Learning-based vs Deep Learning-based Anomaly Detection in Multivariate Time Series for Spacecraft Attitude Sensors**|R. Gallon et.al.|[2409.17841](http://arxiv.org/abs/2409.17841)|null|
 |**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
@@ -1580,7 +1580,7 @@ layout: default
 |**2024-09-25**|**Efficient Feature Interactions with Transformers: Improving User Spending Propensity Predictions in Gaming**|Ved Prakash et.al.|[2409.17077](http://arxiv.org/abs/2409.17077)|null|
 |**2024-09-25**|**Benchmarking Domain Generalization Algorithms in Computational Pathology**|Neda Zamanitajeddin et.al.|[2409.17063](http://arxiv.org/abs/2409.17063)|null|
 |**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055](http://arxiv.org/abs/2409.17055)|**[link](https://github.com/lucas-rbnt/drim)**|
-|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
+|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|**[link](https://github.com/shengwei-tian/dependency-parser-visualization)**|
 |**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
 |**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
@@ -1602,10 +1602,10 @@ layout: default
 |**2024-09-18**|**PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba**|Chaoqi Luo et.al.|[2409.12031](http://arxiv.org/abs/2409.12031)|**[link](https://github.com/chaoqi31/physmamba)**|
 |**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
-|**2024-09-17**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|null|
+|**2024-09-17**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|**[link](https://github.com/ivaniz/predictive-asv-planner)**|
 |**2024-09-17**|**SOAP: Improving and Stabilizing Shampoo using Adam**|Nikhil Vyas et.al.|[2409.11321](http://arxiv.org/abs/2409.11321)|**[link](https://github.com/nikhilvyas/soap)**|
 |**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
-|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|null|
+|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
 |**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223](http://arxiv.org/abs/2409.11223)|null|
 |**2024-09-17**|**Identifying Influential nodes in Brain Networks via Self-Supervised Graph-Transformer**|Yanqing Kang et.al.|[2409.11174](http://arxiv.org/abs/2409.11174)|null|
 |**2024-09-17**|**Synthetic data augmentation for robotic mobility aids to support blind and low vision people**|Hochul Hwang et.al.|[2409.11164](http://arxiv.org/abs/2409.11164)|null|
@@ -1622,7 +1622,7 @@ layout: default
 |**2024-09-16**|**RF-GML: Reference-Free Generative Machine Listener**|Arijit Biswas et.al.|[2409.10210](http://arxiv.org/abs/2409.10210)|null|
 |**2024-09-16**|**AutoPET Challenge III: Testing the Robustness of Generalized Dice Focal Loss trained 3D Residual UNet for FDG and PSMA Lesion Segmentation from Whole-Body PET/CT Images**|Shadab Ahamed et.al.|[2409.10151](http://arxiv.org/abs/2409.10151)|**[link](https://github.com/ahxmeds/autosegnet2024)**|
 |**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
-|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|null|
+|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|**[link](https://github.com/jfagin/quasar_event_predictor)**|
 |**2024-09-13**|**Biomimetic Frontend for Differentiable Audio Processing**|Ruolan Leslie Famularo et.al.|[2409.08997](http://arxiv.org/abs/2409.08997)|**[link](https://github.com/pirl-lab/diffAudNeuro)**|
 |**2024-09-13**|**Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**|Yan-Martin Tamm et.al.|[2409.08987](http://arxiv.org/abs/2409.08987)|**[link](https://github.com/Darel13712/pretrained-audio-representations)**|
 |**2024-09-13**|**PINNfluence: Influence Functions for Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2409.08958](http://arxiv.org/abs/2409.08958)|**[link](https://github.com/aleks-krasowski/PINNfluence)**|
@@ -1643,10 +1643,10 @@ layout: default
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-11**|**Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability**|A. E. M Ridwan et.al.|[2409.07426](http://arxiv.org/abs/2409.07426)|null|
 |**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
-|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
+|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|**[link](https://github.com/atrin78/fedimpress)**|
 |**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
 |**2024-09-11**|**ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel Electroencephalographic Signals**|Chun-Hsiang Chuang et.al.|[2409.07326](http://arxiv.org/abs/2409.07326)|null|
-|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
+|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|**[link](https://github.com/calum-green/xct-xdrct_paper_code)**|
 |**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
 |**2024-09-11**|**Optimizing Neural Network Performance and Interpretability with Diophantine Equation Encoding**|Ronald Katende et.al.|[2409.07310](http://arxiv.org/abs/2409.07310)|null|
 |**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
@@ -1733,7 +1733,7 @@ layout: default
 |**2024-08-28**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zhegidi et.al.|[2408.15796](http://arxiv.org/abs/2408.15796)|**[link](https://github.com/geode-project/ner-llm)**|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
-|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|**[link](https://github.com/ar-roy/dct-cryptonets)**|
 |**2024-08-27**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103](http://arxiv.org/abs/2408.15103)|**[link](https://github.com/valfride/lpsr-lacd)**|
 |**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
@@ -1770,7 +1770,7 @@ layout: default
 |**2024-08-22**|**Smartphone-based Eye Tracking System using Edge Intelligence and Model Optimisation**|Nishan Gunawardena et.al.|[2408.12463](http://arxiv.org/abs/2408.12463)|null|
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
 |**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
-|**2024-08-22**|**An Evaluation of Deep Learning Models for Stock Market Trend Prediction**|Gonzalo Lopez Gil et.al.|[2408.12408](http://arxiv.org/abs/2408.12408)|null|
+|**2024-08-22**|**An Evaluation of Deep Learning Models for Stock Market Trend Prediction**|Gonzalo Lopez Gil et.al.|[2408.12408](http://arxiv.org/abs/2408.12408)|**[link](https://github.com/gonzalopezgil/xlstm-ts)**|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Embedding Ordinality to Binary Loss Function for Improving Solar Flare Forecasting**|Chetraj Pandey et.al.|[2408.11768](http://arxiv.org/abs/2408.11768)|**[link](https://bitbucket.org/gsudmlab/ordinalloss-sf)**|
@@ -1789,7 +1789,7 @@ layout: default
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](http://arxiv.org/abs/2408.10831)|null|
 |**2024-08-20**|**Deep Learning-based Classification of Dementia using Image Representation of Subcortical Signals**|Shivani Ranjan et.al.|[2408.10816](http://arxiv.org/abs/2408.10816)|null|
 |**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802](http://arxiv.org/abs/2408.10802)|null|
-|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|**[link](https://github.com/dalqattan/sechfl)**|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181](http://arxiv.org/abs/2408.10181)|null|
@@ -1846,7 +1846,7 @@ layout: default
 |**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
 |**2024-08-12**|**Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning**|Davide Galli et.al.|[2408.06296](http://arxiv.org/abs/2408.06296)|null|
 |**2024-08-12**|**Mambular: A Sequential Model for Tabular Deep Learning**|Anton Frederik Thielmann et.al.|[2408.06291](http://arxiv.org/abs/2408.06291)|**[link](https://github.com/basf/mamba-tabular)**|
-|**2024-08-12**|**Multi-marginal Schrödinger Bridges with Iterative Reference**|Yunyi Shen et.al.|[2408.06277](http://arxiv.org/abs/2408.06277)|null|
+|**2024-08-12**|**Multi-marginal Schrödinger Bridges with Iterative Reference**|Yunyi Shen et.al.|[2408.06277](http://arxiv.org/abs/2408.06277)|**[link](https://github.com/YunyiShen/SBIRR)**|
 |**2024-08-12**|**DUNE: A Machine Learning Deep UNet++ based Ensemble Approach to Monthly, Seasonal and Annual Climate Forecasting**|Pratik Shukla et.al.|[2408.06262](http://arxiv.org/abs/2408.06262)|**[link](https://github.com/Pratik-Shukla-1/DUNE_AI_Model)**|
 |**2024-08-12**|**Deep Learning System Boundary Testing through Latent Space Style Mixing**|Amr Abdellatif et.al.|[2408.06258](http://arxiv.org/abs/2408.06258)|null|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
@@ -1884,7 +1884,7 @@ layout: default
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|**[link](https://github.com/bowang-lab/medsam)**|
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|**[link](https://github.com/fan-aaron-zhang/bvi-aom)**|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|**[link](https://github.com/esl-epfl/streaminnc)**|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
@@ -1920,7 +1920,7 @@ layout: default
 |**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639](http://arxiv.org/abs/2408.00639)|**[link](https://github.com/francescodisalvo05/cvae-anonymization)**|
 |**2024-08-01**|**Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images**|Xiaoyi Liu et.al.|[2408.00636](http://arxiv.org/abs/2408.00636)|null|
 |**2024-08-01**|**AutoPV: Automatically Design Your Photovoltaic Power Forecasting Model**|Dayin Chen et.al.|[2408.00601](http://arxiv.org/abs/2408.00601)|null|
-|**2024-08-01**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591](http://arxiv.org/abs/2408.00591)|null|
+|**2024-08-01**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591](http://arxiv.org/abs/2408.00591)|**[link](https://github.com/gillesvandevyver/arqee)**|
 |**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791](http://arxiv.org/abs/2407.21791)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
 |**2024-08-01**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740](http://arxiv.org/abs/2407.21740)|null|
@@ -1928,7 +1928,7 @@ layout: default
 |**2024-07-31**|**Shape-restricted transfer learning analysis for generalized linear regression model**|Pengfei Li et.al.|[2407.21682](http://arxiv.org/abs/2407.21682)|null|
 |**2024-07-31**|**Universal Approximation Theory: Foundations for Parallelism in Neural Networks**|Wei Wang et.al.|[2407.21670](http://arxiv.org/abs/2407.21670)|null|
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
-|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-07-31**|**PhysFlow: Skin tone transfer for remote heart rate estimation through conditional normalizing flows**|Joaquim Comas et.al.|[2407.21519](http://arxiv.org/abs/2407.21519)|null|
 |**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|**[link](https://github.com/mcao92/quantizedsci)**|
 |**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
@@ -2035,7 +2035,7 @@ layout: default
 |**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922](http://arxiv.org/abs/2407.11922)|null|
 |**2024-07-16**|**Deep Learning without Global Optimization by Random Fourier Neural Networks**|Owen Davis et.al.|[2407.11894](http://arxiv.org/abs/2407.11894)|null|
 |**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
-|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|**[link](https://github.com/analytics-everywhere-lab/vqixai)**|
 |**2024-07-16**|**A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection**|Pandiyaraju V et.al.|[2407.11753](http://arxiv.org/abs/2407.11753)|null|
 |**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745](http://arxiv.org/abs/2407.11745)|null|
 |**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|**[link](https://github.com/restor-foundation/tcd)**|
@@ -2062,7 +2062,7 @@ layout: default
 |**2024-07-12**|**iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning**|Tom Fischer et.al.|[2407.09271](http://arxiv.org/abs/2407.09271)|**[link](https://github.com/fischer-tom/inemo)**|
 |**2024-07-12**|**Power Optimization and Deep Learning for Channel Estimation of Active IRS-Aided IoT**|Yan Wang et.al.|[2407.09254](http://arxiv.org/abs/2407.09254)|null|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Jet Tagging with More-Interaction Particle Transformer**|Yifan Wu et.al.|[2407.08682](http://arxiv.org/abs/2407.08682)|null|
+|**2024-07-11**|**Jet Tagging with More-Interaction Particle Transformer**|Yifan Wu et.al.|[2407.08682](http://arxiv.org/abs/2407.08682)|**[link](https://github.com/usst-hep/mipart)**|
 |**2024-07-11**|**How to beat a Bayesian adversary**|Zihan Ding et.al.|[2407.08678](http://arxiv.org/abs/2407.08678)|null|
 |**2024-07-11**|**SPOCKMIP: Segmentation of Vessels in MRAs with Enhanced Continuity using Maximum Intensity Projection as Loss**|Chethan Radhakrishna et.al.|[2407.08655](http://arxiv.org/abs/2407.08655)|null|
 |**2024-07-11**|**Histopathological Image Classification with Cell Morphology Aware Deep Neural Networks**|Andrey Ignatov et.al.|[2407.08625](http://arxiv.org/abs/2407.08625)|**[link](https://github.com/aiff22/deepcmorph)**|
@@ -2233,8 +2233,8 @@ layout: default
 |**2024-06-14**|**Challenges in explaining deep learning models for data with biological variation**|Lenka Tětková et.al.|[2406.09981](http://arxiv.org/abs/2406.09981)|null|
 |**2024-06-13**|**Why Warmup the Learning Rate? Underlying Mechanisms and Improvements**|Dayal Singh Kalra et.al.|[2406.09405](http://arxiv.org/abs/2406.09405)|null|
 |**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393](http://arxiv.org/abs/2406.09393)|null|
-|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
-|**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|**[link](https://github.com/viethoang1512/pga)**|
+|**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|**[link](https://github.com/yavaryeganeh/aif_meeting_eec)**|
 |**2024-06-13**|**You Don't Need Data-Augmentation in Self-Supervised Learning**|Théo Moutakanni et.al.|[2406.09294](http://arxiv.org/abs/2406.09294)|null|
 |**2024-06-14**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
 |**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168](http://arxiv.org/abs/2406.09168)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
@@ -2319,16 +2319,16 @@ layout: default
 |**2024-05-31**|**Communication-Efficient Distributed Deep Learning via Federated Dynamic Averaging**|Michail Theologitis et.al.|[2405.20988](http://arxiv.org/abs/2405.20988)|**[link](https://github.com/miketheologitis/FedL-Sync-FDA)**|
 |**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
 |**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917](http://arxiv.org/abs/2405.20917)|null|
-|**2024-05-31**|**Improving Generalization and Convergence by Enhancing Implicit Regularization**|Mingze Wang et.al.|[2405.20763](http://arxiv.org/abs/2405.20763)|null|
+|**2024-05-31**|**Improving Generalization and Convergence by Enhancing Implicit Regularization**|Mingze Wang et.al.|[2405.20763](http://arxiv.org/abs/2405.20763)|**[link](https://github.com/wmz9/ire-algorithm-framework)**|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|**[link](https://github.com/DingJianhao/stable-snn)**|
 |**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333](http://arxiv.org/abs/2405.20333)|null|
 |**2024-05-30**|**Who Writes the Review, Human or AI?**|Panagiotis C. Theocharopoulos et.al.|[2405.20285](http://arxiv.org/abs/2405.20285)|null|
 |**2024-05-30**|**FaceMixup: Enhancing Facial Expression Recognition through Mixed Face Regularization**|Fabio A. Faria et.al.|[2405.20259](http://arxiv.org/abs/2405.20259)|null|
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248](http://arxiv.org/abs/2405.20248)|null|
-|**2024-05-30**|**The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof**|Derek Lim et.al.|[2405.20231](http://arxiv.org/abs/2405.20231)|null|
+|**2024-05-30**|**The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof**|Derek Lim et.al.|[2405.20231](http://arxiv.org/abs/2405.20231)|**[link](https://github.com/cptq/asymmetric-networks)**|
 |**2024-05-30**|**Unified Explanations in Machine Learning Models: A Perturbation Approach**|Jacob Dineen et.al.|[2405.20200](http://arxiv.org/abs/2405.20200)|**[link](https://github.com/jacobdineen/hiccs2021)**|
 |**2024-05-30**|**Occam Gradient Descent**|B. N. Kausik et.al.|[2405.20194](http://arxiv.org/abs/2405.20194)|**[link](https://github.com/bnkausik/occam_gradient_descent)**|
-|**2024-05-30**|**Tropical Expressivity of Neural Networks**|Shiv Bhatia et.al.|[2405.20174](http://arxiv.org/abs/2405.20174)|null|
+|**2024-05-30**|**Tropical Expressivity of Neural Networks**|Shiv Bhatia et.al.|[2405.20174](http://arxiv.org/abs/2405.20174)|**[link](https://github.com/paul-lez/tropicalnn)**|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161](http://arxiv.org/abs/2405.20161)|**[link](https://github.com/links-ads/igarss-landslide-delineation)**|
 |**2024-05-31**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhang et.al.|[2405.20142](http://arxiv.org/abs/2405.20142)|null|
 |**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305](http://arxiv.org/abs/2405.19305)|**[link](https://github.com/marcointrovigne/WeatherDetection)**|
@@ -2352,13 +2352,13 @@ layout: default
 |**2024-05-28**|**Understanding Inter-Concept Relationships in Concept-Based Models**|Naveen Raman et.al.|[2405.18217](http://arxiv.org/abs/2405.18217)|**[link](https://github.com/naveenr414/Concept-Learning)**|
 |**2024-05-28**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
 |**2024-05-27**|**Deep Learning Calabi-Yau four folds with hybrid and recurrent neural network architectures**|H. L. Dao et.al.|[2405.17406](http://arxiv.org/abs/2405.17406)|**[link](https://github.com/lorrespz/CICY4-Deep-learning-hybrid-recurrent-NNs-main)**|
-|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|**[link](https://github.com/zhbuaa0/layoutlmft)**|
 |**2024-05-27**|**Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction**|Shengjie Liu et.al.|[2405.17262](http://arxiv.org/abs/2405.17262)|null|
 |**2024-05-27**|**A Retrospective of the Tutorial on Opportunities and Challenges of Online Deep Learning**|Cedric Kulbach et.al.|[2405.17222](http://arxiv.org/abs/2405.17222)|**[link](https://github.com/lucasczz/deep-river-demo-23)**|
 |**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
 |**2024-05-27**|**Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction**|Wenhao Zhang et.al.|[2405.17167](http://arxiv.org/abs/2405.17167)|null|
 |**2024-05-27**|**The Scaling Law in Stellar Light Curves**|Jia-Shu Pan et.al.|[2405.17156](http://arxiv.org/abs/2405.17156)|null|
-|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151](http://arxiv.org/abs/2405.17151)|null|
+|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151](http://arxiv.org/abs/2405.17151)|**[link](https://github.com/causallearningai/istant)**|
 |**2024-05-27**|**Deep Learning-based Joint Channel Prediction and Multibeam Precoding for LEO Satellite Internet of Things**|Ming Ying et.al.|[2405.17150](http://arxiv.org/abs/2405.17150)|null|
 |**2024-05-27**|**MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction**|Xiaohong Fan et.al.|[2405.17141](http://arxiv.org/abs/2405.17141)|**[link](https://github.com/fanxiaohong/mvms-rcn)**|
 |**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
@@ -2369,7 +2369,7 @@ layout: default
 |**2024-05-24**|**The Road Less Scheduled**|Aaron Defazio et.al.|[2405.15682](http://arxiv.org/abs/2405.15682)|**[link](https://github.com/facebookresearch/schedule_free)**|
 |**2024-05-24**|**Exposing Image Classifier Shortcuts with Counterfactual Frequency (CoF) Tables**|James Hinns et.al.|[2405.15661](http://arxiv.org/abs/2405.15661)|null|
 |**2024-05-24**|**HiddenSpeaker: Generate Imperceptible Unlearnable Audios for Speaker Verification System**|Zhisheng Zhang et.al.|[2405.15655](http://arxiv.org/abs/2405.15655)|null|
-|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|null|
+|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|**[link](https://github.com/dariofenoglio98/cf_fl)**|
 |**2024-05-24**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural Networks**|Felix Dangel et.al.|[2405.15603](http://arxiv.org/abs/2405.15603)|null|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
 |**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830](http://arxiv.org/abs/2405.14830)|null|
@@ -2427,7 +2427,7 @@ layout: default
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-15**|**On identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach**|Roland Schwan et.al.|[2405.09405](http://arxiv.org/abs/2405.09405)|**[link](https://github.com/predict-epfl/holohover-sysid)**|
 |**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
-|**2024-05-15**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Weijie L et.al.|[2405.09365](http://arxiv.org/abs/2405.09365)|null|
+|**2024-05-15**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Weijie L et.al.|[2405.09365](http://arxiv.org/abs/2405.09365)|**[link](https://github.com/waterdisappear/saratrx)**|
 |**2024-05-15**|**Vision-Based Neurosurgical Guidance: Unsupervised Localization and Camera-Pose Prediction**|Gary Sarwin et.al.|[2405.09355](http://arxiv.org/abs/2405.09355)|null|
 |**2024-05-15**|**Transfer Learning in Pre-Trained Large Language Models for Malware Detection Based on System Calls**|Pedro Miguel Sánchez Sánchez et.al.|[2405.09318](http://arxiv.org/abs/2405.09318)|null|
 |**2024-05-15**|**Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**|Tsz On Li et.al.|[2405.09314](http://arxiv.org/abs/2405.09314)|null|
@@ -2511,7 +2511,7 @@ layout: default
 |**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
 |**2024-05-03**|**Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field from reduced parametric space**|Rasoul Najafi Koopas et.al.|[2405.01975](http://arxiv.org/abs/2405.01975)|**[link](https://github.com/rasoulnajafi/microstructure-embedded-autoencoder-mea-)**|
 |**2024-05-03**|**Real-time multichannel deep speech enhancement in hearing aids: Comparing monaural and binaural processing in complex acoustic scenarios**|Nils L. Westhausen et.al.|[2405.01967](http://arxiv.org/abs/2405.01967)|null|
-|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
+|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|**[link](https://github.com/dyballa/generalization)**|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
 |**2024-05-02**|**Strategies for Rare Population Detection and Sampling: A Methodological Approach in Liguria**|G. Lancia et.al.|[2405.01342](http://arxiv.org/abs/2405.01342)|**[link](https://github.com/glancia93/-population-detection-and-sampling-in-liguria)**|
@@ -2535,7 +2535,7 @@ layout: default
 |**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
 |**2024-04-30**|**ThangDLU at #SMM4H 2024: Encoder-decoder models for classifying text data on social disorders in children and adolescents**|Hoang-Thang Ta et.al.|[2404.19714](http://arxiv.org/abs/2404.19714)|null|
 |**2024-04-30**|**Towards Scenario- and Capability-Driven Dataset Development and Evaluation: An Approach in the Context of Mapless Automated Driving**|Felix Grün et.al.|[2404.19656](http://arxiv.org/abs/2404.19656)|null|
-|**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|null|
+|**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|**[link](https://github.com/remimz/metacoco-iclr24)**|
 |**2024-04-30**|**Analyzing and Exploring Training Recipes for Large-Scale Transformer-Based Weather Prediction**|Jared D. Willard et.al.|[2404.19630](http://arxiv.org/abs/2404.19630)|**[link](https://github.com/nersc/swin_v2_weather)**|
 |**2024-04-30**|**Artificial Intelligence in Bone Metastasis Analysis: Current Advancements, Opportunities and Challenges**|Marwa Afnouch et.al.|[2404.19598](http://arxiv.org/abs/2404.19598)|null|
 |**2024-04-30**|**Integrating Visuo-tactile Sensing with Haptic Feedback for Teleoperated Robot Manipulation**|Noah Becker et.al.|[2404.19585](http://arxiv.org/abs/2404.19585)|null|
@@ -2556,7 +2556,7 @@ layout: default
 |**2024-04-26**|**Interpreting Deepcode, a learned feedback code**|Yingyao Zhou et.al.|[2404.17519](http://arxiv.org/abs/2404.17519)|**[link](https://github.com/zyy-cc/deepcode-interpretability)**|
 |**2024-04-26**|**Causally Abstracted Multi-armed Bandits**|Fabio Massimo Zennaro et.al.|[2404.17493](http://arxiv.org/abs/2404.17493)|**[link](https://github.com/fmzennaro/causally-abstracted-multiarmed-bandits)**|
 |**2024-04-26**|**FTL: Transfer Learning Nonlinear Plasma Dynamic Transitions in Low Dimensional Embeddings via Deep Neural Networks**|Zhe Bai et.al.|[2404.17466](http://arxiv.org/abs/2404.17466)|**[link](https://github.com/zhbai/ftl)**|
-|**2024-04-26**|**Any-Quantile Probabilistic Forecasting of Short-Term Electricity Demand**|Slawek Smyl et.al.|[2404.17451](http://arxiv.org/abs/2404.17451)|null|
+|**2024-04-26**|**Any-Quantile Probabilistic Forecasting of Short-Term Electricity Demand**|Slawek Smyl et.al.|[2404.17451](http://arxiv.org/abs/2404.17451)|**[link](https://github.com/boreshkinai/any-quantile)**|
 |**2024-04-26**|**Transformer For Low-frequency Extrapolating of Seismic Data**|Zheng Cong et.al.|[2404.17437](http://arxiv.org/abs/2404.17437)|null|
 |**2024-04-26**|**Image Copy-Move Forgery Detection via Deep PatchMatch and Pairwise Ranking Learning**|Yuanman Li et.al.|[2404.17310](http://arxiv.org/abs/2404.17310)|null|
 |**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298](http://arxiv.org/abs/2404.17298)|**[link](https://github.com/robot-learning-freiburg/MDPCalib)**|
@@ -2824,7 +2824,7 @@ layout: default
 |**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
 |**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
-|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|**[link](https://github.com/azuma164/zodi)**|
 |**2024-03-20**|**Deep Learning and IACT: Bridging the gap between Monte-Carlo simulations and LST-1 data using domain adaptation**|Michael Dellaiera et.al.|[2403.13633](http://arxiv.org/abs/2403.13633)|null|
 |**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
 |**2024-03-20**|**Bayesian Physics-informed Neural Networks for System Identification of Inverter-dominated Power Systems**|Simon Stock et.al.|[2403.13602](http://arxiv.org/abs/2403.13602)|null|
@@ -2845,7 +2845,7 @@ layout: default
 |**2024-03-18**|**Covid-19 detection from CT scans using EfficientNet and Attention mechanism**|Ramy Farag et.al.|[2403.11505](http://arxiv.org/abs/2403.11505)|**[link](https://github.com/rmf3mc/covid-comp24)**|
 |**2024-03-18**|**MLVICX: Multi-Level Variance-Covariance Exploration for Chest X-ray Self-Supervised Representation Learning**|Azad Singh et.al.|[2403.11504](http://arxiv.org/abs/2403.11504)|null|
 |**2024-03-18**|**SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction**|Shuang Wang et.al.|[2403.11482](http://arxiv.org/abs/2403.11482)|**[link](https://github.com/WAL-l/SeisFusion)**|
-|**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
+|**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|**[link](https://github.com/uf-hobi-informatics-lab/gatortron-prediction)**|
 |**2024-03-18**|**A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm**|Jun Lei et.al.|[2403.11405](http://arxiv.org/abs/2403.11405)|**[link](https://github.com/leijsen/ecgbeat4afsinus)**|
 |**2024-03-19**|**Automated data processing and feature engineering for deep learning and big data applications: a survey**|Alhassan Mumuni et.al.|[2403.11395](http://arxiv.org/abs/2403.11395)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
@@ -2899,7 +2899,7 @@ layout: default
 |**2024-03-11**|**LeOCLR: Leveraging Original Images for Contrastive Learning of Visual Representations**|Mohammad Alkhalefi et.al.|[2403.06813](http://arxiv.org/abs/2403.06813)|null|
 |**2024-03-11**|**Deep Learning Approaches for Human Action Recognition in Video Data**|Yufei Xie et.al.|[2403.06810](http://arxiv.org/abs/2403.06810)|null|
 |**2024-03-08**|**Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT**|Aisha Khatun et.al.|[2403.05519](http://arxiv.org/abs/2403.05519)|null|
-|**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[2403.05489](http://arxiv.org/abs/2403.05489)|null|
+|**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[2403.05489](http://arxiv.org/abs/2403.05489)|**[link](https://github.com/kit-mrt/future-motion)**|
 |**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
 |**2024-03-08**|**HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction**|Zhengrui Guo et.al.|[2403.05396](http://arxiv.org/abs/2403.05396)|**[link](https://github.com/dddavid4real/HistGen)**|
 |**2024-03-08**|**A Deep Learning Method for Classification of Biophilic Artworks**|Purna Kar et.al.|[2403.05394](http://arxiv.org/abs/2403.05394)|null|
@@ -2981,7 +2981,7 @@ layout: default
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-30**|**Automated Trustworthiness Oracle Generation for Machine Learning Text Classifiers**|Lam Nguyen Tung et.al.|[2410.22663](http://arxiv.org/abs/2410.22663)|null|
 |**2024-10-30**|**DECRL: A Deep Evolutionary Clustering Jointed Temporal Knowledge Graph Representation Learning Approach**|Qian Chen et.al.|[2410.22631](http://arxiv.org/abs/2410.22631)|null|
-|**2024-10-29**|**DISCERN: Decoding Systematic Errors in Natural Language for Text Classifiers**|Rakesh R. Menon et.al.|[2410.22239](http://arxiv.org/abs/2410.22239)|null|
+|**2024-10-29**|**DISCERN: Decoding Systematic Errors in Natural Language for Text Classifiers**|Rakesh R. Menon et.al.|[2410.22239](http://arxiv.org/abs/2410.22239)|**[link](https://github.com/rrmenon10/DISCERN)**|
 |**2024-10-29**|**Class-Aware Contrastive Optimization for Imbalanced Text Classification**|Grigorii Khvatskii et.al.|[2410.22197](http://arxiv.org/abs/2410.22197)|null|
 |**2024-10-29**|**Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**|Muhammad Bilal et.al.|[2410.22180](http://arxiv.org/abs/2410.22180)|null|
 |**2024-10-29**|**DAGE: DAG Query Answering via Relational Combinator with Logical Constraints**|Yunjie He et.al.|[2410.22105](http://arxiv.org/abs/2410.22105)|null|
@@ -3015,7 +3015,7 @@ layout: default
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
 |**2024-10-21**|**Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight**|Oliver Bensch et.al.|[2410.16397](http://arxiv.org/abs/2410.16397)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
-|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|null|
+|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|**[link](https://github.com/autocs-wyh/automotive-cyber-threat-intelligence-corpus)**|
 |**2024-10-21**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008](http://arxiv.org/abs/2410.16008)|null|
 |**2024-10-21**|**1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification**|Ram Mohan Rao Kadiyala et.al.|[2410.15998](http://arxiv.org/abs/2410.15998)|null|
 |**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981](http://arxiv.org/abs/2410.15981)|null|
@@ -3032,7 +3032,7 @@ layout: default
 |**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
 |**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
-|**2024-10-17**|**The art of connections: constructing a social network from the correspondence archive of Sybren Valkema**|Vera Provatorova et.al.|[2410.13980](http://arxiv.org/abs/2410.13980)|null|
+|**2024-10-17**|**The art of connections: constructing a social network from the correspondence archive of Sybren Valkema**|Vera Provatorova et.al.|[2410.13980](http://arxiv.org/abs/2410.13980)|**[link](https://github.com/vera-pro/valkema_network)**|
 |**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
 |**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765](http://arxiv.org/abs/2410.13765)|null|
@@ -3051,7 +3051,7 @@ layout: default
 |**2024-10-16**|**Privacy-Preserving Synthetically Augmented Knowledge Graphs with Semantic Utility**|Luigi Bellomarini et.al.|[2410.12418](http://arxiv.org/abs/2410.12418)|null|
 |**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|**[link](https://github.com/lamm-mit/PRefLexOR)**|
 |**2024-10-16**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298](http://arxiv.org/abs/2410.12298)|null|
-|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|**[link](https://github.com/nju-websoft/KG-ICL)**|
 |**2024-10-16**|**Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**|Ziqiang Cui et.al.|[2410.12229](http://arxiv.org/abs/2410.12229)|null|
 |**2024-10-16**|**Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning**|Huiwen Wu et.al.|[2410.12130](http://arxiv.org/abs/2410.12130)|null|
 |**2024-10-15**|**Causal Reasoning in Large Language Models: A Knowledge Graph Approach**|Yejin Kim et.al.|[2410.11588](http://arxiv.org/abs/2410.11588)|null|
@@ -3084,7 +3084,7 @@ layout: default
 |**2024-10-10**|**PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in biomedical science**|Jian Xu et.al.|[2410.07969](http://arxiv.org/abs/2410.07969)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951](http://arxiv.org/abs/2410.07951)|null|
 |**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
-|**2024-10-10**|**StablePrompt: Automatic Prompt Tuning using Reinforcement Learning for Large Language Models**|Minchan Kwon et.al.|[2410.07652](http://arxiv.org/abs/2410.07652)|null|
+|**2024-10-10**|**StablePrompt: Automatic Prompt Tuning using Reinforcement Learning for Large Language Models**|Minchan Kwon et.al.|[2410.07652](http://arxiv.org/abs/2410.07652)|**[link](https://github.com/kmc0207/Stableprompt)**|
 |**2024-10-10**|**Diversified and Adaptive Negative Sampling on Knowledge Graphs**|Ran Liu et.al.|[2410.07592](http://arxiv.org/abs/2410.07592)|null|
 |**2024-10-10**|**When and Where Did it Happen? An Encoder-Decoder Model to Identify Scenario Context**|Enrique Noriega-Atala et.al.|[2410.07567](http://arxiv.org/abs/2410.07567)|**[link](https://github.com/ml4ai/scenario-context)**|
 |**2024-10-10**|**Hybrid Summary Statistics**|T. Lucas Makinen et.al.|[2410.07548](http://arxiv.org/abs/2410.07548)|null|
@@ -3094,11 +3094,11 @@ layout: default
 |**2024-10-08**|**Manual Verbalizer Enrichment for Few-Shot Text Classification**|Quang Anh Nguyen et.al.|[2410.06173](http://arxiv.org/abs/2410.06173)|null|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121](http://arxiv.org/abs/2410.06121)|null|
 |**2024-10-08**|**Posets and Bounded Probabilities for Discovering Order-inducing Features in Event Knowledge Graphs**|Christoffer Olling Back et.al.|[2410.06065](http://arxiv.org/abs/2410.06065)|null|
-|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|**[link](https://github.com/sib-swiss/sparql-llm)**|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010](http://arxiv.org/abs/2410.06010)|null|
 |**2024-10-08**|**Bottom-up Anytime Discovery of Generalised Multimodal Graph Patterns for Knowledge Graphs**|Xander Wilcke et.al.|[2410.05839](http://arxiv.org/abs/2410.05839)|null|
 |**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763](http://arxiv.org/abs/2410.05763)|null|
-|**2024-10-08**|**Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training**|Chang Su et.al.|[2410.05731](http://arxiv.org/abs/2410.05731)|null|
+|**2024-10-08**|**Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training**|Chang Su et.al.|[2410.05731](http://arxiv.org/abs/2410.05731)|**[link](https://github.com/LUMIA-Group/TosT5)**|
 |**2024-10-07**|**IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2410.05100](http://arxiv.org/abs/2410.05100)|null|
 |**2024-10-07**|**Explanation sensitivity to the randomness of large language models: the case of journalistic text classification**|Jeremie Bogaert et.al.|[2410.05085](http://arxiv.org/abs/2410.05085)|null|
 |**2024-10-07**|**Named Clinical Entity Recognition Benchmark**|Wadood M Abdul et.al.|[2410.05046](http://arxiv.org/abs/2410.05046)|**[link](https://github.com/wadoodabdul/clinical_ner_benchmark)**|
@@ -3111,7 +3111,7 @@ layout: default
 |**2024-10-06**|**A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion**|Guanglin Niu et.al.|[2410.04488](http://arxiv.org/abs/2410.04488)|null|
 |**2024-10-04**|**On Uncertainty In Natural Language Processing**|Dennis Ulmer et.al.|[2410.03446](http://arxiv.org/abs/2410.03446)|**[link](https://github.com/kaleidophon/nlp-uncertainty-zoo)**|
 |**2024-10-04**|**Comparing zero-shot self-explanations with human rationales in multilingual text classification**|Stephanie Brandl et.al.|[2410.03296](http://arxiv.org/abs/2410.03296)|null|
-|**2024-10-04**|**Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval**|SeungHeon Doh et.al.|[2410.03264](http://arxiv.org/abs/2410.03264)|null|
+|**2024-10-04**|**Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval**|SeungHeon Doh et.al.|[2410.03264](http://arxiv.org/abs/2410.03264)|**[link](https://github.com/seungheondoh/music-text-representation-pp)**|
 |**2024-10-04**|**Enriching Ontologies with Disjointness Axioms using Large Language Models**|Elias Crum et.al.|[2410.03235](http://arxiv.org/abs/2410.03235)|**[link](https://github.com/n28div/llm-disjointness)**|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
@@ -3122,34 +3122,34 @@ layout: default
 |**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun et.al.|[2410.02024](http://arxiv.org/abs/2410.02024)|**[link](https://github.com/namir0806/flag)**|
 |**2024-10-02**|**LLM+KG@VLDB'24 Workshop Summary**|Arijit Khan et.al.|[2410.01978](http://arxiv.org/abs/2410.01978)|null|
 |**2024-10-02**|**SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization of Scientific Topics**|Zhiwen You et.al.|[2410.01946](http://arxiv.org/abs/2410.01946)|**[link](https://github.com/zhiwenyou103/SciPrompt)**|
-|**2024-10-02**|**DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data**|Angel Paul et.al.|[2410.01648](http://arxiv.org/abs/2410.01648)|null|
+|**2024-10-02**|**DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data**|Angel Paul et.al.|[2410.01648](http://arxiv.org/abs/2410.01648)|**[link](https://github.com/angelpaulml17/DeIDClinic)**|
 |**2024-10-02**|**Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**|Yu Zhang et.al.|[2410.01401](http://arxiv.org/abs/2410.01401)|**[link](https://github.com/EchoDreamer/Q-KGR)**|
-|**2024-10-02**|**Assisted Data Annotation for Business Process Information Extraction from Textual Documents**|Julian Neuberger et.al.|[2410.01356](http://arxiv.org/abs/2410.01356)|null|
+|**2024-10-02**|**Assisted Data Annotation for Business Process Information Extraction from Textual Documents**|Julian Neuberger et.al.|[2410.01356](http://arxiv.org/abs/2410.01356)|**[link](https://github.com/JulianNeuberger/assisted-process-annotation)**|
 |**2024-10-02**|**Revisiting Hierarchical Text Classification: Inference and Metrics**|Roman Plaud et.al.|[2410.01305](http://arxiv.org/abs/2410.01305)|**[link](https://github.com/romanplaud/revisitinghtc)**|
-|**2024-10-02**|**Automatic deductive coding in discourse analysis: an application of large language models in learning analytics**|Lishan Zhang et.al.|[2410.01240](http://arxiv.org/abs/2410.01240)|null|
-|**2024-10-02**|**GraphRevisedIE: Multimodal Information Extraction with Graph-Revised Network**|Panfeng Cao et.al.|[2410.01160](http://arxiv.org/abs/2410.01160)|null|
+|**2024-10-02**|**Automatic deductive coding in discourse analysis: an application of large language models in learning analytics**|Lishan Zhang et.al.|[2410.01240](http://arxiv.org/abs/2410.01240)|**[link](https://github.com/lzhang90/prompt/blob/main/prompts)**|
+|**2024-10-02**|**GraphRevisedIE: Multimodal Information Extraction with Graph-Revised Network**|Panfeng Cao et.al.|[2410.01160](http://arxiv.org/abs/2410.01160)|**[link](https://github.com/caop-kie/GraphRevisedIE)**|
 |**2024-10-01**|**From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems**|Ali Mohammadjafari et.al.|[2410.01066](http://arxiv.org/abs/2410.01066)|null|
 |**2024-10-01**|**Replacing Paths with Connection-Biased Attention for Knowledge Graph Completion**|Sharmishtha Dutta et.al.|[2410.00876](http://arxiv.org/abs/2410.00876)|null|
 |**2024-10-01**|**Conversational Exploratory Search of Scholarly Publications Using Knowledge Graphs**|Phillip Schneider et.al.|[2410.00427](http://arxiv.org/abs/2410.00427)|**[link](https://github.com/philotron/CS-Scholarly-KG)**|
 |**2024-09-30**|**A Methodology for Explainable Large Language Models with Integrated Gradients and Linguistic Analysis in Text Classification**|Marina Ribeiro et.al.|[2410.00250](http://arxiv.org/abs/2410.00250)|null|
 |**2024-09-30**|**Constraining Anomaly Detection with Anomaly-Free Regions**|Maximilian Toller et.al.|[2409.20208](http://arxiv.org/abs/2409.20208)|null|
-|**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147](http://arxiv.org/abs/2409.20147)|null|
+|**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147](http://arxiv.org/abs/2409.20147)|**[link](https://github.com/vbeliveau/radiology-text-classification)**|
 |**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053](http://arxiv.org/abs/2409.20053)|null|
 |**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010](http://arxiv.org/abs/2409.20010)|null|
 |**2024-10-01**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979](http://arxiv.org/abs/2409.19979)|**[link](https://github.com/WangXFng/ELMRec)**|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977](http://arxiv.org/abs/2409.19977)|**[link](https://github.com/changyi7231/nfe)**|
 |**2024-09-29**|**Adversarial Examples for DNA Classification**|Hyunwoo Yoo et.al.|[2409.19788](http://arxiv.org/abs/2409.19788)|null|
 |**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753](http://arxiv.org/abs/2409.19753)|**[link](https://github.com/wuyike2000/CoTKR)**|
-|**2024-09-29**|**DiMB-RE: Mining the Scientific Literature for Diet-Microbiome Associations**|Gibong Hong et.al.|[2409.19581](http://arxiv.org/abs/2409.19581)|null|
+|**2024-09-29**|**DiMB-RE: Mining the Scientific Literature for Diet-Microbiome Associations**|Gibong Hong et.al.|[2409.19581](http://arxiv.org/abs/2409.19581)|**[link](https://github.com/sciencenlp-lab/dimb-re)**|
 |**2024-09-29**|**See then Tell: Enhancing Key Information Extraction with Vision Grounding**|Shuhang Liu et.al.|[2409.19573](http://arxiv.org/abs/2409.19573)|null|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678](http://arxiv.org/abs/2409.18678)|null|
-|**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|null|
+|**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659](http://arxiv.org/abs/2409.18659)|**[link](https://github.com/ranking-agent/edgar)**|
 |**2024-09-27**|**Revisiting Weighted Information Extraction: A Simpler and Faster Algorithm for Ranked Enumeration**|Pawel Gawrychowski et.al.|[2409.18563](http://arxiv.org/abs/2409.18563)|null|
 |**2024-09-27**|**Med-IC: Fusing a Single Layer Involution with Convolutions for Enhanced Medical Image Classification and Segmentation**|Md. Farhadul Islam et.al.|[2409.18506](http://arxiv.org/abs/2409.18506)|null|
 |**2024-09-26**|**Trustworthy AI: Securing Sensitive Data in Large Language Models**|Georgios Feretzakis et.al.|[2409.18222](http://arxiv.org/abs/2409.18222)|null|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
-|**2024-09-26**|**The Lou Dataset -- Exploring the Impact of Gender-Fair Language in German Text Classification**|Andreas Waldis et.al.|[2409.17929](http://arxiv.org/abs/2409.17929)|null|
+|**2024-09-26**|**The Lou Dataset -- Exploring the Impact of Gender-Fair Language in German Text Classification**|Andreas Waldis et.al.|[2409.17929](http://arxiv.org/abs/2409.17929)|**[link](https://github.com/UKPLab/lou-gender-fair-reformulations)**|
 |**2024-09-26**|**PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting**|Yuxin Jia et.al.|[2409.17703](http://arxiv.org/abs/2409.17703)|**[link](https://github.com/water2sea/tpgn)**|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**Deep CLAS: Deep Contextual Listen, Attend and Spell**|Shifu Xiong et.al.|[2409.17603](http://arxiv.org/abs/2409.17603)|null|
@@ -3157,10 +3157,10 @@ layout: default
 |**2024-09-26**|**Leveraging Annotator Disagreement for Text Classification**|Jin Xu et.al.|[2409.17577](http://arxiv.org/abs/2409.17577)|null|
 |**2024-09-26**|**MUSE: Integrating Multi-Knowledge for Knowledge Graph Completion**|Pengjie Liu et.al.|[2409.17536](http://arxiv.org/abs/2409.17536)|null|
 |**2024-09-26**|**Reducing and Exploiting Data Augmentation Noise through Meta Reweighting Contrastive Learning for Text Classification**|Guanyi Mou et.al.|[2409.17474](http://arxiv.org/abs/2409.17474)|null|
-|**2024-09-26**|**Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models**|Yuqing Zhou et.al.|[2409.17455](http://arxiv.org/abs/2409.17455)|null|
-|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
+|**2024-09-26**|**Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models**|Yuqing Zhou et.al.|[2409.17455](http://arxiv.org/abs/2409.17455)|**[link](https://github.com/yuqing-zhou/shortcut-learning-in-text-classification)**|
+|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|**[link](https://github.com/shengwei-tian/dependency-parser-visualization)**|
 |**2024-09-25**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934](http://arxiv.org/abs/2409.16934)|null|
-|**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884](http://arxiv.org/abs/2409.16884)|null|
+|**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884](http://arxiv.org/abs/2409.16884)|**[link](https://github.com/KurdishBLARK/HawramiClassification)**|
 |**2024-09-25**|**Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera**|Xu Han et.al.|[2409.16820](http://arxiv.org/abs/2409.16820)|null|
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**A fast and sound tagging method for discontinuous named-entity recognition**|Caio Corro et.al.|[2409.16243](http://arxiv.org/abs/2409.16243)|null|
@@ -3170,34 +3170,34 @@ layout: default
 |**2024-09-24**|**iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification**|Yuanzhe Jin et.al.|[2409.15848](http://arxiv.org/abs/2409.15848)|**[link](https://github.com/mattjin19/rbf)**|
 |**2024-09-24**|**NER-Luxury: Named entity recognition for the fashion and luxury domain**|Akim Mousterou et.al.|[2409.15804](http://arxiv.org/abs/2409.15804)|null|
 |**2024-09-23**|**Optimizing News Text Classification with Bi-LSTM and Attention Mechanism for Efficient Data Processing**|Bingyao Liu et.al.|[2409.15576](http://arxiv.org/abs/2409.15576)|null|
-|**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|null|
+|**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|**[link](https://github.com/TomHopeLab/ScicoRadar)**|
 |**2024-09-23**|**ViBERTgrid BiLSTM-CRF: Multimodal Key Information Extraction from Unstructured Financial Documents**|Furkan Pala et.al.|[2409.15004](http://arxiv.org/abs/2409.15004)|null|
 |**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971](http://arxiv.org/abs/2409.11971)|null|
 |**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968](http://arxiv.org/abs/2409.11968)|null|
 |**2024-09-18**|**A novel DFS/BFS approach towards link prediction**|Jens Dörpinghaus et.al.|[2409.11687](http://arxiv.org/abs/2409.11687)|null|
 |**2024-09-18**|**RUIE: Retrieval-based Unified Information Extraction using Large Language Model**|Xincheng Liao et.al.|[2409.11673](http://arxiv.org/abs/2409.11673)|null|
 |**2024-09-18**|**Community Shaping in the Digital Age: A Temporal Fusion Framework for Analyzing Discourse Fragmentation in Online Social Networks**|Amirhossein Dezhboro et.al.|[2409.11665](http://arxiv.org/abs/2409.11665)|null|
-|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
-|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|**[link](https://github.com/plasma-mds/plasma-ontology)**|
+|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|**[link](https://github.com/cascadener/cascadener)**|
 |**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
 |**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077](http://arxiv.org/abs/2409.10077)|null|
 |**2024-09-17**|**Generating Synthetic Free-text Medical Records with Low Re-identification Risk using Masked Language Modeling**|Samuel Belkadi et.al.|[2409.09831](http://arxiv.org/abs/2409.09831)|**[link](https://github.com/SamySam0/SynDeidMLM)**|
-|**2024-09-14**|**Synthetic4Health: Generating Annotated Synthetic Clinical Letters**|Libo Ren et.al.|[2409.09501](http://arxiv.org/abs/2409.09501)|null|
+|**2024-09-14**|**Synthetic4Health: Generating Annotated Synthetic Clinical Letters**|Libo Ren et.al.|[2409.09501](http://arxiv.org/abs/2409.09501)|**[link](https://github.com/hecta-uom/synthetic4health)**|
 |**2024-09-14**|**Generating Event-oriented Attribution for Movies via Two-Stage Prefix-Enhanced Multimodal LLM**|Yuanjie Lyu et.al.|[2409.09362](http://arxiv.org/abs/2409.09362)|null|
 |**2024-09-14**|**Turbo your multi-modal classification with contrastive learning**|Zhiyu Zhang et.al.|[2409.09282](http://arxiv.org/abs/2409.09282)|null|
 |**2024-09-13**|**CHARM: Creating Halos with Auto-Regressive Multi-stage networks**|Shivam Pandey et.al.|[2409.09124](http://arxiv.org/abs/2409.09124)|**[link](https://github.com/shivampcosmo/charm)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
-|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|**[link](https://github.com/aiola-lab/whisper-ner)**|
 |**2024-09-12**|**SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**|An Guo et.al.|[2409.08081](http://arxiv.org/abs/2409.08081)|null|
 |**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869](http://arxiv.org/abs/2409.07869)|**[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)**|
 |**2024-09-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|**[link](https://github.com/danieladam2001/llm-based-validation)**|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
-|**2024-09-11**|**LLM-based feature generation from text for interpretable machine learning**|Vojtěch Balek et.al.|[2409.07132](http://arxiv.org/abs/2409.07132)|null|
+|**2024-09-11**|**LLM-based feature generation from text for interpretable machine learning**|Vojtěch Balek et.al.|[2409.07132](http://arxiv.org/abs/2409.07132)|**[link](https://github.com/vojtech-balek/llm-features)**|
 |**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088](http://arxiv.org/abs/2409.07088)|**[link](https://github.com/daehuikim/WikiOFGraph)**|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433](http://arxiv.org/abs/2409.06433)|null|
@@ -3208,7 +3208,7 @@ layout: default
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
 |**2024-09-09**|**RexUniNLU: Recursive Method with Explicit Schema Instructor for Universal NLU**|Chengyuan Liu et.al.|[2409.05275](http://arxiv.org/abs/2409.05275)|null|
-|**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934](http://arxiv.org/abs/2409.04934)|null|
+|**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934](http://arxiv.org/abs/2409.04934)|**[link](https://github.com/anushkasw/maxre)**|
 |**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
 |**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
@@ -3346,7 +3346,7 @@ layout: default
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
 |**2024-08-07**|**mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**|Ahmed Abdou et.al.|[2408.03652](http://arxiv.org/abs/2408.03652)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
-|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|null|
+|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|**[link](https://github.com/JiuTian-VL/Optimus-1)**|
 |**2024-08-06**|**Prioritize Alignment in Dataset Distillation**|Zekai Li et.al.|[2408.03360](http://arxiv.org/abs/2408.03360)|**[link](https://github.com/nus-hpc-ai-lab/pad)**|
 |**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202](http://arxiv.org/abs/2408.03202)|null|
 |**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
@@ -3398,7 +3398,7 @@ layout: default
 |**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820](http://arxiv.org/abs/2407.19820)|null|
 |**2024-07-29**|**Comparative Analysis of Encoder-Based NER and Large Language Models for Skill Extraction from Russian Job Vacancies**|Nikita Matkin et.al.|[2407.19816](http://arxiv.org/abs/2407.19816)|null|
 |**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
-|**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|null|
+|**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|**[link](https://github.com/sutaoyu/LoginMEA)**|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-27**|**Inference-Time Selective Debiasing**|Gleb Kuzmin et.al.|[2407.19345](http://arxiv.org/abs/2407.19345)|null|
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338](http://arxiv.org/abs/2407.19338)|null|
@@ -3518,7 +3518,7 @@ layout: default
 |**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217](http://arxiv.org/abs/2407.03217)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
 |**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922](http://arxiv.org/abs/2407.02922)|null|
 |**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878](http://arxiv.org/abs/2407.02878)|null|
-|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|null|
+|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|**[link](https://github.com/oreozhao/cmr)**|
 |**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|**[link](https://github.com/fanourakis/hybea)**|
 |**2024-07-03**|**SA-WavLM: Speaker-Aware Self-Supervised Pre-training for Mixture Speech**|Jingru Lin et.al.|[2407.02826](http://arxiv.org/abs/2407.02826)|null|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779](http://arxiv.org/abs/2407.02779)|null|
@@ -3528,7 +3528,7 @@ layout: default
 |**2024-07-02**|**ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat**|Somnath Bharech et.al.|[2407.02162](http://arxiv.org/abs/2407.02162)|null|
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138](http://arxiv.org/abs/2407.02138)|null|
 |**2024-07-02**|**Automated Knowledge Graph Learning in Industrial Processes**|Lolitta Ammann et.al.|[2407.02106](http://arxiv.org/abs/2407.02106)|null|
-|**2024-07-02**|**Are Data Augmentation Methods in Named Entity Recognition Applicable for Uncertainty Estimation?**|Wataru Hashimoto et.al.|[2407.02062](http://arxiv.org/abs/2407.02062)|null|
+|**2024-07-02**|**Are Data Augmentation Methods in Named Entity Recognition Applicable for Uncertainty Estimation?**|Wataru Hashimoto et.al.|[2407.02062](http://arxiv.org/abs/2407.02062)|**[link](https://github.com/wataruhashimoto52/ner_da_uncertainty)**|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994](http://arxiv.org/abs/2407.01994)|**[link](https://github.com/dair-iitd/NS-KGC-AUG)**|
 |**2024-07-02**|**A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding**|Jinghui Lu et.al.|[2407.01976](http://arxiv.org/abs/2407.01976)|**[link](https://github.com/laytextllm/laytextllm)**|
 |**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409](http://arxiv.org/abs/2407.01409)|null|
@@ -3594,7 +3594,7 @@ layout: default
 |**2024-06-19**|**PetalView: Fine-grained Location and Orientation Extraction of Street-view Images via Cross-view Local Search with Supplementary Materials**|Wenmiao Hu et.al.|[2406.13409](http://arxiv.org/abs/2406.13409)|null|
 |**2024-06-18**|**Composited-Nested-Learning with Data Augmentation for Nested Named Entity Recognition**|Xingming Liao et.al.|[2406.12779](http://arxiv.org/abs/2406.12779)|null|
 |**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775](http://arxiv.org/abs/2406.12775)|**[link](https://github.com/edenbiran/HoppingTooLate)**|
-|**2024-06-18**|**Fighting Randomness with Randomness: Mitigating Optimisation Instability of Fine-Tuning using Delayed Ensemble and Noisy Interpolation**|Branislav Pecher et.al.|[2406.12471](http://arxiv.org/abs/2406.12471)|null|
+|**2024-06-18**|**Fighting Randomness with Randomness: Mitigating Optimisation Instability of Fine-Tuning using Delayed Ensemble and Noisy Interpolation**|Branislav Pecher et.al.|[2406.12471](http://arxiv.org/abs/2406.12471)|**[link](https://github.com/kinit-sk/deni)**|
 |**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389](http://arxiv.org/abs/2406.12389)|**[link](https://github.com/iammia0o/EMO-KNOW)**|
 |**2024-06-18**|**GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory**|Haoze Wu et.al.|[2406.12375](http://arxiv.org/abs/2406.12375)|**[link](https://github.com/waithz/gw-moe)**|
 |**2024-06-18**|**What Did I Do Wrong? Quantifying LLMs' Sensitivity and Consistency to Prompt Engineering**|Federico Errica et.al.|[2406.12334](http://arxiv.org/abs/2406.12334)|null|
@@ -3623,7 +3623,7 @@ layout: default
 |**2024-06-13**|**Differentiable Reasoning about Knowledge Graphs with Region-based Graph Neural Networks**|Aleksandar Pavlovic et.al.|[2406.09529](http://arxiv.org/abs/2406.09529)|null|
 |**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393](http://arxiv.org/abs/2406.09393)|null|
 |**2024-06-13**|**Master of Disaster: A Disaster-Related Event Monitoring System From News Streams**|Junbo Huang et.al.|[2406.09323](http://arxiv.org/abs/2406.09323)|**[link](https://github.com/semantic-systems/SEMS-tool-suite)**|
-|**2024-06-13**|**Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models**|Christopher Schröder et.al.|[2406.09206](http://arxiv.org/abs/2406.09206)|null|
+|**2024-06-13**|**Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models**|Christopher Schröder et.al.|[2406.09206](http://arxiv.org/abs/2406.09206)|**[link](https://github.com/chschroeder/self-training-for-sample-efficient-active-learning)**|
 |**2024-06-13**|**Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation**|Franz Georg Listl et.al.|[2406.09042](http://arxiv.org/abs/2406.09042)|null|
 |**2024-06-13**|**Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations**|Jun-Woo Kim et.al.|[2406.08718](http://arxiv.org/abs/2406.08718)|null|
 |**2024-06-12**|**Fine-Tuned 'Small' LLMs (Still) Significantly Outperform Zero-Shot Generative AI Models in Text Classification**|Martin Juan José Bucher et.al.|[2406.08660](http://arxiv.org/abs/2406.08660)|**[link](https://github.com/mnbucher/text-cls-llms)**|
@@ -3656,7 +3656,7 @@ layout: default
 |**2024-06-10**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|**[link](https://github.com/jkminder/data2neo)**|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989](http://arxiv.org/abs/2406.04989)|**[link](https://github.com/ltgoslo/text-graph-generalization)**|
 |**2024-06-07**|**ComplexTempQA: A Large-Scale Dataset for Complex Temporal Question Answering**|Raphael Gruber et.al.|[2406.04866](http://arxiv.org/abs/2406.04866)|**[link](https://github.com/datascienceuibk/complextempqa)**|
-|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|null|
+|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|**[link](https://github.com/facebookresearch/crag)**|
 |**2024-06-07**|**AICoderEval: Improving AI Domain Code Generation of Large Language Models**|Yinghui Xia et.al.|[2406.04712](http://arxiv.org/abs/2406.04712)|null|
 |**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|
 |**2024-06-06**|**Classification of Non-native Handwritten Characters Using Convolutional Neural Network**|F. A. Mamun et.al.|[2406.04511](http://arxiv.org/abs/2406.04511)|null|
@@ -3698,7 +3698,7 @@ layout: default
 |**2024-05-30**|**The Kosmosis Use-Case of Crypto Rug Pull Detection and Prevention**|Philipp Stangl et.al.|[2405.19762](http://arxiv.org/abs/2405.19762)|null|
 |**2024-05-30**|**Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback**|Jingwei Sun et.al.|[2405.19686](http://arxiv.org/abs/2405.19686)|null|
 |**2024-05-30**|**A Novel Approach for Automated Design Information Mining from Issue Logs**|Jiuang Zhao et.al.|[2405.19623](http://arxiv.org/abs/2405.19623)|null|
-|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
+|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|**[link](https://github.com/ydk122024/pediatricsgpt)**|
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
 |**2024-05-29**|**Towards Data-Driven Electricity Management: Multi-Region Harmonized Data and Knowledge Graph**|Vid Hanžel et.al.|[2405.18869](http://arxiv.org/abs/2405.18869)|null|
 |**2024-05-29**|**Toxicity Detection for Free**|Zhanhao Hu et.al.|[2405.18822](http://arxiv.org/abs/2405.18822)|null|
@@ -3707,8 +3707,8 @@ layout: default
 |**2024-05-28**|**Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs**|Yong Qi et.al.|[2405.17846](http://arxiv.org/abs/2405.17846)|null|
 |**2024-05-28**|**C $^{3}$ Bench: A Comprehensive Classical Chinese Understanding Benchmark for Large Language Models**|Jiahuan Cao et.al.|[2405.17732](http://arxiv.org/abs/2405.17732)|null|
 |**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
-|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|null|
-|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|**[link](https://github.com/zhbuaa0/layoutlmft)**|
+|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|**[link](https://github.com/ml-stat-sustech/local-perplexity-ranking)**|
 |**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249](http://arxiv.org/abs/2405.17249)|**[link](https://github.com/ionutiga/llms-for-kgc)**|
 |**2024-05-27**|**Your decision path does matter in pre-training industrial recommenders with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132](http://arxiv.org/abs/2405.17132)|null|
 |**2024-05-27**|**Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models**|Xuemei Gu et.al.|[2405.17044](http://arxiv.org/abs/2405.17044)|null|
@@ -3726,7 +3726,7 @@ layout: default
 |**2024-05-23**|**Regressor-free Molecule Generation to Support Drug Response Prediction**|Kun Li et.al.|[2405.14536](http://arxiv.org/abs/2405.14536)|null|
 |**2024-05-23**|**Exploring Alignment in Shared Cross-lingual Spaces**|Basel Mousi et.al.|[2405.14535](http://arxiv.org/abs/2405.14535)|**[link](https://github.com/qcri/multilingual-latent-concepts)**|
 |**2024-05-23**|**Explaining Black-box Model Predictions via Two-level Nested Feature Attributions with Consistency Property**|Yuya Yoshikawa et.al.|[2405.14522](http://arxiv.org/abs/2405.14522)|null|
-|**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|null|
+|**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|**[link](https://github.com/microsoft/seqsnn)**|
 |**2024-05-23**|**ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks**|T. Y. S. S Santosh et.al.|[2405.14211](http://arxiv.org/abs/2405.14211)|null|
 |**2024-05-23**|**Multi-view Remote Sensing Image Segmentation With SAM priors**|Zipeng Qi et.al.|[2405.14171](http://arxiv.org/abs/2405.14171)|null|
 |**2024-05-23**|**Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning**|Jiapu Wang et.al.|[2405.14170](http://arxiv.org/abs/2405.14170)|null|
@@ -3771,7 +3771,7 @@ layout: default
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|**[link](https://github.com/dayanjan-lab/pyzobot)**|
 |**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850](http://arxiv.org/abs/2405.07850)|null|
 |**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664](http://arxiv.org/abs/2405.07664)|null|
-|**2024-05-13**|**NoiseBench: Benchmarking the Impact of Real Label Noise on Named Entity Recognition**|Elena Merdjanovska et.al.|[2405.07609](http://arxiv.org/abs/2405.07609)|null|
+|**2024-05-13**|**NoiseBench: Benchmarking the Impact of Real Label Noise on Named Entity Recognition**|Elena Merdjanovska et.al.|[2405.07609](http://arxiv.org/abs/2405.07609)|**[link](https://github.com/elenamer/noisebench)**|
 |**2024-05-13**|**Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents**|Juri Grosjean et.al.|[2405.07513](http://arxiv.org/abs/2405.07513)|null|
 |**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172](http://arxiv.org/abs/2405.07172)|null|
 |**2024-05-12**|**In The Wild Ellipse Parameter Estimation for Circular Dining Plates and Bowls**|Akil Pathiranage et.al.|[2405.07121](http://arxiv.org/abs/2405.07121)|null|
@@ -3898,7 +3898,7 @@ layout: default
 |**2024-04-18**|**Area laws for classical entropies in a spin-1 Bose-Einstein condensate**|Yannick Deller et.al.|[2404.12323](http://arxiv.org/abs/2404.12323)|null|
 |**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
 |**2024-04-18**|**SIGformer: Sign-aware Graph Transformer for Recommendation**|Sirui Chen et.al.|[2404.11982](http://arxiv.org/abs/2404.11982)|**[link](https://github.com/stupidthree/sigformer)**|
-|**2024-04-18**|**P-NAL: an Effective and Interpretable Entity Alignment Method**|Chuanhao Xu et.al.|[2404.11968](http://arxiv.org/abs/2404.11968)|null|
+|**2024-04-18**|**P-NAL: an Effective and Interpretable Entity Alignment Method**|Chuanhao Xu et.al.|[2404.11968](http://arxiv.org/abs/2404.11968)|**[link](https://github.com/13998151318/nala)**|
 |**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809](http://arxiv.org/abs/2404.11809)|**[link](https://github.com/xincanfeng/dimension)**|
 |**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
 |**2024-04-17**|**A Novel ICD Coding Framework Based on Associated and Hierarchical Code Description Distillation**|Bin Zhang et.al.|[2404.11132](http://arxiv.org/abs/2404.11132)|null|
@@ -3923,13 +3923,13 @@ layout: default
 |**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296](http://arxiv.org/abs/2404.09296)|null|
 |**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167](http://arxiv.org/abs/2404.09167)|null|
 |**2024-04-12**|**VertAttack: Taking advantage of Text Classifiers' horizontal vision**|Jonathan Rusert et.al.|[2404.08538](http://arxiv.org/abs/2404.08538)|**[link](https://github.com/jonrusert/vertattack)**|
-|**2024-04-12**|**OTTER: Improving Zero-Shot Classification via Optimal Transport**|Changho Shin et.al.|[2404.08461](http://arxiv.org/abs/2404.08461)|null|
+|**2024-04-12**|**OTTER: Improving Zero-Shot Classification via Optimal Transport**|Changho Shin et.al.|[2404.08461](http://arxiv.org/abs/2404.08461)|**[link](https://github.com/sprocketlab/otter)**|
 |**2024-04-12**|**Toward FAIR Semantic Publishing of Research Dataset Metadata in the Open Research Knowledge Graph**|Raia Abu Ahmad et.al.|[2404.08443](http://arxiv.org/abs/2404.08443)|null|
 |**2024-04-12**|**The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing**|Muzhi Li et.al.|[2404.08313](http://arxiv.org/abs/2404.08313)|**[link](https://github.com/raynorlee/kg-entitytyping)**|
 |**2024-04-11**|**Augmenting Knowledge Graph Hierarchies Using Neural Transformers**|Sanat Sharma et.al.|[2404.08020](http://arxiv.org/abs/2404.08020)|null|
 |**2024-04-11**|**ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs**|Lei Sun et.al.|[2404.07677](http://arxiv.org/abs/2404.07677)|**[link](https://github.com/lanjiuqing64/kgdata)**|
 |**2024-04-11**|**Leveraging Data Augmentation for Process Information Extraction**|Julian Neuberger et.al.|[2404.07501](http://arxiv.org/abs/2404.07501)|**[link](https://github.com/julianneuberger/pet-data-augmentation)**|
-|**2024-04-11**|**Interactive Prompt Debugging with Sequence Salience**|Ian Tenney et.al.|[2404.07498](http://arxiv.org/abs/2404.07498)|null|
+|**2024-04-11**|**Interactive Prompt Debugging with Sequence Salience**|Ian Tenney et.al.|[2404.07498](http://arxiv.org/abs/2404.07498)|**[link](https://github.com/PAIR-code/lit)**|
 |**2024-04-11**|**The Survey on Multi-Source Data Fusion in Cyber-Physical-Social Systems:Foundational Infrastructure for Industrial Metaverses and Industries 5.0**|Xiao Wang et.al.|[2404.07476](http://arxiv.org/abs/2404.07476)|null|
 |**2024-04-11**|**WESE: Weak Exploration to Strong Exploitation for LLM Agents**|Xu Huang et.al.|[2404.07456](http://arxiv.org/abs/2404.07456)|null|
 |**2024-04-10**|**LLMs in Biomedicine: A study on clinical Named Entity Recognition**|Masoud Monajatipoor et.al.|[2404.07376](http://arxiv.org/abs/2404.07376)|**[link](https://github.com/masoud-monajati/llm_bio_ner)**|
@@ -3956,7 +3956,7 @@ layout: default
 |**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003](http://arxiv.org/abs/2404.04003)|null|
 |**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
 |**2024-04-05**|**A Bi-consolidating Model for Joint Relational Triple Extraction**|Xiaocheng Luo et.al.|[2404.03881](http://arxiv.org/abs/2404.03881)|null|
-|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|**[link](https://github.com/clear-nus/edc)**|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|**[link](https://github.com/Ipazia-AI/latent-explorer)**|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
