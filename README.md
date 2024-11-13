@@ -57,7 +57,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
+|**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
+|**2024-11-12**|**Interaction Asymmetry: A General Principle for Learning Composable Abstractions**|Jack Brady et.al.|[2411.07784](http://arxiv.org/abs/2411.07784)|**[link](https://github.com/jackbrady/interaction-asymmetry)**|
+|**2024-11-12**|**Emotion Classification of Children Expressions**|Sanchayan Vivekananthan et.al.|[2411.07708](http://arxiv.org/abs/2411.07708)|null|
+|**2024-11-12**|**HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification**|Cheng Jin et.al.|[2411.07660](http://arxiv.org/abs/2411.07660)|null|
+|**2024-11-12**|**Breaking the Low-Rank Dilemma of Linear Attention**|Qihang Fan et.al.|[2411.07635](http://arxiv.org/abs/2411.07635)|**[link](https://github.com/qhfan/rala)**|
+|**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|null|
+|**2024-11-12**|**Multi-task Feature Enhancement Network for No-Reference Image Quality Assessment**|Li Yu et.al.|[2411.07556](http://arxiv.org/abs/2411.07556)|null|
+|**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445](http://arxiv.org/abs/2411.07445)|null|
+|**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
+|**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
 |**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176](http://arxiv.org/abs/2411.07176)|**[link](https://github.com/trestad/cogattn)**|
 |**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971](http://arxiv.org/abs/2411.06971)|null|
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|null|
@@ -1312,6 +1321,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
+|**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
+|**2024-11-12**|**Isometric Transformations for Image Augmentation in Mueller Matrix Polarimetry**|Christopher Hahne et.al.|[2411.07918](http://arxiv.org/abs/2411.07918)|**[link](https://github.com/hahnec/polar_augment)**|
+|**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
+|**2024-11-12**|**Tucano: Advancing Neural Text Generation for Portuguese**|Nicholas Kluge Corrêa et.al.|[2411.07854](http://arxiv.org/abs/2411.07854)|null|
+|**2024-11-12**|**IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems**|Xiaoyin Yi et.al.|[2411.07850](http://arxiv.org/abs/2411.07850)|null|
+|**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
+|**2024-11-12**|**Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2411.07828](http://arxiv.org/abs/2411.07828)|null|
+|**2024-11-12**|**Constraint Learning for Parametric Point Cloud**|Xi Cheng et.al.|[2411.07747](http://arxiv.org/abs/2411.07747)|null|
+|**2024-11-12**|**Understanding Audiovisual Deepfake Detection: Techniques, Challenges, Human Factors and Perceptual Insights**|Ammarah Hashmi et.al.|[2411.07650](http://arxiv.org/abs/2411.07650)|null|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
 |**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
 |**2024-11-11**|**Transformers for Charged Particle Track Reconstruction in High Energy Physics**|Samuel Van Stroud et.al.|[2411.07149](http://arxiv.org/abs/2411.07149)|null|
@@ -2976,6 +2995,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
+|**2024-11-12**|**Investigation and optimization of the deconvolution method for PMT waveform reconstruction**|Jingzhe Tang et.al.|[2411.07620](http://arxiv.org/abs/2411.07620)|null|
+|**2024-11-11**|**Multimodal Fusion Balancing Through Game-Theoretic Regularization**|Konstantinos Kontras et.al.|[2411.07335](http://arxiv.org/abs/2411.07335)|null|
 |**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163](http://arxiv.org/abs/2411.07163)|null|
 |**2024-11-11**|**UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction**|Zhiqiang Liu et.al.|[2411.07019](http://arxiv.org/abs/2411.07019)|**[link](https://github.com/lza12a/unihr)**|
 |**2024-11-11**|**Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering**|Boci Peng et.al.|[2411.06866](http://arxiv.org/abs/2411.06866)|null|
