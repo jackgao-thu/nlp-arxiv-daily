@@ -49,6 +49,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**TRACE: Transformer-based Risk Assessment for Clinical Evaluation**|Dionysis Christopoulos et.al.|[2411.08701](http://arxiv.org/abs/2411.08701)|null|
+|**2024-11-13**|**SASE: A Searching Architecture for Squeeze and Excitation Operations**|Hanming Wang et.al.|[2411.08333](http://arxiv.org/abs/2411.08333)|null|
+|**2024-11-13**|**PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**|Yungang Yi et.al.|[2411.08307](http://arxiv.org/abs/2411.08307)|null|
+|**2024-11-13**|**RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing**|Mohamed Mejri et.al.|[2411.08290](http://arxiv.org/abs/2411.08290)|**[link](https://github.com/mmejri3/resolve)**|
+|**2024-11-12**|**Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach**|Jiyao Li et.al.|[2411.08248](http://arxiv.org/abs/2411.08248)|**[link](https://github.com/utsjiyaoli/qa-attack)**|
 |**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
 |**2024-11-12**|**Interaction Asymmetry: A General Principle for Learning Composable Abstractions**|Jack Brady et.al.|[2411.07784](http://arxiv.org/abs/2411.07784)|**[link](https://github.com/jackbrady/interaction-asymmetry)**|
 |**2024-11-12**|**Emotion Classification of Children Expressions**|Sanchayan Vivekananthan et.al.|[2411.07708](http://arxiv.org/abs/2411.07708)|null|
@@ -1311,6 +1317,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Deep Learning Accelerated Quantum Transport Simulations in Nanoelectronics: From Break Junctions to Field-Effect Transistors**|Jijie Zou et.al.|[2411.08800](http://arxiv.org/abs/2411.08800)|**[link](https://github.com/deepmodeling/DeePTB)**|
+|**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785](http://arxiv.org/abs/2411.08785)|null|
+|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
+|**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
+|**2024-11-13**|**MVKTrans: Multi-View Knowledge Transfer for Robust Multiomics Classification**|Shan Cong et.al.|[2411.08703](http://arxiv.org/abs/2411.08703)|null|
+|**2024-11-13**|**A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in PINNs and Deep Ritz Methods**|Charalambos G. Makridakis et.al.|[2411.08702](http://arxiv.org/abs/2411.08702)|null|
+|**2024-11-13**|**Measuring similarity between embedding spaces using induced neighborhood graphs**|Tiago F. Tavares et.al.|[2411.08687](http://arxiv.org/abs/2411.08687)|null|
+|**2024-11-13**|**Estimating unknown parameters in differential equations with a reinforcement learning based PSO method**|Wenkui Sun et.al.|[2411.08651](http://arxiv.org/abs/2411.08651)|null|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
+|**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
 |**2024-11-12**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
 |**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
 |**2024-11-12**|**Isometric Transformations for Image Augmentation in Mueller Matrix Polarimetry**|Christopher Hahne et.al.|[2411.07918](http://arxiv.org/abs/2411.07918)|**[link](https://github.com/hahnec/polar_augment)**|
@@ -2983,6 +2999,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785](http://arxiv.org/abs/2411.08785)|null|
+|**2024-11-13**|**Scholarly Wikidata: Population and Exploration of Conference Data in Wikidata using LLMs**|Nandana Mihindukulasooriya et.al.|[2411.08696](http://arxiv.org/abs/2411.08696)|null|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
+|**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449](http://arxiv.org/abs/2411.08449)|null|
+|**2024-11-13**|**Material Property Prediction with Element Attribute Knowledge Graphs and Multimodal Representation Learning**|Chao Huang et.al.|[2411.08414](http://arxiv.org/abs/2411.08414)|null|
+|**2024-11-13**|**MultiKG: Multi-Source Threat Intelligence Aggregation for High-Quality Knowledge Graph Representation of Attack Techniques**|Jian Wang et.al.|[2411.08359](http://arxiv.org/abs/2411.08359)|null|
+|**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165](http://arxiv.org/abs/2411.08165)|null|
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
 |**2024-11-12**|**Investigation and optimization of the deconvolution method for PMT waveform reconstruction**|Jingzhe Tang et.al.|[2411.07620](http://arxiv.org/abs/2411.07620)|null|
 |**2024-11-11**|**Multimodal Fusion Balancing Through Game-Theoretic Regularization**|Konstantinos Kontras et.al.|[2411.07335](http://arxiv.org/abs/2411.07335)|null|
