@@ -57,6 +57,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**|Guodong Sun et.al.|[2411.10321](http://arxiv.org/abs/2411.10321)|null|
+|**2024-11-15**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251](http://arxiv.org/abs/2411.10251)|null|
+|**2024-11-15**|**A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift**|Sanath Budakegowdanadoddi Nagaraju et.al.|[2411.10231](http://arxiv.org/abs/2411.10231)|null|
+|**2024-11-15**|**DaYu: Data-Driven Model for Geostationary Satellite Observed Cloud Images Forecasting**|Xujun Wei et.al.|[2411.10144](http://arxiv.org/abs/2411.10144)|null|
+|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
 |**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
 |**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469](http://arxiv.org/abs/2411.09469)|null|
 |**2024-11-14**|**A Centralized-Distributed Transfer Model for Cross-Domain Recommendation Based on Multi-Source Heterogeneous Transfer Learning**|Ke Xu et.al.|[2411.09286](http://arxiv.org/abs/2411.09286)|null|
@@ -1333,6 +1338,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Deep Learning for Micro-Scale Crack Detection on Imbalanced Datasets Using Key Point Localization**|Fatahlla Moreh et.al.|[2411.10389](http://arxiv.org/abs/2411.10389)|null|
+|**2024-11-15**|**Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning**|Yalin E. Sagduyu et.al.|[2411.10385](http://arxiv.org/abs/2411.10385)|null|
+|**2024-11-15**|**On the Cost of Model-Serving Frameworks: An Experimental Evaluation**|Pasquale De Rosa et.al.|[2411.10337](http://arxiv.org/abs/2411.10337)|null|
+|**2024-11-15**|**Emotion Detection in Reddit: Comparative Study of Machine Learning and Deep Learning Techniques**|Maliheh Alaeddini et.al.|[2411.10328](http://arxiv.org/abs/2411.10328)|null|
+|**2024-11-15**|**A Realistic Collimated X-Ray Image Simulation Pipeline**|Benjamin El-Zein et.al.|[2411.10308](http://arxiv.org/abs/2411.10308)|null|
+|**2024-11-15**|**Fill in the blanks: Rethinking Interpretability in vision**|Pathirage N. Deelaka et.al.|[2411.10273](http://arxiv.org/abs/2411.10273)|null|
+|**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
+|**2024-11-15**|**FengWu-W2S: A deep learning model for seamless weather-to-subseasonal forecast of global atmosphere**|Fenghua Ling et.al.|[2411.10191](http://arxiv.org/abs/2411.10191)|null|
+|**2024-11-15**|**Channel-Adaptive Wireless Image Semantic Transmission with Learnable Prompts**|Liang Zhang et.al.|[2411.10178](http://arxiv.org/abs/2411.10178)|null|
+|**2024-11-15**|**Causal Time-Series Synchronization for Multi-Dimensional Forecasting**|Michael Mayr et.al.|[2411.10152](http://arxiv.org/abs/2411.10152)|null|
 |**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
 |**2024-11-14**|**SMILE-UHURA Challenge -- Small Vessel Segmentation at Mesoscopic Scale from Ultra-High Resolution 7T Magnetic Resonance Angiograms**|Soumick Chatterjee et.al.|[2411.09593](http://arxiv.org/abs/2411.09593)|null|
@@ -3027,6 +3042,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**|Houssam Razouk et.al.|[2411.10172](http://arxiv.org/abs/2411.10172)|null|
+|**2024-11-15**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
+|**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978](http://arxiv.org/abs/2411.09978)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601](http://arxiv.org/abs/2411.09601)|null|
 |**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269](http://arxiv.org/abs/2411.09269)|null|
 |**2024-11-13**|**Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning**|Sanggeon Yun et.al.|[2411.09072](http://arxiv.org/abs/2411.09072)|null|
