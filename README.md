@@ -57,6 +57,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Quantum Attention for Vision Transformers in High Energy Physics**|Alessandro Tesi et.al.|[2411.13520](http://arxiv.org/abs/2411.13520)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
+|**2024-11-20**|**Transformers with Sparse Attention for Granger Causality**|Riya Mahesh et.al.|[2411.13264](http://arxiv.org/abs/2411.13264)|null|
+|**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042](http://arxiv.org/abs/2411.13042)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|
+|**2024-11-20**|**RobustFormer: Noise-Robust Pre-training for images and videos**|Ashish Bastola et.al.|[2411.13040](http://arxiv.org/abs/2411.13040)|null|
+|**2024-11-19**|**Selective Attention: Enhancing Transformer through Principled Context Control**|Xuechen Zhang et.al.|[2411.12892](http://arxiv.org/abs/2411.12892)|null|
 |**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732](http://arxiv.org/abs/2411.12732)|**[link](https://github.com/ETH-DISCO/Benchmarking-PEs)**|
 |**2024-11-19**|**S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation**|Yuke Wu et.al.|[2411.12547](http://arxiv.org/abs/2411.12547)|null|
 |**2024-11-19**|**Transformer Neural Processes -- Kernel Regression**|Daniel Jenson et.al.|[2411.12502](http://arxiv.org/abs/2411.12502)|null|
@@ -1354,6 +1361,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Comparative Analysis of Machine Learning and Deep Learning Models for Classifying Squamous Epithelial Cells of the Cervix**|Subhasish Das et.al.|[2411.13535](http://arxiv.org/abs/2411.13535)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378](http://arxiv.org/abs/2411.13378)|null|
+|**2024-11-20**|**Miniaturized spectrometer enabled by end-to-end deep learning on large-scale radiative cavity array**|Xinyi Zhou et.al.|[2411.13353](http://arxiv.org/abs/2411.13353)|null|
+|**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
+|**2024-11-20**|**A CSI Feedback Framework based on Transmitting the Important Values and Generating the Others**|Zhilin Du et.al.|[2411.13298](http://arxiv.org/abs/2411.13298)|null|
+|**2024-11-20**|**EEG Signal Denoising Using pix2pix GAN: Enhancing Neurological Data Analysis**|Haoyi Wang et.al.|[2411.13288](http://arxiv.org/abs/2411.13288)|null|
+|**2024-11-20**|**Transformers with Sparse Attention for Granger Causality**|Riya Mahesh et.al.|[2411.13264](http://arxiv.org/abs/2411.13264)|null|
+|**2024-11-20**|**Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge**|Peichao Wang et.al.|[2411.13260](http://arxiv.org/abs/2411.13260)|null|
+|**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
 |**2024-11-19**|**Barttender: An approachable & interpretable way to compare medical imaging and non-imaging data**|Ayush Singla et.al.|[2411.12707](http://arxiv.org/abs/2411.12707)|**[link](https://github.com/singlaayush/barttender)**|
 |**2024-11-19**|**Deep Learning-Driven Heat Map Analysis for Evaluating thickness of Wounded Skin Layers**|Devakumar GR et.al.|[2411.12678](http://arxiv.org/abs/2411.12678)|null|
 |**2024-11-19**|**Constrained Coding and Deep Learning Aided Threshold Detection for Resistive Memories**|Xingwei Zhong et.al.|[2411.12669](http://arxiv.org/abs/2411.12669)|null|
@@ -3078,10 +3095,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Combining Autoregressive and Autoencoder Language Models for Text Classification**|João Gonçalves et.al.|[2411.13282](http://arxiv.org/abs/2411.13282)|null|
+|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950](http://arxiv.org/abs/2411.12950)|null|
 |**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
 |**2024-11-19**|**A data driven approach to classify descriptors based on their efficiency in translating noisy trajectories into physically-relevant information**|Simone Martino et.al.|[2411.12570](http://arxiv.org/abs/2411.12570)|**[link](https://github.com/GMPavanLab/Descriptors)**|
 |**2024-11-19**|**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**|Xiang Li et.al.|[2411.12556](http://arxiv.org/abs/2411.12556)|null|
-|**2024-11-19**|**\textsc{Neon}: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449](http://arxiv.org/abs/2411.12449)|null|
+|**2024-11-20**|**Neon: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449](http://arxiv.org/abs/2411.12449)|null|
 |**2024-11-19**|**Robust Deep Joint Source-Channel Coding Enabled Distributed Image Transmission with Imperfect Channel State Information**|Biao Dong et.al.|[2411.12228](http://arxiv.org/abs/2411.12228)|null|
 |**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196](http://arxiv.org/abs/2411.12196)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
