@@ -57,6 +57,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**RED: Effective Trajectory Representation Learning with Comprehensive Information**|Silin Zhou et.al.|[2411.15096](http://arxiv.org/abs/2411.15096)|null|
+|**2024-11-22**|**Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation**|Yuheng Xu et.al.|[2411.14883](http://arxiv.org/abs/2411.14883)|null|
+|**2024-11-22**|**An Attention-based Framework for Fair Contrastive Learning**|Stefan K. Nielsen et.al.|[2411.14765](http://arxiv.org/abs/2411.14765)|null|
+|**2024-11-22**|**Point Cloud Understanding via Attention-Driven Contrastive Learning**|Yi Wang et.al.|[2411.14744](http://arxiv.org/abs/2411.14744)|null|
+|**2024-11-22**|**Multiset Transformer: Advancing Representation Learning in Persistence Diagrams**|Minghua Wang et.al.|[2411.14662](http://arxiv.org/abs/2411.14662)|null|
 |**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
 |**2024-11-21**|**Regional Attention for Shadow Removal**|Hengxing Liu et.al.|[2411.14201](http://arxiv.org/abs/2411.14201)|**[link](https://github.com/CalcuLuUus/RASM)**|
 |**2024-11-21**|**Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection**|Ziyi Wang et.al.|[2411.14109](http://arxiv.org/abs/2411.14109)|**[link](https://github.com/summitgao/glaformer)**|
@@ -1368,6 +1373,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Dimension-independent rates for structured neural density estimation**|Robert A. Vandermeulen et.al.|[2411.15095](http://arxiv.org/abs/2411.15095)|null|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/abs/2411.15084)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**Towards Speaker Identification with Minimal Dataset and Constrained Resources using 1D-Convolution Neural Network**|Irfan Nafiz Shahan et.al.|[2411.15082](http://arxiv.org/abs/2411.15082)|**[link](https://github.com/irfannafiz/recme)**|
+|**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
+|**2024-11-22**|**Fantastic Biases (What are They) and Where to Find Them**|Valentin Barriere et.al.|[2411.15051](http://arxiv.org/abs/2411.15051)|null|
+|**2024-11-22**|**Adaptive Group Robust Ensemble Knowledge Distillation**|Patrik Kenfack et.al.|[2411.14984](http://arxiv.org/abs/2411.14984)|null|
+|**2024-11-22**|**Exploring Kolmogorov-Arnold Networks for Interpretable Time Series Classification**|Irina Barašin et.al.|[2411.14904](http://arxiv.org/abs/2411.14904)|null|
+|**2024-11-22**|**Rapid eccentric spin-aligned binary black hole waveform generation based on deep learning**|Ruijun Shi et.al.|[2411.14893](http://arxiv.org/abs/2411.14893)|null|
+|**2024-11-22**|**CardioLab: Laboratory Values Estimation and Monitoring from Electrocardiogram Signals -- A Multimodal Deep Learning Approach**|Juan Miguel Lopez Alcaraz et.al.|[2411.14886](http://arxiv.org/abs/2411.14886)|null|
+|**2024-11-22**|**Implementation of Real-Time Lane Detection on Autonomous Mobile Robot**|Midriem Mirdanies et.al.|[2411.14873](http://arxiv.org/abs/2411.14873)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
 |**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
 |**2024-11-21**|**POS-tagging to highlight the skeletal structure of sentences**|Grigorii Churakov et.al.|[2411.14393](http://arxiv.org/abs/2411.14393)|**[link](https://github.com/disk0Dancer/rubert-finetuned-pos)**|
@@ -3112,6 +3127,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
+|**2024-11-22**|**Rapid eccentric spin-aligned binary black hole waveform generation based on deep learning**|Ruijun Shi et.al.|[2411.14893](http://arxiv.org/abs/2411.14893)|null|
+|**2024-11-22**|**Domain and Range Aware Synthetic Negatives Generation for Knowledge Graph Embedding Models**|Alberto Bernardi et.al.|[2411.14858](http://arxiv.org/abs/2411.14858)|null|
+|**2024-11-21**|**Variable Extraction for Model Recovery in Scientific Literature**|Chunwei Liu et.al.|[2411.14569](http://arxiv.org/abs/2411.14569)|null|
+|**2024-11-21**|**An Experimental Study on Data Augmentation Techniques for Named Entity Recognition on Low-Resource Domains**|Arthur Elwing Torres et.al.|[2411.14551](http://arxiv.org/abs/2411.14551)|null|
 |**2024-11-21**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277](http://arxiv.org/abs/2411.14277)|null|
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258](http://arxiv.org/abs/2411.14258)|null|
 |**2024-11-21**|**Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models**|Javier Ferrando et.al.|[2411.14257](http://arxiv.org/abs/2411.14257)|null|
