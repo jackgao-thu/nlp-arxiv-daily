@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -3172,7 +3172,7 @@ layout: default
 |**2024-11-27**|**Abductive Symbolic Solver on Abstraction and Reasoning Corpus**|Mintaek Lim et.al.|[2411.18158](http://arxiv.org/abs/2411.18158)|null|
 |**2024-11-27**|**Online Knowledge Integration for 3D Semantic Mapping: A Survey**|Felix Igelbrink et.al.|[2411.18147](http://arxiv.org/abs/2411.18147)|null|
 |**2024-11-26**|**A Precisão da Metrologia Quântica: Limite de Cramér-Rao, Informação de Fisher e possíveis Aplicações Tecnológicas**|Leonardo A. M. Souza et.al.|[2411.17797](http://arxiv.org/abs/2411.17797)|null|
-|**2024-11-26**|**HyperSeg: Towards Universal Visual Segmentation with Large Language Model**|Cong Wei et.al.|[2411.17606](http://arxiv.org/abs/2411.17606)|null|
+|**2024-11-26**|**HyperSeg: Towards Universal Visual Segmentation with Large Language Model**|Cong Wei et.al.|[2411.17606](http://arxiv.org/abs/2411.17606)|**[link](https://github.com/congvvc/HyperSeg)**|
 |**2024-11-26**|**What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics**|Jordan J. Bird et.al.|[2411.17593](http://arxiv.org/abs/2411.17593)|null|
 |**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542](http://arxiv.org/abs/2411.17542)|null|
 |**2024-11-26**|**Can LLMs be Good Graph Judger for Knowledge Graph Construction?**|Haoyu Huang et.al.|[2411.17388](http://arxiv.org/abs/2411.17388)|**[link](https://github.com/hhy-huang/graphjudger)**|
