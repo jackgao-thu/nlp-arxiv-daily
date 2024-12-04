@@ -57,6 +57,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
+|**2024-12-03**|**ShadowHack: Hacking Shadows via Luminance-Color Divide and Conquer**|Jin Hu et.al.|[2412.02545](http://arxiv.org/abs/2412.02545)|**[link](https://github.com/lime-j/shadowhack)**|
+|**2024-12-03**|**Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark**|Haidong Xu et.al.|[2412.02508](http://arxiv.org/abs/2412.02508)|**[link](https://github.com/walkermitty/emoava)**|
+|**2024-12-03**|**UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices**|Seul-Ki Yeom et.al.|[2412.02344](http://arxiv.org/abs/2412.02344)|null|
+|**2024-12-03**|**Enhanced Photovoltaic Power Forecasting: An iTransformer and LSTM-Based Model Integrating Temporal and Covariate Interactions**|Guang Wu et.al.|[2412.02302](http://arxiv.org/abs/2412.02302)|null|
+|**2024-12-03**|**CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems**|Yasser Khalafaoui et.al.|[2412.02295](http://arxiv.org/abs/2412.02295)|null|
+|**2024-12-03**|**GQWformer: A Quantum-based Transformer for Graph Representation Learning**|Lei Yu et.al.|[2412.02285](http://arxiv.org/abs/2412.02285)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|null|
+|**2024-12-02**|**Unveiling Interpretability in Self-Supervised Speech Representations for Parkinson's Diagnosis**|David Gimeno-Gómez et.al.|[2412.02006](http://arxiv.org/abs/2412.02006)|null|
+|**2024-12-02**|**FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders**|Jinming Xing et.al.|[2412.01979](http://arxiv.org/abs/2412.01979)|null|
 |**2024-11-29**|**Forecasting Foreign Exchange Market Prices Using Technical Indicators with Deep Learning and Attention Mechanism**|Sahabeh Saadati et.al.|[2411.19763](http://arxiv.org/abs/2411.19763)|null|
 |**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742](http://arxiv.org/abs/2411.19742)|**[link](https://github.com/hossboll/patient-gnn)**|
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652](http://arxiv.org/abs/2411.19652)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
@@ -1405,6 +1415,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
+|**2024-12-03**|**Adaptive Informed Deep Neural Networks for Power Flow Analysis**|Zeynab Kaseb et.al.|[2412.02659](http://arxiv.org/abs/2412.02659)|null|
+|**2024-12-03**|**A Bidirectional Long Short Term Memory Approach for Infrastructure Health Monitoring Using On-board Vibration Response**|R. R. Samani et.al.|[2412.02643](http://arxiv.org/abs/2412.02643)|null|
+|**2024-12-03**|**Robust soybean seed yield estimation using high-throughput ground robot videos**|Jiale Feng et.al.|[2412.02642](http://arxiv.org/abs/2412.02642)|null|
+|**2024-12-03**|**Medical Multimodal Foundation Models in Clinical Diagnosis and Treatment: Applications, Challenges, and Future Directions**|Kai Sun et.al.|[2412.02621](http://arxiv.org/abs/2412.02621)|null|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
+|**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506](http://arxiv.org/abs/2412.02506)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
+|**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|Caixin Kang et.al.|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
+|**2024-12-03**|**F-SE-LSTM: A Time Series Anomaly Detection Method with Frequency Domain Information**|Yi-Xiang Lu et.al.|[2412.02474](http://arxiv.org/abs/2412.02474)|null|
+|**2024-12-03**|**Transformer-based Koopman Autoencoder for Linearizing Fisher's Equation**|Kanav Singh Rana et.al.|[2412.02430](http://arxiv.org/abs/2412.02430)|null|
 |**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
 |**2024-11-29**|**What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric review**|Mohammed Q. Shormani et.al.|[2411.19858](http://arxiv.org/abs/2411.19858)|null|
@@ -3199,6 +3219,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**GerPS-Compare: Comparing NER methods for legal norm analysis**|Sarah T. Bachinger et.al.|[2412.02427](http://arxiv.org/abs/2412.02427)|null|
+|**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415](http://arxiv.org/abs/2412.02415)|null|
+|**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343](http://arxiv.org/abs/2412.02343)|null|
+|**2024-12-03**|**A Rule-Based Methodology for Company Identification: Application to the Downstream Space Sector**|Kenza Bousedra et.al.|[2412.02342](http://arxiv.org/abs/2412.02342)|null|
+|**2024-12-03**|**CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution**|Jikai Wang et.al.|[2412.02234](http://arxiv.org/abs/2412.02234)|null|
+|**2024-12-03**|**BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition**|Quanjiang Guo et.al.|[2412.02228](http://arxiv.org/abs/2412.02228)|**[link](https://github.com/uestc-gqj/baner)**|
+|**2024-12-03**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
+|**2024-12-03**|**A Multi-way Parallel Named Entity Annotated Corpus for English, Tamil and Sinhala**|Surangika Ranathunga et.al.|[2412.02056](http://arxiv.org/abs/2412.02056)|null|
+|**2024-12-02**|**Concept Based Continuous Prompts for Interpretable Text Classification**|Qian Chen et.al.|[2412.01644](http://arxiv.org/abs/2412.01644)|**[link](https://github.com/qq31415926/cd)**|
+|**2024-12-02**|**NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers**|Angel Yahir Loredo Lopez et.al.|[2412.01621](http://arxiv.org/abs/2412.01621)|null|
 |**2024-11-29**|**Explaining the Impact of Training on Vision Models via Activation Clustering**|Ahcène Boubekki et.al.|[2411.19700](http://arxiv.org/abs/2411.19700)|null|
 |**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638](http://arxiv.org/abs/2411.19638)|**[link](https://github.com/TajaKuzman/IPTC-Media-Topic-Classification)**|
 |**2024-11-29**|**Knowledge Management for Automobile Failure Analysis Using Graph RAG**|Yuta Ojima et.al.|[2411.19539](http://arxiv.org/abs/2411.19539)|null|
