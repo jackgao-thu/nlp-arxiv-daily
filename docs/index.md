@@ -49,6 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
+|**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
+|**2024-12-04**|**Implicit Priors Editing in Stable Diffusion via Targeted Token Adjustment**|Feng He et.al.|[2412.03400](http://arxiv.org/abs/2412.03400)|null|
+|**2024-12-04**|**Equivariant Representation Learning for Augmentation-based Self-Supervised Learning via Image Reconstruction**|Qin Wang et.al.|[2412.03314](http://arxiv.org/abs/2412.03314)|null|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
+|**2024-12-04**|**Benchmarking Attention Mechanisms and Consistency Regularization Semi-Supervised Learning for Post-Flood Building Damage Assessment in Satellite Images**|Jiaxi Yu et.al.|[2412.03015](http://arxiv.org/abs/2412.03015)|null|
+|**2024-12-04**|**Is Foreground Prototype Sufficient? Few-Shot Medical Image Segmentation with Background-Fused Prototype**|Song Tang et.al.|[2412.02983](http://arxiv.org/abs/2412.02983)|null|
+|**2024-12-04**|**STDCformer: A Transformer-Based Model with a Spatial-Temporal Causal De-Confounding Strategy for Crowd Flow Prediction**|Silu He et.al.|[2412.02942](http://arxiv.org/abs/2412.02942)|null|
+|**2024-12-04**|**Higher Order Transformers: Efficient Attention Mechanism for Tensor Structured Data**|Soroush Omranpour et.al.|[2412.02919](http://arxiv.org/abs/2412.02919)|null|
+|**2024-12-03**|**Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention**|Xiangyu Jiang et.al.|[2412.02839](http://arxiv.org/abs/2412.02839)|null|
 |**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
 |**2024-12-03**|**ShadowHack: Hacking Shadows via Luminance-Color Divide and Conquer**|Jin Hu et.al.|[2412.02545](http://arxiv.org/abs/2412.02545)|**[link](https://github.com/lime-j/shadowhack)**|
 |**2024-12-03**|**Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark**|Haidong Xu et.al.|[2412.02508](http://arxiv.org/abs/2412.02508)|**[link](https://github.com/walkermitty/emoava)**|
@@ -1405,6 +1415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567](http://arxiv.org/abs/2412.03567)|null|
+|**2024-12-04**|**Solving Monge problem by Hilbert space embeddings of probability measures**|Takafumi Saito et.al.|[2412.03478](http://arxiv.org/abs/2412.03478)|null|
+|**2024-12-04**|**Deep Learning for Sea Surface Temperature Reconstruction under Cloud Occlusion**|Andrea Asperti et.al.|[2412.03413](http://arxiv.org/abs/2412.03413)|null|
+|**2024-12-04**|**Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**|Ronald L. P. D. de Jong et.al.|[2412.03401](http://arxiv.org/abs/2412.03401)|null|
+|**2024-12-04**|**Risk-aware Classification via Uncertainty Quantification**|Murat Sensoy et.al.|[2412.03391](http://arxiv.org/abs/2412.03391)|null|
+|**2024-12-04**|**FlashAttention on a Napkin: A Diagrammatic Approach to Deep Learning IO-Awareness**|Vincent Abbott et.al.|[2412.03317](http://arxiv.org/abs/2412.03317)|null|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
+|**2024-12-04**|**Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges**|Minghao Shao et.al.|[2412.03220](http://arxiv.org/abs/2412.03220)|null|
+|**2024-12-04**|**Semi-Supervised Transfer Boosting (SS-TrBoosting)**|Lingfei Deng et.al.|[2412.03212](http://arxiv.org/abs/2412.03212)|null|
+|**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|null|
 |**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
 |**2024-12-03**|**Adaptive Informed Deep Neural Networks for Power Flow Analysis**|Zeynab Kaseb et.al.|[2412.02659](http://arxiv.org/abs/2412.02659)|null|
 |**2024-12-03**|**A Bidirectional Long Short Term Memory Approach for Infrastructure Health Monitoring Using On-board Vibration Response**|R. R. Samani et.al.|[2412.02643](http://arxiv.org/abs/2412.02643)|null|
@@ -3207,6 +3227,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Learning Semantic Association Rules from Internet of Things Data**|Erkan Karabulut et.al.|[2412.03417](http://arxiv.org/abs/2412.03417)|null|
+|**2024-12-04**|**Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**|Ge Zheng et.al.|[2412.03390](http://arxiv.org/abs/2412.03390)|null|
+|**2024-12-04**|**Optimal estimation of three parallel spins with genuine and restricted collective measurements**|Changhao Yi et.al.|[2412.03383](http://arxiv.org/abs/2412.03383)|null|
+|**2024-12-04**|**Fab-ME: A Vision State-Space and Attention-Enhanced Framework for Fabric Defect Detection**|Shuai Wang et.al.|[2412.03200](http://arxiv.org/abs/2412.03200)|null|
+|**2024-12-03**|**Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty**|Roman Colman et.al.|[2412.02886](http://arxiv.org/abs/2412.02886)|null|
+|**2024-12-03**|**A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications**|Yixiang Qu et.al.|[2412.02868](http://arxiv.org/abs/2412.02868)|null|
+|**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788](http://arxiv.org/abs/2412.02788)|null|
 |**2024-12-03**|**GerPS-Compare: Comparing NER methods for legal norm analysis**|Sarah T. Bachinger et.al.|[2412.02427](http://arxiv.org/abs/2412.02427)|null|
 |**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415](http://arxiv.org/abs/2412.02415)|null|
 |**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343](http://arxiv.org/abs/2412.02343)|null|
