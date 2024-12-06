@@ -49,6 +49,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**On Deep-Learning-Based Closures for Algebraic Surrogate Models of Turbulent Flows**|Benet Eiximeno et.al.|[2412.04239](http://arxiv.org/abs/2412.04239)|null|
+|**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146](http://arxiv.org/abs/2412.04146)|null|
+|**2024-12-05**|**HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection**|Zuo Zuo et.al.|[2412.03969](http://arxiv.org/abs/2412.03969)|null|
+|**2024-12-04**|**Multi-view Image Diffusion via Coordinate Noise and Fourier Attention**|Justin Theiss et.al.|[2412.03756](http://arxiv.org/abs/2412.03756)|null|
+|**2024-12-04**|**HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution**|Yuxuan Jiang et.al.|[2412.03748](http://arxiv.org/abs/2412.03748)|null|
+|**2024-12-04**|**Multimodal Sentiment Analysis Based on BERT and ResNet**|JiaLe Ren et.al.|[2412.03625](http://arxiv.org/abs/2412.03625)|null|
 |**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
 |**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
 |**2024-12-04**|**Implicit Priors Editing in Stable Diffusion via Targeted Token Adjustment**|Feng He et.al.|[2412.03400](http://arxiv.org/abs/2412.03400)|null|
@@ -1415,6 +1421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
+|**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
+|**2024-12-05**|**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**|George Webber et.al.|[2412.04339](http://arxiv.org/abs/2412.04339)|null|
+|**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324](http://arxiv.org/abs/2412.04324)|null|
+|**2024-12-05**|**Generative-Model-Based Fully 3D PET Image Reconstruction by Conditional Diffusion Sampling**|George Webber et.al.|[2412.04319](http://arxiv.org/abs/2412.04319)|null|
+|**2024-12-05**|**On Deep-Learning-Based Closures for Algebraic Surrogate Models of Turbulent Flows**|Benet Eiximeno et.al.|[2412.04239](http://arxiv.org/abs/2412.04239)|null|
+|**2024-12-05**|**Physics-informed Deep Learning for Muscle Force Prediction with Unlabeled sEMG Signals**|Shuhao Ma et.al.|[2412.04213](http://arxiv.org/abs/2412.04213)|null|
+|**2024-12-05**|**Linear Discriminant Analysis in Credit Scoring: A Transparent Hybrid Model Approach**|Md Shihab Reza et.al.|[2412.04183](http://arxiv.org/abs/2412.04183)|null|
+|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177](http://arxiv.org/abs/2412.04177)|null|
+|**2024-12-05**|**Methodology for Online Estimation of Rheological Parameters in Polymer Melts Using Deep Learning and Microfluidics**|Juan Sandubete-López et.al.|[2412.04142](http://arxiv.org/abs/2412.04142)|null|
 |**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567](http://arxiv.org/abs/2412.03567)|null|
 |**2024-12-04**|**Solving Monge problem by Hilbert space embeddings of probability measures**|Takafumi Saito et.al.|[2412.03478](http://arxiv.org/abs/2412.03478)|null|
 |**2024-12-04**|**Deep Learning for Sea Surface Temperature Reconstruction under Cloud Occlusion**|Andrea Asperti et.al.|[2412.03413](http://arxiv.org/abs/2412.03413)|null|
@@ -3227,6 +3243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443](http://arxiv.org/abs/2412.04443)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119](http://arxiv.org/abs/2412.04119)|null|
+|**2024-12-05**|**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**|Weihua Wang et.al.|[2412.04076](http://arxiv.org/abs/2412.04076)|null|
+|**2024-12-05**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072](http://arxiv.org/abs/2412.04072)|null|
+|**2024-12-05**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026](http://arxiv.org/abs/2412.04026)|null|
+|**2024-12-05**|**Demonstration Selection for In-Context Learning via Reinforcement Learning**|Xubin Wang et.al.|[2412.03966](http://arxiv.org/abs/2412.03966)|null|
+|**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893](http://arxiv.org/abs/2412.03893)|null|
+|**2024-12-05**|**How Good is ChatGPT in Giving Adaptive Guidance Using Knowledge Graphs in E-Learning Environments?**|Patrick Ocheja et.al.|[2412.03856](http://arxiv.org/abs/2412.03856)|null|
+|**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850](http://arxiv.org/abs/2412.03850)|null|
 |**2024-12-04**|**Learning Semantic Association Rules from Internet of Things Data**|Erkan Karabulut et.al.|[2412.03417](http://arxiv.org/abs/2412.03417)|null|
 |**2024-12-04**|**Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**|Ge Zheng et.al.|[2412.03390](http://arxiv.org/abs/2412.03390)|null|
 |**2024-12-04**|**Optimal estimation of three parallel spins with genuine and restricted collective measurements**|Changhao Yi et.al.|[2412.03383](http://arxiv.org/abs/2412.03383)|null|
