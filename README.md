@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA**|Aman Patel et.al.|[2412.05430](http://arxiv.org/abs/2412.05430)|**[link](https://github.com/kundajelab/dart-eval)**|
 |**2024-10-30**|**Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**|Ahmed Akib Jawad Karim et.al.|[2411.00052](http://arxiv.org/abs/2411.00052)|null|
 |**2024-09-24**|**Undergrads Are All You Have**|Ashe Neth et.al.|[2409.13750](http://arxiv.org/abs/2409.13750)|null|
 |**2024-10-04**|**Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|**[link](https://github.com/thu-coai/codeplan)**|
@@ -57,6 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Training Large Language Models to Reason in a Continuous Latent Space**|Shibo Hao et.al.|[2412.06769](http://arxiv.org/abs/2412.06769)|null|
+|**2024-12-09**|**3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation**|Harish Thangaraj et.al.|[2412.06743](http://arxiv.org/abs/2412.06743)|null|
+|**2024-12-09**|**Bridging the Divide: Reconsidering Softmax and Linear Attention**|Dongchen Han et.al.|[2412.06590](http://arxiv.org/abs/2412.06590)|**[link](https://github.com/leaplabthu/inline)**|
+|**2024-12-09**|**Understanding Factual Recall in Transformers via Associative Memories**|Eshaan Nichani et.al.|[2412.06538](http://arxiv.org/abs/2412.06538)|null|
+|**2024-12-09**|**VidMusician: Video-to-Music Generation with Semantic-Rhythmic Alignment via Hierarchical Visual Features**|Sifei Li et.al.|[2412.06296](http://arxiv.org/abs/2412.06296)|null|
+|**2024-12-09**|**Optimizing Multi-Task Learning for Enhanced Performance in Large Language Models**|Zhen Qi et.al.|[2412.06249](http://arxiv.org/abs/2412.06249)|null|
+|**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
+|**2024-12-08**|**Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling**|Kaleel Mahmood et.al.|[2412.06106](http://arxiv.org/abs/2412.06106)|null|
+|**2024-12-08**|**SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2412.05829](http://arxiv.org/abs/2412.05829)|null|
+|**2024-12-07**|**Multimodal Biometric Authentication Using Camera-Based PPG and Fingerprint Fusion**|Xue Xian Zheng et.al.|[2412.05660](http://arxiv.org/abs/2412.05660)|null|
 |**2024-12-06**|**Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction**|Gaurav Shrivastava et.al.|[2412.04929](http://arxiv.org/abs/2412.04929)|null|
 |**2024-12-06**|**Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning**|Jayanie Bogahawatte et.al.|[2412.04806](http://arxiv.org/abs/2412.04806)|null|
 |**2024-12-06**|**Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer**|Xueluan Gong et.al.|[2412.04776](http://arxiv.org/abs/2412.04776)|null|
@@ -1438,6 +1449,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor et.al.|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
+|**2024-12-09**|**Convolution goes higher-order: a biologically inspired mechanism empowers image classification**|Simone Azeglio et.al.|[2412.06740](http://arxiv.org/abs/2412.06740)|null|
+|**2024-12-09**|**Toward Non-Invasive Diagnosis of Bankart Lesions with Deep Learning**|Sahil Sethi et.al.|[2412.06717](http://arxiv.org/abs/2412.06717)|null|
+|**2024-12-09**|**Parkinson's Disease Diagnosis Through Deep Learning: A Novel LSTM-Based Approach for Freezing of Gait Detection**|Aqib Nazir Mir et.al.|[2412.06709](http://arxiv.org/abs/2412.06709)|null|
+|**2024-12-09**|**Source Separation & Automatic Transcription for Music**|Bradford Derby et.al.|[2412.06703](http://arxiv.org/abs/2412.06703)|null|
+|**2024-12-09**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al.|[2412.06700](http://arxiv.org/abs/2412.06700)|null|
+|**2024-12-09**|**FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**|Ciro Benito Raggio et.al.|[2412.06690](http://arxiv.org/abs/2412.06690)|null|
+|**2024-12-09**|**Impact of Privacy Parameters on Deep Learning Models for Image Classification**|Basanta Chaulagain et.al.|[2412.06689](http://arxiv.org/abs/2412.06689)|null|
+|**2024-12-09**|**Using optimal control to guide neural-network interpolation of continuously-parameterized gates**|Bikrant Bhattacharyya et.al.|[2412.06623](http://arxiv.org/abs/2412.06623)|null|
 |**2024-12-06**|**From classical techniques to convolution-based models: A review of object detection algorithms**|Fnu Neha et.al.|[2412.05252](http://arxiv.org/abs/2412.05252)|null|
 |**2024-12-06**|**Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization**|Luca Masserano et.al.|[2412.05244](http://arxiv.org/abs/2412.05244)|null|
 |**2024-12-06**|**ColonNet: A Hybrid Of DenseNet121 And U-NET Model For Detection And Segmentation Of GI Bleeding**|Ayushman Singh et.al.|[2412.05216](http://arxiv.org/abs/2412.05216)|null|
@@ -3272,6 +3293,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy**|Min Zeng et.al.|[2412.06575](http://arxiv.org/abs/2412.06575)|null|
+|**2024-12-09**|**Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**|Melo Castillo Angie Nataly et.al.|[2412.06549](http://arxiv.org/abs/2412.06549)|null|
+|**2024-12-09**|**SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement**|Zeru Shi et.al.|[2412.06352](http://arxiv.org/abs/2412.06352)|null|
+|**2024-12-09**|**Optimizing Multi-Task Learning for Enhanced Performance in Large Language Models**|Zhen Qi et.al.|[2412.06249](http://arxiv.org/abs/2412.06249)|null|
+|**2024-12-09**|**Annotations for Exploring Food Tweets From Multiple Aspects**|Matīss Rikters et.al.|[2412.06179](http://arxiv.org/abs/2412.06179)|**[link](https://github.com/Usprogis/Latvian-Twitter-Eater-Corpus)**|
+|**2024-12-08**|**Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design**|Sakhinana Sagar Srinivas et.al.|[2412.05937](http://arxiv.org/abs/2412.05937)|null|
+|**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868](http://arxiv.org/abs/2412.05868)|null|
+|**2024-12-08**|**KITE-DDI: A Knowledge graph Integrated Transformer Model for accurately predicting Drug-Drug Interaction Events from Drug SMILES and Biomedical Knowledge Graph**|Azwad Tamir et.al.|[2412.05770](http://arxiv.org/abs/2412.05770)|null|
+|**2024-12-07**|**Shifting NER into High Gear: The Auto-AdvER Approach**|Filippos Ventirozos et.al.|[2412.05655](http://arxiv.org/abs/2412.05655)|null|
+|**2024-12-07**|**KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models**|Weijie Chen et.al.|[2412.05547](http://arxiv.org/abs/2412.05547)|null|
 |**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
 |**2024-12-06**|**A*Net and NBFNet Learn Negative Patterns on Knowledge Graphs**|Patrick Betz et.al.|[2412.05114](http://arxiv.org/abs/2412.05114)|null|
 |**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028](http://arxiv.org/abs/2412.05028)|**[link](https://github.com/wondercs1213/uniea)**|
