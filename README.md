@@ -58,6 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
+|**2024-12-11**|**A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis**|Nguyen Van Doan et.al.|[2412.08489](http://arxiv.org/abs/2412.08489)|null|
+|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460](http://arxiv.org/abs/2412.08460)|null|
+|**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
+|**2024-12-11**|**Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection**|Yining Pang et.al.|[2412.08301](http://arxiv.org/abs/2412.08301)|null|
+|**2024-12-11**|**A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision**|Guiran Liu et.al.|[2412.08148](http://arxiv.org/abs/2412.08148)|null|
+|**2024-12-11**|**Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation**|Hee-Seon Kim et.al.|[2412.08108](http://arxiv.org/abs/2412.08108)|null|
+|**2024-12-11**|**Multimodal Difference Learning for Sequential Recommendation**|Changhong Li et.al.|[2412.08103](http://arxiv.org/abs/2412.08103)|null|
+|**2024-12-11**|**EM-Net: Gaze Estimation with Expectation Maximization Algorithm**|Zhang Cheng et.al.|[2412.08074](http://arxiv.org/abs/2412.08074)|null|
+|**2024-12-11**|**Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation**|Zhigang Cen et.al.|[2412.08034](http://arxiv.org/abs/2412.08034)|null|
 |**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759](http://arxiv.org/abs/2412.07759)|null|
 |**2024-12-10**|**PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**|Fatemeh Nazarieh et.al.|[2412.07754](http://arxiv.org/abs/2412.07754)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
@@ -1459,6 +1469,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633](http://arxiv.org/abs/2412.08633)|null|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
+|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601](http://arxiv.org/abs/2412.08601)|null|
+|**2024-12-11**|**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models**|Jaesung R. Park et.al.|[2412.08595](http://arxiv.org/abs/2412.08595)|null|
+|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
+|**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
+|**2024-12-11**|**GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek**|Lefteris Loukas et.al.|[2412.08520](http://arxiv.org/abs/2412.08520)|**[link](https://github.com/nlpaueb/gr-nlp-toolkit)**|
+|**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
+|**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
+|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460](http://arxiv.org/abs/2412.08460)|null|
 |**2024-12-10**|**PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition**|Kartik Narayan et.al.|[2412.07771](http://arxiv.org/abs/2412.07771)|null|
 |**2024-12-10**|**SKIPNet: Spatial Attention Skip Connections for Enhanced Brain Tumor Classification**|Khush Mendiratta et.al.|[2412.07736](http://arxiv.org/abs/2412.07736)|null|
 |**2024-12-10**|**Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?**|D. Cotroneo et.al.|[2412.07538](http://arxiv.org/abs/2412.07538)|null|
@@ -3313,6 +3333,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Advancing Single- and Multi-task Text Classification through Large Language Model Fine-tuning**|Hang Zhao et.al.|[2412.08587](http://arxiv.org/abs/2412.08587)|null|
+|**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
+|**2024-12-11**|**GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek**|Lefteris Loukas et.al.|[2412.08520](http://arxiv.org/abs/2412.08520)|**[link](https://github.com/nlpaueb/gr-nlp-toolkit)**|
+|**2024-12-11**|**Mitigating Out-of-Entity Errors in Named Entity Recognition: A Sentence-Level Strategy**|Guochao Jiang et.al.|[2412.08434](http://arxiv.org/abs/2412.08434)|null|
+|**2024-12-11**|**Accurate Medical Named Entity Recognition Through Specialized NLP Models**|Jiacheng Hu et.al.|[2412.08255](http://arxiv.org/abs/2412.08255)|null|
+|**2024-12-11**|**Auto-Generating Earnings Report Analysis via a Financial-Augmented LLM**|Van-Duc Le et.al.|[2412.08179](http://arxiv.org/abs/2412.08179)|null|
+|**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 |**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743](http://arxiv.org/abs/2412.07743)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430](http://arxiv.org/abs/2412.07430)|null|
