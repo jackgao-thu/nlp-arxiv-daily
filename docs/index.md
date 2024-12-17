@@ -50,6 +50,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review**|Md Iftekhar Islam Tashik et.al.|[2412.11823](http://arxiv.org/abs/2412.11823)|null|
+|**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
+|**2024-12-16**|**Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs**|Yuchen Fu et.al.|[2412.11556](http://arxiv.org/abs/2412.11556)|null|
+|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
+|**2024-12-16**|**Attention with Dependency Parsing Augmentation for Fine-Grained Attribution**|Qiang Ding et.al.|[2412.11404](http://arxiv.org/abs/2412.11404)|null|
+|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293](http://arxiv.org/abs/2412.11293)|null|
+|**2024-12-15**|**Transformer-Based Bearing Fault Detection using Temporal Decomposition Attention Mechanism**|Marzieh Mirzaeibonehkhater et.al.|[2412.11245](http://arxiv.org/abs/2412.11245)|null|
+|**2024-12-15**|**Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation**|Zhe Yang et.al.|[2412.11105](http://arxiv.org/abs/2412.11105)|**[link](https://github.com/liang-tian-tian/mgcot)**|
+|**2024-12-14**|**Enhancing Road Crack Detection Accuracy with BsS-YOLO: Optimizing Feature Fusion and Attention Mechanisms**|Jiaze Tang et.al.|[2412.10902](http://arxiv.org/abs/2412.10902)|null|
+|**2024-12-14**|**CRENER: A Character Relation Enhanced Chinese NER Model**|Yaqiong Qiao et.al.|[2412.10858](http://arxiv.org/abs/2412.10858)|null|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Prompt-Guided Mask Proposal for Two-Stage Open-Vocabulary Segmentation**|Yu-Jhe Li et.al.|[2412.10292](http://arxiv.org/abs/2412.10292)|null|
 |**2024-12-13**|**Label-template based Few-Shot Text Classification with Contrastive Learning**|Guanghua Hou et.al.|[2412.10110](http://arxiv.org/abs/2412.10110)|null|
@@ -1473,6 +1483,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
+|**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
+|**2024-12-16**|**Deep-learning-based identification of individual motion characteristics from upper-limb trajectories towards disorder stage evaluation**|Tim Sziburis et.al.|[2412.12016](http://arxiv.org/abs/2412.12016)|null|
+|**2024-12-16**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967](http://arxiv.org/abs/2412.11967)|null|
+|**2024-12-16**|**Reliable Breast Cancer Molecular Subtype Prediction based on uncertainty-aware Bayesian Deep Learning by Mammography**|Mohaddeseh Chegini et.al.|[2412.11953](http://arxiv.org/abs/2412.11953)|null|
+|**2024-12-16**|**Coconut Palm Tree Counting on Drone Images with Deep Object Detection and Synthetic Training Data**|Tobias Rohe et.al.|[2412.11949](http://arxiv.org/abs/2412.11949)|null|
+|**2024-12-16**|**autrainer: A Modular and Extensible Deep Learning Toolkit for Computer Audition Tasks**|Simon Rampp et.al.|[2412.11943](http://arxiv.org/abs/2412.11943)|null|
+|**2024-12-16**|**DRUM: Diffusion-based runoff model for probabilistic flood forecasting**|Zhigang Ou et.al.|[2412.11942](http://arxiv.org/abs/2412.11942)|null|
+|**2024-12-16**|**AudioCIL: A Python Toolbox for Audio Class-Incremental Learning with Multiple Scenes**|Qisheng Xu et.al.|[2412.11907](http://arxiv.org/abs/2412.11907)|null|
+|**2024-12-16**|**Automated Detection of Inter-Language Design Smells in Multi-Language Deep Learning Frameworks**|Zengyang Li et.al.|[2412.11869](http://arxiv.org/abs/2412.11869)|null|
 |**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
 |**2024-12-13**|**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data**|Jonas Golde et.al.|[2412.10121](http://arxiv.org/abs/2412.10121)|null|
 |**2024-12-13**|**Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction**|Tao Song et.al.|[2412.09998](http://arxiv.org/abs/2412.09998)|null|
@@ -3355,6 +3375,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**The Role of Natural Language Processing Tasks in Automatic Literary Character Network Construction**|Arthur Amalvy et.al.|[2412.11560](http://arxiv.org/abs/2412.11560)|null|
+|**2024-12-16**|**Intention Knowledge Graph Construction for User Intention Relation Modeling**|Jiaxin Bai et.al.|[2412.11500](http://arxiv.org/abs/2412.11500)|null|
+|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
+|**2024-12-16**|**Towards Better Multi-task Learning: A Framework for Optimizing Dataset Combinations in Large Language Models**|Zaifu Zhan et.al.|[2412.11455](http://arxiv.org/abs/2412.11455)|null|
+|**2024-12-16**|**Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks**|Naoki Sato et.al.|[2412.11400](http://arxiv.org/abs/2412.11400)|null|
+|**2024-12-16**|**How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**|Abdulrahman Althobaiti et.al.|[2412.11387](http://arxiv.org/abs/2412.11387)|null|
+|**2024-12-16**|**Can AI Extract Antecedent Factors of Human Trust in AI? An Application of Information Extraction for Scientific Literature in Behavioural and Computer Sciences**|Melanie McGrath et.al.|[2412.11344](http://arxiv.org/abs/2412.11344)|null|
+|**2024-12-15**|**Concept Learning in the Wild: Towards Algorithmic Understanding of Neural Networks**|Elad Shohama et.al.|[2412.11205](http://arxiv.org/abs/2412.11205)|null|
+|**2024-12-15**|**A Contextualized BERT model for Knowledge Graph Completion**|Haji Gul et.al.|[2412.11016](http://arxiv.org/abs/2412.11016)|null|
+|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982](http://arxiv.org/abs/2412.10982)|null|
 |**2024-12-13**|**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data**|Jonas Golde et.al.|[2412.10121](http://arxiv.org/abs/2412.10121)|null|
 |**2024-12-13**|**Label-template based Few-Shot Text Classification with Contrastive Learning**|Guanghua Hou et.al.|[2412.10110](http://arxiv.org/abs/2412.10110)|null|
 |**2024-12-13**|**Unexpected but informative: What fixation-related potentials tell us about the processing of ambiguous program code**|Annabelle Bergum et.al.|[2412.10099](http://arxiv.org/abs/2412.10099)|null|
