@@ -50,6 +50,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Locate n' Rotate: Two-stage Openable Part Detection with Foundation Model Priors**|Siqi Li et.al.|[2412.13173](http://arxiv.org/abs/2412.13173)|**[link](https://github.com/lisiqi-zju/mopd)**|
+|**2024-12-17**|**Identification of Epileptic Spasms (ESES) Phases Using EEG Signals: A Vision Transformer Approach**|Wei Gong et.al.|[2412.13028](http://arxiv.org/abs/2412.13028)|null|
+|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
+|**2024-12-17**|**Versatile Ordering Network: An Attention-based Neural Network for Ordering Across Scales and Quality Metrics**|Zehua Yu et.al.|[2412.12759](http://arxiv.org/abs/2412.12759)|**[link](https://github.com/sysuvis/von)**|
+|**2024-12-17**|**Enhanced Momentum with Momentum Transformers**|Max Mason et.al.|[2412.12516](http://arxiv.org/abs/2412.12516)|null|
+|**2024-12-17**|**Multi-Scale Cross-Fusion and Edge-Supervision Network for Image Splicing Localization**|Yakun Niu et.al.|[2412.12503](http://arxiv.org/abs/2412.12503)|null|
+|**2024-12-17**|**Core Context Aware Attention for Long Context Language Modeling**|Yaofo Chen et.al.|[2412.12465](http://arxiv.org/abs/2412.12465)|null|
 |**2024-12-16**|**Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review**|Md Iftekhar Islam Tashik et.al.|[2412.11823](http://arxiv.org/abs/2412.11823)|null|
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
 |**2024-12-16**|**Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs**|Yuchen Fu et.al.|[2412.11556](http://arxiv.org/abs/2412.11556)|null|
@@ -1483,6 +1491,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
+|**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152](http://arxiv.org/abs/2412.13152)|null|
+|**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
+|**2024-12-17**|**A Pontryagin-Guided Neural Policy Optimization Framework for Merton's Portfolio Problem**|Jeonggyu Huh et.al.|[2412.13101](http://arxiv.org/abs/2412.13101)|null|
+|**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|null|
+|**2024-12-17**|**An Efficient Surrogate Model of Secondary Electron Formation and Evolution**|Christopher J. McDevitt et.al.|[2412.13044](http://arxiv.org/abs/2412.13044)|null|
+|**2024-12-17**|**Deep Learning Based Superconductivity: Prediction and Experimental Tests**|Daniel Kaplan et.al.|[2412.13012](http://arxiv.org/abs/2412.13012)|null|
+|**2024-12-17**|**A Physics-Constrained Deep Learning Treatment of Runaway Electron Dynamics**|Christopher J. McDevitt et.al.|[2412.12980](http://arxiv.org/abs/2412.12980)|null|
+|**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
 |**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
 |**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
 |**2024-12-16**|**Deep-learning-based identification of individual motion characteristics from upper-limb trajectories towards disorder stage evaluation**|Tim Sziburis et.al.|[2412.12016](http://arxiv.org/abs/2412.12016)|null|
@@ -3375,6 +3393,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
+|**2024-12-17**|**Token-Level Graphs for Short Text Classification**|Gregor Donabauer et.al.|[2412.12754](http://arxiv.org/abs/2412.12754)|**[link](https://github.com/dogregor/tokengraph)**|
+|**2024-12-17**|**Your Next State-of-the-Art Could Come from Another Domain: A Cross-Domain Analysis of Hierarchical Text Classification**|Nan Li et.al.|[2412.12744](http://arxiv.org/abs/2412.12744)|null|
+|**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643](http://arxiv.org/abs/2412.12643)|null|
+|**2024-12-17**|**Testing inhomogeneous cosmography in our cosmic neighborhood using CosmicFlows-4**|S. M. Koksbang et.al.|[2412.12637](http://arxiv.org/abs/2412.12637)|null|
+|**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612](http://arxiv.org/abs/2412.12612)|null|
+|**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
+|**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
+|**2024-12-16**|**Enhancing Temporal Link Prediction with HierTKG: A Hierarchical Temporal Knowledge Graph Framework**|Mariam Almutairi et.al.|[2412.12385](http://arxiv.org/abs/2412.12385)|null|
 |**2024-12-16**|**The Role of Natural Language Processing Tasks in Automatic Literary Character Network Construction**|Arthur Amalvy et.al.|[2412.11560](http://arxiv.org/abs/2412.11560)|null|
 |**2024-12-16**|**Intention Knowledge Graph Construction for User Intention Relation Modeling**|Jiaxin Bai et.al.|[2412.11500](http://arxiv.org/abs/2412.11500)|null|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
