@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -52,7 +52,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Attention
 
@@ -60,7 +60,7 @@
 |---|---|---|---|---|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
-|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|null|
+|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|
 |**2024-12-19**|**AI-Powered Intracranial Hemorrhage Detection: A Co-Scale Convolutional Attention Model with Uncertainty-Based Fuzzy Integral Operator and Feature Screening**|Mehdi Hosseini Chagahi et.al.|[2412.14869](http://arxiv.org/abs/2412.14869)|null|
 |**2024-12-19**|**MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**|Camillo Maria Caruso et.al.|[2412.14810](http://arxiv.org/abs/2412.14810)|null|
 |**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768](http://arxiv.org/abs/2412.14768)|null|
@@ -1515,7 +1515,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -1527,7 +1527,7 @@
 |**2024-12-19**|**TDCNet: Transparent Objects Depth Completion with CNN-Transformer Dual-Branch Parallel Network**|Xianghui Fan et.al.|[2412.14961](http://arxiv.org/abs/2412.14961)|**[link](https://github.com/xianghuifan/tdcnet)**|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 |**2024-12-19**|**Zero-Shot Artifact2Artifact: Self-incentive artifact removal for photoacoustic imaging without any data**|Shuang Li et.al.|[2412.14873](http://arxiv.org/abs/2412.14873)|null|
-|**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|null|
+|**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|**[link](https://github.com/unicef/giga-global-school-mapping)**|
 |**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867](http://arxiv.org/abs/2412.14867)|null|
 |**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824](http://arxiv.org/abs/2412.14824)|null|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
@@ -3439,7 +3439,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Extraction
 
@@ -4822,7 +4822,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -52,7 +52,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
-|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|null|
+|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|
 |**2024-12-19**|**AI-Powered Intracranial Hemorrhage Detection: A Co-Scale Convolutional Attention Model with Uncertainty-Based Fuzzy Integral Operator and Feature Screening**|Mehdi Hosseini Chagahi et.al.|[2412.14869](http://arxiv.org/abs/2412.14869)|null|
 |**2024-12-19**|**MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**|Camillo Maria Caruso et.al.|[2412.14810](http://arxiv.org/abs/2412.14810)|null|
 |**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768](http://arxiv.org/abs/2412.14768)|null|
@@ -1517,7 +1517,7 @@ layout: default
 |**2024-12-19**|**TDCNet: Transparent Objects Depth Completion with CNN-Transformer Dual-Branch Parallel Network**|Xianghui Fan et.al.|[2412.14961](http://arxiv.org/abs/2412.14961)|**[link](https://github.com/xianghuifan/tdcnet)**|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 |**2024-12-19**|**Zero-Shot Artifact2Artifact: Self-incentive artifact removal for photoacoustic imaging without any data**|Shuang Li et.al.|[2412.14873](http://arxiv.org/abs/2412.14873)|null|
-|**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|null|
+|**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|**[link](https://github.com/unicef/giga-global-school-mapping)**|
 |**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867](http://arxiv.org/abs/2412.14867)|null|
 |**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824](http://arxiv.org/abs/2412.14824)|null|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
