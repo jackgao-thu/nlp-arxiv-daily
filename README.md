@@ -58,6 +58,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
+|**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
+|**2024-12-20**|**Underwater Image Quality Assessment: A Perceptual Framework Guided by Physical Imaging**|Weizhi Xian et.al.|[2412.15527](http://arxiv.org/abs/2412.15527)|null|
+|**2024-12-20**|**Understanding When and Why Graph Attention Mechanisms Work via Node Classification**|Zhongtian Ma et.al.|[2412.15496](http://arxiv.org/abs/2412.15496)|null|
+|**2024-12-19**|**DCRA-Net: Attention-Enabled Reconstruction Model for Dynamic Fetal Cardiac MRI**|Denis Prokopenko et.al.|[2412.15342](http://arxiv.org/abs/2412.15342)|null|
+|**2024-12-19**|**Enhancing Masked Time-Series Modeling via Dropping Patches**|Tianyu Qiu et.al.|[2412.15315](http://arxiv.org/abs/2412.15315)|**[link](https://github.com/qityy/droppatch)**|
+|**2024-12-19**|**PCA-Featured Transformer for Jamming Detection in 5G UAV Networks**|Joseanne Viana et.al.|[2412.15312](http://arxiv.org/abs/2412.15312)|null|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
 |**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|
@@ -1521,6 +1528,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
+|**2024-12-20**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134](http://arxiv.org/abs/2412.16134)|**[link](https://github.com/nafisa67/thesis)**|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**Fair Distributed Machine Learning with Imbalanced Data as a Stackelberg Evolutionary Game**|Sebastian Niehaus et.al.|[2412.16079](http://arxiv.org/abs/2412.16079)|null|
+|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
+|**2024-12-20**|**Detection of Aerial Spoofing Attacks to LEO Satellite Systems via Deep Learning**|Jos Wigchert et.al.|[2412.16008](http://arxiv.org/abs/2412.16008)|null|
+|**2024-12-20**|**CNN-LSTM Hybrid Deep Learning Model for Remaining Useful Life Estimation**|Muthukumar G et.al.|[2412.15998](http://arxiv.org/abs/2412.15998)|null|
+|**2024-12-20**|**APIRL: Deep Reinforcement Learning for REST API Fuzzing**|Myles Foley et.al.|[2412.15991](http://arxiv.org/abs/2412.15991)|**[link](https://github.com/ICL-ml4csec/APIRL)**|
+|**2024-12-20**|**actifpTM: a refined confidence metric of AlphaFold2 predictions involving flexible regions**|Julia K. Varga et.al.|[2412.15970](http://arxiv.org/abs/2412.15970)|null|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
 |**2024-12-19**|**MitraClip Device Automated Localization in 3D Transesophageal Echocardiography via Deep Learning**|Riccardo Munafò et.al.|[2412.15013](http://arxiv.org/abs/2412.15013)|null|
 |**2024-12-19**|**Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations**|Jianhua Sun et.al.|[2412.14974](http://arxiv.org/abs/2412.14974)|null|
@@ -3445,6 +3462,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900](http://arxiv.org/abs/2412.15900)|null|
+|**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829](http://arxiv.org/abs/2412.15829)|null|
+|**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822](http://arxiv.org/abs/2412.15822)|null|
+|**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557](http://arxiv.org/abs/2412.15557)|null|
+|**2024-12-19**|**SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval**|Aakash Mahalingam et.al.|[2412.15443](http://arxiv.org/abs/2412.15443)|null|
+|**2024-12-19**|**Time Will Tell: Timing Side Channels via Output Token Count in Large Language Models**|Tianchen Zhang et.al.|[2412.15431](http://arxiv.org/abs/2412.15431)|null|
+|**2024-12-19**|**Dimension Reduction with Locally Adjusted Graphs**|Yingfan Wang et.al.|[2412.15426](http://arxiv.org/abs/2412.15426)|**[link](https://github.com/williamsyy/localmap)**|
 |**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867](http://arxiv.org/abs/2412.14867)|null|
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801](http://arxiv.org/abs/2412.14801)|null|
 |**2024-12-19**|**LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining**|Huawen Shen et.al.|[2412.14596](http://arxiv.org/abs/2412.14596)|null|
