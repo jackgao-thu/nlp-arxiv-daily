@@ -59,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
+|**2024-12-30**|**QAHAN: A Quantum Annealing Hard Attention Network**|Ren-Xin Zhao et.al.|[2412.20930](http://arxiv.org/abs/2412.20930)|null|
+|**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916](http://arxiv.org/abs/2412.20916)|null|
+|**2024-12-30**|**Language-based Audio Retrieval with Co-Attention Networks**|Haoran Sun et.al.|[2412.20914](http://arxiv.org/abs/2412.20914)|null|
+|**2024-12-30**|**AverageLinear: Enhance Long-Term Time series forcasting with simple averaging**|Gaoxiang Zhao et.al.|[2412.20727](http://arxiv.org/abs/2412.20727)|null|
+|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|null|
+|**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[2412.20480](http://arxiv.org/abs/2412.20480)|null|
+|**2024-12-29**|**Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection**|Ayush Ghadiya et.al.|[2412.20455](http://arxiv.org/abs/2412.20455)|null|
+|**2024-12-28**|**Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition**|Junyao Wang et.al.|[2412.20290](http://arxiv.org/abs/2412.20290)|null|
+|**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|
 |**2024-12-27**|**An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**|Arezoo Borji et.al.|[2412.19696](http://arxiv.org/abs/2412.19696)|null|
 |**2024-12-27**|**Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation**|Guangsheng Xu et.al.|[2412.19676](http://arxiv.org/abs/2412.19676)|**[link](https://github.com/poker-xu/ssr-stf)**|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
@@ -1558,6 +1568,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
+|**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
+|**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|null|
+|**2024-12-30**|**Comparative Analysis of 2D and 3D ResNet Architectures for IDH and MGMT Mutation Detection in Glioma Patients**|Danial Elyassirad et.al.|[2412.21091](http://arxiv.org/abs/2412.21091)|null|
+|**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
+|**2024-12-30**|**Machine Learning Optimal Ordering in Global Routing Problems in Semiconductors**|Heejin Choi et.al.|[2412.21035](http://arxiv.org/abs/2412.21035)|null|
+|**2024-12-30**|**Improving Location-based Thermal Emission Side-Channel Analysis Using Iterative Transfer Learning**|Tun-Chieh Lou et.al.|[2412.21030](http://arxiv.org/abs/2412.21030)|null|
+|**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
+|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009](http://arxiv.org/abs/2412.21009)|**[link](https://github.com/mesnico/idclip)**|
 |**2024-12-27**|**EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs**|Daniil A. Berdyshev et.al.|[2412.19725](http://arxiv.org/abs/2412.19725)|**[link](https://github.com/gasiki/eeg-reptile)**|
 |**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718](http://arxiv.org/abs/2412.19718)|null|
 |**2024-12-27**|**ProKAN: Progressive Stacking of Kolmogorov-Arnold Networks for Efficient Liver Segmentation**|Bhavesh Gyanchandani et.al.|[2412.19713](http://arxiv.org/abs/2412.19713)|null|
@@ -3522,6 +3542,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
+|**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
+|**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942](http://arxiv.org/abs/2412.20942)|null|
+|**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
+|**2024-12-29**|**A Multidisciplinary Approach to Telegram Data Analysis**|Velizar Varbanov et.al.|[2412.20406](http://arxiv.org/abs/2412.20406)|null|
+|**2024-12-29**|**HindiLLM: Large Language Model for Hindi**|Sanjay Chouhan et.al.|[2412.20357](http://arxiv.org/abs/2412.20357)|null|
+|**2024-12-28**|**Topic-Aware Knowledge Graph with Large Language Models for Interoperability in Recommender Systems**|Minhye Jeon et.al.|[2412.20163](http://arxiv.org/abs/2412.20163)|null|
+|**2024-12-28**|**Extract Information from Hybrid Long Documents Leveraging LLMs: A Framework and Dataset**|Chongjian Yue et.al.|[2412.20072](http://arxiv.org/abs/2412.20072)|null|
+|**2024-12-28**|**STAYKATE: Hybrid In-Context Example Selection Combining Representativeness Sampling and Retrieval-based Approach -- A Case Study on Science Domains**|Chencheng Zhu et.al.|[2412.20043](http://arxiv.org/abs/2412.20043)|null|
+|**2024-12-28**|**A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness**|Xiaochuan Gong et.al.|[2412.20017](http://arxiv.org/abs/2412.20017)|null|
 |**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718](http://arxiv.org/abs/2412.19718)|null|
 |**2024-12-27**|**A Comparative Study of Machine Unlearning Techniques for Image and Text Classification Models**|Omar M. Safa et.al.|[2412.19583](http://arxiv.org/abs/2412.19583)|null|
 |**2024-12-27**|**Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR**|Ted Edward Holmberg et.al.|[2412.19469](http://arxiv.org/abs/2412.19469)|null|
