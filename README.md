@@ -59,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
+|**2025-01-02**|**nnY-Net: Swin-NeXt with Cross-Attention for 3D Medical Images Segmentation**|Haixu Liu et.al.|[2501.01406](http://arxiv.org/abs/2501.01406)|null|
+|**2025-01-02**|**DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring**|Hao Wang et.al.|[2501.01342](http://arxiv.org/abs/2501.01342)|null|
+|**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|null|
+|**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242](http://arxiv.org/abs/2501.01242)|null|
+|**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
+|**2025-01-02**|**TED: Turn Emphasis with Dialogue Feature Attention for Emotion Recognition in Conversation**|Junya Ono et.al.|[2501.01123](http://arxiv.org/abs/2501.01123)|null|
+|**2025-01-02**|**FAST: Fast Audio Spectrogram Transformer**|Anugunj Naman et.al.|[2501.01104](http://arxiv.org/abs/2501.01104)|null|
+|**2025-01-02**|**iCNN-LSTM: A batch-based incremental ransomware detection system using Sysmon**|Jamil Ispahany et.al.|[2501.01083](http://arxiv.org/abs/2501.01083)|null|
+|**2025-01-02**|**Dynamic Attention-Guided Context Decoding for Mitigating Context Faithfulness Hallucinations in Large Language Models**|Yanwen Huang et.al.|[2501.01059](http://arxiv.org/abs/2501.01059)|null|
 |**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
 |**2024-12-30**|**QAHAN: A Quantum Annealing Hard Attention Network**|Ren-Xin Zhao et.al.|[2412.20930](http://arxiv.org/abs/2412.20930)|null|
 |**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916](http://arxiv.org/abs/2412.20916)|null|
@@ -1568,6 +1578,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision**|Haixu Liu et.al.|[2501.01402](http://arxiv.org/abs/2501.01402)|null|
+|**2025-01-02**|**Evaluation of Deep Learning-based Scatter Correction for Total-body PET**|Baptiste Laurent et.al.|[2501.01341](http://arxiv.org/abs/2501.01341)|null|
+|**2025-01-02**|**Enhancement of Neural Inertial Regression Networks: A Data-Driven Perspective**|Victoria Khalfin Fekson et.al.|[2501.01327](http://arxiv.org/abs/2501.01327)|null|
+|**2025-01-02**|**LEO-Split: A Semi-Supervised Split Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2501.01293](http://arxiv.org/abs/2501.01293)|null|
+|**2025-01-02**|**Stealthy Backdoor Attack to Real-world Models in Android Apps**|Jiali Wei et.al.|[2501.01263](http://arxiv.org/abs/2501.01263)|null|
+|**2025-01-02**|**Classification of Operational Records in Aviation Using Deep Learning Approaches**|Aziida Nanyonga et.al.|[2501.01222](http://arxiv.org/abs/2501.01222)|null|
+|**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
+|**2025-01-02**|**A redescription mining framework for post-hoc explaining and relating deep learning models**|Matej Mihelčić et.al.|[2501.01209](http://arxiv.org/abs/2501.01209)|null|
+|**2025-01-02**|**NET-SA: An Efficient Secure Aggregation Architecture Based on In-Network Computing**|Qingqing Ren et.al.|[2501.01187](http://arxiv.org/abs/2501.01187)|null|
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
@@ -3542,6 +3562,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**|Bohang Sun et.al.|[2501.01311](http://arxiv.org/abs/2501.01311)|null|
+|**2025-01-02**|**Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method**|Ruichen Zhang et.al.|[2501.01141](http://arxiv.org/abs/2501.01141)|null|
+|**2025-01-01**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|null|
+|**2025-01-01**|**Enhancing Transformers for Generalizable First-Order Logical Entailment**|Tianshi Zheng et.al.|[2501.00759](http://arxiv.org/abs/2501.00759)|null|
+|**2024-12-31**|**KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities**|Chengcheng Mai et.al.|[2501.00571](http://arxiv.org/abs/2501.00571)|null|
+|**2024-12-31**|**Efficient support ticket resolution using Knowledge Graphs**|Sherwin Varghese et.al.|[2501.00461](http://arxiv.org/abs/2501.00461)|null|
+|**2024-12-31**|**Efficient Relational Context Perception for Knowledge Graph Completion**|Wenkai Tu et.al.|[2501.00397](http://arxiv.org/abs/2501.00397)|null|
+|**2024-12-31**|**Towards Pattern-aware Data Augmentation for Temporal Knowledge Graph Completion**|Jiasheng Zhang et.al.|[2501.00252](http://arxiv.org/abs/2501.00252)|null|
+|**2024-12-31**|**Exploring Variability in Fine-Tuned Models for Text Classification with DistilBERT**|Giuliano Lorenzoni et.al.|[2501.00241](http://arxiv.org/abs/2501.00241)|null|
+|**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223](http://arxiv.org/abs/2501.00223)|null|
 |**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
 |**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942](http://arxiv.org/abs/2412.20942)|null|
