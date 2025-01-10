@@ -57,7 +57,7 @@ layout: default
 |**2025-01-09**|**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering**|Dewei Zhou et.al.|[2501.05131](http://arxiv.org/abs/2501.05131)|null|
 |**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|null|
 |**2025-01-09**|**SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**|Jake H. Lee et.al.|[2501.04916](http://arxiv.org/abs/2501.04916)|**[link](https://github.com/emit-sds/SpecTf)**|
-|**2025-01-08**|**Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**|Anthony Deschênes et.al.|[2501.04819](http://arxiv.org/abs/2501.04819)|null|
+|**2025-01-08**|**Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**|Anthony Deschênes et.al.|[2501.04819](http://arxiv.org/abs/2501.04819)|**[link](https://github.com/AnthonyDeschenes/PlaningItByEarDataset)**|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
 |**2025-01-08**|**On Computational Limits and Provably Efficient Criteria of Visual Autoregressive Models: A Fine-Grained Complexity Analysis**|Yekun Ke et.al.|[2501.04377](http://arxiv.org/abs/2501.04377)|null|
 |**2025-01-08**|**Modeling All Response Surfaces in One for Conditional Search Spaces**|Jiaxing Li et.al.|[2501.04260](http://arxiv.org/abs/2501.04260)|null|
