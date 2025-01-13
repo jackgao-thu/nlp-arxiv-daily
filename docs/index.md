@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -52,10 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
 |**2025-01-09**|**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering**|Dewei Zhou et.al.|[2501.05131](http://arxiv.org/abs/2501.05131)|null|
-|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|**[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)**|
 |**2025-01-09**|**SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**|Jake H. Lee et.al.|[2501.04916](http://arxiv.org/abs/2501.04916)|**[link](https://github.com/emit-sds/SpecTf)**|
 |**2025-01-08**|**Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**|Anthony Deschênes et.al.|[2501.04819](http://arxiv.org/abs/2501.04819)|**[link](https://github.com/AnthonyDeschenes/PlaningItByEarDataset)**|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
@@ -1607,10 +1607,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449](http://arxiv.org/abs/2501.05449)|null|
 |**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
-|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
 |**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
-|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|**[link](https://github.com/pcdurham/see_ice)**|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
 |**2025-01-09**|**HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction**|Shaurya Singh Rathore et.al.|[2501.05195](http://arxiv.org/abs/2501.05195)|null|
 |**2025-01-09**|**RadioTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190](http://arxiv.org/abs/2501.05190)|null|
