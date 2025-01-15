@@ -52,6 +52,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168](http://arxiv.org/abs/2501.08168)|null|
+|**2025-01-14**|**EEG-ReMinD: Enhancing Neurodegenerative EEG Decoding through Self-Supervised State Reconstruction-Primed Riemannian Dynamics**|Zirui Wang et.al.|[2501.08139](http://arxiv.org/abs/2501.08139)|null|
+|**2025-01-14**|**Audio-visual Deepfake Detection With Local Temporal Inconsistencies**|Marcella Astrid et.al.|[2501.08137](http://arxiv.org/abs/2501.08137)|null|
+|**2025-01-14**|**Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification**|Hui Lee et.al.|[2501.08085](http://arxiv.org/abs/2501.08085)|null|
+|**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[2501.07988](http://arxiv.org/abs/2501.07988)|null|
+|**2025-01-14**|**Threshold Attention Network for Semantic Segmentation of Remote Sensing Images**|Wei Long et.al.|[2501.07984](http://arxiv.org/abs/2501.07984)|null|
+|**2025-01-14**|**Comprehensive Metapath-based Heterogeneous Graph Transformer for Gene-Disease Association Prediction**|Wentao Cui et.al.|[2501.07970](http://arxiv.org/abs/2501.07970)|null|
+|**2025-01-14**|**Robust Hyperspectral Image Panshapring via Sparse Spatial-Spectral Representation**|Chia-Ming Lee et.al.|[2501.07953](http://arxiv.org/abs/2501.07953)|null|
+|**2025-01-14**|**Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments**|Mohamed A. Taha et.al.|[2501.07905](http://arxiv.org/abs/2501.07905)|**[link](https://github.com/ahmedboin/logarithmicmemory)**|
+|**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
 |**2025-01-13**|**Emergent effects of scaling on the functional hierarchies within large language models**|Paul C. Bogdan et.al.|[2501.07359](http://arxiv.org/abs/2501.07359)|null|
 |**2025-01-13**|**Code and Pixels: Multi-Modal Contrastive Pre-training for Enhanced Tabular Data Analysis**|Kankana Roy et.al.|[2501.07304](http://arxiv.org/abs/2501.07304)|null|
 |**2025-01-13**|**VAGeo: View-specific Attention for Cross-View Object Geo-Localization**|Zhongyang Li et.al.|[2501.07194](http://arxiv.org/abs/2501.07194)|null|
@@ -1622,6 +1632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**Mechanics Informatics: A paradigm for efficiently learning constitutive models**|Royal C. Ihuaenyi et.al.|[2501.08314](http://arxiv.org/abs/2501.08314)|null|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-14**|**AI Driven Water Segmentation with deep learning models for Enhanced Flood Monitoring**|Sanjida Afrin Mou et.al.|[2501.08266](http://arxiv.org/abs/2501.08266)|**[link](https://github.com/SanjidaAfrin25/flood-detection-using-deepLab-unet-resnet)**|
+|**2025-01-14**|**Continual Deep Active Learning for Medical Imaging: Replay-Base Architecture for Context Adaptation**|Rui Daniel et.al.|[2501.08245](http://arxiv.org/abs/2501.08245)|**[link](https://github.com/ruidaniel/rbaca)**|
+|**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241](http://arxiv.org/abs/2501.08241)|null|
+|**2025-01-14**|**Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models**|Zeineb Haouari et.al.|[2501.08226](http://arxiv.org/abs/2501.08226)|null|
+|**2025-01-14**|**Data-driven system identification using quadratic embeddings of nonlinear dynamics**|Stefan Klus et.al.|[2501.08202](http://arxiv.org/abs/2501.08202)|null|
+|**2025-01-14**|**EmoNeXt: an Adapted ConvNeXt for Facial Emotion Recognition**|Yassine El Boudouri et.al.|[2501.08199](http://arxiv.org/abs/2501.08199)|**[link](https://github.com/yelboudouri/EmoNeXt)**|
+|**2025-01-14**|**Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition**|Mazen Balat et.al.|[2501.08169](http://arxiv.org/abs/2501.08169)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**PROTECT: Protein circadian time prediction using unsupervised learning**|Aram Ansary Ogholbake et.al.|[2501.07405](http://arxiv.org/abs/2501.07405)|null|
@@ -3674,6 +3694,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120](http://arxiv.org/abs/2501.08120)|null|
+|**2025-01-14**|**READ: Reinforcement-based Adversarial Learning for Text Classification with Limited Labeled Data**|Rohit Sharma et.al.|[2501.08035](http://arxiv.org/abs/2501.08035)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766](http://arxiv.org/abs/2501.07766)|null|
+|**2025-01-13**|**Universal Training of Neural Networks to Achieve Bayes Optimal Classification Accuracy**|Mohammadreza Tavasoli Naeini et.al.|[2501.07754](http://arxiv.org/abs/2501.07754)|null|
 |**2025-01-13**|**An ontology-based description of nano computed tomography measurements in electronic laboratory notebooks: from metadata schema to first user experience**|Fabian Kirchner et.al.|[2501.07398](http://arxiv.org/abs/2501.07398)|null|
 |**2025-01-13**|**Joint Automatic Speech Recognition And Structure Learning For Better Speech Understanding**|Jiliang Hu et.al.|[2501.07329](http://arxiv.org/abs/2501.07329)|null|
 |**2025-01-13**|**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**|Ziyang Ma et.al.|[2501.07246](http://arxiv.org/abs/2501.07246)|null|
