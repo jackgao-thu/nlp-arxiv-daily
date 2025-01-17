@@ -60,10 +60,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Attention is All You Need Until You Need Retention**|M. Murat Yaslioglu et.al.|[2501.09166](http://arxiv.org/abs/2501.09166)|null|
+|**2025-01-15**|**Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks**|Tong Liu et.al.|[2501.09117](http://arxiv.org/abs/2501.09117)|null|
 |**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994](http://arxiv.org/abs/2501.08994)|null|
 |**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900](http://arxiv.org/abs/2501.08900)|null|
 |**2025-01-15**|**Incrementally Learning Multiple Diverse Data Domains via Multi-Source Dynamic Expansion Model**|Runqing Wu et.al.|[2501.08878](http://arxiv.org/abs/2501.08878)|null|
-|**2025-01-15**|**Disentangled Interleaving Variational Encoding**|Noelle Y. L. Wong et.al.|[2501.08710](http://arxiv.org/abs/2501.08710)|null|
+|**2025-01-16**|**Disentangled Interleaving Variational Encoding**|Noelle Y. L. Wong et.al.|[2501.08710](http://arxiv.org/abs/2501.08710)|null|
 |**2025-01-15**|**MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities**|Savya Khosla et.al.|[2501.08648](http://arxiv.org/abs/2501.08648)|null|
 |**2025-01-15**|**Transformer-based Multivariate Time Series Anomaly Localization**|Charalampos Shimillas et.al.|[2501.08628](http://arxiv.org/abs/2501.08628)|null|
 |**2025-01-15**|**Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms**|Kewei Li et.al.|[2501.08570](http://arxiv.org/abs/2501.08570)|null|
@@ -1649,6 +1651,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744](http://arxiv.org/abs/2501.09744)|null|
+|**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
+|**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
+|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|null|
+|**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700](http://arxiv.org/abs/2501.09700)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
+|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
+|**2025-01-16**|**Sequential PatchCore: Anomaly Detection for Surface Inspection using Synthetic Impurities**|Runzhou Mao et.al.|[2501.09579](http://arxiv.org/abs/2501.09579)|null|
+|**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
+|**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506](http://arxiv.org/abs/2501.09506)|**[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)**|
 |**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962](http://arxiv.org/abs/2501.08962)|null|
 |**2025-01-15**|**Visual WetlandBirds Dataset: Bird Species Identification and Behavior Recognition in Videos**|Javier Rodriguez-Juan et.al.|[2501.08931](http://arxiv.org/abs/2501.08931)|**[link](https://github.com/3dperceptionlab/visual-wetlandbirds)**|
 |**2025-01-15**|**Integrating Cybersecurity in Predictive Cost-Benefit Power Scheduling: A DeepStack Model with Dynamic Defense Mechanism**|Ali Peivand et.al.|[2501.08916](http://arxiv.org/abs/2501.08916)|null|
@@ -3723,6 +3735,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744](http://arxiv.org/abs/2501.09744)|null|
+|**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506](http://arxiv.org/abs/2501.09506)|**[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)**|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
+|**2025-01-16**|**A Simple Graph Contrastive Learning Framework for Short Text Classification**|Yonghao Liu et.al.|[2501.09219](http://arxiv.org/abs/2501.09219)|**[link](https://github.com/keaml-jlu/simstc)**|
+|**2025-01-16**|**Boosting Short Text Classification with Multi-Source Information Exploration and Dual-Level Contrastive Learning**|Yonghao Liu et.al.|[2501.09214](http://arxiv.org/abs/2501.09214)|**[link](https://github.com/keaml-jlu/mi-delight)**|
+|**2025-01-15**|**Augmenting Human-Annotated Training Data with Large Language Model Generation and Distillation in Open-Response Assessment**|Conrad Borchers et.al.|[2501.09126](http://arxiv.org/abs/2501.09126)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
 |**2025-01-15**|**$\texttt{InfoHier}$ : Hierarchical Information Extraction via Encoding and Embedding**|Tianru Zhang et.al.|[2501.08717](http://arxiv.org/abs/2501.08717)|null|
 |**2025-01-15**|**Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**|Chuangtao Ma et.al.|[2501.08686](http://arxiv.org/abs/2501.08686)|null|
