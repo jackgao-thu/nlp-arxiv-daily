@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
+|**2025-01-17**|**BoK: Introducing Bag-of-Keywords Loss for Interpretable Dialogue Response Generation**|Suvodip Dey et.al.|[2501.10328](http://arxiv.org/abs/2501.10328)|**[link](https://github.com/suvodipdey/bok)**|
+|**2025-01-17**|**Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework**|Ali Can Karaca et.al.|[2501.10075](http://arxiv.org/abs/2501.10075)|null|
+|**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994](http://arxiv.org/abs/2501.09994)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
 |**2025-01-15**|**Attention is All You Need Until You Need Retention**|M. Murat Yaslioglu et.al.|[2501.09166](http://arxiv.org/abs/2501.09166)|null|
 |**2025-01-15**|**Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks**|Tong Liu et.al.|[2501.09117](http://arxiv.org/abs/2501.09117)|null|
 |**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994](http://arxiv.org/abs/2501.08994)|null|
@@ -1641,6 +1645,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
+|**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
+|**2025-01-17**|**Disharmony: Forensics using Reverse Lighting Harmonization**|Philip Wootaek Shin et.al.|[2501.10212](http://arxiv.org/abs/2501.10212)|null|
+|**2025-01-17**|**Surrogate-based multiscale analysis of experiments on thermoplastic composites under off-axis loading**|M. A. Maia et.al.|[2501.10193](http://arxiv.org/abs/2501.10193)|null|
+|**2025-01-17**|**FECT: Classification of Breast Cancer Pathological Images Based on Fusion Features**|Jiacheng Hao et.al.|[2501.10128](http://arxiv.org/abs/2501.10128)|null|
+|**2025-01-17**|**Classifier Ensemble for Efficient Uncertainty Calibration of Deep Neural Networks for Image Classification**|Michael Schulze et.al.|[2501.10089](http://arxiv.org/abs/2501.10089)|null|
+|**2025-01-17**|**A recursive Bayesian neural network for constitutive modeling of sands under monotonic loading**|Toiba Noor et.al.|[2501.10088](http://arxiv.org/abs/2501.10088)|null|
+|**2025-01-17**|**Author-Specific Linguistic Patterns Unveiled: A Deep Learning Study on Word Class Distributions**|Patrick Krauss et.al.|[2501.10072](http://arxiv.org/abs/2501.10072)|null|
+|**2025-01-17**|**Automatic Speech Recognition for Sanskrit with Transfer Learning**|Bidit Sadhukhan et.al.|[2501.10024](http://arxiv.org/abs/2501.10024)|null|
+|**2025-01-17**|**Nuclear equation of state at finite $μ_B$ using deep learning assisted quasi-parton model**|Fu-Peng Li et.al.|[2501.10012](http://arxiv.org/abs/2501.10012)|null|
 |**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744](http://arxiv.org/abs/2501.09744)|null|
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
@@ -3723,6 +3737,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**CSSDM Ontology to Enable Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2501.10160](http://arxiv.org/abs/2501.10160)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
+|**2025-01-17**|**Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs**|Reham Omar et.al.|[2501.09928](http://arxiv.org/abs/2501.09928)|null|
+|**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
+|**2025-01-17**|**Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09897](http://arxiv.org/abs/2501.09897)|null|
+|**2025-01-16**|**Empirical Evaluation of Embedding Models in the Context of Text Classification in Document Review in Construction Delay Disputes**|Fusheng Wei et.al.|[2501.09859](http://arxiv.org/abs/2501.09859)|null|
 |**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744](http://arxiv.org/abs/2501.09744)|null|
 |**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506](http://arxiv.org/abs/2501.09506)|**[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)**|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
