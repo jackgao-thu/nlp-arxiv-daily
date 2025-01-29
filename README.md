@@ -60,6 +60,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**|J. Pablo Muñoz et.al.|[2501.17088](http://arxiv.org/abs/2501.17088)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
+|**2025-01-28**|**MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction**|Shreyam Gupta et.al.|[2501.16997](http://arxiv.org/abs/2501.16997)|null|
+|**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
+|**2025-01-28**|**Exponential Family Attention**|Kevin Christian Wibisono et.al.|[2501.16790](http://arxiv.org/abs/2501.16790)|**[link](https://github.com/yixinw-lab/efa)**|
+|**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
+|**2025-01-28**|**DFCon: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection**|MD Sadik Hossain Shanto et.al.|[2501.16704](http://arxiv.org/abs/2501.16704)|null|
+|**2025-01-28**|**SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation**|Jianing Li et.al.|[2501.16684](http://arxiv.org/abs/2501.16684)|**[link](https://github.com/northsummer/sliceocc)**|
+|**2025-01-28**|**CascadeV: An Implementation of Wurstchen Architecture for Video Generation**|Wenfeng Lin et.al.|[2501.16612](http://arxiv.org/abs/2501.16612)|**[link](https://github.com/bytedance/cascadev)**|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
 |**2025-01-27**|**ARFlow: Autogressive Flow with Hybrid Linear Attention**|Mude Hui et.al.|[2501.16085](http://arxiv.org/abs/2501.16085)|null|
 |**2025-01-27**|**Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xiang Huang et.al.|[2501.15968](http://arxiv.org/abs/2501.15968)|**[link](https://github.com/selgroup/masgcn)**|
@@ -1696,6 +1705,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
+|**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
+|**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
+|**2025-01-28**|**Hybrid Deep Learning Model for Multiple Cache Side Channel Attacks Detection: A Comparative Analysis**|Tejal Joshi et.al.|[2501.17123](http://arxiv.org/abs/2501.17123)|null|
+|**2025-01-28**|**Accelerated Training through Iterative Gradient Propagation Along the Residual Path**|Erwan Fagnou et.al.|[2501.17086](http://arxiv.org/abs/2501.17086)|null|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
+|**2025-01-28**|**A systematic search for tectonic tremor and low-frequency earthquakes in the Atacama segment of the Chilean subduction zone (24 $^\circ$S-31$^\circ$ S) turns up empty**|Jannes Münchmeyer et.al.|[2501.16934](http://arxiv.org/abs/2501.16934)|null|
+|**2025-01-28**|**Frequency Matters: Explaining Biases of Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2501.16896](http://arxiv.org/abs/2501.16896)|null|
+|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|null|
 |**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
@@ -3840,6 +3859,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
+|**2025-01-28**|**Misspellings in Natural Language Processing: A survey**|Gianluca Sperduti et.al.|[2501.16836](http://arxiv.org/abs/2501.16836)|null|
+|**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
+|**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
+|**2025-01-28**|**Chinese Stock Prediction Based on a Multi-Modal Transformer Framework: Macro-Micro Information Fusion**|Lumen AI et.al.|[2501.16621](http://arxiv.org/abs/2501.16621)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
 |**2025-01-27**|**Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools**|Florian Freund et.al.|[2501.16112](http://arxiv.org/abs/2501.16112)|null|
 |**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990](http://arxiv.org/abs/2501.15990)|null|
