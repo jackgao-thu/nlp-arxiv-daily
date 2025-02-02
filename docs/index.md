@@ -1707,7 +1707,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-30**|**Deep learning with reflection high-energy electron diffraction images to predict cation ratio in Sr $_x$Ti$_{1-x}$ O3 thin films**|Sumner B. Harris et.al.|[2501.18523](http://arxiv.org/abs/2501.18523)|null|
 |**2025-01-30**|**Comprehensive Enumeration of Three-Dimensional Photonic Crystals Enabled through Deep Learning Assisted Fourier Synthesis**|Congcong Cui et.al.|[2501.18495](http://arxiv.org/abs/2501.18495)|null|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
