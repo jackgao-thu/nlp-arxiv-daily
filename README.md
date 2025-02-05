@@ -3930,7 +3930,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391](http://arxiv.org/abs/2502.02391)|null|
-|**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067](http://arxiv.org/abs/2502.02067)|null|
+|**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067](http://arxiv.org/abs/2502.02067)|**[link](https://github.com/sssshivvvv/adaptbot)**|
 |**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772](http://arxiv.org/abs/2502.01772)|null|
 |**2025-02-03**|**Query Brand Entity Linking in E-Commerce Search**|Dong Liu et.al.|[2502.01555](http://arxiv.org/abs/2502.01555)|null|
 |**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549](http://arxiv.org/abs/2502.01549)|null|
