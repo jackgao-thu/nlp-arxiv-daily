@@ -52,6 +52,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**XAttnMark: Learning Robust Audio Watermarking with Cross-Attention**|Yixin Liu et.al.|[2502.04230](http://arxiv.org/abs/2502.04230)|null|
+|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
+|**2025-02-06**|**DEALing with Image Reconstruction: Deep Attentive Least Squares**|Mehrsa Pourya et.al.|[2502.04079](http://arxiv.org/abs/2502.04079)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813](http://arxiv.org/abs/2502.03813)|null|
+|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|null|
+|**2025-02-06**|**Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers**|Yi Ding et.al.|[2502.03736](http://arxiv.org/abs/2502.03736)|null|
+|**2025-02-05**|**DynVFX: Augmenting Real Videos with Dynamic Content**|Danah Yatim et.al.|[2502.03621](http://arxiv.org/abs/2502.03621)|null|
+|**2025-02-05**|**Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning**|SiYeoul Lee et.al.|[2502.03505](http://arxiv.org/abs/2502.03505)|null|
 |**2025-02-05**|**General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data**|Cheng He et.al.|[2502.03264](http://arxiv.org/abs/2502.03264)|null|
 |**2025-02-05**|**Structured Token Retention and Computational Memory Paths in Large Language Models**|Jonathan Delena et.al.|[2502.03102](http://arxiv.org/abs/2502.03102)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
@@ -1730,6 +1739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
+|**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269](http://arxiv.org/abs/2502.04269)|null|
+|**2025-02-06**|**Multi-fidelity emulator for large-scale 21 cm lightcone images: a few-shot transfer learning approach with generative adversarial network**|Kangning Diao et.al.|[2502.04246](http://arxiv.org/abs/2502.04246)|null|
+|**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245](http://arxiv.org/abs/2502.04245)|null|
+|**2025-02-06**|**A Theoretical Framework for Data Efficient Multi-Source Transfer Learning Based on Cramér-Rao Bound**|Qingyue Zhang et.al.|[2502.04242](http://arxiv.org/abs/2502.04242)|null|
+|**2025-02-06**|**Expanding Training Data for Endoscopic Phenotyping of Eosinophilic Esophagitis**|Juming Xiong et.al.|[2502.04199](http://arxiv.org/abs/2502.04199)|null|
+|**2025-02-06**|**SPRINT: An Assistant for Issue Report Management**|Ahmed Adnan et.al.|[2502.04147](http://arxiv.org/abs/2502.04147)|**[link](https://github.com/sea-lab-wm/sprint_issue_report_assistant_tool)**|
+|**2025-02-06**|**Transfer Learning for Covert Speech Classification Using EEG Hilbert Envelope and Temporal Fine Structure**|Saravanakumar Duraisamy et.al.|[2502.04132](http://arxiv.org/abs/2502.04132)|null|
+|**2025-02-06**|**Exploring Group Convolutional Networks for Sign Problem Mitigation via Contour Deformation**|Christoph Gäntgen et.al.|[2502.04104](http://arxiv.org/abs/2502.04104)|null|
+|**2025-02-06**|**Automatic quantification of breast cancer biomarkers from multiple 18F-FDG PET image segmentation**|Tewele W. Tareke et.al.|[2502.04083](http://arxiv.org/abs/2502.04083)|null|
 |**2025-02-05**|**Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators**|Yuan Xinjie et.al.|[2502.03424](http://arxiv.org/abs/2502.03424)|null|
 |**2025-02-05**|**Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications**|Issar Arab et.al.|[2502.03395](http://arxiv.org/abs/2502.03395)|null|
 |**2025-02-05**|**A Structured Reasoning Framework for Unbalanced Data Classification Using Probabilistic Models**|Junliang Du et.al.|[2502.03386](http://arxiv.org/abs/2502.03386)|null|
@@ -3932,6 +3951,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269](http://arxiv.org/abs/2502.04269)|null|
+|**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245](http://arxiv.org/abs/2502.04245)|null|
+|**2025-02-06**|**Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**|Longquan Jiang et.al.|[2502.03992](http://arxiv.org/abs/2502.03992)|null|
+|**2025-02-06**|**Improving Natural Language Understanding for LLMs via Large-Scale Instruction Synthesis**|Lin Yuan et.al.|[2502.03843](http://arxiv.org/abs/2502.03843)|null|
+|**2025-02-06**|**CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos**|Yuanhao Zhang et.al.|[2502.03767](http://arxiv.org/abs/2502.03767)|null|
+|**2025-02-06**|**Learning Reward Machines from Partially Observed Optimal Policies**|Mohamad Louai Shehab et.al.|[2502.03762](http://arxiv.org/abs/2502.03762)|null|
+|**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
+|**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Out-of-Distribution Detection using Synthetic Data Generation**|Momin Abbas et.al.|[2502.03323](http://arxiv.org/abs/2502.03323)|null|
 |**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283](http://arxiv.org/abs/2502.03283)|null|
 |**2025-02-05**|**Efficient extraction of medication information from clinical notes: an evaluation in two languages**|Thibaut Fabacher et.al.|[2502.03257](http://arxiv.org/abs/2502.03257)|null|
