@@ -60,6 +60,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
+|**2025-02-14**|**VicKAM: Visual Conceptual Knowledge Guided Action Map for Weakly Supervised Group Activity Recognition**|Zhuming Wang et.al.|[2502.09967](http://arxiv.org/abs/2502.09967)|null|
+|**2025-02-14**|**Insect-Foundation: A Foundation Model and Large Multimodal Dataset for Vision-Language Insect Understanding**|Thanh-Dat Truong et.al.|[2502.09906](http://arxiv.org/abs/2502.09906)|null|
 |**2025-02-13**|**Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**|Fei Shen et.al.|[2502.09533](http://arxiv.org/abs/2502.09533)|null|
 |**2025-02-13**|**Transformer-Enhanced Variational Autoencoder for Crystal Structure Prediction**|Ziyi Chen et.al.|[2502.09423](http://arxiv.org/abs/2502.09423)|null|
 |**2025-02-13**|**FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation**|Xiaodong Li et.al.|[2502.09375](http://arxiv.org/abs/2502.09375)|null|
@@ -1792,6 +1795,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385](http://arxiv.org/abs/2502.10385)|null|
+|**2025-02-14**|**Studying number theory with deep learning: a case study with the Möbius and squarefree indicator functions**|David Lowry-Duda et.al.|[2502.10335](http://arxiv.org/abs/2502.10335)|null|
+|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|null|
+|**2025-02-14**|**SPIRIT: Short-term Prediction of solar IRradIance for zero-shot Transfer learning using Foundation Models**|Aditya Mishra et.al.|[2502.10307](http://arxiv.org/abs/2502.10307)|null|
+|**2025-02-14**|**SegX: Improving Interpretability of Clinical Image Diagnosis with Segmentation-based Enhancement**|Yuhao Zhang et.al.|[2502.10296](http://arxiv.org/abs/2502.10296)|null|
+|**2025-02-14**|**QMaxViT-Unet+: A Query-Based MaxViT-Unet with Edge Enhancement for Scribble-Supervised Segmentation of Medical Images**|Thien B. Nguyen-Tat et.al.|[2502.10294](http://arxiv.org/abs/2502.10294)|**[link](https://github.com/anpc849/QMaxViT-Unet)**|
+|**2025-02-14**|**Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification**|Pengyu Zhang et.al.|[2502.10280](http://arxiv.org/abs/2502.10280)|null|
+|**2025-02-14**|**Deep learning-based holography for T-linear resistivity**|Byoungjoon Ahn et.al.|[2502.10245](http://arxiv.org/abs/2502.10245)|null|
+|**2025-02-14**|**Interpretable Concept-based Deep Learning Framework for Multimodal Human Behavior Modeling**|Xinyu Li et.al.|[2502.10145](http://arxiv.org/abs/2502.10145)|null|
+|**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**Diffusing DeBias: a Recipe for Turning a Bug into a Feature**|Massimiliano Ciranni et.al.|[2502.09564](http://arxiv.org/abs/2502.09564)|null|
 |**2025-02-13**|**DiffRenderGAN: Addressing Training Data Scarcity in Deep Segmentation Networks for Quantitative Nanomaterial Analysis through Differentiable Rendering and Generative Modelling**|Dennis Possart et.al.|[2502.09477](http://arxiv.org/abs/2502.09477)|null|
@@ -4056,6 +4069,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
+|**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
+|**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
+|**2025-02-14**|**SeWA: Selective Weight Average via Probabilistic Masking**|Peng Wang et.al.|[2502.10119](http://arxiv.org/abs/2502.10119)|null|
+|**2025-02-14**|**Unsupervised Entity Alignment Based on Personalized Discriminative Rooted Tree**|Yaming Yang et.al.|[2502.10044](http://arxiv.org/abs/2502.10044)|null|
+|**2025-02-14**|**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**|Belinda Mo et.al.|[2502.09956](http://arxiv.org/abs/2502.09956)|null|
+|**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
+|**2025-02-13**|**Weak continuous measurements require more work than strong ones**|Lorena Ballesteros Ferraz et.al.|[2502.09732](http://arxiv.org/abs/2502.09732)|null|
 |**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379](http://arxiv.org/abs/2502.09379)|null|
 |**2025-02-13**|**Beyond English: The Impact of Prompt Translation Strategies across Languages and Tasks in Multilingual LLMs**|Itai Mondshine et.al.|[2502.09331](http://arxiv.org/abs/2502.09331)|null|
 |**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|null|
