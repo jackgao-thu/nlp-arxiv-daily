@@ -52,6 +52,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
+|**2025-02-17**|**The geometry of BERT**|Matteo Bonino et.al.|[2502.12033](http://arxiv.org/abs/2502.12033)|null|
+|**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
+|**2025-02-17**|**If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**|Ryo Yoshida et.al.|[2502.11469](http://arxiv.org/abs/2502.11469)|null|
+|**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
+|**2025-02-17**|**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting**|Zihao Wu et.al.|[2502.11340](http://arxiv.org/abs/2502.11340)|null|
+|**2025-02-16**|**RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer**|Shilong Yang et.al.|[2502.11179](http://arxiv.org/abs/2502.11179)|null|
+|**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
+|**2025-02-16**|**Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention**|Jingyang Yuan et.al.|[2502.11089](http://arxiv.org/abs/2502.11089)|null|
+|**2025-02-16**|**Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions**|Ming Shan Hee et.al.|[2502.11073](http://arxiv.org/abs/2502.11073)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
 |**2025-02-14**|**VicKAM: Visual Conceptual Knowledge Guided Action Map for Weakly Supervised Group Activity Recognition**|Zhuming Wang et.al.|[2502.09967](http://arxiv.org/abs/2502.09967)|null|
 |**2025-02-14**|**Insect-Foundation: A Foundation Model and Large Multimodal Dataset for Vision-Language Insect Understanding**|Thanh-Dat Truong et.al.|[2502.09906](http://arxiv.org/abs/2502.09906)|null|
@@ -1785,6 +1795,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
+|**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
+|**2025-02-17**|**Topology from Nothing**|Jacob R. Taylor et.al.|[2502.12121](http://arxiv.org/abs/2502.12121)|null|
+|**2025-02-17**|**Using economic value signals from primate prefrontal cortex in neuro-engineering applications**|Tevin C. Rouse et.al.|[2502.12092](http://arxiv.org/abs/2502.12092)|null|
+|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
+|**2025-02-17**|**MultiFlow: A unified deep learning framework for multi-vessel classification, segmentation and clustering of phase-contrast MRI validated on a multi-site single ventricle patient cohort**|Tina Yao et.al.|[2502.11993](http://arxiv.org/abs/2502.11993)|null|
+|**2025-02-17**|**PreAdaptFWI: Pretrained-Based Adaptive Residual Learning for Full-Waveform Inversion Without Dataset Dependency**|Xintong Dong et.al.|[2502.11913](http://arxiv.org/abs/2502.11913)|null|
+|**2025-02-17**|**LLMs as a synthesis between symbolic and continuous approaches to language**|Gemma Boleda et.al.|[2502.11856](http://arxiv.org/abs/2502.11856)|null|
+|**2025-02-17**|**M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis**|Chengyan Wu et.al.|[2502.11824](http://arxiv.org/abs/2502.11824)|null|
 |**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385](http://arxiv.org/abs/2502.10385)|null|
 |**2025-02-14**|**Studying number theory with deep learning: a case study with the Möbius and squarefree indicator functions**|David Lowry-Duda et.al.|[2502.10335](http://arxiv.org/abs/2502.10335)|null|
 |**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|null|
@@ -4057,6 +4077,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**AdaSplash: Adaptive Sparse Flash Attention**|Nuno Gonçalves et.al.|[2502.12082](http://arxiv.org/abs/2502.12082)|null|
+|**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
+|**2025-02-17**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
+|**2025-02-17**|**Text Classification in the LLM Era - Where do we stand?**|Sowmya Vajjala et.al.|[2502.11830](http://arxiv.org/abs/2502.11830)|null|
+|**2025-02-17**|**M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis**|Chengyan Wu et.al.|[2502.11824](http://arxiv.org/abs/2502.11824)|null|
+|**2025-02-17**|**Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering**|Runxuan Liu et.al.|[2502.11491](http://arxiv.org/abs/2502.11491)|null|
+|**2025-02-17**|**GLTW: Joint Improved Graph Transformer and LLM via Three-Word Language for Knowledge Graph Completion**|Kangyang Luo et.al.|[2502.11471](http://arxiv.org/abs/2502.11471)|null|
+|**2025-02-17**|**RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**|Haoyu Han et.al.|[2502.11371](http://arxiv.org/abs/2502.11371)|null|
+|**2025-02-16**|**Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest**|Letian Peng et.al.|[2502.11275](http://arxiv.org/abs/2502.11275)|null|
+|**2025-02-16**|**ANCHOLIK-NER: A Benchmark Dataset for Bangla Regional Named Entity Recognition**|Bidyarthi Paul et.al.|[2502.11198](http://arxiv.org/abs/2502.11198)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
 |**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
