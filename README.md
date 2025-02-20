@@ -61,8 +61,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Learning Novel Transformer Architecture for Time-series Forecasting**|Juyuan Zhang et.al.|[2502.13721](http://arxiv.org/abs/2502.13721)|null|
+|**2025-02-19**|**Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation**|Prasun Roy et.al.|[2502.13637](http://arxiv.org/abs/2502.13637)|null|
+|**2025-02-18**|**MoBA: Mixture of Block Attention for Long-Context LLMs**|Enzhe Lu et.al.|[2502.13189](http://arxiv.org/abs/2502.13189)|null|
 |**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
-|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
+|**2025-02-19**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
 |**2025-02-18**|**YOLOv12: Attention-Centric Real-Time Object Detectors**|Yunjie Tian et.al.|[2502.12524](http://arxiv.org/abs/2502.12524)|null|
 |**2025-02-18**|**Mixture of Attention Yields Accurate Results for Tabular Data**|Xuechen Li et.al.|[2502.12507](http://arxiv.org/abs/2502.12507)|null|
@@ -1816,6 +1819,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**Evaluation of EAS directions based on TAIGA HiSCORE data using fully connected neural networks**|A. P. Kryukov et.al.|[2502.13851](http://arxiv.org/abs/2502.13851)|null|
+|**2025-02-19**|**ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities**|Chanjin Zheng et.al.|[2502.13832](http://arxiv.org/abs/2502.13832)|null|
+|**2025-02-19**|**Mixup Regularization: A Probabilistic Perspective**|Yousef El-Laham et.al.|[2502.13825](http://arxiv.org/abs/2502.13825)|null|
+|**2025-02-19**|**Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics**|Matthew Wood et.al.|[2502.13785](http://arxiv.org/abs/2502.13785)|null|
+|**2025-02-19**|**Deep Learning for VWAP Execution in Crypto Markets: Beyond the Volume Curve**|Remi Genet et.al.|[2502.13722](http://arxiv.org/abs/2502.13722)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
+|**2025-02-19**|**Toward Robust Non-Transferable Learning: A Survey and Benchmark**|Ziming Hong et.al.|[2502.13593](http://arxiv.org/abs/2502.13593)|null|
+|**2025-02-19**|**MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis**|Wei Dai et.al.|[2502.13524](http://arxiv.org/abs/2502.13524)|**[link](https://github.com/anthonyweidai/MobileViM_3D)**|
+|**2025-02-19**|**Enhancing Machine Learning Potentials through Transfer Learning across Chemical Elements**|Sebastien Röcken et.al.|[2502.13522](http://arxiv.org/abs/2502.13522)|null|
 |**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
 |**2025-02-18**|**MLPs at the EOC: Dynamics of Feature Learning**|Dávid Terjék et.al.|[2502.13110](http://arxiv.org/abs/2502.13110)|null|
@@ -4110,6 +4123,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912](http://arxiv.org/abs/2502.13912)|null|
+|**2025-02-19**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874](http://arxiv.org/abs/2502.13874)|null|
+|**2025-02-19**|**ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities**|Chanjin Zheng et.al.|[2502.13832](http://arxiv.org/abs/2502.13832)|null|
+|**2025-02-19**|**Complex Ontology Matching with Large Language Model Embeddings**|Guilherme Sousa et.al.|[2502.13619](http://arxiv.org/abs/2502.13619)|null|
+|**2025-02-19**|**Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs**|Joonatan Laato et.al.|[2502.13566](http://arxiv.org/abs/2502.13566)|null|
+|**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
+|**2025-02-19**|**Explore-Construct-Filter: An Automated Framework for Rich and Reliable API Knowledge Graph Construction**|Yanbang Sun et.al.|[2502.13412](http://arxiv.org/abs/2502.13412)|null|
+|**2025-02-19**|**Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval**|Aditya Sharma et.al.|[2502.13369](http://arxiv.org/abs/2502.13369)|null|
+|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|null|
+|**2025-02-18**|**How Expressive are Knowledge Graph Foundation Models?**|Xingyue Huang et.al.|[2502.13339](http://arxiv.org/abs/2502.13339)|null|
 |**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
 |**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
 |**2025-02-18**|**A Survey of Text Classification Under Class Distribution Shift**|Adriana Valentina Costache et.al.|[2502.12965](http://arxiv.org/abs/2502.12965)|null|
