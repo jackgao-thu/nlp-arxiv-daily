@@ -64,7 +64,7 @@
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327](http://arxiv.org/abs/2502.17327)|null|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
 |**2025-02-24**|**Disentangling Visual Transformers: Patch-level Interpretability for Image Classification**|Guillaume Jeanneret et.al.|[2502.17196](http://arxiv.org/abs/2502.17196)|null|
-|**2025-02-24**|**MaxGlaViT: A novel lightweight vision transformer-based approach for early diagnosis of glaucoma stages from fundus images**|Mustafa Yurdakul et.al.|[2502.17154](http://arxiv.org/abs/2502.17154)|null|
+|**2025-02-24**|**MaxGlaViT: A novel lightweight vision transformer-based approach for early diagnosis of glaucoma stages from fundus images**|Mustafa Yurdakul et.al.|[2502.17154](http://arxiv.org/abs/2502.17154)|**[link](https://github.com/ymyurdakul/MaxGlaViT)**|
 |**2025-02-24**|**TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration**|Xin Zhang et.al.|[2502.17049](http://arxiv.org/abs/2502.17049)|null|
 |**2025-02-24**|**Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**|Maksim Zhdanov et.al.|[2502.17019](http://arxiv.org/abs/2502.17019)|null|
 |**2025-02-24**|**Atten-Transformer: A Deep Learning Framework for User App Usage Prediction**|Longlong Li et.al.|[2502.16957](http://arxiv.org/abs/2502.16957)|null|
