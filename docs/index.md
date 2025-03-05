@@ -54,6 +54,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Boltzmann Attention Sampling for Image Analysis with Small Objects**|Theodore Zhao et.al.|[2503.02841](http://arxiv.org/abs/2503.02841)|null|
+|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
+|**2025-03-04**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689](http://arxiv.org/abs/2503.02689)|null|
+|**2025-03-04**|**Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks**|Paul Suganthan et.al.|[2503.02656](http://arxiv.org/abs/2503.02656)|null|
+|**2025-03-04**|**Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs**|Wei-Yao Wang et.al.|[2503.02597](http://arxiv.org/abs/2503.02597)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|null|
+|**2025-03-04**|**Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction**|Xin Song et.al.|[2503.02542](http://arxiv.org/abs/2503.02542)|null|
+|**2025-03-04**|**Disentangled Knowledge Tracing for Alleviating Cognitive Bias**|Yiyun Zhou et.al.|[2503.02539](http://arxiv.org/abs/2503.02539)|**[link](https://github.com/zyy-2001/DisKT)**|
+|**2025-03-04**|**LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs**|Jianghao Chen et.al.|[2503.02502](http://arxiv.org/abs/2503.02502)|null|
+|**2025-03-04**|**Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation**|Dengke Zhang et.al.|[2503.02459](http://arxiv.org/abs/2503.02459)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
@@ -1872,6 +1882,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
+|**2025-03-04**|**Precision phenomenology of the PDF-BSM interplay**|Manuel Morales Alvarado et.al.|[2503.02827](http://arxiv.org/abs/2503.02827)|null|
+|**2025-03-04**|**A Minimalist Example of Edge-of-Stability and Progressive Sharpening**|Liming Liu et.al.|[2503.02809](http://arxiv.org/abs/2503.02809)|null|
+|**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|null|
+|**2025-03-04**|**Measurement noise scaling laws for cellular representation learning**|Gokul Gowri et.al.|[2503.02726](http://arxiv.org/abs/2503.02726)|null|
+|**2025-03-04**|**Catheter Detection and Segmentation in X-ray Images via Multi-task Learning**|Lin Xi et.al.|[2503.02717](http://arxiv.org/abs/2503.02717)|null|
+|**2025-03-04**|**State of play and future directions in industrial computer vision AI standards**|Artemis Stefanidou et.al.|[2503.02675](http://arxiv.org/abs/2503.02675)|null|
+|**2025-03-04**|**YARE-GAN: Yet Another Resting State EEG-GAN**|Yeganeh Farahzadi et.al.|[2503.02636](http://arxiv.org/abs/2503.02636)|null|
+|**2025-03-04**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
+|**2025-03-04**|**PVTree: Realistic and Controllable Palm Vein Generation for Recognition Tasks**|Sheng Shang et.al.|[2503.02547](http://arxiv.org/abs/2503.02547)|null|
 |**2025-02-28**|**TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**|Tatiana A. Bubba et.al.|[2502.21320](http://arxiv.org/abs/2502.21320)|null|
 |**2025-02-28**|**AutoComb: Automated Comb Sign Detector for 3D CTE Scans**|Shashwat Gupta et.al.|[2502.21311](http://arxiv.org/abs/2502.21311)|null|
 |**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/abs/2502.21292)|null|
@@ -4244,6 +4264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**NLI4DB: A Systematic Review of Natural Language Interfaces for Databases**|Mengyi Liu et.al.|[2503.02435](http://arxiv.org/abs/2503.02435)|null|
+|**2025-03-04**|**Target Return Optimizer for Multi-Game Decision Transformer**|Kensuke Tatematsu et.al.|[2503.02311](http://arxiv.org/abs/2503.02311)|null|
+|**2025-03-04**|**KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering**|Hongyu Lin et.al.|[2503.02172](http://arxiv.org/abs/2503.02172)|null|
+|**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
+|**2025-03-03**|**Geo-Semantic-Parsing: AI-powered geoparsing by traversing semantic knowledge graphs**|Leonardo Nizzoli et.al.|[2503.01386](http://arxiv.org/abs/2503.01386)|null|
+|**2025-03-03**|**Q-NL Verifier: Leveraging Synthetic Data for Robust Knowledge Graph Question Answering**|Tim Schwabe et.al.|[2503.01385](http://arxiv.org/abs/2503.01385)|null|
+|**2025-03-03**|**HREB-CRF: Hierarchical Reduced-bias EMA for Chinese Named Entity Recognition**|Sijin Sun et.al.|[2503.01217](http://arxiv.org/abs/2503.01217)|null|
+|**2025-03-03**|**Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs**|Rachit Saluja et.al.|[2503.01194](http://arxiv.org/abs/2503.01194)|null|
+|**2025-03-03**|**Large Language Models for Healthcare Text Classification: A Systematic Review**|Hajar Sakai et.al.|[2503.01159](http://arxiv.org/abs/2503.01159)|null|
+|**2025-03-02**|**HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning**|Zhuohang Jiang et.al.|[2503.00912](http://arxiv.org/abs/2503.00912)|null|
 |**2025-02-28**|**Predicting clinical outcomes from patient care pathways represented with temporal knowledge graphs**|Jong Ho Jhee et.al.|[2502.21138](http://arxiv.org/abs/2502.21138)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
