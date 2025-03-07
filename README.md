@@ -62,6 +62,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins**|Jiang Li et.al.|[2503.04650](http://arxiv.org/abs/2503.04650)|null|
+|**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643](http://arxiv.org/abs/2503.04643)|null|
+|**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
+|**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470](http://arxiv.org/abs/2503.04470)|null|
+|**2025-03-06**|**Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks**|Shengjie Liu et.al.|[2503.04233](http://arxiv.org/abs/2503.04233)|null|
+|**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223](http://arxiv.org/abs/2503.04223)|null|
+|**2025-03-06**|**Hedging with Sparse Reward Reinforcement Learning**|Yiheng Ding et.al.|[2503.04218](http://arxiv.org/abs/2503.04218)|null|
+|**2025-03-06**|**Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation**|Jie Xu et.al.|[2503.04151](http://arxiv.org/abs/2503.04151)|null|
+|**2025-03-06**|**MTS: A Deep Reinforcement Learning Portfolio Management Framework with Time-Awareness and Short-Selling**|Fengchen Gu et.al.|[2503.04143](http://arxiv.org/abs/2503.04143)|null|
+|**2025-03-06**|**SED2AM: Solving Multi-Trip Time-Dependent Vehicle Routing Problem using Deep Reinforcement Learning**|Arash Mozhdehi et.al.|[2503.04085](http://arxiv.org/abs/2503.04085)|null|
 |**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
 |**2025-03-05**|**See What You Are Told: Visual Attention Sink in Large Multimodal Models**|Seil Kang et.al.|[2503.03321](http://arxiv.org/abs/2503.03321)|null|
 |**2025-03-05**|**Lead Instrument Detection from Multitrack Music**|Longshen Ou et.al.|[2503.03232](http://arxiv.org/abs/2503.03232)|null|
@@ -1897,6 +1907,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
+|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
+|**2025-03-06**|**PSDNorm: Test-Time Temporal Normalization for Deep Learning on EEG Signals**|Théo Gnassounou et.al.|[2503.04582](http://arxiv.org/abs/2503.04582)|null|
+|**2025-03-06**|**Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**|Chenhao Yang et.al.|[2503.04516](http://arxiv.org/abs/2503.04516)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**Precoder Learning for Weighted Sum Rate Maximization**|Mingyu Deng et.al.|[2503.04497](http://arxiv.org/abs/2503.04497)|null|
+|**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
+|**2025-03-06**|**An artificially intelligent magnetic resonance spectroscopy quantification method: Comparison between QNet and LCModel on the cloud computing platform CloudBrain-MRS**|Meijin Lin et.al.|[2503.04469](http://arxiv.org/abs/2503.04469)|null|
+|**2025-03-06**|**Guiding LLMs to Generate High-Fidelity and High-Quality Counterfactual Explanations for Text Classification**|Van Bach Nguyen et.al.|[2503.04463](http://arxiv.org/abs/2503.04463)|null|
 |**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724](http://arxiv.org/abs/2503.03724)|null|
 |**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
 |**2025-03-05**|**Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO**|Irched Chafaa et.al.|[2503.03561](http://arxiv.org/abs/2503.03561)|null|
@@ -4291,7 +4311,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-05**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
+|**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680](http://arxiv.org/abs/2503.04680)|null|
+|**2025-03-06**|**Conclusive exclusion of quantum states with group action**|Hongshun Yao et.al.|[2503.04605](http://arxiv.org/abs/2503.04605)|null|
+|**2025-03-06**|**Guiding LLMs to Generate High-Fidelity and High-Quality Counterfactual Explanations for Text Classification**|Van Bach Nguyen et.al.|[2503.04463](http://arxiv.org/abs/2503.04463)|null|
+|**2025-03-06**|**Comparative Study of Zero-Shot Cross-Lingual Transfer for Bodo POS and NER Tagging Using Gemini 2.0 Flash Thinking Experimental Model**|Sanjib Narzary et.al.|[2503.04405](http://arxiv.org/abs/2503.04405)|null|
+|**2025-03-06**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
 |**2025-03-05**|**A Conceptual Model for Attributions in Event-Centric Knowledge Graphs**|Florian Plötzky et.al.|[2503.03563](http://arxiv.org/abs/2503.03563)|null|
 |**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215](http://arxiv.org/abs/2503.03215)|null|
