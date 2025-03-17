@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Advancing the Database of Cross-Linguistic Colexifications with New Workflows and Data**|Annika Tjuka et.al.|[2503.11377](http://arxiv.org/abs/2503.11377)|null|
 |**2025-02-23**|**Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation**|Simin Chen et.al.|[2502.17521](http://arxiv.org/abs/2502.17521)|**[link](https://github.com/seekingdream/static-to-dynamic-llmeval)**|
 |**2025-02-17**|**ReF Decompile: Relabeling and Function Call Enhanced Decompile**|Yunlong Feng et.al.|[2502.12221](http://arxiv.org/abs/2502.12221)|**[link](https://github.com/AlongWY/ReF-Dec)**|
 |**2025-01-08**|**Building Foundations for Natural Language Processing of Historical Turkish: Resources and Models**|Şaziye Betül Özateş et.al.|[2501.04828](http://arxiv.org/abs/2501.04828)|null|
@@ -54,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601](http://arxiv.org/abs/2503.11601)|null|
+|**2025-03-14**|**Text Compression for Efficient Language Generation**|David Gu et.al.|[2503.11426](http://arxiv.org/abs/2503.11426)|null|
+|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412](http://arxiv.org/abs/2503.11412)|null|
+|**2025-03-14**|**APLA: A Simple Adaptation Method for Vision Transformers**|Moein Sorkhei et.al.|[2503.11335](http://arxiv.org/abs/2503.11335)|null|
+|**2025-03-14**|**Addressing Information Loss and Interaction Collapse: A Dual Enhanced Attention Framework for Feature Interaction**|Yi Xu et.al.|[2503.11233](http://arxiv.org/abs/2503.11233)|null|
+|**2025-03-14**|**Don't Take Things Out of Context: Attention Intervention for Enhancing Chain-of-Thought Reasoning in Large Language Models**|Shaotian Yan et.al.|[2503.11154](http://arxiv.org/abs/2503.11154)|null|
+|**2025-03-14**|**X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression**|Guihong Li et.al.|[2503.11132](http://arxiv.org/abs/2503.11132)|null|
+|**2025-03-14**|**Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers**|Yifang Chen et.al.|[2503.11108](http://arxiv.org/abs/2503.11108)|null|
+|**2025-03-14**|**Quantum ensemble learning with a programmable superconducting processor**|Jiachen Chen et.al.|[2503.11047](http://arxiv.org/abs/2503.11047)|null|
+|**2025-03-14**|**Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement**|Zhicheng Feng et.al.|[2503.10986](http://arxiv.org/abs/2503.10986)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
 |**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
 |**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
@@ -1945,6 +1956,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Enhancing Deep Learning Based Structured Illumination Microscopy Reconstruction with Light Field Awareness**|Long-Kun Shan et.al.|[2503.11640](http://arxiv.org/abs/2503.11640)|null|
+|**2025-03-14**|**RNN-DAS: A New Deep Learning Approach for Detection and Real-Time Monitoring of Volcano-Tectonic Events Using Distributed Acoustic Sensing**|Javier Fernandez-Carabantes et.al.|[2503.11622](http://arxiv.org/abs/2503.11622)|null|
+|**2025-03-14**|**Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning**|Jielan Li et.al.|[2503.11568](http://arxiv.org/abs/2503.11568)|null|
+|**2025-03-14**|**Designing Neural Synthesizers for Low Latency Interaction**|Franco Caspe et.al.|[2503.11562](http://arxiv.org/abs/2503.11562)|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
+|**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511](http://arxiv.org/abs/2503.11511)|null|
+|**2025-03-14**|**In Shift and In Variance: Assessing the Robustness of HAR Deep Learning Models against Variability**|Azhar Ali Khaked et.al.|[2503.11466](http://arxiv.org/abs/2503.11466)|null|
+|**2025-03-14**|**Demography-independent behavioural dynamics influenced the spread of COVID-19 in Denmark**|Léo Meynent et.al.|[2503.11455](http://arxiv.org/abs/2503.11455)|**[link](https://github.com/LMeynent/Covid19-Behaviour-Survey)**|
+|**2025-03-14**|**Deep Learning Agents Trained For Avoidance Behave Like Hawks And Doves**|Aryaman Reddi et.al.|[2503.11452](http://arxiv.org/abs/2503.11452)|null|
+|**2025-03-14**|**Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation**|Cristina Improta et.al.|[2503.11402](http://arxiv.org/abs/2503.11402)|null|
 |**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510](http://arxiv.org/abs/2503.10510)|null|
 |**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496](http://arxiv.org/abs/2503.10496)|**[link](https://github.com/eirihoyh/ISLaB-LBBNN)**|
 |**2025-03-13**|**Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists**|Shriyank Somvanshi et.al.|[2503.10474](http://arxiv.org/abs/2503.10474)|null|
@@ -4397,6 +4418,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Towards Markov-State Holography**|Xizhu Zhao et.al.|[2503.11636](http://arxiv.org/abs/2503.11636)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
+|**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
 |**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
 |**2025-03-12**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-13**|**Wikipedia is Not a Dictionary, Delete! Text Classification as a Proxy for Analysing Wiki Deletion Discussions**|Hsuvas Borkakoty et.al.|[2503.10294](http://arxiv.org/abs/2503.10294)|null|
