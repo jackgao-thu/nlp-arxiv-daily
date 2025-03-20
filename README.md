@@ -63,7 +63,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
+|**2025-03-19**|**MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance**|Zihan Cao et.al.|[2503.14944](http://arxiv.org/abs/2503.14944)|null|
+|**2025-03-19**|**Optimal Transport Adapter Tuning for Bridging Modality Gaps in Few-Shot Remote Sensing Scene Classification**|Zhong Ji et.al.|[2503.14938](http://arxiv.org/abs/2503.14938)|null|
+|**2025-03-18**|**Unique Hard Attention: A Tale of Two Sides**|Selim Jerad et.al.|[2503.14615](http://arxiv.org/abs/2503.14615)|null|
+|**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties**|Ziyao Ling et.al.|[2503.14231](http://arxiv.org/abs/2503.14231)|null|
 |**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong et.al.|[2503.14151](http://arxiv.org/abs/2503.14151)|null|
 |**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150](http://arxiv.org/abs/2503.14150)|null|
@@ -1986,6 +1991,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420](http://arxiv.org/abs/2503.15420)|null|
+|**2025-03-19**|**Automated Processing of eXplainable Artificial Intelligence Outputs in Deep Learning Models for Fault Diagnostics of Large Infrastructures**|Giovanni Floreale et.al.|[2503.15415](http://arxiv.org/abs/2503.15415)|null|
+|**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339](http://arxiv.org/abs/2503.15339)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters**|Euclid Collaboration et.al.|[2503.15330](http://arxiv.org/abs/2503.15330)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): The Strong Lensing Discovery Engine A -- System overview and lens catalogue**|Euclid Collaboration et.al.|[2503.15324](http://arxiv.org/abs/2503.15324)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). First Euclid statistical study of the active galactic nuclei contribution fraction**|Euclid Collaboration et.al.|[2503.15318](http://arxiv.org/abs/2503.15318)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**|Euclid Collaboration et.al.|[2503.15316](http://arxiv.org/abs/2503.15316)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z<1$**|Euclid Collaboration et.al.|[2503.15311](http://arxiv.org/abs/2503.15311)|null|
 |**2025-03-18**|**QSTToolkit: A Python Library for Deep Learning Powered Quantum State Tomography**|George FitzGerald et.al.|[2503.14422](http://arxiv.org/abs/2503.14422)|null|
 |**2025-03-18**|**Evaluating Machine Learning Approaches for ASCII Art Generation**|Sai Coumar et.al.|[2503.14375](http://arxiv.org/abs/2503.14375)|null|
 |**2025-03-18**|**C(NN)FD -- Deep Learning Modelling of Multi-Stage Axial Compressors Aerodynamics**|Giuseppe Bruni et.al.|[2503.14369](http://arxiv.org/abs/2503.14369)|null|
@@ -4470,6 +4485,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**Entity-aware Cross-lingual Claim Detection for Automated Fact-checking**|Rrubaa Panchendrarajan et.al.|[2503.15220](http://arxiv.org/abs/2503.15220)|null|
+|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169](http://arxiv.org/abs/2503.15169)|null|
+|**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
+|**2025-03-18**|**Language Independent Named Entity Recognition via Orthogonal Transformation of Word Vectors**|Omar E. Rakha et.al.|[2503.14755](http://arxiv.org/abs/2503.14755)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
 |**2025-03-18**|**NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan**|Guillem Cadevall Ferreres et.al.|[2503.14173](http://arxiv.org/abs/2503.14173)|null|
 |**2025-03-18**|**BI-RADS prediction of mammographic masses using uncertainty information extracted from a Bayesian Deep Learning model**|Mohaddeseh Chegini et.al.|[2503.13999](http://arxiv.org/abs/2503.13999)|null|
