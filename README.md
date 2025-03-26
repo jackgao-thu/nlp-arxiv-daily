@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -57,7 +57,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Attention
 
@@ -65,7 +65,7 @@
 |---|---|---|---|---|
 |**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
 |**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840](http://arxiv.org/abs/2503.18840)|null|
-|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783](http://arxiv.org/abs/2503.18783)|null|
+|**2025-03-25**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783](http://arxiv.org/abs/2503.18783)|null|
 |**2025-03-24**|**Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures**|Abdoul Majid O. Thiombiano et.al.|[2503.18565](http://arxiv.org/abs/2503.18565)|null|
 |**2025-03-24**|**LeanStereo: A Leaner Backbone based Stereo Network**|Rafia Rahim et.al.|[2503.18557](http://arxiv.org/abs/2503.18557)|**[link](https://github.com/cogsys-tuebingen/LeanStereo)**|
 |**2025-03-24**|**Instruction-Aligned Visual Attention for Mitigating Hallucinations in Large Vision-Language Models**|Bin Li et.al.|[2503.18556](http://arxiv.org/abs/2503.18556)|null|
@@ -2015,7 +2015,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2026,7 +2026,7 @@
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
 |**2025-03-24**|**Feature Qualification by Deep Nets: A Constructive Approach**|Feilong Cao et.al.|[2503.18676](http://arxiv.org/abs/2503.18676)|null|
 |**2025-03-24**|**Deep learning-based identification of precipitation clouds from all-sky camera data for observatory safety**|Mohammad H. Zhoolideh Haghighi et.al.|[2503.18670](http://arxiv.org/abs/2503.18670)|null|
-|**2025-03-24**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
+|**2025-03-25**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
 |**2025-03-24**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658](http://arxiv.org/abs/2503.18658)|null|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Natural Language Processing for Electronic Health Records in Scandinavian Languages: Norwegian, Swedish, and Danish**|Ashenafi Zebene Woldaregay et.al.|[2503.18539](http://arxiv.org/abs/2503.18539)|null|
@@ -4539,7 +4539,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Extraction
 
@@ -6345,7 +6345,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
