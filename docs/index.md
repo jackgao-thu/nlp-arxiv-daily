@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
+|**2025-03-25**|**Mask $^2$ DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881](http://arxiv.org/abs/2503.19881)|null|
+|**2025-03-25**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
+|**2025-03-25**|**An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators**|Tseng-Jen Li et.al.|[2503.19640](http://arxiv.org/abs/2503.19640)|null|
+|**2025-03-25**|**Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System**|Ziji Guo et.al.|[2503.19594](http://arxiv.org/abs/2503.19594)|null|
+|**2025-03-25**|**RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation**|Sheng Wang et.al.|[2503.19510](http://arxiv.org/abs/2503.19510)|null|
+|**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
+|**2025-03-25**|**No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism**|Yubo Li et.al.|[2503.19285](http://arxiv.org/abs/2503.19285)|null|
+|**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
 |**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
 |**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840](http://arxiv.org/abs/2503.18840)|null|
 |**2025-03-25**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783](http://arxiv.org/abs/2503.18783)|null|
@@ -2011,6 +2021,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
+|**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
+|**2025-03-25**|**Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo**|Zeno Schätzle et.al.|[2503.19847](http://arxiv.org/abs/2503.19847)|null|
+|**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844](http://arxiv.org/abs/2503.19844)|null|
+|**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
+|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801](http://arxiv.org/abs/2503.19801)|null|
+|**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
+|**2025-03-25**|**Spectral classification of young stars using conditional invertible neural networks II. Application to Trumpler 14 in Carina**|Da Eun Kang et.al.|[2503.19697](http://arxiv.org/abs/2503.19697)|null|
+|**2025-03-25**|**Deep Learning for Speech Emotion Recognition: A CNN Approach Utilizing Mel Spectrograms**|Niketa Penumajji et.al.|[2503.19677](http://arxiv.org/abs/2503.19677)|null|
+|**2025-03-25**|**Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components**|Yuanyuan Zhang et.al.|[2503.19649](http://arxiv.org/abs/2503.19649)|null|
 |**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846](http://arxiv.org/abs/2503.18846)|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836](http://arxiv.org/abs/2503.18836)|null|
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
@@ -4533,6 +4553,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844](http://arxiv.org/abs/2503.19844)|null|
+|**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
+|**2025-03-25**|**Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation**|Shaolei Zhang et.al.|[2503.19589](http://arxiv.org/abs/2503.19589)|null|
+|**2025-03-25**|**ImageSet2Text: Describing Sets of Images through Text**|Piera Riccio et.al.|[2503.19361](http://arxiv.org/abs/2503.19361)|null|
+|**2025-03-25**|**BIMII-Net: Brain-Inspired Multi-Iterative Interactive Network for RGB-T Road Scene Semantic Segmentation**|Hanshuo Qiu et.al.|[2503.19303](http://arxiv.org/abs/2503.19303)|null|
+|**2025-03-24**|**AssertionForge: Enhancing Formal Verification Assertion Generation with Structured Representation of Specifications and RTL**|Yunsheng Bai et.al.|[2503.19174](http://arxiv.org/abs/2503.19174)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
 |**2025-03-24**|**Autoregressive Language Models for Knowledge Base Population: A case study in the space mission domain**|Andrés García-Silva et.al.|[2503.18502](http://arxiv.org/abs/2503.18502)|null|
 |**2025-03-24**|**Teaching LLMs for Step-Level Automatic Math Correction via Reinforcement Learning**|Junsong Li et.al.|[2503.18432](http://arxiv.org/abs/2503.18432)|null|
