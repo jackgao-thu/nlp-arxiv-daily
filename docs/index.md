@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
+|**2025-03-31**|**Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions**|Thinesh Thiyakesan Ponbagavathi et.al.|[2503.24298](http://arxiv.org/abs/2503.24298)|null|
+|**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071](http://arxiv.org/abs/2503.24071)|**[link](https://github.com/teresa-sc/concepts_in_vits)**|
+|**2025-03-31**|**Frequency-Aware Attention-LSTM for PM $_{2.5}$ Time Series Forecasting**|Jiahui LU et.al.|[2503.24043](http://arxiv.org/abs/2503.24043)|null|
+|**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
+|**2025-03-31**|**AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**|Kai Huang et.al.|[2503.23956](http://arxiv.org/abs/2503.23956)|null|
+|**2025-03-31**|**PupiNet: Seamless OCT-OCTA Interconversion Through Wavelet-Driven and Multi-Scale Attention Mechanisms**|Renzhi Tian et.al.|[2503.23933](http://arxiv.org/abs/2503.23933)|null|
+|**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
+|**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
+|**2025-03-31**|**An extension of linear self-attention for in-context learning**|Katsuyuki Hagiwara et.al.|[2503.23814](http://arxiv.org/abs/2503.23814)|null|
 |**2025-03-28**|**DynaGraph: Interpretable Multi-Label Prediction from EHRs via Dynamic Graph Learning and Contrastive Augmentation**|Munib Mesinovic et.al.|[2503.22257](http://arxiv.org/abs/2503.22257)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-28**|**EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices**|Jiyu Chen et.al.|[2503.22196](http://arxiv.org/abs/2503.22196)|null|
@@ -2044,6 +2054,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
+|**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|
+|**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
+|**2025-03-31**|**GPU-centric Communication Schemes for HPC and ML Applications**|Naveen Namashivayam et.al.|[2503.24230](http://arxiv.org/abs/2503.24230)|null|
+|**2025-03-31**|**Moving Edge for On-Demand Edge Computing: An Uncertainty-aware Approach**|Fangtong Zhou et.al.|[2503.24214](http://arxiv.org/abs/2503.24214)|null|
+|**2025-03-31**|**Computational Orthodontic Force Simulation: A Review**|Waheed Ahmad et.al.|[2503.24195](http://arxiv.org/abs/2503.24195)|null|
+|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187](http://arxiv.org/abs/2503.24187)|null|
+|**2025-03-31**|**Foundation Models For Seismic Data Processing: An Extensive Review**|Fabian Fuchs et.al.|[2503.24166](http://arxiv.org/abs/2503.24166)|**[link](https://codeberg.org/fuchsfa/foundation-models-seismic-processing)**|
+|**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138](http://arxiv.org/abs/2503.24138)|**[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)**|
+|**2025-03-31**|**PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization**|Alexis Guichemerre et.al.|[2503.24135](http://arxiv.org/abs/2503.24135)|**[link](https://github.com/alexisguichemerrecode/pixelcam)**|
 |**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647](http://arxiv.org/abs/2503.22647)|null|
 |**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
 |**2025-03-28**|**Evaluation of a Novel Quantitative Multiparametric MR Sequence for Radiation Therapy Treatment Response Assessment**|Yuhao Yan et.al.|[2503.22640](http://arxiv.org/abs/2503.22640)|null|
@@ -4606,6 +4626,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|
+|**2025-03-31**|**Aud-Sur: An Audio Analyzer Assistant for Audio Surveillance Applications**|Phat Lam et.al.|[2503.23827](http://arxiv.org/abs/2503.23827)|null|
+|**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718](http://arxiv.org/abs/2503.23718)|null|
+|**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673](http://arxiv.org/abs/2503.23673)|null|
+|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523](http://arxiv.org/abs/2503.23523)|null|
+|**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
+|**2025-03-29**|**Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context**|Jianfang Chen et.al.|[2503.23205](http://arxiv.org/abs/2503.23205)|null|
+|**2025-03-29**|**A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support**|Yichun Feng et.al.|[2503.23029](http://arxiv.org/abs/2503.23029)|null|
+|**2025-03-29**|**Student-Powered Digital Scholarship CoLab Project in the HKUST Library: Develop a Chinese Named-Entity Recognition (NER) Tool within One Semester from the Ground Up**|Sherry S. L. Yip et.al.|[2503.22967](http://arxiv.org/abs/2503.22967)|**[link](https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool)**|
+|**2025-03-29**|**Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective**|Xinyu Yao et.al.|[2503.22954](http://arxiv.org/abs/2503.22954)|null|
 |**2025-03-28**|**Reasoning of Large Language Models over Knowledge Graphs with Super-Relations**|Song Wang et.al.|[2503.22166](http://arxiv.org/abs/2503.22166)|null|
 |**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710](http://arxiv.org/abs/2503.21710)|null|
 |**2025-03-27**|**COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**|Rajvee Sheth et.al.|[2503.21670](http://arxiv.org/abs/2503.21670)|null|
