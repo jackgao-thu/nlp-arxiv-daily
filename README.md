@@ -4642,7 +4642,7 @@
 |**2025-03-31**|**Aud-Sur: An Audio Analyzer Assistant for Audio Surveillance Applications**|Phat Lam et.al.|[2503.23827](http://arxiv.org/abs/2503.23827)|null|
 |**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718](http://arxiv.org/abs/2503.23718)|null|
 |**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673](http://arxiv.org/abs/2503.23673)|null|
-|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523](http://arxiv.org/abs/2503.23523)|null|
+|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523](http://arxiv.org/abs/2503.23523)|**[link](https://github.com/HaochenLiu2000/QAP)**|
 |**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
 |**2025-03-29**|**Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context**|Jianfang Chen et.al.|[2503.23205](http://arxiv.org/abs/2503.23205)|null|
 |**2025-03-29**|**A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support**|Yichun Feng et.al.|[2503.23029](http://arxiv.org/abs/2503.23029)|null|
