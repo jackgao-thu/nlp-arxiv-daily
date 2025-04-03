@@ -63,6 +63,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems**|Noam Elata et.al.|[2504.01689](http://arxiv.org/abs/2504.01689)|null|
+|**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|Namhun Kim et.al.|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
+|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648](http://arxiv.org/abs/2504.01648)|null|
+|**2025-04-02**|**Coarse-to-Fine Semantic Communication Systems for Text Transmission**|Mengli Tao et.al.|[2504.01442](http://arxiv.org/abs/2504.01442)|null|
+|**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
+|**2025-04-01**|**FUSION: Frequency-guided Underwater Spatial Image recOnstructioN**|Jaskaran Singh Walia et.al.|[2504.01243](http://arxiv.org/abs/2504.01243)|null|
+|**2025-04-01**|**GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection**|Banafsheh Adami et.al.|[2504.01213](http://arxiv.org/abs/2504.01213)|null|
+|**2025-04-01**|**Multi-Token Attention**|Olga Golovneva et.al.|[2504.00927](http://arxiv.org/abs/2504.00927)|null|
+|**2025-04-01**|**CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification**|Yang Yang et.al.|[2504.00784](http://arxiv.org/abs/2504.00784)|**[link](https://github.com/JieZheng-ShanghaiTech/CellVTA)**|
+|**2025-04-01**|**Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**|Songran Bai et.al.|[2504.00721](http://arxiv.org/abs/2504.00721)|null|
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-31**|**Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions**|Thinesh Thiyakesan Ponbagavathi et.al.|[2503.24298](http://arxiv.org/abs/2503.24298)|null|
 |**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071](http://arxiv.org/abs/2503.24071)|**[link](https://github.com/teresa-sc/concepts_in_vits)**|
@@ -2064,6 +2074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953](http://arxiv.org/abs/2504.01953)|null|
+|**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875](http://arxiv.org/abs/2504.01875)|null|
+|**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822](http://arxiv.org/abs/2504.01822)|null|
+|**2025-04-02**|**Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality**|Kegang Wang et.al.|[2504.01774](http://arxiv.org/abs/2504.01774)|null|
+|**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|Namhun Kim et.al.|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
+|**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|null|
+|**2025-04-02**|**Sparse Gaussian Neural Processes**|Tommy Rochussen et.al.|[2504.01650](http://arxiv.org/abs/2504.01650)|null|
+|**2025-04-02**|**The Mini-SiTian Array: real-bogus classification using deep learning**|Jing-Hang Shi et.al.|[2504.01608](http://arxiv.org/abs/2504.01608)|null|
+|**2025-04-02**|**Binding energy of $^{3}_Λ\rm{H}$ and $^{4}_Λ\rm{H}$ via image analyses of nuclear emulsions using deep-learning**|Ayumi Kasagi et.al.|[2504.01601](http://arxiv.org/abs/2504.01601)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
 |**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
@@ -4638,6 +4658,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
+|**2025-04-02**|**Buggin: Automatic intrinsic bugs classification model using NLP and ML**|Pragya Bhandari et.al.|[2504.01869](http://arxiv.org/abs/2504.01869)|null|
+|**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822](http://arxiv.org/abs/2504.01822)|null|
+|**2025-04-02**|**A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines**|Calvin Kinateder et.al.|[2504.01798](http://arxiv.org/abs/2504.01798)|null|
+|**2025-04-02**|**Foundations and Evaluations in NLP**|Jungyeul Park et.al.|[2504.01342](http://arxiv.org/abs/2504.01342)|null|
+|**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
+|**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993](http://arxiv.org/abs/2504.00993)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
+|**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852](http://arxiv.org/abs/2504.00852)|null|
+|**2025-04-01**|**GLiNER-biomed: A Suite of Efficient Models for Open Biomedical Named Entity Recognition**|Anthony Yazdani et.al.|[2504.00676](http://arxiv.org/abs/2504.00676)|**[link](https://github.com/ds4dh/GLiNER-biomed)**|
+|**2025-04-01**|**Do LLMs Surpass Encoders for Biomedical NER?**|Motasem S Obeidat et.al.|[2504.00664](http://arxiv.org/abs/2504.00664)|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|
 |**2025-03-31**|**Aud-Sur: An Audio Analyzer Assistant for Audio Surveillance Applications**|Phat Lam et.al.|[2503.23827](http://arxiv.org/abs/2503.23827)|null|
 |**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718](http://arxiv.org/abs/2503.23718)|null|
