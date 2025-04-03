@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -57,7 +57,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Attention
 
@@ -2058,7 +2058,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2070,7 +2070,7 @@
 |**2025-03-31**|**GPU-centric Communication Schemes for HPC and ML Applications**|Naveen Namashivayam et.al.|[2503.24230](http://arxiv.org/abs/2503.24230)|null|
 |**2025-03-31**|**Moving Edge for On-Demand Edge Computing: An Uncertainty-aware Approach**|Fangtong Zhou et.al.|[2503.24214](http://arxiv.org/abs/2503.24214)|null|
 |**2025-03-31**|**Computational Orthodontic Force Simulation: A Review**|Waheed Ahmad et.al.|[2503.24195](http://arxiv.org/abs/2503.24195)|null|
-|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187](http://arxiv.org/abs/2503.24187)|null|
+|**2025-04-02**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187](http://arxiv.org/abs/2503.24187)|null|
 |**2025-03-31**|**Foundation Models For Seismic Data Processing: An Extensive Review**|Fabian Fuchs et.al.|[2503.24166](http://arxiv.org/abs/2503.24166)|**[link](https://codeberg.org/fuchsfa/foundation-models-seismic-processing)**|
 |**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138](http://arxiv.org/abs/2503.24138)|**[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)**|
 |**2025-03-31**|**PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization**|Alexis Guichemerre et.al.|[2503.24135](http://arxiv.org/abs/2503.24135)|**[link](https://github.com/alexisguichemerrecode/pixelcam)**|
@@ -4632,7 +4632,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Extraction
 
@@ -6469,7 +6469,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
