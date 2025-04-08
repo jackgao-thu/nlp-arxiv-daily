@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172](http://arxiv.org/abs/2504.05172)|null|
+|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045](http://arxiv.org/abs/2504.05045)|null|
+|**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
+|**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
+|**2025-04-07**|**Enhancing Leaf Disease Classification Using GAT-GCN Hybrid Model**|Shyam Sundhar et.al.|[2504.04764](http://arxiv.org/abs/2504.04764)|null|
+|**2025-04-07**|**TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text-Video Retrieval**|Xiaolun Jing et.al.|[2504.04707](http://arxiv.org/abs/2504.04707)|null|
+|**2025-04-07**|**LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important**|Manlai Liang et.al.|[2504.04704](http://arxiv.org/abs/2504.04704)|null|
+|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|null|
+|**2025-04-06**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
+|**2025-04-06**|**Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization**|Renyuan Liu et.al.|[2504.04477](http://arxiv.org/abs/2504.04477)|null|
 |**2025-04-04**|**AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities**|Badhan Kumar Das et.al.|[2504.03589](http://arxiv.org/abs/2504.03589)|null|
 |**2025-04-04**|**HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**|Boyuan Wang et.al.|[2504.03536](http://arxiv.org/abs/2504.03536)|null|
 |**2025-04-04**|**FADConv: A Frequency-Aware Dynamic Convolution for Farmland Non-agriculturalization Identification and Segmentation**|Tan Shu et.al.|[2504.03510](http://arxiv.org/abs/2504.03510)|null|
@@ -2083,6 +2093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253](http://arxiv.org/abs/2504.05253)|null|
+|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250](http://arxiv.org/abs/2504.05250)|null|
+|**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
+|**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219](http://arxiv.org/abs/2504.05219)|null|
+|**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184](http://arxiv.org/abs/2504.05184)|null|
+|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176](http://arxiv.org/abs/2504.05176)|null|
+|**2025-04-07**|**Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting**|Shuai Han et.al.|[2504.05140](http://arxiv.org/abs/2504.05140)|null|
+|**2025-04-07**|**ABCDWaveNet: Advancing Robust Road Ponding Detection in Fog through Dynamic Frequency-Spatial Synergy**|Ronghui Zhang et.al.|[2504.05112](http://arxiv.org/abs/2504.05112)|null|
+|**2025-04-07**|**Climplicit: Climatic Implicit Embeddings for Global Ecological Tasks**|Johannes Dollinger et.al.|[2504.05089](http://arxiv.org/abs/2504.05089)|null|
+|**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062](http://arxiv.org/abs/2504.05062)|null|
 |**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
 |**2025-04-04**|**AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities**|Badhan Kumar Das et.al.|[2504.03589](http://arxiv.org/abs/2504.03589)|null|
 |**2025-04-04**|**Optimistic Learning for Communication Networks**|George Iosifidis et.al.|[2504.03499](http://arxiv.org/abs/2504.03499)|null|
@@ -4685,6 +4705,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
+|**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
+|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
+|**2025-04-07**|**Batch Aggregation: An Approach to Enhance Text Classification with Correlated Augmented Data**|Charco Hui et.al.|[2504.05020](http://arxiv.org/abs/2504.05020)|null|
+|**2025-04-07**|**Constraint Multi-class Positive and Unlabeled Learning for Distantly Supervised Named Entity Recognition**|Yuzhe Zhang et.al.|[2504.04963](http://arxiv.org/abs/2504.04963)|null|
+|**2025-04-07**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
+|**2025-04-06**|**DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition**|Qi Zhang et.al.|[2504.04616](http://arxiv.org/abs/2504.04616)|null|
+|**2025-04-06**|**Parameter estimation of nonsingular black holes in conformal gravity using megamaser observational data from NGC 4258**|Diego A. Martínez-Valera et.al.|[2504.04588](http://arxiv.org/abs/2504.04588)|null|
+|**2025-04-06**|**BARQ: A Vectorized SPARQL Query Execution Engine**|Simon Grätzer et.al.|[2504.04584](http://arxiv.org/abs/2504.04584)|null|
+|**2025-04-06**|**Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification**|Cristina Cornelio et.al.|[2504.04578](http://arxiv.org/abs/2504.04578)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
 |**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327](http://arxiv.org/abs/2504.03327)|null|
 |**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159](http://arxiv.org/abs/2504.03159)|null|
