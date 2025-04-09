@@ -63,6 +63,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212](http://arxiv.org/abs/2504.06212)|null|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205](http://arxiv.org/abs/2504.06205)|**[link](https://github.com/xq141839/HRMedSeg)**|
+|**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158](http://arxiv.org/abs/2504.06158)|**[link](https://github.com/saadwazir/ReN-UNet)**|
+|**2025-04-08**|**AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems**|Zhuoli Zhuang et.al.|[2504.05950](http://arxiv.org/abs/2504.05950)|null|
+|**2025-04-08**|**Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics**|Xingzu Liu et.al.|[2504.05855](http://arxiv.org/abs/2504.05855)|null|
+|**2025-04-08**|**End-to-End Dialog Neural Coreference Resolution: Balancing Efficiency and Accuracy in Large-Scale Systems**|Zhang Dong et.al.|[2504.05824](http://arxiv.org/abs/2504.05824)|null|
+|**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774](http://arxiv.org/abs/2504.05774)|null|
+|**2025-04-08**|**A Lightweight Multi-Module Fusion Approach for Korean Character Recognition**|Inho Jake Park et.al.|[2504.05770](http://arxiv.org/abs/2504.05770)|null|
+|**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
+|**2025-04-08**|**Point-based Instance Completion with Scene Constraints**|Wesley Khademi et.al.|[2504.05698](http://arxiv.org/abs/2504.05698)|null|
 |**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172](http://arxiv.org/abs/2504.05172)|null|
 |**2025-04-08**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045](http://arxiv.org/abs/2504.05045)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
@@ -2103,6 +2113,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
+|**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173](http://arxiv.org/abs/2504.06173)|**[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)**|
+|**2025-04-08**|**PINP: Physics-Informed Neural Predictor with latent estimation of fluid flows**|Huaguan Chen et.al.|[2504.06070](http://arxiv.org/abs/2504.06070)|null|
+|**2025-04-08**|**AI analysis of medical images at scale as a health disparities probe: a feasibility demonstration using chest radiographs**|Heather M. Whitney et.al.|[2504.05990](http://arxiv.org/abs/2504.05990)|null|
+|**2025-04-08**|**Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem**|Aitor Morais et.al.|[2504.05989](http://arxiv.org/abs/2504.05989)|null|
+|**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Huazhi Dong et.al.|[2504.05987](http://arxiv.org/abs/2504.05987)|null|
+|**2025-04-08**|**Autoencoder-Based Detection of Anomalous Stokes V Spectra in the Flare-Producing Active Region 13663 Using Hinode/SP Observations**|Jargalmaa Batmunkh et.al.|[2504.05962](http://arxiv.org/abs/2504.05962)|null|
+|**2025-04-08**|**Drought forecasting using a hybrid neural architecture for integrating time series and static data**|Julian Agudelo et.al.|[2504.05957](http://arxiv.org/abs/2504.05957)|null|
+|**2025-04-08**|**High-Resource Translation:Turning Abundance into Accessibility**|Abhiram Reddy Yanampally et.al.|[2504.05914](http://arxiv.org/abs/2504.05914)|null|
+|**2025-04-08**|**Residual U-Net for accurate and efficient prediction of hemodynamics in two-dimensional asymmetric stenosis**|Xintong Zou et.al.|[2504.05778](http://arxiv.org/abs/2504.05778)|null|
 |**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253](http://arxiv.org/abs/2504.05253)|null|
 |**2025-04-08**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250](http://arxiv.org/abs/2504.05250)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
@@ -4717,6 +4737,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**|Duanyang Yuan et.al.|[2504.06129](http://arxiv.org/abs/2504.06129)|null|
+|**2025-04-08**|**From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM**|Jianyu Liu et.al.|[2504.05801](http://arxiv.org/abs/2504.05801)|null|
+|**2025-04-08**|**Cross-Document Contextual Coreference Resolution in Knowledge Graphs**|Zhang Dong et.al.|[2504.05767](http://arxiv.org/abs/2504.05767)|null|
+|**2025-04-08**|**Layer-Aware Embedding Fusion for LLMs in Text Classifications**|Jiho Gwak et.al.|[2504.05764](http://arxiv.org/abs/2504.05764)|null|
+|**2025-04-07**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|null|
 |**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
