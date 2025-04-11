@@ -63,6 +63,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
+|**2025-04-10**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
+|**2025-04-10**|**FMNV: A Dataset of Media-Published News Videos for Fake News Detection**|Yihao Wang et.al.|[2504.07687](http://arxiv.org/abs/2504.07687)|null|
+|**2025-04-10**|**Extending Visual Dynamics for Video-to-Music Generation**|Xiaohao Liu et.al.|[2504.07594](http://arxiv.org/abs/2504.07594)|null|
+|**2025-04-10**|**DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction**|Xu Zhao et.al.|[2504.07524](http://arxiv.org/abs/2504.07524)|null|
+|**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
+|**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416](http://arxiv.org/abs/2504.07416)|null|
+|**2025-04-10**|**ChronoFormer: Time-Aware Transformer Architectures for Structured Clinical Event Modeling**|Yuanyun Zhang et.al.|[2504.07373](http://arxiv.org/abs/2504.07373)|null|
+|**2025-04-10**|**Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs**|Taibiao Zhao et.al.|[2504.07360](http://arxiv.org/abs/2504.07360)|**[link](https://github.com/ztb-35/MLTA)**|
+|**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras**|Teng Xiao et.al.|[2504.06965](http://arxiv.org/abs/2504.06965)|null|
 |**2025-04-09**|**Adaptive Computation Pruning for the Forgetting Transformer**|Zhixuan Lin et.al.|[2504.06949](http://arxiv.org/abs/2504.06949)|null|
 |**2025-04-09**|**ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities**|Dingkun Yan et.al.|[2504.06895](http://arxiv.org/abs/2504.06895)|**[link](https://github.com/tellurion-kanata/colorizediffusion)**|
@@ -2121,6 +2131,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839](http://arxiv.org/abs/2504.07839)|null|
+|**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|null|
+|**2025-04-10**|**Focal Cortical Dysplasia Type II Detection Using Cross Modality Transfer Learning and Grad-CAM in 3D-CNNs for MRI Analysis**|Lorenzo Lasagni et.al.|[2504.07775](http://arxiv.org/abs/2504.07775)|null|
+|**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760](http://arxiv.org/abs/2504.07760)|null|
+|**2025-04-10**|**Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for Effective Elicitation and Retrieval of Information**|A. Loreti et.al.|[2504.07738](http://arxiv.org/abs/2504.07738)|null|
+|**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736](http://arxiv.org/abs/2504.07736)|null|
+|**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697](http://arxiv.org/abs/2504.07697)|null|
 |**2025-04-09**|**Detecting AI-generated Artwork**|Meien Li et.al.|[2504.07078](http://arxiv.org/abs/2504.07078)|null|
 |**2025-04-09**|**Physics informed neural network for forward and inverse modeling of low grade brain tumors**|K. Murari et.al.|[2504.07058](http://arxiv.org/abs/2504.07058)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
@@ -4755,6 +4775,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Siren Federate: Bridging document, relational, and graph models for exploratory graph analysis**|Georgeta Bordea et.al.|[2504.07815](http://arxiv.org/abs/2504.07815)|null|
+|**2025-04-10**|**Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for Effective Elicitation and Retrieval of Information**|A. Loreti et.al.|[2504.07738](http://arxiv.org/abs/2504.07738)|null|
+|**2025-04-10**|**ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models**|Joel Barmettler et.al.|[2504.07624](http://arxiv.org/abs/2504.07624)|null|
+|**2025-04-10**|**Traversal Learning Coordination For Lossless And Efficient Distributed Learning**|Erdenebileg Batbaatar et.al.|[2504.07471](http://arxiv.org/abs/2504.07471)|null|
+|**2025-04-10**|**Transformer-Based Temporal Information Extraction and Application: A Review**|Xin Su et.al.|[2504.07470](http://arxiv.org/abs/2504.07470)|null|
+|**2025-04-10**|**CyberAlly: Leveraging LLMs and Knowledge Graphs to Empower Cyber Defenders**|Minjune Kim et.al.|[2504.07457](http://arxiv.org/abs/2504.07457)|null|
+|**2025-04-10**|**LLM-Enabled Data Transmission in End-to-End Semantic Communication**|Shavbo Salehi et.al.|[2504.07431](http://arxiv.org/abs/2504.07431)|null|
+|**2025-04-10**|**Emergency Communication: OTFS-Based Semantic Transmission with Diffusion Noise Suppression**|Kexin Zhang et.al.|[2504.07420](http://arxiv.org/abs/2504.07420)|null|
+|**2025-04-09**|**Language Modeling for the Future of Finance: A Quantitative Survey into Metrics, Tasks, and Data Opportunities**|Nikita Tatarinov et.al.|[2504.07274](http://arxiv.org/abs/2504.07274)|null|
+|**2025-04-09**|**A new training approach for text classification in Mental Health: LatentGLoss**|Korhan Sevinç et.al.|[2504.07245](http://arxiv.org/abs/2504.07245)|null|
 |**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087](http://arxiv.org/abs/2504.07087)|null|
 |**2025-04-09**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766](http://arxiv.org/abs/2504.06766)|null|
 |**2025-04-09**|**DiffusionCom: Structure-Aware Multimodal Diffusion Model for Multimodal Knowledge Graph Completion**|Wei Huang et.al.|[2504.06543](http://arxiv.org/abs/2504.06543)|null|
