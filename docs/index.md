@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
+|**2025-04-14**|**Inferring genotype-phenotype maps using attention models**|Krishna Rijal et.al.|[2504.10388](http://arxiv.org/abs/2504.10388)|null|
+|**2025-04-14**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
+|**2025-04-14**|**Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach**|Lixiang Lian et.al.|[2504.10060](http://arxiv.org/abs/2504.10060)|null|
+|**2025-04-13**|**Automatic Detection of Intro and Credits in Video using CLIP and Multihead Attention**|Vasilii Korolkov et.al.|[2504.09738](http://arxiv.org/abs/2504.09738)|null|
+|**2025-04-13**|**Ordinary Least Squares as an Attention Mechanism**|Philippe Goulet Coulombe et.al.|[2504.09663](http://arxiv.org/abs/2504.09663)|null|
+|**2025-04-13**|**Reduction of Supervision for Biomedical Knowledge Discovery**|Christos Theodoropoulos et.al.|[2504.09582](http://arxiv.org/abs/2504.09582)|null|
+|**2025-04-13**|**Don't Deceive Me: Mitigating Gaslighting through Attention Reallocation in LMMs**|Pengkun Jiao et.al.|[2504.09456](http://arxiv.org/abs/2504.09456)|null|
+|**2025-04-13**|**Spatially Directional Dual-Attention GAT for Spatial Fluoride Health Risk Modeling**|Da Yuan et.al.|[2504.09416](http://arxiv.org/abs/2504.09416)|null|
+|**2025-04-13**|**Question Tokens Deserve More Attention: Enhancing Large Language Models without Training through Step-by-Step Reading and Question Attention Recalibration**|Feijiang Han et.al.|[2504.09402](http://arxiv.org/abs/2504.09402)|null|
 |**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638](http://arxiv.org/abs/2504.08638)|null|
 |**2025-04-11**|**Enhancing knowledge retention for continual learning with domain-specific adapters and features gating**|Mohamed Abbas Hedjazi et.al.|[2504.08613](http://arxiv.org/abs/2504.08613)|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
@@ -2131,6 +2141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
+|**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452](http://arxiv.org/abs/2504.10452)|null|
+|**2025-04-14**|**Better Coherence, Better Height: Fusing Physical Models and Deep Learning for Forest Height Estimation from Interferometric SAR Data**|Ragini Bal Mahesh et.al.|[2504.10395](http://arxiv.org/abs/2504.10395)|null|
+|**2025-04-14**|**Inferring genotype-phenotype maps using attention models**|Krishna Rijal et.al.|[2504.10388](http://arxiv.org/abs/2504.10388)|null|
+|**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
+|**2025-04-14**|**DUE: A Deep Learning Framework and Library for Modeling Unknown Equations**|Junfeng Chen et.al.|[2504.10373](http://arxiv.org/abs/2504.10373)|null|
+|**2025-04-14**|**Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging**|Mathieu Manni et.al.|[2504.10288](http://arxiv.org/abs/2504.10288)|null|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
+|**2025-04-14**|**Trade-offs in Privacy-Preserving Eye Tracking through Iris Obfuscation: A Benchmarking Study**|Mengdi Wang et.al.|[2504.10267](http://arxiv.org/abs/2504.10267)|null|
+|**2025-04-14**|**Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg**|Ziyao Shang et.al.|[2504.10244](http://arxiv.org/abs/2504.10244)|null|
 |**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
 |**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|null|
 |**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660](http://arxiv.org/abs/2504.08660)|null|
@@ -4783,6 +4803,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models**|Yujing Wang et.al.|[2504.09910](http://arxiv.org/abs/2504.09910)|null|
+|**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877](http://arxiv.org/abs/2504.09877)|null|
+|**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|null|
+|**2025-04-13**|**CLEAR-KGQA: Clarification-Enhanced Ambiguity Resolution for Knowledge Graph Question Answering**|Liqiang Wen et.al.|[2504.09665](http://arxiv.org/abs/2504.09665)|null|
+|**2025-04-12**|**Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale**|Priyan Vaithilingam et.al.|[2504.09283](http://arxiv.org/abs/2504.09283)|null|
+|**2025-04-12**|**Langformers: Unified NLP Pipelines for Language Models**|Rabindra Lamsal et.al.|[2504.09170](http://arxiv.org/abs/2504.09170)|null|
+|**2025-04-12**|**Study on Text Classification for Public Administration**|Stefanie Schwaar et.al.|[2504.09111](http://arxiv.org/abs/2504.09111)|null|
+|**2025-04-11**|**On Large-scale Evaluation of Embedding Models for Knowledge Graph Completion**|Nasim Shirvani-Mahdavi et.al.|[2504.08970](http://arxiv.org/abs/2504.08970)|null|
+|**2025-04-11**|**Forecasting Cryptocurrency Prices using Contextual ES-adRNN with Exogenous Variables**|Slawek Smyl et.al.|[2504.08947](http://arxiv.org/abs/2504.08947)|null|
+|**2025-04-11**|**Knowledge Graph-extended Retrieval Augmented Generation for Question Answering**|Jasper Linders et.al.|[2504.08893](http://arxiv.org/abs/2504.08893)|null|
 |**2025-04-11**|**Title block detection and information extraction for enhanced building drawings search**|Alessio Lombardi et.al.|[2504.08645](http://arxiv.org/abs/2504.08645)|null|
 |**2025-04-11**|**Integrated ensemble of BERT- and features-based models for authorship attribution in Japanese literary works**|Taisei Kanda et.al.|[2504.08527](http://arxiv.org/abs/2504.08527)|null|
 |**2025-04-11**|**A Systematic Evaluation of Knowledge Graph Embeddings for Gene-Disease Association Prediction**|Catarina Canastra et.al.|[2504.08445](http://arxiv.org/abs/2504.08445)|null|
