@@ -71,7 +71,7 @@
 |**2025-04-17**|**SMARTe: Slot-based Method for Accountable Relational Triple extraction**|Xue Wen Tan et.al.|[2504.12816](http://arxiv.org/abs/2504.12816)|null|
 |**2025-04-17**|**Simplifying Graph Transformers**|Liheng Ma et.al.|[2504.12588](http://arxiv.org/abs/2504.12588)|null|
 |**2025-04-16**|**GLUSE: Enhanced Channel-Wise Adaptive Gated Linear Units SE for Onboard Satellite Earth Observation Image Classification**|Thanh-Dung Le et.al.|[2504.12484](http://arxiv.org/abs/2504.12484)|null|
-|**2025-04-16**|**One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**|Jia-Peng Zhang et.al.|[2504.12451](http://arxiv.org/abs/2504.12451)|null|
+|**2025-04-16**|**One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**|Jia-Peng Zhang et.al.|[2504.12451](http://arxiv.org/abs/2504.12451)|**[link](https://github.com/VAST-AI-Research/UniRig)**|
 |**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442](http://arxiv.org/abs/2504.12442)|null|
 |**2025-04-16**|**SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields**|David Keetae Park et.al.|[2504.12262](http://arxiv.org/abs/2504.12262)|null|
 |**2025-04-16**|**Approximation Bounds for Transformer Networks with Application to Regression**|Yuling Jiao et.al.|[2504.12175](http://arxiv.org/abs/2504.12175)|null|
