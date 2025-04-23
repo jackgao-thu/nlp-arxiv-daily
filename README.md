@@ -63,6 +63,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**SUPRA: Subspace Parameterized Attention for Neural Operator on General Domains**|Zherui Yang et.al.|[2504.15897](http://arxiv.org/abs/2504.15897)|null|
+|**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|null|
+|**2025-04-22**|**GADS: A Super Lightweight Model for Head Pose Estimation**|Menan Velayuthan et.al.|[2504.15751](http://arxiv.org/abs/2504.15751)|null|
+|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
+|**2025-04-22**|**Enhancing Reinforcement learning in 3-Dimensional Hydrophobic-Polar Protein Folding Model with Attention-based layers**|Peizheng Liu et.al.|[2504.15634](http://arxiv.org/abs/2504.15634)|null|
+|**2025-04-22**|**Bayesian Autoencoder for Medical Anomaly Detection: Uncertainty-Aware Approach for Brain 2 MRI Analysis**|Dip Roy et.al.|[2504.15562](http://arxiv.org/abs/2504.15562)|null|
+|**2025-04-21**|**KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-21**|**A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention**|Tao Yang et.al.|[2504.15223](http://arxiv.org/abs/2504.15223)|null|
 |**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
 |**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085](http://arxiv.org/abs/2504.15085)|null|
@@ -2201,6 +2208,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Universal differential equations for optimal control problems and its application on cancer therapy**|Wenjing Zhang et.al.|[2504.16035](http://arxiv.org/abs/2504.16035)|null|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-22**|**Making Neural Networks More Suitable for Approximate Clifford+T Circuit Synthesis**|Mathias Weiden et.al.|[2504.15990](http://arxiv.org/abs/2504.15990)|null|
+|**2025-04-22**|**Few-shot Hate Speech Detection Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.15987](http://arxiv.org/abs/2504.15987)|null|
+|**2025-04-22**|**Deep learning of point processes for modeling high-frequency data**|Yoshihiro Gyotoku et.al.|[2504.15944](http://arxiv.org/abs/2504.15944)|null|
+|**2025-04-22**|**Benchmarking the Reproducibility of Brain MRI Segmentation Across Scanners and Time**|Ekaterina Kondrateva et.al.|[2504.15931](http://arxiv.org/abs/2504.15931)|null|
+|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899](http://arxiv.org/abs/2504.15899)|null|
+|**2025-04-22**|**Integrating Non-Linear Radon Transformation for Diabetic Retinopathy Grading**|Farida Mohsen et.al.|[2504.15883](http://arxiv.org/abs/2504.15883)|null|
+|**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|null|
 |**2025-04-21**|**A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention**|Tao Yang et.al.|[2504.15223](http://arxiv.org/abs/2504.15223)|null|
 |**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214](http://arxiv.org/abs/2504.15214)|null|
 |**2025-04-21**|**Automated Measurement of Eczema Severity with Self-Supervised Learning**|Neelesh Kumar et.al.|[2504.15193](http://arxiv.org/abs/2504.15193)|null|
@@ -4915,6 +4932,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-22**|**Automated Bug Report Prioritization in Large Open-Source Projects**|Riley Pierson et.al.|[2504.15912](http://arxiv.org/abs/2504.15912)|null|
+|**2025-04-22**|**Generative AI for Research Data Processing: Lessons Learnt From Three Use Cases**|Modhurita Mitra et.al.|[2504.15829](http://arxiv.org/abs/2504.15829)|null|
+|**2025-04-22**|**WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2504.15785](http://arxiv.org/abs/2504.15785)|null|
+|**2025-04-22**|**LLM-based Semantic Augmentation for Harmful Content Detection**|Elyas Meguellati et.al.|[2504.15548](http://arxiv.org/abs/2504.15548)|null|
+|**2025-04-21**|**Feeding LLM Annotations to BERT Classifiers at Your Own Risk**|Yucheng Lu et.al.|[2504.15432](http://arxiv.org/abs/2504.15432)|null|
 |**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
 |**2025-04-21**|**LLMs as Data Annotators: How Close Are We to Human Performance**|Muhammad Uzair Ul Haq et.al.|[2504.15022](http://arxiv.org/abs/2504.15022)|null|
