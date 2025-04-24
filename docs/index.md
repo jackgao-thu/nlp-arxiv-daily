@@ -55,6 +55,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
+|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/abs/2504.16795)|null|
+|**2025-04-23**|**Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16774](http://arxiv.org/abs/2504.16774)|null|
+|**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761](http://arxiv.org/abs/2504.16761)|null|
+|**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
+|**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655](http://arxiv.org/abs/2504.16655)|null|
+|**2025-04-23**|**PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression**|Lizhe Chen et.al.|[2504.16574](http://arxiv.org/abs/2504.16574)|null|
+|**2025-04-23**|**A Few-Shot Metric Learning Method with Dual-Channel Attention for Cross-Modal Same-Neuron Identification**|Wenwei Li et.al.|[2504.16520](http://arxiv.org/abs/2504.16520)|null|
+|**2025-04-23**|**Transformer-Based Extraction of Statutory Definitions from the U.S. Code**|Arpana Hosabettu et.al.|[2504.16353](http://arxiv.org/abs/2504.16353)|null|
 |**2025-04-22**|**SUPRA: Subspace Parameterized Attention for Neural Operator on General Domains**|Zherui Yang et.al.|[2504.15897](http://arxiv.org/abs/2504.15897)|null|
 |**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|null|
 |**2025-04-22**|**GADS: A Super Lightweight Model for Head Pose Estimation**|Menan Velayuthan et.al.|[2504.15751](http://arxiv.org/abs/2504.15751)|null|
@@ -2198,6 +2207,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866](http://arxiv.org/abs/2504.16866)|null|
+|**2025-04-23**|**Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**|Ruben Gonzalez Avilés et.al.|[2504.16851](http://arxiv.org/abs/2504.16851)|null|
+|**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761](http://arxiv.org/abs/2504.16761)|null|
+|**2025-04-23**|**Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery**|Rupak Bose et.al.|[2504.16749](http://arxiv.org/abs/2504.16749)|null|
+|**2025-04-23**|**MTSGL: Multi-Task Structure Guided Learning for Robust and Interpretable SAR Aircraft Recognition**|Qishan He et.al.|[2504.16467](http://arxiv.org/abs/2504.16467)|null|
+|**2025-04-23**|**From Past to Present: A Survey of Malicious URL Detection Techniques, Datasets and Code Repositories**|Ye Tian et.al.|[2504.16449](http://arxiv.org/abs/2504.16449)|null|
+|**2025-04-23**|**MAGIC: Near-Optimal Data Attribution for Deep Learning**|Andrew Ilyas et.al.|[2504.16430](http://arxiv.org/abs/2504.16430)|null|
+|**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
 |**2025-04-22**|**Universal differential equations for optimal control problems and its application on cancer therapy**|Wenjing Zhang et.al.|[2504.16035](http://arxiv.org/abs/2504.16035)|null|
 |**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
 |**2025-04-22**|**Making Neural Networks More Suitable for Approximate Clifford+T Circuit Synthesis**|Mathias Weiden et.al.|[2504.15990](http://arxiv.org/abs/2504.15990)|null|
@@ -4920,6 +4939,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
+|**2025-04-23**|**LLM-assisted Graph-RAG Information Extraction from IFC Data**|Sima Iranmanesh et.al.|[2504.16813](http://arxiv.org/abs/2504.16813)|null|
+|**2025-04-23**|**Transformers for Complex Query Answering over Knowledge Hypergraphs**|Hong Ting Tsang et.al.|[2504.16537](http://arxiv.org/abs/2504.16537)|null|
+|**2025-04-23**|**EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records**|Shuguang Zhao et.al.|[2504.16448](http://arxiv.org/abs/2504.16448)|null|
+|**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
+|**2025-04-23**|**ConTextual: Improving Clinical Text Summarization in LLMs with Context-preserving Token Filtering and Knowledge Graphs**|Fahmida Liza Piya et.al.|[2504.16394](http://arxiv.org/abs/2504.16394)|null|
 |**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
 |**2025-04-22**|**Automated Bug Report Prioritization in Large Open-Source Projects**|Riley Pierson et.al.|[2504.15912](http://arxiv.org/abs/2504.15912)|null|
 |**2025-04-22**|**Generative AI for Research Data Processing: Lessons Learnt From Three Use Cases**|Modhurita Mitra et.al.|[2504.15829](http://arxiv.org/abs/2504.15829)|null|
