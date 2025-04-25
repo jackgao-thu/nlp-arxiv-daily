@@ -55,6 +55,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach**|Sihem Bakri et.al.|[2504.17590](http://arxiv.org/abs/2504.17590)|null|
+|**2025-04-24**|**Combining GCN Structural Learning with LLM Chemical Knowledge for or Enhanced Virtual Screening**|Radia Berreziga et.al.|[2504.17497](http://arxiv.org/abs/2504.17497)|null|
+|**2025-04-24**|**Contrastive Learning for Continuous Touch-Based Authentication**|Mengyu Qiao et.al.|[2504.17271](http://arxiv.org/abs/2504.17271)|null|
+|**2025-04-24**|**3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations**|Shaoyu Pei et.al.|[2504.17255](http://arxiv.org/abs/2504.17255)|null|
+|**2025-04-24**|**Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo**|Ocheme Anthony Ekle et.al.|[2504.17252](http://arxiv.org/abs/2504.17252)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
 |**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/abs/2504.16795)|null|
 |**2025-04-23**|**Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16774](http://arxiv.org/abs/2504.16774)|null|
@@ -2207,6 +2212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752](http://arxiv.org/abs/2504.17752)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/abs/2504.17717)|null|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**On Multivariate Financial Time Series Classification**|Grégory Bournassenko et.al.|[2504.17664](http://arxiv.org/abs/2504.17664)|null|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
+|**2025-04-24**|**STCL:Curriculum learning Strategies for deep learning image steganography models**|Fengchun Liu et.al.|[2504.17609](http://arxiv.org/abs/2504.17609)|null|
+|**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
+|**2025-04-24**|**Beyond Cox Models: Assessing the Performance of Machine-Learning Methods in Non-Proportional Hazards and Non-Linear Survival Analysis**|Ivan Rossi et.al.|[2504.17568](http://arxiv.org/abs/2504.17568)|null|
+|**2025-04-24**|**An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm**|Ahmadreza Shateri et.al.|[2504.17540](http://arxiv.org/abs/2504.17540)|null|
 |**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
 |**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866](http://arxiv.org/abs/2504.16866)|null|
@@ -4939,6 +4954,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
+|**2025-04-24**|**DTECM: Digital Twin Enabled Channel Measurement and Modeling in Terahertz Urban Macrocell**|Yuanbo Li et.al.|[2504.17673](http://arxiv.org/abs/2504.17673)|null|
+|**2025-04-24**|**M-MRE: Extending the Mutual Reinforcement Effect to Multimodal Information Extraction**|Chengguang Gan et.al.|[2504.17353](http://arxiv.org/abs/2504.17353)|null|
+|**2025-04-23**|**GeoRDF2Vec Learning Location-Aware Entity Representations in Knowledge Graphs**|Martin Boeckling et.al.|[2504.17099](http://arxiv.org/abs/2504.17099)|null|
+|**2025-04-23**|**Tokenization Matters: Improving Zero-Shot NER for Indic Languages**|Priyaranjan Pattnayak et.al.|[2504.16977](http://arxiv.org/abs/2504.16977)|null|
 |**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
 |**2025-04-23**|**LLM-assisted Graph-RAG Information Extraction from IFC Data**|Sima Iranmanesh et.al.|[2504.16813](http://arxiv.org/abs/2504.16813)|null|
 |**2025-04-23**|**Transformers for Complex Query Answering over Knowledge Hypergraphs**|Hong Ting Tsang et.al.|[2504.16537](http://arxiv.org/abs/2504.16537)|null|
