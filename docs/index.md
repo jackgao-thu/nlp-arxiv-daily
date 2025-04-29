@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism**|Adway Das et.al.|[2504.19967](http://arxiv.org/abs/2504.19967)|null|
+|**2025-04-28**|**Attention Mechanism, Max-Affine Partition, and Universal Approximation**|Hude Liu et.al.|[2504.19901](http://arxiv.org/abs/2504.19901)|null|
+|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
+|**2025-04-28**|**STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction**|Zhimin Liao et.al.|[2504.19749](http://arxiv.org/abs/2504.19749)|null|
+|**2025-04-28**|**Graph Fourier Transformer with Structure-Frequency Information**|Yonghui Zhai et.al.|[2504.19740](http://arxiv.org/abs/2504.19740)|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
+|**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614](http://arxiv.org/abs/2504.19614)|null|
+|**2025-04-28**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452](http://arxiv.org/abs/2504.19452)|null|
+|**2025-04-28**|**Dual Attention Driven Lumbar Magnetic Resonance Image Feature Enhancement and Automatic Diagnosis of Herniation**|Lingrui Zhang et.al.|[2504.19438](http://arxiv.org/abs/2504.19438)|null|
+|**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
 |**2025-04-25**|**An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images**|Andrews Danyo et.al.|[2504.18490](http://arxiv.org/abs/2504.18490)|null|
 |**2025-04-25**|**Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior**|Milad Sefidgaran et.al.|[2504.18455](http://arxiv.org/abs/2504.18455)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
@@ -2218,6 +2228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy**|Aditya Vatsavai et.al.|[2504.20011](http://arxiv.org/abs/2504.20011)|null|
+|**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987](http://arxiv.org/abs/2504.19987)|null|
+|**2025-04-28**|**Deep Declarative Risk Budgeting Portfolios**|Manuel Parra-Diaz et.al.|[2504.19980](http://arxiv.org/abs/2504.19980)|null|
+|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979](http://arxiv.org/abs/2504.19979)|null|
+|**2025-04-28**|**Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism**|Adway Das et.al.|[2504.19967](http://arxiv.org/abs/2504.19967)|null|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
+|**2025-04-28**|**Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning**|Mohamed Hassan et.al.|[2504.19824](http://arxiv.org/abs/2504.19824)|null|
+|**2025-04-28**|**Mjölnir: A Deep Learning Parametrization Framework for Global Lightning Flash Density**|Minjong Cheon et.al.|[2504.19822](http://arxiv.org/abs/2504.19822)|null|
 |**2025-04-25**|**Music Tempo Estimation on Solo Instrumental Performance**|Zhanhong He et.al.|[2504.18502](http://arxiv.org/abs/2504.18502)|null|
 |**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
 |**2025-04-25**|**Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI**|Yue Li et.al.|[2504.18442](http://arxiv.org/abs/2504.18442)|null|
@@ -4970,6 +4990,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
+|**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
+|**2025-04-28**|**A Comprehensive Part-of-Speech Tagging to Standardize Central-Kurdish Language: A Research Guide for Kurdish Natural Language Processing Tasks**|Shadan Shukr Sabr et.al.|[2504.19645](http://arxiv.org/abs/2504.19645)|null|
+|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
+|**2025-04-27**|**Leveraging Multi-Modal Saliency and Fusion for Gaze Target Detection**|Athul M. Mathew et.al.|[2504.19271](http://arxiv.org/abs/2504.19271)|null|
+|**2025-04-27**|**Representing and querying data tensors in RDF and SPARQL**|Piotr Marciniak et.al.|[2504.19224](http://arxiv.org/abs/2504.19224)|null|
+|**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061](http://arxiv.org/abs/2504.19061)|null|
+|**2025-04-26**|**Advancing Scientific Text Classification: Fine-Tuned Models with Dataset Expansion and Hard-Voting**|Zhyar Rzgar K Rostam et.al.|[2504.19021](http://arxiv.org/abs/2504.19021)|null|
+|**2025-04-26**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
+|**2025-04-25**|**World Food Atlas Project**|Ali Rostami et.al.|[2504.18727](http://arxiv.org/abs/2504.18727)|null|
 |**2025-04-25**|**Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review**|Raymond Fok et.al.|[2504.18496](http://arxiv.org/abs/2504.18496)|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380](http://arxiv.org/abs/2504.18380)|null|
 |**2025-04-25**|**Machine Learning-Based b-Jet Tagging in pp Collisions at $\sqrt{s}=13$ TeV**|Hadi Hassan et.al.|[2504.18291](http://arxiv.org/abs/2504.18291)|null|
