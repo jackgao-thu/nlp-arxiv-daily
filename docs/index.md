@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -57,13 +57,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736](http://arxiv.org/abs/2505.03736)|null|
 |**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711](http://arxiv.org/abs/2505.03711)|null|
-|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692](http://arxiv.org/abs/2505.03692)|null|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692](http://arxiv.org/abs/2505.03692)|**[link](https://github.com/shi-qi-li/mdgd)**|
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
-|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494](http://arxiv.org/abs/2505.03494)|null|
+|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494](http://arxiv.org/abs/2505.03494)|**[link](https://github.com/chenzhao2023/upmad_net_brainseg)**|
 |**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
-|**2025-05-06**|**SD-VSum: A Method and Dataset for Script-Driven Video Summarization**|Manolis Mylonas et.al.|[2505.03319](http://arxiv.org/abs/2505.03319)|null|
+|**2025-05-06**|**SD-VSum: A Method and Dataset for Script-Driven Video Summarization**|Manolis Mylonas et.al.|[2505.03319](http://arxiv.org/abs/2505.03319)|**[link](https://github.com/idt-iti/sd-vsum)**|
 |**2025-05-06**|**IAFormer: Interaction-Aware Transformer network for collider data analysis**|W. Esmail et.al.|[2505.03258](http://arxiv.org/abs/2505.03258)|null|
-|**2025-05-05**|**RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale**|Daniel Goldstein et.al.|[2505.03005](http://arxiv.org/abs/2505.03005)|null|
+|**2025-05-05**|**RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale**|Daniel Goldstein et.al.|[2505.03005](http://arxiv.org/abs/2505.03005)|**[link](https://github.com/recursal/radlads-paper)**|
 |**2025-05-05**|**FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization**|Hongze Li et.al.|[2505.02515](http://arxiv.org/abs/2505.02515)|null|
 |**2025-05-05**|**Token Coordinated Prompt Attention is Needed for Visual Prompting**|Zichen Liu et.al.|[2505.02406](http://arxiv.org/abs/2505.02406)|null|
 |**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
@@ -2284,7 +2284,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
-|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
+|**2025-05-07**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
 |**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677](http://arxiv.org/abs/2505.03677)|null|
 |**2025-05-06**|**Understand the Effect of Importance Weighting in Deep Learning on Dataset Shift**|Thien Nhan Vo et.al.|[2505.03617](http://arxiv.org/abs/2505.03617)|null|
 |**2025-05-06**|**From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction**|Fengming Lin et.al.|[2505.03599](http://arxiv.org/abs/2505.03599)|null|
@@ -5106,14 +5106,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-06**|**Soft Reasoning Paths for Knowledge Graph Completion**|Yanning Hou et.al.|[2505.03285](http://arxiv.org/abs/2505.03285)|null|
 |**2025-05-06**|**Survey of Abstract Meaning Representation: Then, Now, Future**|Behrooz Mansouri et.al.|[2505.03229](http://arxiv.org/abs/2505.03229)|null|
 |**2025-05-05**|**Logits-Constrained Framework with RoBERTa for Ancient Chinese NER**|Wenjie Hua et.al.|[2505.02983](http://arxiv.org/abs/2505.02983)|null|
 |**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|null|
 |**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Jun Wang et.al.|[2505.02744](http://arxiv.org/abs/2505.02744)|null|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
-|**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352](http://arxiv.org/abs/2505.02352)|null|
+|**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352](http://arxiv.org/abs/2505.02352)|**[link](https://github.com/paramita08/wikidata_auditlp)**|
 |**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271](http://arxiv.org/abs/2505.02271)|null|
 |**2025-05-04**|**Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use**|Justin Ho et.al.|[2505.02164](http://arxiv.org/abs/2505.02164)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
