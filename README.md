@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Attention
 
@@ -68,7 +68,7 @@
 |**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723](http://arxiv.org/abs/2505.08723)|**[link](https://github.com/mililab/timo)**|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**AC-PKAN: Attention-Enhanced and Chebyshev Polynomial-Based Physics-Informed Kolmogorov-Arnold Networks**|Hangwei Zhang et.al.|[2505.08687](http://arxiv.org/abs/2505.08687)|null|
-|**2025-05-13**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568](http://arxiv.org/abs/2505.08568)|**[link](https://github.com/leon2014dresden/yolo-thermal)**|
+|**2025-05-14**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568](http://arxiv.org/abs/2505.08568)|**[link](https://github.com/leon2014dresden/yolo-thermal)**|
 |**2025-05-13**|**The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News**|Yuhan Liu et.al.|[2505.08532](http://arxiv.org/abs/2505.08532)|null|
 |**2025-05-13**|**Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain**|Hyowon Wi et.al.|[2505.08516](http://arxiv.org/abs/2505.08516)|null|
 |**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430](http://arxiv.org/abs/2505.08430)|null|
@@ -2333,7 +2333,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -2341,7 +2341,7 @@
 |---|---|---|---|---|
 |**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788](http://arxiv.org/abs/2505.08788)|null|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
-|**2025-05-13**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740](http://arxiv.org/abs/2505.08740)|**[link](https://github.com/ambehroozi/sc_neural_operators)**|
+|**2025-05-14**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740](http://arxiv.org/abs/2505.08740)|**[link](https://github.com/ambehroozi/sc_neural_operators)**|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
 |**2025-05-13**|**A Survey of Deep Learning for Complex Speech Spectrograms**|Yuying Xie et.al.|[2505.08694](http://arxiv.org/abs/2505.08694)|null|
@@ -5207,7 +5207,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Extraction
 
@@ -7232,7 +7232,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors
