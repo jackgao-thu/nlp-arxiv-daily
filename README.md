@@ -64,6 +64,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|null|
+|**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296](http://arxiv.org/abs/2505.10296)|null|
+|**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289](http://arxiv.org/abs/2505.10289)|**[link](https://github.com/ltpwy/msci)**|
+|**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273](http://arxiv.org/abs/2505.10273)|null|
+|**2025-05-15**|**ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention**|Jintian Shao et.al.|[2505.10222](http://arxiv.org/abs/2505.10222)|null|
+|**2025-05-15**|**Does Scaling Law Apply in Time Series Forecasting?**|Zeyan Li et.al.|[2505.10172](http://arxiv.org/abs/2505.10172)|null|
+|**2025-05-15**|**TKFNet: Learning Texture Key Factor Driven Feature for Facial Expression Recognition**|Liqian Deng et.al.|[2505.09967](http://arxiv.org/abs/2505.09967)|null|
+|**2025-05-15**|**VRU-CIPI: Crossing Intention Prediction at Intersections for Improving Vulnerable Road Users Safety**|Ahmed S. Abdelrahman et.al.|[2505.09935](http://arxiv.org/abs/2505.09935)|null|
+|**2025-05-15**|**Avocado Price Prediction Using a Hybrid Deep Learning Model: TCN-MLP-Attention Architecture**|Linwei Zhang et.al.|[2505.09907](http://arxiv.org/abs/2505.09907)|null|
+|**2025-05-14**|**Dyadic Mamba: Long-term Dyadic Human Motion Synthesis**|Julian Tanke et.al.|[2505.09827](http://arxiv.org/abs/2505.09827)|null|
 |**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536](http://arxiv.org/abs/2505.09536)|null|
 |**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484](http://arxiv.org/abs/2505.09484)|null|
 |**2025-05-14**|**Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits**|Subrit Dikshit et.al.|[2505.09407](http://arxiv.org/abs/2505.09407)|null|
@@ -2348,6 +2358,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556](http://arxiv.org/abs/2505.10556)|null|
+|**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536](http://arxiv.org/abs/2505.10536)|null|
+|**2025-05-15**|**MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2505.10497](http://arxiv.org/abs/2505.10497)|null|
+|**2025-05-15**|**Logos as a Well-Tempered Pre-train for Sign Language Recognition**|Ilya Ovodov et.al.|[2505.10481](http://arxiv.org/abs/2505.10481)|null|
+|**2025-05-15**|**The Ephemeral Threat: Assessing the Security of Algorithmic Trading Systems powered by Deep Learning**|Advije Rizvani et.al.|[2505.10430](http://arxiv.org/abs/2505.10430)|null|
+|**2025-05-15**|**Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency**|Daniel Weitekamp et.al.|[2505.10422](http://arxiv.org/abs/2505.10422)|null|
+|**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
+|**2025-05-15**|**SOS: A Shuffle Order Strategy for Data Augmentation in Industrial Human Activity Recognition**|Anh Tuan Ha et.al.|[2505.10312](http://arxiv.org/abs/2505.10312)|null|
+|**2025-05-15**|**MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting**|Mengqiu Xu et.al.|[2505.10281](http://arxiv.org/abs/2505.10281)|**[link](https://github.com/kaka0910/mfoghub)**|
+|**2025-05-15**|**RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours**|Rafael Pablos Sarabia et.al.|[2505.10271](http://arxiv.org/abs/2505.10271)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
 |**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564](http://arxiv.org/abs/2505.09564)|null|
 |**2025-05-14**|**Deep-SITAR: A SITAR-Based Deep Learning Framework for Growth Curve Modeling via Autoencoders**|María Alejandra Hernández et.al.|[2505.09506](http://arxiv.org/abs/2505.09506)|null|
@@ -5232,6 +5252,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|
+|**2025-05-15**|**The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine**|Rui Yang et.al.|[2505.10261](http://arxiv.org/abs/2505.10261)|null|
+|**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
+|**2025-05-15**|**Knowledge-Based Aerospace Engineering -- A Systematic Literature Review**|Tim Wittenborg et.al.|[2505.10142](http://arxiv.org/abs/2505.10142)|null|
+|**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
+|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-14**|**Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts**|Bojan Ristov et.al.|[2505.09798](http://arxiv.org/abs/2505.09798)|null|
+|**2025-05-14**|**Automated Detection of Clinical Entities in Lung and Breast Cancer Reports Using NLP Techniques**|J. Moreno-Casanova et.al.|[2505.09794](http://arxiv.org/abs/2505.09794)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
 |**2025-05-14**|**TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation**|Zechao Guan et.al.|[2505.09140](http://arxiv.org/abs/2505.09140)|**[link](https://github.com/zechao-guan/topodit-3d)**|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
