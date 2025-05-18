@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,13 +58,13 @@
 |**2024-02-04**|**A decoder-only foundation model for time-series forecasting**|Abhimanyu Das et.al.|[2310.10688](http://arxiv.org/abs/2310.10688)|**[link](https://github.com/google-research/timesfm)**|
 |**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681](http://arxiv.org/abs/2309.13681)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Attention
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|null|
+|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|**[link](https://github.com/fchest/listennet)**|
 |**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296](http://arxiv.org/abs/2505.10296)|null|
 |**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289](http://arxiv.org/abs/2505.10289)|**[link](https://github.com/ltpwy/msci)**|
 |**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273](http://arxiv.org/abs/2505.10273)|null|
@@ -2352,7 +2352,7 @@
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Learning to Defer to a Population: A Meta-Learning Approach**|Dharmesh Tailor et.al.|[2403.02683](http://arxiv.org/abs/2403.02683)|**[link](https://github.com/dvtailor/meta-l2d)**|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Deep Learning
 
@@ -5246,7 +5246,7 @@
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|**[link](https://github.com/phandangthoai/Comparison-Performance-of-Spectrogram-and-Scalogram-as-Input-of-Acoustic-Recognition-Task)**|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Extraction
 
@@ -5259,7 +5259,7 @@
 |**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
 |**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
 |**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
-|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|**[link](https://github.com/asu-kim/personal-llm-kg)**|
 |**2025-05-14**|**Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts**|Bojan Ristov et.al.|[2505.09798](http://arxiv.org/abs/2505.09798)|null|
 |**2025-05-14**|**Automated Detection of Clinical Entities in Lung and Breast Cancer Reports Using NLP Techniques**|J. Moreno-Casanova et.al.|[2505.09794](http://arxiv.org/abs/2505.09794)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
@@ -7283,7 +7283,7 @@
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
 |**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jackgao-thu/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jackgao-thu/nlp-arxiv-daily/graphs/contributors

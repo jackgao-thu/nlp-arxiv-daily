@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -56,7 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|null|
+|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|**[link](https://github.com/fchest/listennet)**|
 |**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296](http://arxiv.org/abs/2505.10296)|null|
 |**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289](http://arxiv.org/abs/2505.10289)|**[link](https://github.com/ltpwy/msci)**|
 |**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273](http://arxiv.org/abs/2505.10273)|null|
@@ -5247,7 +5247,7 @@ layout: default
 |**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
 |**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
 |**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
-|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|**[link](https://github.com/asu-kim/personal-llm-kg)**|
 |**2025-05-14**|**Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts**|Bojan Ristov et.al.|[2505.09798](http://arxiv.org/abs/2505.09798)|null|
 |**2025-05-14**|**Automated Detection of Clinical Entities in Lung and Breast Cancer Reports Using NLP Techniques**|J. Moreno-Casanova et.al.|[2505.09794](http://arxiv.org/abs/2505.09794)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
