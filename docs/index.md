@@ -56,6 +56,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**|Jeffrey Willette et.al.|[2505.11254](http://arxiv.org/abs/2505.11254)|null|
+|**2025-05-16**|**NoPE: The Counting Power of Transformers with No Positional Encodings**|Chris Köcher et.al.|[2505.11199](http://arxiv.org/abs/2505.11199)|null|
+|**2025-05-16**|**DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling**|Yuang Ai et.al.|[2505.11196](http://arxiv.org/abs/2505.11196)|null|
+|**2025-05-16**|**CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer**|Xinran Li et.al.|[2505.11168](http://arxiv.org/abs/2505.11168)|null|
+|**2025-05-16**|**Attention on the Sphere**|Boris Bonev et.al.|[2505.11157](http://arxiv.org/abs/2505.11157)|null|
+|**2025-05-16**|**GraphOracle: A Foundation Model for Knowledge Graph Reasoning**|Enjun Du et.al.|[2505.11125](http://arxiv.org/abs/2505.11125)|null|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
+|**2025-05-16**|**Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation**|Guangqiang Li et.al.|[2505.11083](http://arxiv.org/abs/2505.11083)|null|
+|**2025-05-16**|**Efficient Attention via Pre-Scoring: Prioritizing Informative Keys in Transformers**|Zhexiang Li et.al.|[2505.11040](http://arxiv.org/abs/2505.11040)|null|
+|**2025-05-16**|**RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects**|Jaeguk Kim et.al.|[2505.10841](http://arxiv.org/abs/2505.10841)|null|
 |**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348](http://arxiv.org/abs/2505.10348)|**[link](https://github.com/fchest/listennet)**|
 |**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296](http://arxiv.org/abs/2505.10296)|null|
 |**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289](http://arxiv.org/abs/2505.10289)|**[link](https://github.com/ltpwy/msci)**|
@@ -2348,6 +2358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|null|
+|**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
+|**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
+|**2025-05-16**|**Is Grokking a Computational Glass Relaxation?**|Xiaotian Zhang et.al.|[2505.11411](http://arxiv.org/abs/2505.11411)|null|
+|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|null|
+|**2025-05-16**|**IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting**|Millend Roy et.al.|[2505.11390](http://arxiv.org/abs/2505.11390)|null|
+|**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262](http://arxiv.org/abs/2505.11262)|null|
+|**2025-05-16**|**Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment**|Oskar Bohn Lassen et.al.|[2505.11230](http://arxiv.org/abs/2505.11230)|null|
+|**2025-05-16**|**Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge**|Zhenyi Zhang et.al.|[2505.11197](http://arxiv.org/abs/2505.11197)|null|
+|**2025-05-16**|**JaxSGMC: Modular stochastic gradient MCMC in JAX**|Stephan Thaler et.al.|[2505.11190](http://arxiv.org/abs/2505.11190)|null|
 |**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556](http://arxiv.org/abs/2505.10556)|null|
 |**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536](http://arxiv.org/abs/2505.10536)|null|
 |**2025-05-15**|**MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2505.10497](http://arxiv.org/abs/2505.10497)|null|
@@ -5240,6 +5260,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Sobolev Training of End-to-End Optimization Proxies**|Andrew W. Rosemberg et.al.|[2505.11342](http://arxiv.org/abs/2505.11342)|null|
+|**2025-05-16**|**VitaGraph: Building a Knowledge Graph for Biologically Relevant Learning Tasks**|Francesco Madeddu et.al.|[2505.11185](http://arxiv.org/abs/2505.11185)|null|
+|**2025-05-16**|**mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs**|Chuan Xu et.al.|[2505.11180](http://arxiv.org/abs/2505.11180)|null|
+|**2025-05-16**|**Low-Resource Language Processing: An OCR-Driven Summarization and Translation Pipeline**|Hrishit Madhavi et.al.|[2505.11177](http://arxiv.org/abs/2505.11177)|null|
+|**2025-05-16**|**Scaling Reasoning can Improve Factuality in Large Language Models**|Mike Zhang et.al.|[2505.11140](http://arxiv.org/abs/2505.11140)|null|
+|**2025-05-16**|**GraphOracle: A Foundation Model for Knowledge Graph Reasoning**|Enjun Du et.al.|[2505.11125](http://arxiv.org/abs/2505.11125)|null|
+|**2025-05-16**|**Connecting the Dots: A Chain-of-Collaboration Prompting Framework for LLM Agents**|Jiaxing Zhao et.al.|[2505.10936](http://arxiv.org/abs/2505.10936)|null|
+|**2025-05-16**|**Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM**|Wenqing Zheng et.al.|[2505.10900](http://arxiv.org/abs/2505.10900)|null|
+|**2025-05-16**|**Relation Extraction Across Entire Books to Reconstruct Community Networks: The AffilKG Datasets**|Erica Cai et.al.|[2505.10798](http://arxiv.org/abs/2505.10798)|null|
 |**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|
 |**2025-05-15**|**The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine**|Rui Yang et.al.|[2505.10261](http://arxiv.org/abs/2505.10261)|null|
 |**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
