@@ -2368,7 +2368,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|null|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|**[link](https://zenodo.org/record/15255556)**|
 |**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
 |**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
 |**2025-05-16**|**Is Grokking a Computational Glass Relaxation?**|Xiaotian Zhang et.al.|[2505.11411](http://arxiv.org/abs/2505.11411)|null|
