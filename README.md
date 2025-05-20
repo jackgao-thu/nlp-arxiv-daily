@@ -64,6 +64,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Swin DiT: Diffusion Transformer using Pseudo Shifted Windows**|Jiafu Wu et.al.|[2505.13219](http://arxiv.org/abs/2505.13219)|null|
+|**2025-05-19**|**Emergence of Fixational and Saccadic Movements in a Multi-Level Recurrent Attention Model for Vision**|Pengcheng Pan et.al.|[2505.13191](http://arxiv.org/abs/2505.13191)|null|
+|**2025-05-19**|**Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast**|Ji Qi et.al.|[2505.13102](http://arxiv.org/abs/2505.13102)|**[link](https://github.com/singularityundefined/unrolling-gsp-stforecast)**|
+|**2025-05-19**|**Time-Frequency-Based Attention Cache Memory Model for Real-Time Speech Separation**|Guo Chen et.al.|[2505.13094](http://arxiv.org/abs/2505.13094)|null|
+|**2025-05-19**|**An Attentional Model of Time Discounting**|Zijian Zark Wang et.al.|[2505.13016](http://arxiv.org/abs/2505.13016)|null|
+|**2025-05-19**|**A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**|Vinkle Srivastav et.al.|[2505.12998](http://arxiv.org/abs/2505.12998)|**[link](https://github.com/camma-public/tfuscapes)**|
+|**2025-05-19**|**CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs**|Jan Hagnberger et.al.|[2505.12944](http://arxiv.org/abs/2505.12944)|**[link](https://github.com/jhagnberger/calm-pde)**|
+|**2025-05-19**|**Temporal Query Network for Efficient Multivariate Time Series Forecasting**|Shengsheng Lin et.al.|[2505.12917](http://arxiv.org/abs/2505.12917)|**[link](https://github.com/ACAT-SCUT/TQNet)**|
+|**2025-05-19**|**HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion**|Le Cheng et.al.|[2505.12894](http://arxiv.org/abs/2505.12894)|null|
+|**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
 |**2025-05-16**|**Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**|Jeffrey Willette et.al.|[2505.11254](http://arxiv.org/abs/2505.11254)|null|
 |**2025-05-16**|**NoPE: The Counting Power of Transformers with No Positional Encodings**|Chris Köcher et.al.|[2505.11199](http://arxiv.org/abs/2505.11199)|null|
 |**2025-05-16**|**DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling**|Yuang Ai et.al.|[2505.11196](http://arxiv.org/abs/2505.11196)|null|
@@ -2368,6 +2378,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446](http://arxiv.org/abs/2505.13446)|null|
+|**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416](http://arxiv.org/abs/2505.13416)|null|
+|**2025-05-19**|**Learning by solving differential equations**|Benoit Dherin et.al.|[2505.13397](http://arxiv.org/abs/2505.13397)|null|
+|**2025-05-19**|**Detect and Correct: A Selective Noise Correction Method for Learning with Noisy Labels**|Yuval Grinberg et.al.|[2505.13342](http://arxiv.org/abs/2505.13342)|null|
+|**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293](http://arxiv.org/abs/2505.13293)|null|
+|**2025-05-19**|**Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**|Francesco D'Amico et.al.|[2505.13230](http://arxiv.org/abs/2505.13230)|null|
+|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173](http://arxiv.org/abs/2505.13173)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
+|**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130](http://arxiv.org/abs/2505.13130)|null|
+|**2025-05-19**|**When majority rules, minority loses: bias amplification of gradient descent**|François Bachoc et.al.|[2505.13122](http://arxiv.org/abs/2505.13122)|null|
 |**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|**[link](https://github.com/mafortin/GOUHFI)**|
 |**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
 |**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
@@ -5272,6 +5292,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**MRM3: Machine Readable ML Model Metadata**|Andrej Čop et.al.|[2505.13343](http://arxiv.org/abs/2505.13343)|null|
+|**2025-05-19**|**$\textit{Rank, Chunk and Expand}$ : Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
+|**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276](http://arxiv.org/abs/2505.13276)|null|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
+|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173](http://arxiv.org/abs/2505.13173)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
+|**2025-05-19**|**LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs**|Lars-Peter Meyer et.al.|[2505.13098](http://arxiv.org/abs/2505.13098)|**[link](https://github.com/aksw/llm-kg-bench)**|
+|**2025-05-19**|**Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**|Yuyang Li et.al.|[2505.13006](http://arxiv.org/abs/2505.13006)|null|
+|**2025-05-19**|**MA-COIR: Leveraging Semantic Search Index and Generative Models for Ontology-Driven Biomedical Concept Recognition**|Shanshan Liu et.al.|[2505.12964](http://arxiv.org/abs/2505.12964)|**[link](https://github.com/sl-633/macoir-master)**|
 |**2025-05-16**|**Sobolev Training of End-to-End Optimization Proxies**|Andrew W. Rosemberg et.al.|[2505.11342](http://arxiv.org/abs/2505.11342)|null|
 |**2025-05-16**|**VitaGraph: Building a Knowledge Graph for Biologically Relevant Learning Tasks**|Francesco Madeddu et.al.|[2505.11185](http://arxiv.org/abs/2505.11185)|null|
 |**2025-05-16**|**mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs**|Chuan Xu et.al.|[2505.11180](http://arxiv.org/abs/2505.11180)|null|
