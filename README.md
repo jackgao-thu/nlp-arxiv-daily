@@ -64,6 +64,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
+|**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752](http://arxiv.org/abs/2505.16752)|null|
+|**2025-05-22**|**Temporal Object Captioning for Street Scene Videos from LiDAR Tracks**|Vignesh Gopinathan et.al.|[2505.16594](http://arxiv.org/abs/2505.16594)|null|
+|**2025-05-22**|**PaTH Attention: Position Encoding via Accumulating Householder Transformations**|Songlin Yang et.al.|[2505.16381](http://arxiv.org/abs/2505.16381)|null|
+|**2025-05-22**|**Only Large Weights (And Not Skip Connections) Can Prevent the Perils of Rank Collapse**|Josh Alman et.al.|[2505.16284](http://arxiv.org/abs/2505.16284)|null|
+|**2025-05-22**|**LINEA: Fast and Accurate Line Detection Using Scalable Transformers**|Sebastian Janampa et.al.|[2505.16264](http://arxiv.org/abs/2505.16264)|**[link](https://github.com/SebastianJanampa/LINEA)**|
 |**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
 |**2025-05-21**|**Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field**|Chang Liu et.al.|[2505.15533](http://arxiv.org/abs/2505.15533)|null|
@@ -2398,6 +2407,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992](http://arxiv.org/abs/2505.16992)|null|
+|**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991](http://arxiv.org/abs/2505.16991)|null|
+|**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
+|**2025-05-22**|**The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm**|Noah Amsel et.al.|[2505.16932](http://arxiv.org/abs/2505.16932)|null|
+|**2025-05-22**|**TULiP: Test-time Uncertainty Estimation via Linearization and Weight Perturbation**|Yuhui Zhang et.al.|[2505.16923](http://arxiv.org/abs/2505.16923)|null|
+|**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857](http://arxiv.org/abs/2505.16857)|null|
+|**2025-05-22**|**Nested Named Entity Recognition as Single-Pass Sequence Labeling**|Alberto Muñoz-Ortiz et.al.|[2505.16855](http://arxiv.org/abs/2505.16855)|null|
+|**2025-05-22**|**Does Synthetic Data Help Named Entity Recognition for Low-Resource Languages?**|Gaurav Kamath et.al.|[2505.16814](http://arxiv.org/abs/2505.16814)|null|
+|**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
+|**2025-05-22**|**Mitigating Overfitting in Medical Imaging: Self-Supervised Pretraining vs. ImageNet Transfer Learning for Dermatological Diagnosis**|Iván Matas et.al.|[2505.16773](http://arxiv.org/abs/2505.16773)|null|
 |**2025-05-21**|**A Deep Learning Framework for Two-Dimensional, Multi-Frequency Propagation Factor Estimation**|Sarah E. Wessinger et.al.|[2505.15802](http://arxiv.org/abs/2505.15802)|null|
 |**2025-05-21**|**Projection-Based Correction for Enhancing Deep Inverse Networks**|Jorge Bacca et.al.|[2505.15777](http://arxiv.org/abs/2505.15777)|null|
 |**2025-05-21**|**Transfer of Structural Knowledge from Synthetic Languages**|Mikhail Budnikov et.al.|[2505.15769](http://arxiv.org/abs/2505.15769)|null|
@@ -5332,6 +5351,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
+|**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877](http://arxiv.org/abs/2505.16877)|null|
+|**2025-05-22**|**Nested Named Entity Recognition as Single-Pass Sequence Labeling**|Alberto Muñoz-Ortiz et.al.|[2505.16855](http://arxiv.org/abs/2505.16855)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|null|
+|**2025-05-22**|**Does Synthetic Data Help Named Entity Recognition for Low-Resource Languages?**|Gaurav Kamath et.al.|[2505.16814](http://arxiv.org/abs/2505.16814)|null|
+|**2025-05-22**|**Incremental Sequence Classification with Temporal Consistency**|Lucas Maystre et.al.|[2505.16548](http://arxiv.org/abs/2505.16548)|null|
+|**2025-05-22**|**Filling in the Blanks? A Systematic Review and Theoretical Conceptualisation for Measuring WikiData Content Gaps**|Marisa Ripoll et.al.|[2505.16383](http://arxiv.org/abs/2505.16383)|null|
+|**2025-05-22**|**How do Scaling Laws Apply to Knowledge Graph Engineering Tasks? The Impact of Model Size on Large Language Model Performance**|Desiree Heim et.al.|[2505.16276](http://arxiv.org/abs/2505.16276)|null|
+|**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|null|
+|**2025-05-22**|**MPL: Multiple Programming Languages with Large Language Models for Information Extraction**|Bo Li et.al.|[2505.16107](http://arxiv.org/abs/2505.16107)|null|
 |**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
 |**2025-05-22**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
 |**2025-05-21**|**A General Information Extraction Framework Based on Formal Languages**|Markus L. Schmid et.al.|[2505.15605](http://arxiv.org/abs/2505.15605)|null|
