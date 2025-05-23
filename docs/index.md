@@ -65,7 +65,7 @@ layout: default
 |**2025-05-22**|**PaTH Attention: Position Encoding via Accumulating Householder Transformations**|Songlin Yang et.al.|[2505.16381](http://arxiv.org/abs/2505.16381)|null|
 |**2025-05-22**|**Only Large Weights (And Not Skip Connections) Can Prevent the Perils of Rank Collapse**|Josh Alman et.al.|[2505.16284](http://arxiv.org/abs/2505.16284)|null|
 |**2025-05-22**|**LINEA: Fast and Accurate Line Detection Using Scalable Transformers**|Sebastian Janampa et.al.|[2505.16264](http://arxiv.org/abs/2505.16264)|**[link](https://github.com/SebastianJanampa/LINEA)**|
-|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|**[link](https://github.com/pkhdipraja/in-context-atlas)**|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
 |**2025-05-21**|**Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field**|Chang Liu et.al.|[2505.15533](http://arxiv.org/abs/2505.15533)|null|
 |**2025-05-21**|**RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection**|Yiming Huang et.al.|[2505.15386](http://arxiv.org/abs/2505.15386)|null|
@@ -5342,7 +5342,7 @@ layout: default
 |**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
 |**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877](http://arxiv.org/abs/2505.16877)|null|
 |**2025-05-22**|**Nested Named Entity Recognition as Single-Pass Sequence Labeling**|Alberto Muñoz-Ortiz et.al.|[2505.16855](http://arxiv.org/abs/2505.16855)|null|
-|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
 |**2025-05-22**|**Does Synthetic Data Help Named Entity Recognition for Low-Resource Languages?**|Gaurav Kamath et.al.|[2505.16814](http://arxiv.org/abs/2505.16814)|null|
 |**2025-05-22**|**Incremental Sequence Classification with Temporal Consistency**|Lucas Maystre et.al.|[2505.16548](http://arxiv.org/abs/2505.16548)|null|
 |**2025-05-22**|**Filling in the Blanks? A Systematic Review and Theoretical Conceptualisation for Measuring WikiData Content Gaps**|Marisa Ripoll et.al.|[2505.16383](http://arxiv.org/abs/2505.16383)|null|
