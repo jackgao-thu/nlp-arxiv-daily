@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -24,7 +24,7 @@ layout: default
 |**2024-10-30**|**Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**|Ahmed Akib Jawad Karim et.al.|[2411.00052](http://arxiv.org/abs/2411.00052)|null|
 |**2024-09-24**|**Undergrads Are All You Have**|Ashe Neth et.al.|[2409.13750](http://arxiv.org/abs/2409.13750)|null|
 |**2024-10-04**|**Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning**|Jiaxin Wen et.al.|[2409.12452](http://arxiv.org/abs/2409.12452)|**[link](https://github.com/thu-coai/codeplan)**|
-|**2024-10-13**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|**[link](https://github.com/lugroupumn/icl-ellipticpdes)**|
+|**2025-05-23**|**In-Context Learning of Linear Systems: Generalization Theory and Applications to Operator Learning**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|**[link](https://github.com/lugroupumn/icl-ellipticpdes)**|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183](http://arxiv.org/abs/2409.03183)|null|
 |**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/abs/2408.00767)|null|
 |**2024-08-01**|**CultureVo: The Serious Game of Utilizing Gen AI for Enhancing Cultural Intelligence**|Ajita Agarwala et.al.|[2407.20685](http://arxiv.org/abs/2407.20685)|null|
