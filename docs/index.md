@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -57,7 +57,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases**|Cheng-Yu Tai et.al.|[2505.20149](http://arxiv.org/abs/2505.20149)|null|
-|**2025-05-26**|**Transformer in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
+|**2025-05-27**|**Transformers in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
 |**2025-05-26**|**Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs**|Artem Vazhentsev et.al.|[2505.20045](http://arxiv.org/abs/2505.20045)|null|
 |**2025-05-26**|**Structured Initialization for Vision Transformers**|Jianqiao Zheng et.al.|[2505.19985](http://arxiv.org/abs/2505.19985)|null|
 |**2025-05-26**|**CA3D: Convolutional-Attentional 3D Nets for Efficient Video Activity Recognition on the Edge**|Gabriele Lagani et.al.|[2505.19928](http://arxiv.org/abs/2505.19928)|null|
@@ -2419,7 +2419,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
 |**2025-05-26**|**Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone**|Cristian Santini et.al.|[2505.20113](http://arxiv.org/abs/2505.20113)|null|
-|**2025-05-26**|**Transformer in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
+|**2025-05-27**|**Transformers in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
 |**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
 |**2025-05-26**|**Multiple Descents in Deep Learning as a Sequence of Order-Chaos Transitions**|Wenbo Wei et.al.|[2505.20030](http://arxiv.org/abs/2505.20030)|null|
 |**2025-05-26**|**TabPFN: One Model to Rule Them All?**|Qiong Zhang et.al.|[2505.20003](http://arxiv.org/abs/2505.20003)|null|
@@ -5384,7 +5384,7 @@ layout: default
 |**2025-05-26**|**Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents**|Tao Wu et.al.|[2505.19997](http://arxiv.org/abs/2505.19997)|null|
 |**2025-05-26**|**Conversational Lexicography: Querying Lexicographic Data on Knowledge Graphs with SPARQL through Natural Language**|Kilian Sennrich et.al.|[2505.19971](http://arxiv.org/abs/2505.19971)|null|
 |**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
-|**2025-05-26**|**AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection**|Yejin Lee et.al.|[2505.19528](http://arxiv.org/abs/2505.19528)|null|
+|**2025-05-27**|**AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection**|Yejin Lee et.al.|[2505.19528](http://arxiv.org/abs/2505.19528)|null|
 |**2025-05-26**|**BizFinBench: A Business-Driven Real-World Financial Benchmark for Evaluating LLMs**|Guilong Lu et.al.|[2505.19457](http://arxiv.org/abs/2505.19457)|null|
 |**2025-05-26**|**Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering**|Jiajun Zhu et.al.|[2505.19410](http://arxiv.org/abs/2505.19410)|null|
 |**2025-05-25**|**RetrieveAll: A Multilingual Named Entity Recognition Framework with Large Language Models**|Jin Zhang et.al.|[2505.19128](http://arxiv.org/abs/2505.19128)|null|
