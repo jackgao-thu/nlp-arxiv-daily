@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Assessing and Refining ChatGPT's Performance in Identifying Targeting and Inappropriate Language: A Comparative Study**|Barbarestani Baran et.al.|[2505.21710](http://arxiv.org/abs/2505.21710)|null|
 |**2025-05-13**|**A Social Robot with Inner Speech for Dietary Guidance**|Valerio Belcamino et.al.|[2505.08664](http://arxiv.org/abs/2505.08664)|**[link](https://github.com/valeriobelcamino/unipa_inner_speech)**|
 |**2025-03-14**|**Advancing the Database of Cross-Linguistic Colexifications with New Workflows and Data**|Annika Tjuka et.al.|[2503.11377](http://arxiv.org/abs/2503.11377)|null|
 |**2025-02-23**|**Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation**|Simin Chen et.al.|[2502.17521](http://arxiv.org/abs/2502.17521)|**[link](https://github.com/seekingdream/static-to-dynamic-llmeval)**|
@@ -56,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636](http://arxiv.org/abs/2505.22636)|null|
+|**2025-05-28**|**Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part III: Modeling The Next Generation Surveys**|Yijie Zhu et.al.|[2505.22574](http://arxiv.org/abs/2505.22574)|null|
+|**2025-05-28**|**MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**|Yanyi Qu et.al.|[2505.22555](http://arxiv.org/abs/2505.22555)|null|
+|**2025-05-28**|**On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**|Liyao Tang et.al.|[2505.22444](http://arxiv.org/abs/2505.22444)|null|
+|**2025-05-28**|**RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network**|Van-Tin Luu et.al.|[2505.22427](http://arxiv.org/abs/2505.22427)|null|
+|**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
+|**2025-05-28**|**Attention-Enhanced Prompt Decision Transformers for UAV-Assisted Communications with AoI**|Chi Lu et.al.|[2505.22170](http://arxiv.org/abs/2505.22170)|null|
+|**2025-05-28**|**Curse of High Dimensionality Issue in Transformer for Long-context Modeling**|Shuhai Zhang et.al.|[2505.22107](http://arxiv.org/abs/2505.22107)|null|
+|**2025-05-28**|**Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired**|Ruxiao Chen et.al.|[2505.22087](http://arxiv.org/abs/2505.22087)|null|
+|**2025-05-28**|**Two-Stage Feature Generation with Transformer and Reinforcement Learning**|Wanfu Gao et.al.|[2505.21978](http://arxiv.org/abs/2505.21978)|null|
 |**2025-05-27**|**Towards Better Instruction Following Retrieval Models**|Yuchen Zhuang et.al.|[2505.21439](http://arxiv.org/abs/2505.21439)|null|
 |**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-27**|**Efficient Leaf Disease Classification and Segmentation using Midpoint Normalization Technique and Attention Mechanism**|Enam Ahmed Taufik et.al.|[2505.21316](http://arxiv.org/abs/2505.21316)|null|
@@ -2427,6 +2438,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Chest Disease Detection In X-Ray Images Using Deep Learning Classification Method**|Alanna Hazlett et.al.|[2505.22609](http://arxiv.org/abs/2505.22609)|null|
+|**2025-05-28**|**GLAMP: An Approximate Message Passing Framework for Transfer Learning with Applications to Lasso-based Estimators**|Longlin Wang et.al.|[2505.22594](http://arxiv.org/abs/2505.22594)|null|
+|**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
+|**2025-05-28**|**Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification**|Long Hui et.al.|[2505.22551](http://arxiv.org/abs/2505.22551)|null|
+|**2025-05-28**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
+|**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
+|**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
+|**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
+|**2025-05-28**|**Frugal Incremental Generative Modeling using Variational Autoencoders**|Victor Enescu et.al.|[2505.22408](http://arxiv.org/abs/2505.22408)|null|
+|**2025-05-28**|**DAM: Domain-Aware Module for Multi-Domain Dataset Condensation**|Jaehyun Choi et.al.|[2505.22387](http://arxiv.org/abs/2505.22387)|null|
 |**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
 |**2025-05-28**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357](http://arxiv.org/abs/2505.21357)|null|
 |**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
@@ -5399,6 +5420,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
+|**2025-05-28**|**ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation with Lightweight Specialized LLM**|Hoang Pham et.al.|[2505.22552](http://arxiv.org/abs/2505.22552)|null|
+|**2025-05-28**|**Domain specific ontologies from Linked Open Data (LOD)**|Rosario Uceda-Sosa et.al.|[2505.22550](http://arxiv.org/abs/2505.22550)|null|
+|**2025-05-28**|**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**|Yuanfei Wang et.al.|[2505.22503](http://arxiv.org/abs/2505.22503)|null|
+|**2025-05-28**|**ChatPD: An LLM-driven Paper-Dataset Networking System**|Anjie Xu et.al.|[2505.22349](http://arxiv.org/abs/2505.22349)|null|
+|**2025-05-28**|**BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain**|Yunsoo Kim et.al.|[2505.22240](http://arxiv.org/abs/2505.22240)|null|
+|**2025-05-28**|**Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired**|Ruxiao Chen et.al.|[2505.22087](http://arxiv.org/abs/2505.22087)|null|
+|**2025-05-28**|**Beyond path selection: Better LLMs for Scientific Information Extraction with MimicSFT and Relevance and Rule-induced(R $^2$ )GRPO**|Ran Li et.al.|[2505.22068](http://arxiv.org/abs/2505.22068)|null|
+|**2025-05-28**|**Towards Structure-aware Model for Multi-modal Knowledge Graph Completion**|Linyu Li et.al.|[2505.21973](http://arxiv.org/abs/2505.21973)|null|
+|**2025-05-28**|**Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic Languages**|Pratik Rakesh Singh et.al.|[2505.21937](http://arxiv.org/abs/2505.21937)|null|
 |**2025-05-27**|**Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts**|Yuxin Zhu et.al.|[2505.21324](http://arxiv.org/abs/2505.21324)|null|
 |**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291](http://arxiv.org/abs/2505.21291)|null|
 |**2025-05-27**|**Wavelet Flow For Extragalactic Foreground Simulations**|M. Mebratu et.al.|[2505.21220](http://arxiv.org/abs/2505.21220)|null|
