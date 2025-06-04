@@ -57,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
+|**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
+|**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
+|**2025-06-03**|**Enhancing Abnormality Identification: Robust Out-of-Distribution Strategies for Deepfake Detection**|Luca Maiano et.al.|[2506.02857](http://arxiv.org/abs/2506.02857)|null|
+|**2025-06-03**|**AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers**|Linya Fu et.al.|[2506.02773](http://arxiv.org/abs/2506.02773)|null|
+|**2025-06-03**|**A Dynamic Transformer Network for Vehicle Detection**|Chunwei Tian et.al.|[2506.02765](http://arxiv.org/abs/2506.02765)|null|
+|**2025-06-03**|**Unified Attention Modeling for Efficient Free-Viewing and Visual Search via Shared Representations**|Fatma Youssef Mohammed et.al.|[2506.02764](http://arxiv.org/abs/2506.02764)|null|
+|**2025-06-03**|**XicorAttention: Time Series Transformer Using Attention with Nonlinear Correlation**|Daichi Kimura et.al.|[2506.02694](http://arxiv.org/abs/2506.02694)|null|
+|**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|null|
+|**2025-06-03**|**Multi-modal brain MRI synthesis based on SwinUNETR**|Haowen Pang et.al.|[2506.02467](http://arxiv.org/abs/2506.02467)|null|
 |**2025-05-30**|**Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification**|Xinliu Zhong et.al.|[2505.24792](http://arxiv.org/abs/2505.24792)|null|
 |**2025-05-30**|**RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement**|Raman Jha et.al.|[2505.24705](http://arxiv.org/abs/2505.24705)|null|
 |**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638](http://arxiv.org/abs/2505.24638)|null|
@@ -2458,6 +2468,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Torsion in Persistent Homology and Neural Networks**|Maria Walch et.al.|[2506.03049](http://arxiv.org/abs/2506.03049)|null|
+|**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
+|**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
+|**2025-06-03**|**Deep Learning for Retinal Degeneration Assessment: A Comprehensive Analysis of the MARIO AMD Progression Challenge**|Rachid Zeghlache et.al.|[2506.02976](http://arxiv.org/abs/2506.02976)|null|
+|**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
+|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-03**|**Token and Span Classification for Entity Recognition in French Historical Encyclopedias**|Ludovic Moncla et.al.|[2506.02872](http://arxiv.org/abs/2506.02872)|null|
+|**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
+|**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
+|**2025-06-03**|**Deep Learning Enhanced Multivariate GARCH**|Haoyuan Wang et.al.|[2506.02796](http://arxiv.org/abs/2506.02796)|null|
 |**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
 |**2025-05-30**|**Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification**|Xinliu Zhong et.al.|[2505.24792](http://arxiv.org/abs/2505.24792)|null|
 |**2025-05-30**|**Drop Dropout on Single-Epoch Language Model Pretraining**|Houjun Liu et.al.|[2505.24788](http://arxiv.org/abs/2505.24788)|null|
@@ -5460,6 +5480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Token and Span Classification for Entity Recognition in French Historical Encyclopedias**|Ludovic Moncla et.al.|[2506.02872](http://arxiv.org/abs/2506.02872)|null|
+|**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Mathieu Andreux et.al.|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
+|**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
+|**2025-06-03**|**Evaluating Named Entity Recognition Models for Russian Cultural News Texts: From BERT to LLM**|Maria Levchenko et.al.|[2506.02589](http://arxiv.org/abs/2506.02589)|null|
+|**2025-06-03**|**A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning**|Xuejiao Zhao et.al.|[2506.02470](http://arxiv.org/abs/2506.02470)|null|
+|**2025-06-03**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426](http://arxiv.org/abs/2506.02426)|null|
+|**2025-06-03**|**STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation**|Jiaming Li et.al.|[2506.02347](http://arxiv.org/abs/2506.02347)|null|
+|**2025-06-02**|**DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**|Jennifer Chen et.al.|[2506.01954](http://arxiv.org/abs/2506.01954)|null|
+|**2025-06-02**|**Novel Benchmark for NER in the Wastewater and Stormwater Domain**|Franco Alberto Cardillo et.al.|[2506.01938](http://arxiv.org/abs/2506.01938)|null|
 |**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-05-30**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
 |**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
