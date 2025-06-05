@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -2473,7 +2473,7 @@ layout: default
 |**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
 |**2025-06-03**|**Deep Learning for Retinal Degeneration Assessment: A Comprehensive Analysis of the MARIO AMD Progression Challenge**|Rachid Zeghlache et.al.|[2506.02976](http://arxiv.org/abs/2506.02976)|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
-|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
 |**2025-06-03**|**Token and Span Classification for Entity Recognition in French Historical Encyclopedias**|Ludovic Moncla et.al.|[2506.02872](http://arxiv.org/abs/2506.02872)|null|
 |**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
@@ -5486,7 +5486,7 @@ layout: default
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 |**2025-06-03**|**Evaluating Named Entity Recognition Models for Russian Cultural News Texts: From BERT to LLM**|Maria Levchenko et.al.|[2506.02589](http://arxiv.org/abs/2506.02589)|null|
 |**2025-06-03**|**A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning**|Xuejiao Zhao et.al.|[2506.02470](http://arxiv.org/abs/2506.02470)|null|
-|**2025-06-03**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426](http://arxiv.org/abs/2506.02426)|null|
+|**2025-06-04**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426](http://arxiv.org/abs/2506.02426)|null|
 |**2025-06-03**|**STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation**|Jiaming Li et.al.|[2506.02347](http://arxiv.org/abs/2506.02347)|null|
 |**2025-06-02**|**DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**|Jennifer Chen et.al.|[2506.01954](http://arxiv.org/abs/2506.01954)|null|
 |**2025-06-02**|**Novel Benchmark for NER in the Wastewater and Stormwater Domain**|Franco Alberto Cardillo et.al.|[2506.01938](http://arxiv.org/abs/2506.01938)|null|
