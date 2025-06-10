@@ -65,6 +65,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937](http://arxiv.org/abs/2506.07937)|null|
+|**2025-06-09**|**Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions**|Lev V. Utkin et.al.|[2506.07933](http://arxiv.org/abs/2506.07933)|null|
+|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|null|
+|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871](http://arxiv.org/abs/2506.07871)|null|
+|**2025-06-09**|**Lightweight Sequential Transformers for Blood Glucose Level Prediction in Type-1 Diabetes**|Mirko Paolo Barbato et.al.|[2506.07864](http://arxiv.org/abs/2506.07864)|null|
+|**2025-06-09**|**Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations**|Weilei Wen et.al.|[2506.07705](http://arxiv.org/abs/2506.07705)|null|
+|**2025-06-09**|**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**|Yuxiao Yang et.al.|[2506.07698](http://arxiv.org/abs/2506.07698)|null|
+|**2025-06-09**|**A Unified Anti-Jamming Design in Complex Environments Based on Cross-Modal Fusion and Intelligent Decision-Making**|Huake Wang et.al.|[2506.07532](http://arxiv.org/abs/2506.07532)|null|
 |**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
 |**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[2506.06128](http://arxiv.org/abs/2506.06128)|null|
 |**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127](http://arxiv.org/abs/2506.06127)|null|
@@ -2504,6 +2514,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969](http://arxiv.org/abs/2506.07969)|null|
+|**2025-06-09**|**Creating a Historical Migration Dataset from Finnish Church Records, 1800-1920**|Ari Vesalainen et.al.|[2506.07960](http://arxiv.org/abs/2506.07960)|null|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
+|**2025-06-09**|**Phase-Only Positioning: Overcoming Integer Ambiguity Challenge through Deep Learning**|Fatih Ayten et.al.|[2506.07890](http://arxiv.org/abs/2506.07890)|null|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882](http://arxiv.org/abs/2506.07882)|null|
+|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|null|
+|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871](http://arxiv.org/abs/2506.07871)|null|
+|**2025-06-09**|**Dense Associative Memory in a Nonlinear Optical Hopfield Neural Network**|Khalid Musa et.al.|[2506.07849](http://arxiv.org/abs/2506.07849)|null|
+|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265](http://arxiv.org/abs/2506.06265)|null|
 |**2025-06-06**|**Neural Responses to Affective Sentences Reveal Signatures of Depression**|Aditya Kommineni et.al.|[2506.06244](http://arxiv.org/abs/2506.06244)|null|
@@ -5548,6 +5568,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948](http://arxiv.org/abs/2506.07948)|null|
+|**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853](http://arxiv.org/abs/2506.07853)|null|
+|**2025-06-09**|**MultiMatch: Multihead Consistency Regularization Matching for Semi-Supervised Text Classification**|Iustin Sirbu et.al.|[2506.07801](http://arxiv.org/abs/2506.07801)|null|
+|**2025-06-09**|**SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding**|Nianbo Zeng et.al.|[2506.07600](http://arxiv.org/abs/2506.07600)|null|
+|**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449](http://arxiv.org/abs/2506.07449)|null|
+|**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323](http://arxiv.org/abs/2506.07323)|null|
+|**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|null|
+|**2025-06-08**|**Research Knowledge Graphs: the Shifting Paradigm of Scholarly Information Representation**|Matthäus Zloch et.al.|[2506.07285](http://arxiv.org/abs/2506.07285)|null|
+|**2025-06-08**|**CTDGSI: A comprehensive exploitation of instance selection methods for automatic text classification. VII Concurso de Teses, Dissertações e Trabalhos de Graduação em SI -- XXI Simpósio Brasileiro de Sistemas de Informação**|Washington Cunha et.al.|[2506.07169](http://arxiv.org/abs/2506.07169)|null|
+|**2025-06-08**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|null|
 |**2025-06-06**|**LTG at SemEval-2025 Task 10: Optimizing Context for Classification of Narrative Roles**|Egil Rønningstad et.al.|[2506.05976](http://arxiv.org/abs/2506.05976)|null|
 |**2025-06-06**|**NameTag 3: A Tool and a Service for Multilingual/Multitagset NER**|Jana Straková et.al.|[2506.05949](http://arxiv.org/abs/2506.05949)|null|
 |**2025-06-06**|**Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation**|Ze Yu Zhang et.al.|[2506.05939](http://arxiv.org/abs/2506.05939)|null|
