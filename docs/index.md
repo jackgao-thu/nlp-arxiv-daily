@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -57,6 +57,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**How attention simplifies mental representations for planning**|Jason da Silva Castanheira et.al.|[2506.09520](http://arxiv.org/abs/2506.09520)|null|
+|**2025-06-11**|**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|[2506.09460](http://arxiv.org/abs/2506.09460)|null|
+|**2025-06-11**|**Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization**|Shengda Gu et.al.|[2506.09404](http://arxiv.org/abs/2506.09404)|null|
+|**2025-06-10**|**Self-Anchored Attention Model for Sample-Efficient Classification of Prosocial Text Chat**|Zhuofang Li et.al.|[2506.09259](http://arxiv.org/abs/2506.09259)|null|
+|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|null|
+|**2025-06-10**|**LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting**|Yilin Zhuang et.al.|[2506.09193](http://arxiv.org/abs/2506.09193)|null|
+|**2025-06-10**|**CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model**|Jingying Ma et.al.|[2506.09110](http://arxiv.org/abs/2506.09110)|null|
 |**2025-06-10**|**JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset**|Mahesh Godavarti et.al.|[2506.08652](http://arxiv.org/abs/2506.08652)|null|
 |**2025-06-10**|**Diffusion model for analyzing quantum fingerprints in conductance fluctuation**|Naoto Yokoi et.al.|[2506.08617](http://arxiv.org/abs/2506.08617)|null|
 |**2025-06-10**|**Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|[2506.08596](http://arxiv.org/abs/2506.08596)|null|
@@ -2510,6 +2517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI for Enhanced Accuracy in Global Financial Markets**|Md. Yeasin Rahat et.al.|[2506.09851](http://arxiv.org/abs/2506.09851)|null|
+|**2025-06-11**|**IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments**|Florian Bordes et.al.|[2506.09849](http://arxiv.org/abs/2506.09849)|null|
+|**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
+|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|null|
+|**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
+|**2025-06-11**|**Optimization and validation of charge transport simulation for hybrid pixel detectors incorporating the repulsion effect**|X. Xie et.al.|[2506.09712](http://arxiv.org/abs/2506.09712)|null|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|null|
+|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
+|**2025-06-11**|**Empirical Quantification of Spurious Correlations in Malware Detection**|Bianca Perasso et.al.|[2506.09662](http://arxiv.org/abs/2506.09662)|null|
+|**2025-06-11**|**Scaling Laws for Uncertainty in Deep Learning**|Mattia Rosso et.al.|[2506.09648](http://arxiv.org/abs/2506.09648)|null|
 |**2025-06-10**|**Do MIL Models Transfer?**|Daniel Shao et.al.|[2506.09022](http://arxiv.org/abs/2506.09022)|null|
 |**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987](http://arxiv.org/abs/2506.08987)|**[link](https://github.com/ehsanngh/DeepCardioSim)**|
 |**2025-06-10**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982](http://arxiv.org/abs/2506.08982)|null|
@@ -5572,11 +5589,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
+|**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
+|**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
+|**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
+|**2025-06-11**|**PGDA-KGQA: A Prompt-Guided Generative Framework with Multiple Data Augmentation Strategies for Knowledge Graph Question Answering**|Xiujun Zhou et.al.|[2506.09414](http://arxiv.org/abs/2506.09414)|null|
 |**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970](http://arxiv.org/abs/2506.08970)|null|
 |**2025-06-10**|**PlantBert: An Open Source Language Model for Plant Science**|Hiba Khey et.al.|[2506.08897](http://arxiv.org/abs/2506.08897)|null|
 |**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
-|**2025-06-10**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700](http://arxiv.org/abs/2506.08700)|null|
+|**2025-06-11**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700](http://arxiv.org/abs/2506.08700)|null|
 |**2025-06-10**|**From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge**|Agnese Taluzzi et.al.|[2506.08553](http://arxiv.org/abs/2506.08553)|null|
 |**2025-06-10**|**mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks**|Luel Hagos Beyene et.al.|[2506.08400](http://arxiv.org/abs/2506.08400)|null|
 |**2025-06-09**|**ETT-CKGE: Efficient Task-driven Tokens for Continual Knowledge Graph Embedding**|Lijing Zhu et.al.|[2506.08158](http://arxiv.org/abs/2506.08158)|null|
