@@ -65,6 +65,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
+|**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
+|**2025-06-20**|**Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept**|Ryan James Campbell et.al.|[2506.16810](http://arxiv.org/abs/2506.16810)|null|
+|**2025-06-20**|**Mesh-Informed Neural Operator : A Transformer Generative Approach**|Yaozhong Shi et.al.|[2506.16656](http://arxiv.org/abs/2506.16656)|null|
+|**2025-06-19**|**Long-Context Generalization with Sparse Attention**|Pavlo Vasylenko et.al.|[2506.16640](http://arxiv.org/abs/2506.16640)|null|
+|**2025-06-19**|**Revela: Dense Retriever Learning via Language Modeling**|Fengyu Cai et.al.|[2506.16552](http://arxiv.org/abs/2506.16552)|null|
+|**2025-06-19**|**A Free Probabilistic Framework for Analyzing the Transformer-based Language Models**|Swagatam Das et.al.|[2506.16550](http://arxiv.org/abs/2506.16550)|null|
+|**2025-06-19**|**Improvement of Nuclide Detection through Graph Spectroscopic Analysis Framework and its Application to Nuclear Facility Upset Detection**|Pedro Rodríguez Fernández et.al.|[2506.16522](http://arxiv.org/abs/2506.16522)|null|
+|**2025-06-19**|**EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems**|Dian Meng et.al.|[2506.16428](http://arxiv.org/abs/2506.16428)|null|
+|**2025-06-19**|**Generating Directed Graphs with Dual Attention and Asymmetric Encoding**|Alba Carballo-Castro et.al.|[2506.16404](http://arxiv.org/abs/2506.16404)|null|
 |**2025-06-18**|**RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models**|Bailin Wang et.al.|[2506.15545](http://arxiv.org/abs/2506.15545)|null|
 |**2025-06-18**|**Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity**|Oluwadamilola Fasina et.al.|[2506.15541](http://arxiv.org/abs/2506.15541)|null|
 |**2025-06-18**|**Sampling 3D Molecular Conformers with Diffusion Transformers**|J. Thorben Frank et.al.|[2506.15378](http://arxiv.org/abs/2506.15378)|**[link](https://github.com/ml4molsim/dit_mc)**|
@@ -2572,6 +2582,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Facial Landmark Visualization and Emotion Recognition Through Neural Networks**|Israel Juárez-Jiménez et.al.|[2506.17191](http://arxiv.org/abs/2506.17191)|null|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|null|
+|**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
+|**2025-06-20**|**Reassessing Code Authorship Attribution in the Era of Language Models**|Atish Kumar Dipongkor et.al.|[2506.17120](http://arxiv.org/abs/2506.17120)|null|
+|**2025-06-20**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network Intrusion Detection**|Joshua Schraven et.al.|[2506.17041](http://arxiv.org/abs/2506.17041)|**[link](https://github.com/TheLurps/MAWIFlow)**|
+|**2025-06-20**|**Reframing Spatial Dependence as Geographic Feature Attribution**|Chuan Chen et.al.|[2506.16996](http://arxiv.org/abs/2506.16996)|null|
+|**2025-06-20**|**A deep learning and machine learning approach to predict neonatal death in the context of São Paulo**|Mohon Raihan et.al.|[2506.16929](http://arxiv.org/abs/2506.16929)|null|
+|**2025-06-20**|**EHCube4P: Learning Epistatic Patterns Through Hypercube Graph Convolution Neural Network for Protein Fitness Function Estimation**|Muhammad Daud et.al.|[2506.16921](http://arxiv.org/abs/2506.16921)|null|
+|**2025-06-20**|**A Neural Operator based Hybrid Microscale Model for Multiscale Simulation of Rate-Dependent Materials**|Dhananjeyan Jeyaraj et.al.|[2506.16918](http://arxiv.org/abs/2506.16918)|null|
+|**2025-06-20**|**RCNet: $ΔΣ$ IADCs as Recurrent AutoEncoders**|Arnaud Verdant et.al.|[2506.16903](http://arxiv.org/abs/2506.16903)|null|
 |**2025-06-18**|**On the Upper Bounds for the Matrix Spectral Norm**|Alexey Naumov et.al.|[2506.15660](http://arxiv.org/abs/2506.15660)|null|
 |**2025-06-19**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
 |**2025-06-18**|**Towards Explainable Indoor Localization: Interpreting Neural Network Learning on Wi-Fi Fingerprints Using Logic Gates**|Danish Gufran et.al.|[2506.15559](http://arxiv.org/abs/2506.15559)|null|
@@ -5696,6 +5716,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981](http://arxiv.org/abs/2506.16981)|null|
+|**2025-06-19**|**Initial Investigation of LLM-Assisted Development of Rule-Based Clinical NLP System**|Jianlin Shi et.al.|[2506.16628](http://arxiv.org/abs/2506.16628)|null|
+|**2025-06-19**|**A Community-driven vision for a new Knowledge Resource for AI**|Vinay K Chaudhri et.al.|[2506.16596](http://arxiv.org/abs/2506.16596)|null|
+|**2025-06-19**|**Robustness Evaluation of OCR-based Visual Document Understanding under Multi-Modal Adversarial Attacks**|Dong Nguyen Tien et.al.|[2506.16407](http://arxiv.org/abs/2506.16407)|null|
+|**2025-06-19**|**SHREC and PHEONA: Using Large Language Models to Advance Next-Generation Computational Phenotyping**|Sarah Pungitore et.al.|[2506.16359](http://arxiv.org/abs/2506.16359)|null|
+|**2025-06-19**|**DISCIE -- Discriminative Closed Information Extraction**|Cedric Möller et.al.|[2506.16348](http://arxiv.org/abs/2506.16348)|null|
+|**2025-06-19**|**Analyzing the Influence of Knowledge Graph Information on Relation Extraction**|Cedric Möller et.al.|[2506.16343](http://arxiv.org/abs/2506.16343)|null|
 |**2025-06-18**|**Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs**|Yang Fan et.al.|[2506.15241](http://arxiv.org/abs/2506.15241)|null|
 |**2025-06-18**|**A Comparative Study of Task Adaptation Techniques of Large Language Models for Identifying Sustainable Development Goals**|Andrea Cadeddu et.al.|[2506.15208](http://arxiv.org/abs/2506.15208)|null|
 |**2025-06-18**|**Identifying social isolation themes in NVDRS text narratives using topic modeling and text-classification methods**|Drew Walker et.al.|[2506.15030](http://arxiv.org/abs/2506.15030)|null|
