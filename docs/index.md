@@ -57,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction**|Xin An et.al.|[2506.18797](http://arxiv.org/abs/2506.18797)|null|
+|**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791](http://arxiv.org/abs/2506.18791)|null|
+|**2025-06-23**|**On the Existence of Universal Simulators of Attention**|Debanjan Dutta et.al.|[2506.18739](http://arxiv.org/abs/2506.18739)|null|
+|**2025-06-23**|**A Random Matrix Analysis of In-context Memorization for Nonlinear Attention**|Zhenyu Liao et.al.|[2506.18656](http://arxiv.org/abs/2506.18656)|null|
+|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
+|**2025-06-23**|**Enhancing Image Restoration Transformer via Adaptive Translation Equivariance**|JiaKui Hu et.al.|[2506.18520](http://arxiv.org/abs/2506.18520)|null|
+|**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
+|**2025-06-23**|**Frequency-Domain Fusion Transformer for Image Inpainting**|Sijin He et.al.|[2506.18437](http://arxiv.org/abs/2506.18437)|null|
+|**2025-06-23**|**AE-PINNs: Attention-enhanced physics-informed neural networks for solving elliptic interface problems**|Jiachun Zheng et.al.|[2506.18332](http://arxiv.org/abs/2506.18332)|null|
 |**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
 |**2025-06-20**|**Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept**|Ryan James Campbell et.al.|[2506.16810](http://arxiv.org/abs/2506.16810)|null|
@@ -2572,6 +2582,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures**|Aristotelis Papatheodorou et.al.|[2506.18812](http://arxiv.org/abs/2506.18812)|null|
+|**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791](http://arxiv.org/abs/2506.18791)|null|
+|**2025-06-23**|**Leveraging Transfer Learning to Overcome Data Limitations in Czochralski Crystal Growth**|Milena Petkovic et.al.|[2506.18774](http://arxiv.org/abs/2506.18774)|null|
+|**2025-06-23**|**Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**|Nasser-Eddine Monir et.al.|[2506.18714](http://arxiv.org/abs/2506.18714)|null|
+|**2025-06-23**|**Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping**|Pablo Meseguer et.al.|[2506.18668](http://arxiv.org/abs/2506.18668)|null|
+|**2025-06-23**|**Partitioning the electronic wave function using deep variational Monte Carlo**|Matěj Mezera et.al.|[2506.18574](http://arxiv.org/abs/2506.18574)|null|
+|**2025-06-23**|**When Fine-Tuning Fails: Lessons from MS MARCO Passage Ranking**|Manu Pande et.al.|[2506.18535](http://arxiv.org/abs/2506.18535)|null|
+|**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530](http://arxiv.org/abs/2506.18530)|null|
+|**2025-06-23**|**Theoretical guarantees for neural estimators in parametric statistics**|Almut Rödder et.al.|[2506.18508](http://arxiv.org/abs/2506.18508)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
 |**2025-06-20**|**Facial Landmark Visualization and Emotion Recognition Through Neural Networks**|Israel Juárez-Jiménez et.al.|[2506.17191](http://arxiv.org/abs/2506.17191)|null|
 |**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|null|
 |**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
@@ -5704,6 +5724,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang et.al.|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
+|**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559](http://arxiv.org/abs/2506.18559)|null|
+|**2025-06-23**|**Enhancing Entity Aware Machine Translation with Multi-task Learning**|An Trieu et.al.|[2506.18318](http://arxiv.org/abs/2506.18318)|null|
+|**2025-06-22**|**PDF Retrieval Augmented Question Answering**|Thi Thu Uyen Hoang et.al.|[2506.18027](http://arxiv.org/abs/2506.18027)|null|
+|**2025-06-22**|**medicX-KG: A Knowledge Graph for Pharmacists' Drug Information Needs**|Lizzy Farrugia et.al.|[2506.17959](http://arxiv.org/abs/2506.17959)|null|
+|**2025-06-21**|**Machine Learning Model Integration with Open World Temporal Logic for Process Automation**|Dyuman Aditya et.al.|[2506.17776](http://arxiv.org/abs/2506.17776)|null|
+|**2025-06-21**|**Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion**|Jiheng Liang et.al.|[2506.17761](http://arxiv.org/abs/2506.17761)|null|
+|**2025-06-21**|**Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?**|Yuesheng Huang et.al.|[2506.17623](http://arxiv.org/abs/2506.17623)|null|
+|**2025-06-21**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
+|**2025-06-21**|**AgriCHN: A Comprehensive Cross-domain Resource for Chinese Agricultural Named Entity Recognition**|Lingxiao Zeng et.al.|[2506.17578](http://arxiv.org/abs/2506.17578)|null|
 |**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
 |**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981](http://arxiv.org/abs/2506.16981)|null|
 |**2025-06-19**|**Initial Investigation of LLM-Assisted Development of Rule-Based Clinical NLP System**|Jianlin Shi et.al.|[2506.16628](http://arxiv.org/abs/2506.16628)|null|
