@@ -57,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
+|**2025-06-26**|**Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models**|Haoyang Wu et.al.|[2506.21330](http://arxiv.org/abs/2506.21330)|null|
+|**2025-06-26**|**Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou**|Pengfei Fan et.al.|[2506.21269](http://arxiv.org/abs/2506.21269)|null|
+|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-26**|**NaLaFormer: Norm-Aware Linear Attention for Transformer Models**|Weikang Meng et.al.|[2506.21137](http://arxiv.org/abs/2506.21137)|null|
+|**2025-06-26**|**YOLO-FDA: Integrating Hierarchical Attention and Detail Enhancement for Surface Defect Detection**|Jiawei Hu et.al.|[2506.21135](http://arxiv.org/abs/2506.21135)|null|
+|**2025-06-26**|**Learning to Skip the Middle Layers of Transformers**|Tim Lawson et.al.|[2506.21103](http://arxiv.org/abs/2506.21103)|null|
+|**2025-06-26**|**Interpretable Hierarchical Concept Reasoning through Attention-Guided Graph Learning**|David Debot et.al.|[2506.21102](http://arxiv.org/abs/2506.21102)|null|
+|**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046](http://arxiv.org/abs/2506.21046)|null|
+|**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
 |**2025-06-25**|**Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization**|Zhiwang Zhang et.al.|[2506.20567](http://arxiv.org/abs/2506.20567)|null|
 |**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
 |**2025-06-25**|**A foundation model with multi-variate parallel attention to generate neuronal activity**|Francesco Carzaniga et.al.|[2506.20354](http://arxiv.org/abs/2506.20354)|null|
@@ -2598,6 +2608,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499](http://arxiv.org/abs/2506.21499)|null|
+|**2025-06-26**|**A Comprehensive Dataset for Underground Miner Detection in Diverse Scenario**|Cyrus Addy et.al.|[2506.21451](http://arxiv.org/abs/2506.21451)|null|
+|**2025-06-26**|**Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation**|Sweta Banerjee et.al.|[2506.21444](http://arxiv.org/abs/2506.21444)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**Hybrid Deep Learning and Signal Processing for Arabic Dialect Recognition in Low-Resource Settings**|Ghazal Al-Shwayyat et.al.|[2506.21386](http://arxiv.org/abs/2506.21386)|null|
+|**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379](http://arxiv.org/abs/2506.21379)|null|
+|**2025-06-26**|**A Hierarchical Deep Learning Approach for Minority Instrument Detection**|Dylan Sechet et.al.|[2506.21167](http://arxiv.org/abs/2506.21167)|null|
+|**2025-06-26**|**Mapping intratumoral heterogeneity through PET-derived washout and deep learning after proton therapy**|Pablo Cabrales et.al.|[2506.21153](http://arxiv.org/abs/2506.21153)|null|
+|**2025-06-26**|**Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels**|Aida Moafi et.al.|[2506.21151](http://arxiv.org/abs/2506.21151)|null|
+|**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
 |**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
 |**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614](http://arxiv.org/abs/2506.20614)|null|
 |**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
@@ -5760,6 +5780,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
+|**2025-06-26**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
+|**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
+|**2025-06-26**|**Class-Agnostic Region-of-Interest Matching in Document Images**|Demin Zhang et.al.|[2506.21055](http://arxiv.org/abs/2506.21055)|null|
+|**2025-06-25**|**Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach**|Srikar Reddy Gadusu et.al.|[2506.20851](http://arxiv.org/abs/2506.20851)|null|
 |**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-25**|**Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype**|Xuefei Hou et.al.|[2506.20156](http://arxiv.org/abs/2506.20156)|null|
