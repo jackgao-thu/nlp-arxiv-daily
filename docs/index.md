@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -60,7 +60,7 @@ layout: default
 |**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
 |**2025-06-26**|**Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models**|Haoyang Wu et.al.|[2506.21330](http://arxiv.org/abs/2506.21330)|null|
 |**2025-06-26**|**Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou**|Pengfei Fan et.al.|[2506.21269](http://arxiv.org/abs/2506.21269)|null|
-|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
 |**2025-06-26**|**NaLaFormer: Norm-Aware Linear Attention for Transformer Models**|Weikang Meng et.al.|[2506.21137](http://arxiv.org/abs/2506.21137)|null|
 |**2025-06-26**|**YOLO-FDA: Integrating Hierarchical Attention and Detail Enhancement for Surface Defect Detection**|Jiawei Hu et.al.|[2506.21135](http://arxiv.org/abs/2506.21135)|null|
 |**2025-06-26**|**Learning to Skip the Middle Layers of Transformers**|Tim Lawson et.al.|[2506.21103](http://arxiv.org/abs/2506.21103)|null|
