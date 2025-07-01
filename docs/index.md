@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -5801,7 +5801,7 @@ layout: default
 |**2025-06-27**|**UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2506.22210](http://arxiv.org/abs/2506.22210)|null|
 |**2025-06-27**|**Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion**|Ying Zhang et.al.|[2506.22036](http://arxiv.org/abs/2506.22036)|null|
 |**2025-06-27**|**LinguaSynth: Heterogeneous Linguistic Signals for News Classification**|Duo Zhang et.al.|[2506.21848](http://arxiv.org/abs/2506.21848)|null|
-|**2025-06-26**|**Shifting Narratives: A Longitudinal Analysis of Media Trends and Public Attitudes on Homelessness**|Akshay Irudayaraj et.al.|[2506.21794](http://arxiv.org/abs/2506.21794)|null|
+|**2025-06-30**|**Shifting Narratives: A Longitudinal Analysis of Media Trends and Public Attitudes on Homelessness**|Akshay Irudayaraj et.al.|[2506.21794](http://arxiv.org/abs/2506.21794)|null|
 |**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
 |**2025-06-26**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
 |**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
