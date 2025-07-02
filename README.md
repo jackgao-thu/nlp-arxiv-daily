@@ -5834,7 +5834,7 @@
 |**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
 |**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353](http://arxiv.org/abs/2506.23353)|null|
 |**2025-06-29**|**Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing**|Siyuan Li et.al.|[2506.23141](http://arxiv.org/abs/2506.23141)|null|
-|**2025-06-29**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
+|**2025-07-01**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
 |**2025-06-29**|**MariNER: A Dataset for Historical Brazilian Portuguese Named Entity Recognition**|João Lucas Luz Lima Sarcinelli et.al.|[2506.23051](http://arxiv.org/abs/2506.23051)|null|
 |**2025-06-28**|**Mind the Gap: Entity-Preserved Context-Aware ASR Structured Transcriptions**|Duygu Altinok et.al.|[2506.22858](http://arxiv.org/abs/2506.22858)|null|
 |**2025-06-28**|**Selecting and Merging: Towards Adaptable and Scalable Named Entity Recognition with Large Language Models**|Zhuojun Ding et.al.|[2506.22813](http://arxiv.org/abs/2506.22813)|null|
