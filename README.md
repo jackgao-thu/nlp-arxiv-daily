@@ -65,6 +65,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
+|**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
+|**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
+|**2025-07-02**|**Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective**|Yuxin Mao et.al.|[2507.01652](http://arxiv.org/abs/2507.01652)|null|
+|**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437](http://arxiv.org/abs/2507.01437)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**Learning an Ensemble Token from Task-driven Priors in Facial Analysis**|Sunyong Seo et.al.|[2507.01290](http://arxiv.org/abs/2507.01290)|null|
+|**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
+|**2025-07-02**|**Automated Classification of Volcanic Earthquakes Using Transformer Encoders: Insights into Data Quality and Model Interpretability**|Y. Suzuki et.al.|[2507.01260](http://arxiv.org/abs/2507.01260)|null|
+|**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-30**|**MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation**|Peiting Tian et.al.|[2506.23700](http://arxiv.org/abs/2506.23700)|null|
@@ -2634,6 +2644,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
+|**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924](http://arxiv.org/abs/2507.01924)|null|
+|**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
+|**2025-07-02**|**STEM Diffraction Pattern Analysis with Deep Learning Networks**|Sebastian Wissel et.al.|[2507.01889](http://arxiv.org/abs/2507.01889)|null|
+|**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
+|**2025-07-02**|**The Cosmological analysis of X-ray cluster surveys VII. Bypassing scaling relations with Lagrangian Deep Learning and Simulation-based inference**|Nicolas Cerardi et.al.|[2507.01820](http://arxiv.org/abs/2507.01820)|null|
+|**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
+|**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752](http://arxiv.org/abs/2507.01752)|null|
+|**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747](http://arxiv.org/abs/2507.01747)|null|
+|**2025-07-02**|**Revisiting Learning Rate Control**|Micha Henheik et.al.|[2507.01724](http://arxiv.org/abs/2507.01724)|null|
 |**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
 |**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
 |**2025-06-30**|**CoMMiT: Co-informed inference of microbiome-metabolome interactions via transfer learning**|Leiyue Li et.al.|[2506.24013](http://arxiv.org/abs/2506.24013)|null|
@@ -5828,6 +5848,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
+|**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597](http://arxiv.org/abs/2507.01597)|null|
+|**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437](http://arxiv.org/abs/2507.01437)|null|
+|**2025-07-01**|**Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**|Félix Lefebvre et.al.|[2507.00965](http://arxiv.org/abs/2507.00965)|null|
+|**2025-07-01**|**On Mitigating Data Sparsity in Conversational Recommender Systems**|Sixiao Zhang et.al.|[2507.00479](http://arxiv.org/abs/2507.00479)|null|
+|**2025-06-30**|**Natural language processing for African languages**|David Ifeoluwa Adelani et.al.|[2507.00297](http://arxiv.org/abs/2507.00297)|null|
+|**2025-06-30**|**Two-Stage Reasoning-Infused Learning: Improving Classification with LLM-Generated Reasoning**|Mads Henrichsen et.al.|[2507.00214](http://arxiv.org/abs/2507.00214)|null|
 |**2025-06-30**|**Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders**|Mathis Le Bail et.al.|[2506.23951](http://arxiv.org/abs/2506.23951)|null|
 |**2025-06-30**|**Three-dimensional end-to-end deep learning for brain MRI analysis**|Radhika Juglan et.al.|[2506.23916](http://arxiv.org/abs/2506.23916)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
