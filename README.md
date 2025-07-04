@@ -65,6 +65,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics**|Alex Colagrande et.al.|[2507.02748](http://arxiv.org/abs/2507.02748)|null|
+|**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
+|**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|
+|**2025-07-03**|**Red grape detection with accelerated artificial neural networks in the FPGA's programmable logic**|Sandro Costa Magalhães et.al.|[2507.02443](http://arxiv.org/abs/2507.02443)|null|
+|**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
+|**2025-07-03**|**Lightweight Shrimp Disease Detection Research Based on YOLOv8n**|Fei Yuhuan et.al.|[2507.02354](http://arxiv.org/abs/2507.02354)|null|
+|**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
+|**2025-07-03**|**Multi-Label Classification Framework for Hurricane Damage Assessment**|Zhangding Liu et.al.|[2507.02265](http://arxiv.org/abs/2507.02265)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
 |**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
@@ -2644,6 +2653,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
+|**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
+|**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634](http://arxiv.org/abs/2507.02634)|null|
+|**2025-07-03**|**Padé Approximant Neural Networks for Enhanced Electric Motor Fault Diagnosis Using Vibration and Acoustic Data**|Sertac Kilickaya et.al.|[2507.02599](http://arxiv.org/abs/2507.02599)|null|
+|**2025-07-03**|**AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models**|Chenhao Xue et.al.|[2507.02598](http://arxiv.org/abs/2507.02598)|null|
+|**2025-07-03**|**Position: A Theory of Deep Learning Must Include Compositional Sparsity**|David A. Danhofer et.al.|[2507.02550](http://arxiv.org/abs/2507.02550)|null|
+|**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519](http://arxiv.org/abs/2507.02519)|null|
+|**2025-07-03**|**Detecting Multiple Diseases in Multiple Crops Using Deep Learning**|Vivek Yadav et.al.|[2507.02517](http://arxiv.org/abs/2507.02517)|null|
+|**2025-07-03**|**TFOC-Net: A Short-time Fourier Transform-based Deep Learning Approach for Enhancing Cross-Subject Motor Imagery Classification**|Ahmed G. Habashi et.al.|[2507.02510](http://arxiv.org/abs/2507.02510)|null|
+|**2025-07-03**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924](http://arxiv.org/abs/2507.01924)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
@@ -5848,6 +5867,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
+|**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472](http://arxiv.org/abs/2507.02472)|null|
+|**2025-07-03**|**Knowledge Graph-Based Explainable and Generalized Zero-Shot Semantic Communications**|Zhaoyu Zhang et.al.|[2507.02291](http://arxiv.org/abs/2507.02291)|null|
 |**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
 |**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597](http://arxiv.org/abs/2507.01597)|null|
 |**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437](http://arxiv.org/abs/2507.01437)|null|
