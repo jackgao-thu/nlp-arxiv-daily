@@ -57,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-07**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
+|**2025-07-07**|**MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding**|Zhicheng Zhang et.al.|[2507.04635](http://arxiv.org/abs/2507.04635)|null|
+|**2025-07-07**|**LTMSformer: A Local Trend-Aware Attention and Motion State Encoding Transformer for Multi-Agent Trajectory Prediction**|Yixin Yan et.al.|[2507.04634](http://arxiv.org/abs/2507.04634)|null|
+|**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
+|**2025-07-06**|**Unveiling the Potential of Diffusion Large Language Model in Controllable Generation**|Zhen Xiong et.al.|[2507.04504](http://arxiv.org/abs/2507.04504)|null|
+|**2025-07-06**|**CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step**|Zheyuan Liu et.al.|[2507.04451](http://arxiv.org/abs/2507.04451)|null|
+|**2025-07-06**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Wenyao Zhang et.al.|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
+|**2025-07-06**|**Context-Aware Deep Learning for Robust Channel Extrapolation in Fluid Antenna Systems**|Yanliang Jin et.al.|[2507.04435](http://arxiv.org/abs/2507.04435)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
 |**2025-07-03**|**Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics**|Alex Colagrande et.al.|[2507.02748](http://arxiv.org/abs/2507.02748)|null|
 |**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
@@ -2643,6 +2653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
+|**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
+|**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
+|**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
+|**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134](http://arxiv.org/abs/2507.05134)|null|
+|**2025-07-07**|**PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**|Xinzhe Zheng et.al.|[2507.05101](http://arxiv.org/abs/2507.05101)|null|
+|**2025-07-07**|**Deep Learning Based Antenna Selection Technique for RIS-Empowered RQSM System**|Burak Ahmet Ozden et.al.|[2507.05071](http://arxiv.org/abs/2507.05071)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
+|**2025-07-07**|**AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming**|Mohammad Hossein Amini et.al.|[2507.04990](http://arxiv.org/abs/2507.04990)|null|
+|**2025-07-07**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
 |**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
 |**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634](http://arxiv.org/abs/2507.02634)|null|
@@ -5855,6 +5875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift**|Shixuan Liu et.al.|[2507.05110](http://arxiv.org/abs/2507.05110)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-07**|**Verified Language Processing with Hybrid Explainability: A Technical Report**|Oliver Robert Fox et.al.|[2507.05017](http://arxiv.org/abs/2507.05017)|null|
+|**2025-07-07**|**Co-DETECT: Collaborative Discovery of Edge Cases in Text Classification**|Chenfei Xiong et.al.|[2507.05010](http://arxiv.org/abs/2507.05010)|null|
+|**2025-07-07**|**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**|Zewen Sun et.al.|[2507.04877](http://arxiv.org/abs/2507.04877)|null|
+|**2025-07-07**|**Dialogue-Based Multi-Dimensional Relationship Extraction from Novels**|Yuchen Yan et.al.|[2507.04852](http://arxiv.org/abs/2507.04852)|null|
+|**2025-07-07**|**Bridging KAN and MLP: MJKAN, a Hybrid Architecture with Both Efficiency and Expressiveness**|Hanseon Joo et.al.|[2507.04690](http://arxiv.org/abs/2507.04690)|null|
+|**2025-07-06**|**Multimedia Verification Through Multi-Agent Deep Research Multimodal Large Language Models**|Huy Hoan Le et.al.|[2507.04410](http://arxiv.org/abs/2507.04410)|null|
+|**2025-07-06**|**RegistrationMamba: A Mamba-based Registration Framework Integrating Multi-Expert Feature Learning for Cross-Modal Remote Sensing Images**|Wei Wang et.al.|[2507.04397](http://arxiv.org/abs/2507.04397)|null|
+|**2025-07-05**|**Large Language Models for Zero-Shot Multicultural Name Recognition**|Thanakorn Phonchai et.al.|[2507.04149](http://arxiv.org/abs/2507.04149)|null|
 |**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
 |**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472](http://arxiv.org/abs/2507.02472)|null|
