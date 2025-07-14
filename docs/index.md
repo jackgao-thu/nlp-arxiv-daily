@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -2683,7 +2683,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-10**|**TinierHAR: Towards Ultra-Lightweight Deep Learning Models for Efficient Human Activity Recognition on Edge Devices**|Sizhen Bian et.al.|[2507.07949](http://arxiv.org/abs/2507.07949)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
 |**2025-07-10**|**MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)**|Hasaan Maqsood et.al.|[2507.07839](http://arxiv.org/abs/2507.07839)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
 |**2025-07-10**|**Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting**|Gauthier Rotsart de Hertaing et.al.|[2507.07811](http://arxiv.org/abs/2507.07811)|null|
