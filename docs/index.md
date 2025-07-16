@@ -59,6 +59,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
+|**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296](http://arxiv.org/abs/2507.11296)|null|
+|**2025-07-15**|**Quantum Adaptive Excitation Network with Variational Quantum Circuits for Channel Attention**|Yu-Chao Hsu et.al.|[2507.11217](http://arxiv.org/abs/2507.11217)|null|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-15**|**DS@GT at eRisk 2025: From prompts to predictions, benchmarking early depression detection with conversational agent based assessments and temporal attention models**|Anthony Miyaguchi et.al.|[2507.10958](http://arxiv.org/abs/2507.10958)|null|
+|**2025-07-14**|**IoT Malware Network Traffic Detection using Deep Learning and GraphSAGE Models**|Nikesh Prajapati et.al.|[2507.10758](http://arxiv.org/abs/2507.10758)|null|
+|**2025-07-14**|**SENSOR: An ML-Enhanced Online Annotation Tool to Uncover Privacy Concerns from User Reviews in Social-Media Applications**|Labiba Farah et.al.|[2507.10640](http://arxiv.org/abs/2507.10640)|null|
 |**2025-07-14**|**RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|[2507.10461](http://arxiv.org/abs/2507.10461)|null|
 |**2025-07-14**|**Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration**|Wenkang Han et.al.|[2507.10293](http://arxiv.org/abs/2507.10293)|null|
 |**2025-07-14**|**FTCFormer: Fuzzy Token Clustering Transformer for Image Classification**|Muyi Bao et.al.|[2507.10283](http://arxiv.org/abs/2507.10283)|null|
@@ -2696,6 +2703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Toward Improving fNIRS Classification: A Study on Activation Functions in Deep Neural Architectures**|Behtom Adeli et.al.|[2507.11436](http://arxiv.org/abs/2507.11436)|null|
+|**2025-07-15**|**The model is the message: Lightweight convolutional autoencoders applied to noisy imaging data for planetary science and astrobiology**|Caleb Scharf et.al.|[2507.11400](http://arxiv.org/abs/2507.11400)|null|
+|**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
+|**2025-07-15**|**Quantitative multi-metabolite imaging of Parkinson's disease using AI boosted molecular MRI**|Hagar Shmuely et.al.|[2507.11329](http://arxiv.org/abs/2507.11329)|null|
+|**2025-07-15**|**Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**|Nicoletta Sanvitale et.al.|[2507.11320](http://arxiv.org/abs/2507.11320)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
 |**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Philippe Rufin et.al.|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
 |**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
 |**2025-07-14**|**From BERT to Qwen: Hate Detection across architectures**|Ariadna Mon et.al.|[2507.10468](http://arxiv.org/abs/2507.10468)|null|
@@ -5968,6 +5985,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion**|Jin Li et.al.|[2507.11229](http://arxiv.org/abs/2507.11229)|null|
+|**2025-07-15**|**An Interpretable AI framework Quantifying Traditional Chinese Medicine Principles Towards Enhancing and Integrating with Modern Biomedicine**|Haoran Li et.al.|[2507.11176](http://arxiv.org/abs/2507.11176)|null|
+|**2025-07-15**|**Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**|Yuhao Wang et.al.|[2507.10923](http://arxiv.org/abs/2507.10923)|null|
+|**2025-07-14**|**Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines**|Jiayuan Chen et.al.|[2507.10737](http://arxiv.org/abs/2507.10737)|null|
 |**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373](http://arxiv.org/abs/2507.10373)|null|
 |**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
 |**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156](http://arxiv.org/abs/2507.10156)|null|
