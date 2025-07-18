@@ -67,6 +67,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting**|Lefei Shen et.al.|[2507.13043](http://arxiv.org/abs/2507.13043)|null|
+|**2025-07-17**|**SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs**|Kossi Amouzouvi et.al.|[2507.13001](http://arxiv.org/abs/2507.13001)|null|
+|**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
+|**2025-07-17**|**Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion**|Caixia Dong et.al.|[2507.12938](http://arxiv.org/abs/2507.12938)|null|
+|**2025-07-17**|**Semantic-guided Fine-tuning of Foundation Model for Long-tailed Visual Recognition**|Yufei Peng et.al.|[2507.12807](http://arxiv.org/abs/2507.12807)|null|
+|**2025-07-17**|**Local Representative Token Guided Merging for Text-to-Image Generation**|Min-Jeong Lee et.al.|[2507.12771](http://arxiv.org/abs/2507.12771)|null|
+|**2025-07-17**|**AdaptiSent: Context-Aware Adaptive Attention for Multimodal Aspect-Based Sentiment Analysis**|S M Rafiuddin et.al.|[2507.12695](http://arxiv.org/abs/2507.12695)|null|
+|**2025-07-16**|**A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis**|Mohammed Guhdar et.al.|[2507.12645](http://arxiv.org/abs/2507.12645)|null|
+|**2025-07-16**|**Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection**|Sandipan Sarma et.al.|[2507.12628](http://arxiv.org/abs/2507.12628)|null|
 |**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
 |**2025-07-16**|**Wavelet-based Decoupling Framework for low-light Stereo Image Enhancement**|Shuangli Du et.al.|[2507.12188](http://arxiv.org/abs/2507.12188)|null|
 |**2025-07-16**|**PRISM: Distributed Inference for Foundation Models at Edge**|Muhammad Azlan Qazi et.al.|[2507.12145](http://arxiv.org/abs/2507.12145)|null|
@@ -2719,6 +2729,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Stochastic Weakly Convex Optimization Under Heavy-Tailed Noises**|Tianxi Zhu et.al.|[2507.13283](http://arxiv.org/abs/2507.13283)|null|
+|**2025-07-17**|**Transient-Stability-Aware Frequency Provision in IBR-Rich Grids via Information Gap Decision Theory and Deep Learning**|Amin Masoumi et.al.|[2507.13265](http://arxiv.org/abs/2507.13265)|null|
+|**2025-07-17**|**Disentangling coincident cell events using deep transfer learning and compressive sensing**|Moritz Leuthner et.al.|[2507.13176](http://arxiv.org/abs/2507.13176)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**DASViT: Differentiable Architecture Search for Vision Transformer**|Pengjin Wu et.al.|[2507.13079](http://arxiv.org/abs/2507.13079)|null|
+|**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018](http://arxiv.org/abs/2507.13018)|null|
+|**2025-07-17**|**WaveletInception Networks for Drive-by Vibration-Based Infrastructure Health Monitoring**|Reza Riahi Samani et.al.|[2507.12969](http://arxiv.org/abs/2507.12969)|null|
+|**2025-07-17**|**Improving Diagnostic Accuracy of Pigmented Skin Lesions With CNNs: an Application on the DermaMNIST Dataset**|Nerma Kadric et.al.|[2507.12961](http://arxiv.org/abs/2507.12961)|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
@@ -6013,6 +6033,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Managing Comprehensive Research Instrument Descriptions within a Scholarly Knowledge Graph**|Muhammad Haris et.al.|[2507.13143](http://arxiv.org/abs/2507.13143)|null|
+|**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133](http://arxiv.org/abs/2507.13133)|null|
+|**2025-07-17**|**SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs**|Kossi Amouzouvi et.al.|[2507.13001](http://arxiv.org/abs/2507.13001)|null|
+|**2025-07-17**|**UniSLU: Unified Spoken Language Understanding from Heterogeneous Cross-Task Datasets**|Zhichao Sheng et.al.|[2507.12951](http://arxiv.org/abs/2507.12951)|null|
+|**2025-07-17**|**Making Language Model a Hierarchical Classifier and Generator**|Yihong Wang et.al.|[2507.12930](http://arxiv.org/abs/2507.12930)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
 |**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311](http://arxiv.org/abs/2507.12311)|null|
 |**2025-07-16**|**StylOch at PAN: Gradient-Boosted Trees with Frequency-Based Stylometric Features**|Jeremi K. Ochab et.al.|[2507.12064](http://arxiv.org/abs/2507.12064)|null|
