@@ -59,6 +59,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction**|Shiyang Li et.al.|[2507.15832](http://arxiv.org/abs/2507.15832)|null|
+|**2025-07-21**|**Reservoir Computing as a Language Model**|Felix Köster et.al.|[2507.15779](http://arxiv.org/abs/2507.15779)|null|
+|**2025-07-21**|**Multichannel Keyword Spotting for Noisy Conditions**|Dzmitry Saladukha et.al.|[2507.15558](http://arxiv.org/abs/2507.15558)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
+|**2025-07-21**|**BEAM-Net: A Deep Learning Framework with Bone Enhancement Attention Mechanism for High Resolution High Frame Rate Ultrasound Beamforming**|Midhila Madhusoodanan et.al.|[2507.15306](http://arxiv.org/abs/2507.15306)|null|
+|**2025-07-21**|**RepILN: Reparameterized Inertial Localization Network**|Shanshan Zhang et.al.|[2507.15293](http://arxiv.org/abs/2507.15293)|null|
+|**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
+|**2025-07-20**|**ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model**|Bing He et.al.|[2507.15067](http://arxiv.org/abs/2507.15067)|null|
+|**2025-07-20**|**Latent-attention Based Transformer for Near ML Polar Decoding in Short-code Regime**|Hongzhi Zhu et.al.|[2507.14951](http://arxiv.org/abs/2507.14951)|null|
+|**2025-07-20**|**Probabilistic smooth attention for deep multiple instance learning in medical imaging**|Francisco M. Castro-Macías et.al.|[2507.14932](http://arxiv.org/abs/2507.14932)|null|
 |**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085](http://arxiv.org/abs/2507.14085)|null|
 |**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
 |**2025-07-18**|**Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.|[2507.14013](http://arxiv.org/abs/2507.14013)|null|
@@ -2729,6 +2739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
+|**2025-07-21**|**Deep-Learning Investigation of Vibrational Raman Spectra for Plant-Stress Analysis**|Anoop C. Patil et.al.|[2507.15772](http://arxiv.org/abs/2507.15772)|null|
+|**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
+|**2025-07-21**|**Toward an event-level analysis of hadron structure using differential programming**|Kevin Braga et.al.|[2507.15768](http://arxiv.org/abs/2507.15768)|null|
+|**2025-07-21**|**Giant Reversible Piezoelectricity from Symmetry-Governed Stochastic Dipole Hopping**|Denan Li et.al.|[2507.15687](http://arxiv.org/abs/2507.15687)|null|
+|**2025-07-21**|**Accelerating HEC-RAS: A Recurrent Neural Operator for Rapid River Forecasting**|Edward Holmberg et.al.|[2507.15614](http://arxiv.org/abs/2507.15614)|null|
+|**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595](http://arxiv.org/abs/2507.15595)|null|
+|**2025-07-21**|**The added value for MRI radiomics and deep-learning for glioblastoma prognostication compared to clinical and molecular information**|D. Abler et.al.|[2507.15548](http://arxiv.org/abs/2507.15548)|null|
+|**2025-07-21**|**Reduced Subgid Scale Terms in Three-Dimensional Turbulence**|Rik Hoekstra et.al.|[2507.15539](http://arxiv.org/abs/2507.15539)|null|
+|**2025-07-21**|**An Investigation of Test-time Adaptation for Audio Classification under Background Noise**|Weichuang Shao et.al.|[2507.15523](http://arxiv.org/abs/2507.15523)|null|
 |**2025-07-18**|**An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting**|Xinyu Cao et.al.|[2507.14109](http://arxiv.org/abs/2507.14109)|null|
 |**2025-07-18**|**UGPL: Uncertainty-Guided Progressive Learning for Evidence-Based Classification in Computed Tomography**|Shravan Venkatraman et.al.|[2507.14102](http://arxiv.org/abs/2507.14102)|null|
 |**2025-07-18**|**Multi-Centre Validation of a Deep Learning Model for Scoliosis Assessment**|Šimon Kubov et.al.|[2507.14093](http://arxiv.org/abs/2507.14093)|null|
@@ -6041,6 +6061,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420](http://arxiv.org/abs/2507.15420)|null|
+|**2025-07-20**|**BeatFormer: Efficient motion-robust remote heart rate estimation through unsupervised spectral zoomed attention filters**|Joaquim Comas et.al.|[2507.14885](http://arxiv.org/abs/2507.14885)|null|
+|**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
+|**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-19**|**Towards Temporal Knowledge Graph Alignment in the Wild**|Runhao Zhao et.al.|[2507.14475](http://arxiv.org/abs/2507.14475)|null|
+|**2025-07-19**|**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**|Yitong Lin et.al.|[2507.14468](http://arxiv.org/abs/2507.14468)|null|
+|**2025-07-18**|**Error-Aware Curriculum Learning for Biomedical Relation Classification**|Sinchani Chakraborty et.al.|[2507.14374](http://arxiv.org/abs/2507.14374)|null|
+|**2025-07-18**|**Text-to-SQL for Enterprise Data Analytics**|Albert Chen et.al.|[2507.14372](http://arxiv.org/abs/2507.14372)|null|
 |**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045](http://arxiv.org/abs/2507.14045)|null|
 |**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993](http://arxiv.org/abs/2507.13993)|null|
 |**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
