@@ -59,6 +59,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801](http://arxiv.org/abs/2507.16801)|null|
+|**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732](http://arxiv.org/abs/2507.16732)|null|
+|**2025-07-22**|**Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers**|Vasileios Titopoulos et.al.|[2507.16676](http://arxiv.org/abs/2507.16676)|null|
+|**2025-07-22**|**GASPnet: Global Agreement to Synchronize Phases**|Andrea Alamiaa et.al.|[2507.16674](http://arxiv.org/abs/2507.16674)|null|
+|**2025-07-22**|**Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks**|Radowanul Haque et.al.|[2507.16540](http://arxiv.org/abs/2507.16540)|null|
+|**2025-07-22**|**Combining Language and Topic Models for Hierarchical Text Classification**|Jaco du Toit et.al.|[2507.16490](http://arxiv.org/abs/2507.16490)|null|
+|**2025-07-22**|**Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts**|Ardhendu Sekhar et.al.|[2507.16476](http://arxiv.org/abs/2507.16476)|null|
+|**2025-07-22**|**HoliTracer: Holistic Vectorization of Geographic Objects from Large-Size Remote Sensing Imagery**|Yu Wang et.al.|[2507.16251](http://arxiv.org/abs/2507.16251)|null|
+|**2025-07-22**|**DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling**|Shanshan Zhang et.al.|[2507.16121](http://arxiv.org/abs/2507.16121)|null|
+|**2025-07-21**|**Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network**|Xi Yang et.al.|[2507.16020](http://arxiv.org/abs/2507.16020)|null|
 |**2025-07-21**|**Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction**|Shiyang Li et.al.|[2507.15832](http://arxiv.org/abs/2507.15832)|null|
 |**2025-07-21**|**Reservoir Computing as a Language Model**|Felix Köster et.al.|[2507.15779](http://arxiv.org/abs/2507.15779)|null|
 |**2025-07-21**|**Multichannel Keyword Spotting for Noisy Conditions**|Dzmitry Saladukha et.al.|[2507.15558](http://arxiv.org/abs/2507.15558)|null|
@@ -2739,6 +2749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
+|**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801](http://arxiv.org/abs/2507.16801)|null|
+|**2025-07-22**|**Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**|Aiden Ochoa et.al.|[2507.16779](http://arxiv.org/abs/2507.16779)|null|
+|**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
+|**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697](http://arxiv.org/abs/2507.16697)|null|
+|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
+|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657](http://arxiv.org/abs/2507.16657)|null|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
+|**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600](http://arxiv.org/abs/2507.16600)|null|
+|**2025-07-22**|**An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes**|Zied Jenhani et.al.|[2507.16594](http://arxiv.org/abs/2507.16594)|null|
 |**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
 |**2025-07-21**|**Deep-Learning Investigation of Vibrational Raman Spectra for Plant-Stress Analysis**|Anoop C. Patil et.al.|[2507.15772](http://arxiv.org/abs/2507.15772)|null|
 |**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
@@ -6061,6 +6081,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
+|**2025-07-22**|**Combining Language and Topic Models for Hierarchical Text Classification**|Jaco du Toit et.al.|[2507.16490](http://arxiv.org/abs/2507.16490)|null|
+|**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
+|**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
+|**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011](http://arxiv.org/abs/2507.16011)|null|
+|**2025-07-21**|**Enhancing Hindi NER in Low Context: A Comparative study of Transformer-based models with vs. without Retrieval Augmentation**|Sumit Singh et.al.|[2507.16002](http://arxiv.org/abs/2507.16002)|null|
+|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-22**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420](http://arxiv.org/abs/2507.15420)|null|
 |**2025-07-20**|**BeatFormer: Efficient motion-robust remote heart rate estimation through unsupervised spectral zoomed attention filters**|Joaquim Comas et.al.|[2507.14885](http://arxiv.org/abs/2507.14885)|null|
