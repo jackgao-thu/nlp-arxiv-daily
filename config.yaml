@@ -21,13 +21,65 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# keywords:
+#     "LLM": 
+#         filters: ["LLM", "Large Langauge models", "Models for Natural Language"]
+#     "Attention":
+#         filters: ["Word Tokenization", "Attention Model", "Attention Mechanisms", "Attention Weight", "LoRA", "Low-rank", "Memory", "Multi-head", "Transformer", "Multimodel", "Reflection", "Distill", "Augment", "Knowledge"]
+#     "Deep Learning":
+#         filters: ["Deep Learning","Entity Recognition", "Transfer Learning", "Pre-trained", "Pretraining", "Weakly-supervised Learning", "Neural Reading Comprehension"]
+#     "Extraction":
+#         filters: ["Tagging", "Information Extraction", "Knowledge Graphs", "Entity Recognition", "Local Feature Matching", "Text Classification"]
+#     "In-context Learning":
+#         filters: ["In-context Learning", "CoT", "Zero-shot", "Few-shot"]
+
 keywords:
-    "LLM": 
+    "Visual CoT":
+        filters: ["Visual CoT", "Visual Chain-of-thought"]
+    "Latent CoT":
+        filters: ["Latent CoT", "Latent Chain-of-thought"]
+    "Visual Reasoning":
+        filters: ["Image Reasoning", "Visual Reasoning", "Image Reason", "Visual Reason", "Multimodal Reasoning", "Multi-modal Reasoning", "Multi modal Reasoning"]
+    "Few-shot Learning":
+        filters: ["Few-shot Learning", "Few-shot", "Meta-Learning", "One-shot Learning"]
+    "One-shot Learning":
+        filters: ["One-shot Learning"]
+    "Meta Learning":
+        filters: ["Meta Learning", "Meta-Learning"]
+    "Reinforcement Learning":
+        filters: ["Reinforcement Learning", "RL"]
+    "Transformer":
+        filters: ["Transformer"]
+    "Vision Transformer":
+        filters: ["Vision Transformer", "Computer Vision Transformer"]
+    "Multi-modal":
+        filters: ["Multi-modal", "Multimodal", "Multi modal"]
+    "VQA":
+        filters: ["VQA", "Visual Question Answering", "Visual Reasoning", "Knowledge-based Graph", "Causal Inference"]
+    "Image Caption":
+        filters: ["Image Caption", "Video Caption"]
+    "Text and Image Generation":
+        filters: ["Text and Image Generation", "Text-Image Generation", "Image and Text Generation", "Image-Text Generation", "Text-to-Image", "Image-to-Text", "Language-Image", "Image-Language"]
+    "Vision-Language":
+        filters: ["Vision-Language", "Language-Vision", "Visual-Language", "Language-Visual", "Visual-Semantic", "Semantic-Visual"]
+    "Medical Application":
+        filters: ["Medical Application", "Medical Imaging", "Medical Image Analysis", "Medical Image Processing"]
+    "Medical Image Analysis":
+        filters: ["Medical Image Analysis", "Medical Image Processing"]
+    "Medical Multi-modal":
+        filters: ["Medical Multi-modal", "Medical Multimodal", "Medical Multi modal"]
+    "Large-Language Model":
+        filters: ["Large-Language Model", "LLM", "Large Language Model", "Pre-trained Language Model", "PLM", "Pretrained Language Model", "Language Model", "LM", "Transformer-based Language Model", "TB-LM", "Transformer based Language Model"]
+    "Knowledge Learning":
+        filters: ["Knowledge Learning", "Knowledge Editing", "Knowledge Injecting", "Long-term Knowledge", "Prior Learning"]
+    "Gradient Editing":
+        filters: ["Gradient Modification", "Gradient Based Editing", "Gradient Editing"]
+    "LLM":
         filters: ["LLM", "Large Langauge models", "Models for Natural Language"]
     "Attention":
         filters: ["Word Tokenization", "Attention Model", "Attention Mechanisms", "Attention Weight", "LoRA", "Low-rank", "Memory", "Multi-head", "Transformer", "Multimodel", "Reflection", "Distill", "Augment", "Knowledge"]
     "Deep Learning":
-        filters: ["Deep Learning","Entity Recognition", "Transfer Learning", "Pre-trained", "Pretraining", "Weakly-supervised Learning", "Neural Reading Comprehension"]
+        filters: ["Deep Learning", "Entity Recognition", "Transfer Learning", "Pre-trained", "Pretraining", "Weakly-supervised Learning", "Neural Reading Comprehension"]
     "Extraction":
         filters: ["Tagging", "Information Extraction", "Knowledge Graphs", "Entity Recognition", "Local Feature Matching", "Text Classification"]
     "In-context Learning":
