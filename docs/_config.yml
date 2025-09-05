@@ -3,8 +3,8 @@ description: Automatically Update NLP Papers Daily using Github Actions (Update 
 show_downloads: true
 
 github:
-  zip_url: https://github.com/jackgao-thu/cv-arxiv-daily
-  another_url: https://github.com/jackgao-thu/cv-arxiv-daily
+  zip_url: https://github.com/jackgao-thu/nlp-arxiv-daily
+  another_url: https://github.com/jackgao-thu/nlp-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
